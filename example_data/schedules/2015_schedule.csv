@@ -1,0 +1,2431 @@
+Year,day,home_team_name,away_team_name
+2015,1,Cardinals,Phillies
+2015,1,Athletics,Cubs
+2015,1,Marlins,Twins
+2015,1,Mets,Indians
+2015,1,Dodgers,Nationals
+2015,1,Pirates,Royals
+2015,1,Rays,Reds
+2015,1,White Sox,Giants
+2015,1,Angels,Blue Jays
+2015,1,Padres,Tigers
+2015,1,Yankees,Red Sox
+2015,1,Astros,Rockies
+2015,1,Mariners,Brewers
+2015,1,Rangers,Diamondbacks
+2015,1,Braves,Orioles
+2015,2,Blue Jays,Braves
+2015,2,Rockies,Padres
+2015,2,Pirates,Giants
+2015,2,Twins,Mariners
+2015,2,Cardinals,Angels
+2015,2,Yankees,Dodgers
+2015,2,White Sox,Rangers
+2015,2,Orioles,Brewers
+2015,2,Cubs,Athletics
+2015,2,Marlins,Tigers
+2015,2,Royals,Phillies
+2015,2,Reds,Rays
+2015,2,Nationals,Mets
+2015,2,Diamondbacks,Indians
+2015,2,Red Sox,Astros
+2015,3,Reds,Astros
+2015,3,Mets,Yankees
+2015,3,Diamondbacks,Braves
+2015,3,Tigers,Royals
+2015,3,Giants,Athletics
+2015,3,Nationals,Marlins
+2015,3,Rangers,Padres
+2015,3,Cardinals,Twins
+2015,3,Mariners,Indians
+2015,3,Rays,Dodgers
+2015,3,Orioles,Rockies
+2015,3,White Sox,Phillies
+2015,3,Red Sox,Cubs
+2015,3,Pirates,Blue Jays
+2015,3,Angels,Brewers
+2015,4,Blue Jays,Braves
+2015,4,Marlins,Royals
+2015,4,Giants,Rays
+2015,4,Astros,Twins
+2015,4,Reds,Yankees
+2015,4,Padres,Red Sox
+2015,4,Tigers,Pirates
+2015,4,Nationals,White Sox
+2015,4,Rangers,Mets
+2015,4,Mariners,Brewers
+2015,4,Cubs,Phillies
+2015,4,Orioles,Athletics
+2015,4,Indians,Dodgers
+2015,4,Cardinals,Rockies
+2015,4,Angels,Diamondbacks
+2015,5,Mets,Blue Jays
+2015,5,Giants,Cardinals
+2015,5,Dodgers,Indians
+2015,5,Orioles,Pirates
+2015,5,Twins,White Sox
+2015,5,Cubs,Angels
+2015,5,Reds,Rockies
+2015,5,Athletics,Braves
+2015,5,Padres,Rays
+2015,5,Yankees,Red Sox
+2015,5,Rangers,Astros
+2015,5,Phillies,Marlins
+2015,5,Tigers,Royals
+2015,5,Diamondbacks,Brewers
+2015,5,Nationals,Mariners
+2015,6,Reds,Tigers
+2015,6,Yankees,Rockies
+2015,6,Mariners,Twins
+2015,6,Angels,Phillies
+2015,6,Padres,Nationals
+2015,6,Giants,Cubs
+2015,6,Orioles,Marlins
+2015,6,Braves,Rangers
+2015,6,Red Sox,White Sox
+2015,6,Mets,Indians
+2015,6,Brewers,Diamondbacks
+2015,6,Blue Jays,Rays
+2015,6,Dodgers,Pirates
+2015,6,Royals,Cardinals
+2015,6,Athletics,Astros
+2015,7,Royals,Padres
+2015,7,Angels,Twins
+2015,7,Diamondbacks,Rays
+2015,7,Mariners,Rockies
+2015,7,Cubs,Brewers
+2015,7,Dodgers,Phillies
+2015,7,Mets,Braves
+2015,7,White Sox,Pirates
+2015,7,Cardinals,Red Sox
+2015,7,Giants,Indians
+2015,7,Athletics,Nationals
+2015,7,Tigers,Orioles
+2015,7,Rangers,Astros
+2015,7,Blue Jays,Marlins
+2015,7,Yankees,Reds
+2015,8,Nationals,Blue Jays
+2015,8,Braves,Angels
+2015,8,Pirates,Cubs
+2015,8,Twins,Indians
+2015,8,White Sox,Yankees
+2015,8,Red Sox,Orioles
+2015,8,Rockies,Diamondbacks
+2015,8,Rays,Mariners
+2015,8,Dodgers,Phillies
+2015,8,Brewers,Tigers
+2015,8,Athletics,Marlins
+2015,8,Padres,Giants
+2015,8,Reds,Mets
+2015,8,Rangers,Astros
+2015,8,Royals,Cardinals
+2015,9,Marlins,Tigers
+2015,9,Giants,Braves
+2015,9,Royals,Diamondbacks
+2015,9,Phillies,Rays
+2015,9,Cardinals,Blue Jays
+2015,9,Astros,Cubs
+2015,9,Pirates,Twins
+2015,9,Mets,Rockies
+2015,9,Brewers,Mariners
+2015,9,Dodgers,Red Sox
+2015,9,White Sox,Reds
+2015,9,Angels,Indians
+2015,9,Orioles,Yankees
+2015,9,Padres,Athletics
+2015,9,Rangers,Nationals
+2015,10,Athletics,Orioles
+2015,10,Royals,Red Sox
+2015,10,White Sox,Dodgers
+2015,10,Reds,Pirates
+2015,10,Braves,Twins
+2015,10,Angels,Blue Jays
+2015,10,Rays,Brewers
+2015,10,Padres,Indians
+2015,10,Tigers,Astros
+2015,10,Rangers,Cardinals
+2015,10,Rockies,Cubs
+2015,10,Yankees,Phillies
+2015,10,Nationals,Diamondbacks
+2015,10,Marlins,Mariners
+2015,10,Giants,Mets
+2015,11,Reds,Royals
+2015,11,Indians,Cardinals
+2015,11,Giants,Rays
+2015,11,Blue Jays,Brewers
+2015,11,Orioles,Mariners
+2015,11,Athletics,Pirates
+2015,11,Nationals,Astros
+2015,11,Angels,White Sox
+2015,11,Diamondbacks,Braves
+2015,11,Phillies,Red Sox
+2015,11,Dodgers,Tigers
+2015,11,Rockies,Yankees
+2015,11,Padres,Mets
+2015,11,Cubs,Rangers
+2015,11,Marlins,Twins
+2015,12,Red Sox,Braves
+2015,12,Nationals,Cardinals
+2015,12,Marlins,Yankees
+2015,12,Blue Jays,Indians
+2015,12,Royals,Twins
+2015,12,Angels,Rangers
+2015,12,Rays,White Sox
+2015,12,Reds,Diamondbacks
+2015,12,Athletics,Astros
+2015,12,Phillies,Pirates
+2015,12,Mets,Cubs
+2015,12,Rockies,Dodgers
+2015,12,Giants,Padres
+2015,12,Brewers,Orioles
+2015,12,Tigers,Mariners
+2015,13,Indians,Pirates
+2015,13,Rays,Diamondbacks
+2015,13,Cardinals,Cubs
+2015,13,Nationals,Rangers
+2015,13,Padres,Marlins
+2015,13,Braves,Orioles
+2015,13,White Sox,Mets
+2015,13,Yankees,Rockies
+2015,13,Dodgers,Mariners
+2015,13,Tigers,Blue Jays
+2015,13,Royals,Angels
+2015,13,Reds,Athletics
+2015,13,Giants,Brewers
+2015,13,Astros,Red Sox
+2015,13,Twins,Phillies
+2015,14,Astros,Pirates
+2015,14,Athletics,Cubs
+2015,14,Giants,Cardinals
+2015,14,Braves,Nationals
+2015,14,Yankees,Marlins
+2015,14,Rangers,Dodgers
+2015,14,Rockies,Brewers
+2015,14,Blue Jays,Indians
+2015,14,Orioles,Padres
+2015,14,Twins,Tigers
+2015,14,Rays,Angels
+2015,14,Mariners,Red Sox
+2015,14,Mets,Diamondbacks
+2015,14,White Sox,Phillies
+2015,14,Reds,Royals
+2015,15,Orioles,Pirates
+2015,15,Phillies,Brewers
+2015,15,Athletics,Braves
+2015,15,Rays,Padres
+2015,15,Mets,Marlins
+2015,15,Red Sox,White Sox
+2015,15,Nationals,Twins
+2015,15,Astros,Tigers
+2015,15,Dodgers,Cardinals
+2015,15,Rangers,Rockies
+2015,15,Blue Jays,Royals
+2015,15,Angels,Indians
+2015,15,Diamondbacks,Reds
+2015,15,Cubs,Yankees
+2015,15,Giants,Mariners
+2015,16,Mets,Yankees
+2015,16,Giants,Indians
+2015,16,Rays,Tigers
+2015,16,Reds,Mariners
+2015,16,Twins,Brewers
+2015,16,Cubs,Dodgers
+2015,16,Red Sox,White Sox
+2015,16,Marlins,Braves
+2015,16,Diamondbacks,Astros
+2015,16,Athletics,Cardinals
+2015,16,Rangers,Rockies
+2015,16,Phillies,Orioles
+2015,16,Pirates,Angels
+2015,16,Blue Jays,Royals
+2015,16,Nationals,Padres
+2015,17,Cardinals,Dodgers
+2015,17,Blue Jays,Padres
+2015,17,Rangers,Tigers
+2015,17,Angels,White Sox
+2015,17,Diamondbacks,Astros
+2015,17,Athletics,Twins
+2015,17,Rockies,Reds
+2015,17,Mets,Phillies
+2015,17,Braves,Mariners
+2015,17,Giants,Cubs
+2015,17,Marlins,Brewers
+2015,17,Royals,Yankees
+2015,17,Nationals,Red Sox
+2015,17,Rays,Indians
+2015,17,Orioles,Pirates
+2015,18,Brewers,Mets
+2015,18,Pirates,Astros
+2015,18,Rays,Phillies
+2015,18,Cubs,Athletics
+2015,18,White Sox,Tigers
+2015,18,Rangers,Indians
+2015,18,Diamondbacks,Orioles
+2015,18,Marlins,Blue Jays
+2015,18,Twins,Royals
+2015,18,Cardinals,Angels
+2015,18,Red Sox,Yankees
+2015,18,Padres,Reds
+2015,18,Braves,Nationals
+2015,18,Mariners,Dodgers
+2015,18,Rockies,Giants
+2015,19,Reds,Red Sox
+2015,19,Marlins,Orioles
+2015,19,Cubs,Mets
+2015,19,White Sox,Phillies
+2015,19,Braves,Pirates
+2015,19,Rays,Astros
+2015,19,Mariners,Tigers
+2015,19,Athletics,Royals
+2015,19,Twins,Rangers
+2015,19,Yankees,Blue Jays
+2015,19,Padres,Angels
+2015,19,Cardinals,Giants
+2015,19,Brewers,Diamondbacks
+2015,19,Nationals,Rockies
+2015,19,Dodgers,Indians
+2015,20,Cubs,Red Sox
+2015,20,Diamondbacks,Yankees
+2015,20,Phillies,Twins
+2015,20,Rays,Angels
+2015,20,Mets,Brewers
+2015,20,White Sox,Pirates
+2015,20,Rangers,Reds
+2015,20,Nationals,Padres
+2015,20,Cardinals,Dodgers
+2015,20,Braves,Marlins
+2015,20,Royals,Astros
+2015,20,Blue Jays,Orioles
+2015,20,Rockies,Athletics
+2015,20,Tigers,Giants
+2015,20,Indians,Mariners
+2015,21,Braves,Marlins
+2015,21,Rays,Padres
+2015,21,Angels,Diamondbacks
+2015,21,Rockies,Mariners
+2015,21,Red Sox,Dodgers
+2015,21,Phillies,Blue Jays
+2015,21,Royals,Reds
+2015,21,Nationals,Cubs
+2015,21,Yankees,Orioles
+2015,21,Giants,Brewers
+2015,21,Tigers,Pirates
+2015,21,Indians,Cardinals
+2015,21,Mets,Astros
+2015,21,Rangers,White Sox
+2015,21,Athletics,Twins
+2015,22,Reds,Giants
+2015,22,Orioles,Phillies
+2015,22,Cubs,Mariners
+2015,22,Tigers,Marlins
+2015,22,Cardinals,Indians
+2015,22,Dodgers,Diamondbacks
+2015,22,Rays,Astros
+2015,22,Yankees,Angels
+2015,22,Padres,White Sox
+2015,22,Brewers,Nationals
+2015,22,Pirates,Rockies
+2015,22,Royals,Twins
+2015,22,Mets,Red Sox
+2015,22,Rangers,Athletics
+2015,22,Braves,Blue Jays
+2015,23,Brewers,Tigers
+2015,23,Angels,Cubs
+2015,23,Marlins,Royals
+2015,23,Phillies,Athletics
+2015,23,Mets,Red Sox
+2015,23,Rangers,Rockies
+2015,23,Cardinals,Giants
+2015,23,Blue Jays,Yankees
+2015,23,Padres,Reds
+2015,23,White Sox,Nationals
+2015,23,Indians,Astros
+2015,23,Dodgers,Diamondbacks
+2015,23,Orioles,Braves
+2015,23,Mariners,Twins
+2015,23,Rays,Pirates
+2015,24,Reds,Mariners
+2015,24,Cardinals,Pirates
+2015,24,Blue Jays,White Sox
+2015,24,Rangers,Tigers
+2015,24,Astros,Angels
+2015,24,Braves,Mets
+2015,24,Orioles,Nationals
+2015,24,Giants,Royals
+2015,24,Red Sox,Cubs
+2015,24,Athletics,Phillies
+2015,24,Diamondbacks,Dodgers
+2015,24,Marlins,Rockies
+2015,24,Brewers,Rays
+2015,24,Yankees,Padres
+2015,24,Twins,Indians
+2015,25,Marlins,Phillies
+2015,25,Twins,Red Sox
+2015,25,Blue Jays,Cardinals
+2015,25,Astros,Dodgers
+2015,25,Royals,Angels
+2015,25,Brewers,Athletics
+2015,25,Mariners,Pirates
+2015,25,Rockies,Yankees
+2015,25,Cubs,Nationals
+2015,25,Giants,Braves
+2015,25,Orioles,Mets
+2015,25,Rangers,Reds
+2015,25,Diamondbacks,Rays
+2015,25,Padres,Indians
+2015,25,White Sox,Tigers
+2015,26,Astros,Pirates
+2015,26,Twins,Red Sox
+2015,26,Reds,Indians
+2015,26,White Sox,Tigers
+2015,26,Blue Jays,Rockies
+2015,26,Braves,Royals
+2015,26,Orioles,Rays
+2015,26,Cubs,Mariners
+2015,26,Cardinals,Marlins
+2015,26,Athletics,Dodgers
+2015,26,Rangers,Padres
+2015,26,Yankees,Diamondbacks
+2015,26,Brewers,Nationals
+2015,26,Mets,Giants
+2015,26,Angels,Phillies
+2015,27,Braves,Brewers
+2015,27,White Sox,Marlins
+2015,27,Diamondbacks,Dodgers
+2015,27,Phillies,Athletics
+2015,27,Red Sox,Mets
+2015,27,Giants,Pirates
+2015,27,Mariners,Reds
+2015,27,Royals,Padres
+2015,27,Cubs,Rangers
+2015,27,Cardinals,Blue Jays
+2015,27,Rockies,Orioles
+2015,27,Indians,Nationals
+2015,27,Twins,Tigers
+2015,27,Astros,Rays
+2015,27,Yankees,Angels
+2015,28,Astros,Braves
+2015,28,Padres,Mariners
+2015,28,Yankees,Nationals
+2015,28,Dodgers,Diamondbacks
+2015,28,Marlins,Orioles
+2015,28,Indians,Rockies
+2015,28,Angels,Rays
+2015,28,Pirates,Cubs
+2015,28,Royals,Twins
+2015,28,Red Sox,Brewers
+2015,28,Giants,White Sox
+2015,28,Blue Jays,Rangers
+2015,28,Athletics,Reds
+2015,28,Mets,Phillies
+2015,28,Tigers,Cardinals
+2015,29,Pirates,White Sox
+2015,29,Nationals,Red Sox
+2015,29,Rays,Brewers
+2015,29,Cubs,Cardinals
+2015,29,Rangers,Giants
+2015,29,Blue Jays,Diamondbacks
+2015,29,Phillies,Angels
+2015,29,Yankees,Athletics
+2015,29,Twins,Tigers
+2015,29,Padres,Dodgers
+2015,29,Reds,Mets
+2015,29,Astros,Rockies
+2015,29,Braves,Marlins
+2015,29,Orioles,Royals
+2015,29,Indians,Mariners
+2015,30,Red Sox,White Sox
+2015,30,Pirates,Mariners
+2015,30,Tigers,Athletics
+2015,30,Angels,Astros
+2015,30,Blue Jays,Braves
+2015,30,Cardinals,Orioles
+2015,30,Dodgers,Padres
+2015,30,Diamondbacks,Rangers
+2015,30,Marlins,Rays
+2015,30,Indians,Rockies
+2015,30,Cubs,Twins
+2015,30,Yankees,Reds
+2015,30,Phillies,Brewers
+2015,30,Giants,Mets
+2015,30,Nationals,Royals
+2015,31,Cubs,Yankees
+2015,31,White Sox,Diamondbacks
+2015,31,Rays,Royals
+2015,31,Angels,Marlins
+2015,31,Giants,Astros
+2015,31,Orioles,Athletics
+2015,31,Dodgers,Cardinals
+2015,31,Red Sox,Mariners
+2015,31,Pirates,Twins
+2015,31,Blue Jays,Phillies
+2015,31,Indians,Brewers
+2015,31,Braves,Rockies
+2015,31,Tigers,Padres
+2015,31,Nationals,Reds
+2015,31,Rangers,Mets
+2015,32,Blue Jays,Indians
+2015,32,Nationals,Diamondbacks
+2015,32,Marlins,Orioles
+2015,32,White Sox,Twins
+2015,32,Brewers,Yankees
+2015,32,Mariners,Pirates
+2015,32,Reds,Royals
+2015,32,Giants,Rockies
+2015,32,Rays,Rangers
+2015,32,Cardinals,Braves
+2015,32,Red Sox,Astros
+2015,32,Dodgers,Phillies
+2015,32,Cubs,Tigers
+2015,32,Mets,Athletics
+2015,32,Angels,Padres
+2015,33,Nationals,Cardinals
+2015,33,Orioles,Phillies
+2015,33,Athletics,Marlins
+2015,33,Mets,Rangers
+2015,33,Tigers,Indians
+2015,33,Twins,Rays
+2015,33,Rockies,Brewers
+2015,33,Cubs,Reds
+2015,33,Dodgers,Padres
+2015,33,Mariners,Giants
+2015,33,Pirates,Diamondbacks
+2015,33,Royals,White Sox
+2015,33,Blue Jays,Astros
+2015,33,Yankees,Red Sox
+2015,33,Angels,Braves
+2015,34,Marlins,Royals
+2015,34,Twins,Phillies
+2015,34,Tigers,Mets
+2015,34,Braves,Rays
+2015,34,Rockies,Brewers
+2015,34,Astros,Angels
+2015,34,Indians,White Sox
+2015,34,Diamondbacks,Athletics
+2015,34,Orioles,Pirates
+2015,34,Mariners,Yankees
+2015,34,Red Sox,Nationals
+2015,34,Padres,Reds
+2015,34,Rangers,Cardinals
+2015,34,Cubs,Blue Jays
+2015,34,Dodgers,Giants
+2015,35,Cubs,Reds
+2015,35,Royals,White Sox
+2015,35,Yankees,Astros
+2015,35,Tigers,Red Sox
+2015,35,Dodgers,Orioles
+2015,35,Mets,Rays
+2015,35,Rangers,Padres
+2015,35,Diamondbacks,Blue Jays
+2015,35,Marlins,Giants
+2015,35,Nationals,Indians
+2015,35,Rockies,Cardinals
+2015,35,Twins,Mariners
+2015,35,Brewers,Athletics
+2015,35,Phillies,Pirates
+2015,35,Braves,Angels
+2015,36,Tigers,Rockies
+2015,36,Royals,Yankees
+2015,36,White Sox,Orioles
+2015,36,Athletics,Indians
+2015,36,Rays,Cubs
+2015,36,Twins,Reds
+2015,36,Mets,Diamondbacks
+2015,36,Dodgers,Phillies
+2015,36,Astros,Pirates
+2015,36,Giants,Red Sox
+2015,36,Blue Jays,Nationals
+2015,36,Mariners,Marlins
+2015,36,Rangers,Angels
+2015,36,Padres,Braves
+2015,36,Cardinals,Brewers
+2015,37,Red Sox,Pirates
+2015,37,Indians,Brewers
+2015,37,Giants,Nationals
+2015,37,Dodgers,Marlins
+2015,37,Royals,Orioles
+2015,37,Mets,Yankees
+2015,37,White Sox,Cubs
+2015,37,Astros,Blue Jays
+2015,37,Padres,Phillies
+2015,37,Cardinals,Rangers
+2015,37,Rays,Twins
+2015,37,Diamondbacks,Rockies
+2015,37,Braves,Tigers
+2015,37,Mariners,Angels
+2015,37,Reds,Athletics
+2015,38,Rockies,Red Sox
+2015,38,Phillies,Mariners
+2015,38,Diamondbacks,Twins
+2015,38,Reds,Giants
+2015,38,Mets,Blue Jays
+2015,38,Indians,Pirates
+2015,38,Braves,Royals
+2015,38,Tigers,Cardinals
+2015,38,Rays,Dodgers
+2015,38,Athletics,Angels
+2015,38,Rangers,Astros
+2015,38,Nationals,Padres
+2015,38,Cubs,Marlins
+2015,38,Brewers,Yankees
+2015,38,White Sox,Orioles
+2015,39,Tigers,Angels
+2015,39,Royals,Mariners
+2015,39,White Sox,Marlins
+2015,39,Blue Jays,Athletics
+2015,39,Indians,Cubs
+2015,39,Twins,Giants
+2015,39,Nationals,Rockies
+2015,39,Dodgers,Reds
+2015,39,Orioles,Padres
+2015,39,Yankees,Diamondbacks
+2015,39,Rangers,Phillies
+2015,39,Cardinals,Mets
+2015,39,Astros,Braves
+2015,39,Red Sox,Pirates
+2015,39,Rays,Brewers
+2015,40,Angels,Brewers
+2015,40,Rockies,Cardinals
+2015,40,Diamondbacks,Tigers
+2015,40,Phillies,Blue Jays
+2015,40,Braves,Mets
+2015,40,Red Sox,White Sox
+2015,40,Pirates,Dodgers
+2015,40,Padres,Reds
+2015,40,Marlins,Indians
+2015,40,Twins,Rays
+2015,40,Orioles,Mariners
+2015,40,Royals,Yankees
+2015,40,Astros,Giants
+2015,40,Nationals,Cubs
+2015,40,Rangers,Athletics
+2015,41,Orioles,Rockies
+2015,41,Cubs,White Sox
+2015,41,Nationals,Braves
+2015,41,Royals,Phillies
+2015,41,Padres,Tigers
+2015,41,Rays,Cardinals
+2015,41,Athletics,Twins
+2015,41,Marlins,Giants
+2015,41,Reds,Brewers
+2015,41,Indians,Dodgers
+2015,41,Yankees,Blue Jays
+2015,41,Mariners,Angels
+2015,41,Mets,Rangers
+2015,41,Red Sox,Astros
+2015,41,Diamondbacks,Pirates
+2015,42,Indians,Rockies
+2015,42,Dodgers,Pirates
+2015,42,Red Sox,Tigers
+2015,42,Phillies,Mets
+2015,42,Marlins,White Sox
+2015,42,Blue Jays,Yankees
+2015,42,Giants,Mariners
+2015,42,Rangers,Reds
+2015,42,Brewers,Royals
+2015,42,Angels,Athletics
+2015,42,Nationals,Orioles
+2015,42,Diamondbacks,Astros
+2015,42,Cubs,Braves
+2015,42,Padres,Rays
+2015,42,Cardinals,Twins
+2015,43,Angels,Athletics
+2015,43,Orioles,Brewers
+2015,43,Royals,Reds
+2015,43,Rays,Mariners
+2015,43,Diamondbacks,Braves
+2015,43,Padres,Twins
+2015,43,Cubs,White Sox
+2015,43,Phillies,Yankees
+2015,43,Red Sox,Nationals
+2015,43,Tigers,Dodgers
+2015,43,Astros,Pirates
+2015,43,Marlins,Rangers
+2015,43,Rockies,Cardinals
+2015,43,Mets,Blue Jays
+2015,43,Indians,Giants
+2015,44,Reds,Phillies
+2015,44,Indians,Nationals
+2015,44,Padres,Orioles
+2015,44,Marlins,Yankees
+2015,44,White Sox,Braves
+2015,44,Rockies,Mets
+2015,44,Astros,Red Sox
+2015,44,Angels,Brewers
+2015,44,Diamondbacks,Royals
+2015,44,Blue Jays,Rays
+2015,44,Giants,Rangers
+2015,44,Dodgers,Cubs
+2015,44,Mariners,Tigers
+2015,44,Twins,Athletics
+2015,44,Cardinals,Pirates
+2015,45,Cubs,Angels
+2015,45,Blue Jays,Giants
+2015,45,Pirates,Padres
+2015,45,Twins,Cardinals
+2015,45,Tigers,Royals
+2015,45,Brewers,Indians
+2015,45,Red Sox,Yankees
+2015,45,Mets,Diamondbacks
+2015,45,Astros,Rays
+2015,45,Mariners,Braves
+2015,45,Phillies,Athletics
+2015,45,Dodgers,Reds
+2015,45,Rangers,Nationals
+2015,45,Rockies,Orioles
+2015,45,White Sox,Marlins
+2015,46,Rays,Braves
+2015,46,Dodgers,Twins
+2015,46,Reds,Pirates
+2015,46,Yankees,Phillies
+2015,46,Astros,Nationals
+2015,46,Tigers,Mets
+2015,46,Diamondbacks,Cubs
+2015,46,White Sox,Cardinals
+2015,46,Athletics,Red Sox
+2015,46,Rockies,Orioles
+2015,46,Brewers,Blue Jays
+2015,46,Padres,Mariners
+2015,46,Indians,Angels
+2015,46,Giants,Royals
+2015,46,Rangers,Marlins
+2015,47,Phillies,White Sox
+2015,47,Astros,Rangers
+2015,47,Dodgers,Cardinals
+2015,47,Red Sox,Rockies
+2015,47,Orioles,Yankees
+2015,47,Tigers,Blue Jays
+2015,47,Mariners,Diamondbacks
+2015,47,Mets,Padres
+2015,47,Royals,Braves
+2015,47,Pirates,Twins
+2015,47,Nationals,Athletics
+2015,47,Reds,Brewers
+2015,47,Angels,Cubs
+2015,47,Giants,Marlins
+2015,47,Rays,Indians
+2015,48,Orioles,White Sox
+2015,48,Rockies,Red Sox
+2015,48,Twins,Indians
+2015,48,Blue Jays,Giants
+2015,48,Cardinals,Rays
+2015,48,Marlins,Reds
+2015,48,Royals,Pirates
+2015,48,Cubs,Brewers
+2015,48,Athletics,Astros
+2015,48,Angels,Dodgers
+2015,48,Nationals,Tigers
+2015,48,Rangers,Mets
+2015,48,Braves,Yankees
+2015,48,Phillies,Diamondbacks
+2015,48,Mariners,Padres
+2015,49,Pirates,Athletics
+2015,49,Braves,Twins
+2015,49,Reds,Cardinals
+2015,49,Tigers,Mets
+2015,49,Royals,Yankees
+2015,49,Diamondbacks,Mariners
+2015,49,Blue Jays,Rays
+2015,49,Angels,Dodgers
+2015,49,Padres,Brewers
+2015,49,White Sox,Marlins
+2015,49,Phillies,Rangers
+2015,49,Giants,Indians
+2015,49,Nationals,Astros
+2015,49,Red Sox,Rockies
+2015,49,Orioles,Cubs
+2015,50,Rays,Tigers
+2015,50,Mets,Cardinals
+2015,50,Twins,Reds
+2015,50,White Sox,Pirates
+2015,50,Padres,Rockies
+2015,50,Angels,Astros
+2015,50,Red Sox,Diamondbacks
+2015,50,Rangers,Cubs
+2015,50,Royals,Phillies
+2015,50,Indians,Dodgers
+2015,50,Nationals,Mariners
+2015,50,Athletics,Brewers
+2015,50,Giants,Braves
+2015,50,Orioles,Yankees
+2015,50,Blue Jays,Marlins
+2015,51,Phillies,Orioles
+2015,51,Pirates,Cardinals
+2015,51,Rays,White Sox
+2015,51,Rockies,Cubs
+2015,51,Rangers,Tigers
+2015,51,Nationals,Mets
+2015,51,Marlins,Yankees
+2015,51,Indians,Diamondbacks
+2015,51,Athletics,Braves
+2015,51,Angels,Twins
+2015,51,Reds,Mariners
+2015,51,Dodgers,Giants
+2015,51,Padres,Brewers
+2015,51,Blue Jays,Astros
+2015,51,Red Sox,Royals
+2015,52,Rangers,Pirates
+2015,52,Phillies,Diamondbacks
+2015,52,White Sox,Nationals
+2015,52,Brewers,Athletics
+2015,52,Angels,Reds
+2015,52,Mets,Indians
+2015,52,Tigers,Braves
+2015,52,Yankees,Rockies
+2015,52,Orioles,Rays
+2015,52,Cardinals,Mariners
+2015,52,Marlins,Red Sox
+2015,52,Padres,Dodgers
+2015,52,Twins,Blue Jays
+2015,52,Astros,Giants
+2015,52,Cubs,Royals
+2015,53,White Sox,Cubs
+2015,53,Giants,Diamondbacks
+2015,53,Blue Jays,Rockies
+2015,53,Phillies,Dodgers
+2015,53,Marlins,Brewers
+2015,53,Padres,Mariners
+2015,53,Braves,Cardinals
+2015,53,Indians,Nationals
+2015,53,Royals,Angels
+2015,53,Mets,Twins
+2015,53,Athletics,Red Sox
+2015,53,Yankees,Tigers
+2015,53,Pirates,Rangers
+2015,53,Astros,Rays
+2015,53,Orioles,Reds
+2015,54,Orioles,Pirates
+2015,54,Dodgers,Royals
+2015,54,White Sox,Red Sox
+2015,54,Cardinals,Indians
+2015,54,Marlins,Braves
+2015,54,Rockies,Mets
+2015,54,Reds,Angels
+2015,54,Yankees,Mariners
+2015,54,Nationals,Phillies
+2015,54,Brewers,Diamondbacks
+2015,54,Padres,Athletics
+2015,54,Astros,Tigers
+2015,54,Blue Jays,Cubs
+2015,54,Twins,Rangers
+2015,54,Giants,Rays
+2015,55,Indians,Giants
+2015,55,Athletics,Rockies
+2015,55,Diamondbacks,Brewers
+2015,55,Dodgers,Cubs
+2015,55,Blue Jays,White Sox
+2015,55,Rays,Pirates
+2015,55,Angels,Astros
+2015,55,Royals,Marlins
+2015,55,Cardinals,Reds
+2015,55,Braves,Tigers
+2015,55,Rangers,Red Sox
+2015,55,Mets,Phillies
+2015,55,Padres,Nationals
+2015,55,Yankees,Orioles
+2015,55,Mariners,Twins
+2015,56,Twins,Rockies
+2015,56,Angels,Giants
+2015,56,Blue Jays,Padres
+2015,56,Cubs,Indians
+2015,56,White Sox,Diamondbacks
+2015,56,Phillies,Dodgers
+2015,56,Astros,Cardinals
+2015,56,Yankees,Athletics
+2015,56,Braves,Rays
+2015,56,Royals,Pirates
+2015,56,Nationals,Red Sox
+2015,56,Tigers,Mets
+2015,56,Rangers,Marlins
+2015,56,Reds,Orioles
+2015,56,Brewers,Mariners
+2015,57,Braves,Rockies
+2015,57,Angels,Indians
+2015,57,Yankees,Athletics
+2015,57,Phillies,Rays
+2015,57,Cardinals,Diamondbacks
+2015,57,Twins,Reds
+2015,57,Rangers,Mets
+2015,57,Orioles,Red Sox
+2015,57,Marlins,Astros
+2015,57,White Sox,Blue Jays
+2015,57,Pirates,Royals
+2015,57,Mariners,Padres
+2015,57,Nationals,Cubs
+2015,57,Tigers,Brewers
+2015,57,Giants,Dodgers
+2015,58,Braves,Blue Jays
+2015,58,Padres,Rockies
+2015,58,Tigers,Marlins
+2015,58,Reds,Brewers
+2015,58,Angels,Diamondbacks
+2015,58,Cubs,Rangers
+2015,58,Cardinals,Astros
+2015,58,Yankees,Phillies
+2015,58,Mariners,Indians
+2015,58,Nationals,Dodgers
+2015,58,Twins,Red Sox
+2015,58,Royals,Orioles
+2015,58,Rays,Pirates
+2015,58,Giants,Mets
+2015,58,Athletics,White Sox
+2015,59,Athletics,Marlins
+2015,59,Nationals,Rockies
+2015,59,Astros,Angels
+2015,59,Cubs,Braves
+2015,59,Diamondbacks,Twins
+2015,59,Orioles,Phillies
+2015,59,Rays,Brewers
+2015,59,Blue Jays,Red Sox
+2015,59,Royals,Rangers
+2015,59,Cardinals,Reds
+2015,59,Yankees,Indians
+2015,59,Mariners,Tigers
+2015,59,Mets,Giants
+2015,59,Padres,Pirates
+2015,59,White Sox,Dodgers
+2015,60,Twins,Rays
+2015,60,Giants,Dodgers
+2015,60,Reds,Rockies
+2015,60,Astros,Braves
+2015,60,Phillies,Cardinals
+2015,60,White Sox,Red Sox
+2015,60,Diamondbacks,Indians
+2015,60,Padres,Pirates
+2015,60,Athletics,Brewers
+2015,60,Yankees,Cubs
+2015,60,Marlins,Angels
+2015,60,Rangers,Orioles
+2015,60,Blue Jays,Royals
+2015,60,Nationals,Mariners
+2015,60,Mets,Tigers
+2015,61,Angels,Rangers
+2015,61,Rockies,White Sox
+2015,61,Twins,Phillies
+2015,61,Pirates,Dodgers
+2015,61,Diamondbacks,Athletics
+2015,61,Padres,Blue Jays
+2015,61,Orioles,Yankees
+2015,61,Mets,Astros
+2015,61,Marlins,Reds
+2015,61,Brewers,Cubs
+2015,61,Indians,Tigers
+2015,61,Cardinals,Rays
+2015,61,Red Sox,Mariners
+2015,61,Braves,Royals
+2015,61,Giants,Nationals
+2015,62,Dodgers,Nationals
+2015,62,Blue Jays,Marlins
+2015,62,Twins,Cardinals
+2015,62,White Sox,Red Sox
+2015,62,Athletics,Diamondbacks
+2015,62,Padres,Rays
+2015,62,Royals,Braves
+2015,62,Indians,Rangers
+2015,62,Phillies,Brewers
+2015,62,Cubs,Mets
+2015,62,Giants,Reds
+2015,62,Rockies,Mariners
+2015,62,Pirates,Angels
+2015,62,Astros,Orioles
+2015,62,Tigers,Yankees
+2015,63,Tigers,Twins
+2015,63,Orioles,Brewers
+2015,63,Dodgers,Indians
+2015,63,Rockies,White Sox
+2015,63,Pirates,Royals
+2015,63,Mariners,Nationals
+2015,63,Rays,Yankees
+2015,63,Padres,Diamondbacks
+2015,63,Cubs,Angels
+2015,63,Mets,Red Sox
+2015,63,Braves,Cardinals
+2015,63,Reds,Astros
+2015,63,Giants,Rangers
+2015,63,Phillies,Marlins
+2015,63,Athletics,Blue Jays
+2015,64,Phillies,Blue Jays
+2015,64,Tigers,Diamondbacks
+2015,64,Mariners,Astros
+2015,64,Dodgers,Yankees
+2015,64,White Sox,Athletics
+2015,64,Twins,Angels
+2015,64,Giants,Marlins
+2015,64,Mets,Brewers
+2015,64,Indians,Rockies
+2015,64,Braves,Royals
+2015,64,Reds,Orioles
+2015,64,Cubs,Cardinals
+2015,64,Rangers,Rays
+2015,64,Nationals,Red Sox
+2015,64,Pirates,Padres
+2015,65,Giants,Phillies
+2015,65,Twins,Nationals
+2015,65,White Sox,Mariners
+2015,65,Royals,Marlins
+2015,65,Dodgers,Yankees
+2015,65,Diamondbacks,Angels
+2015,65,Pirates,Reds
+2015,65,Athletics,Astros
+2015,65,Tigers,Blue Jays
+2015,65,Cardinals,Rockies
+2015,65,Brewers,Rangers
+2015,65,Cubs,Mets
+2015,65,Rays,Padres
+2015,65,Orioles,Braves
+2015,65,Indians,Red Sox
+2015,66,White Sox,Nationals
+2015,66,Phillies,Rockies
+2015,66,Blue Jays,Reds
+2015,66,Brewers,Pirates
+2015,66,Red Sox,Rangers
+2015,66,Royals,Twins
+2015,66,Cubs,Yankees
+2015,66,Tigers,Marlins
+2015,66,Giants,Orioles
+2015,66,Mariners,Rays
+2015,66,Indians,Astros
+2015,66,Cardinals,Mets
+2015,66,Athletics,Angels
+2015,66,Dodgers,Braves
+2015,66,Padres,Diamondbacks
+2015,67,Braves,Padres
+2015,67,Angels,Pirates
+2015,67,Mets,Brewers
+2015,67,Blue Jays,Twins
+2015,67,Yankees,Rockies
+2015,67,Mariners,Astros
+2015,67,Phillies,Diamondbacks
+2015,67,Royals,Cardinals
+2015,67,White Sox,Red Sox
+2015,67,Giants,Reds
+2015,67,Marlins,Tigers
+2015,67,Rangers,Orioles
+2015,67,Nationals,Cubs
+2015,67,Dodgers,Rays
+2015,67,Indians,Athletics
+2015,68,Reds,Brewers
+2015,68,Athletics,Mets
+2015,68,Rays,Blue Jays
+2015,68,Orioles,Nationals
+2015,68,Diamondbacks,Dodgers
+2015,68,Marlins,Yankees
+2015,68,Indians,Angels
+2015,68,Cardinals,Royals
+2015,68,Cubs,Giants
+2015,68,Red Sox,Mariners
+2015,68,Padres,Pirates
+2015,68,Tigers,Phillies
+2015,68,Rangers,White Sox
+2015,68,Astros,Rockies
+2015,68,Braves,Twins
+2015,69,Brewers,Orioles
+2015,69,Giants,Royals
+2015,69,Phillies,Marlins
+2015,69,Athletics,Cardinals
+2015,69,Pirates,Angels
+2015,69,Cubs,Braves
+2015,69,Blue Jays,Rockies
+2015,69,Indians,Yankees
+2015,69,Rays,Tigers
+2015,69,Padres,Red Sox
+2015,69,Reds,Dodgers
+2015,69,White Sox,Mets
+2015,69,Twins,Mariners
+2015,69,Diamondbacks,Rangers
+2015,69,Astros,Nationals
+2015,70,Yankees,Rangers
+2015,70,Athletics,Rays
+2015,70,Dodgers,Mariners
+2015,70,Reds,Astros
+2015,70,Diamondbacks,White Sox
+2015,70,Giants,Brewers
+2015,70,Tigers,Cardinals
+2015,70,Marlins,Indians
+2015,70,Rockies,Red Sox
+2015,70,Phillies,Padres
+2015,70,Pirates,Twins
+2015,70,Orioles,Royals
+2015,70,Braves,Mets
+2015,70,Angels,Nationals
+2015,70,Blue Jays,Cubs
+2015,71,Phillies,Astros
+2015,71,Braves,Pirates
+2015,71,Twins,Rays
+2015,71,Tigers,Cardinals
+2015,71,Rangers,Mets
+2015,71,Rockies,Royals
+2015,71,Angels,Marlins
+2015,71,Dodgers,Padres
+2015,71,Nationals,White Sox
+2015,71,Mariners,Orioles
+2015,71,Indians,Red Sox
+2015,71,Athletics,Reds
+2015,71,Diamondbacks,Yankees
+2015,71,Blue Jays,Cubs
+2015,71,Brewers,Giants
+2015,72,Cardinals,Twins
+2015,72,Rockies,Phillies
+2015,72,Yankees,Braves
+2015,72,Red Sox,Brewers
+2015,72,Giants,Royals
+2015,72,Nationals,Tigers
+2015,72,Athletics,Rays
+2015,72,White Sox,Mariners
+2015,72,Diamondbacks,Blue Jays
+2015,72,Cubs,Dodgers
+2015,72,Mets,Pirates
+2015,72,Marlins,Orioles
+2015,72,Indians,Reds
+2015,72,Padres,Astros
+2015,72,Rangers,Angels
+2015,73,Yankees,Twins
+2015,73,Marlins,Dodgers
+2015,73,Rockies,Brewers
+2015,73,Nationals,Orioles
+2015,73,Mets,Indians
+2015,73,Tigers,Astros
+2015,73,Red Sox,Giants
+2015,73,Angels,Phillies
+2015,73,Cardinals,Pirates
+2015,73,Diamondbacks,Rays
+2015,73,Reds,Rangers
+2015,73,Padres,Braves
+2015,73,White Sox,Athletics
+2015,73,Royals,Mariners
+2015,73,Blue Jays,Cubs
+2015,74,Twins,Astros
+2015,74,Nationals,Brewers
+2015,74,Athletics,Pirates
+2015,74,Rockies,Orioles
+2015,74,Mariners,Red Sox
+2015,74,Mets,Rangers
+2015,74,Blue Jays,Royals
+2015,74,Tigers,Yankees
+2015,74,Cardinals,Braves
+2015,74,Dodgers,Phillies
+2015,74,White Sox,Reds
+2015,74,Indians,Padres
+2015,74,Giants,Cubs
+2015,74,Marlins,Angels
+2015,74,Diamondbacks,Rays
+2015,75,Orioles,Brewers
+2015,75,Padres,Royals
+2015,75,Indians,Red Sox
+2015,75,Diamondbacks,Cardinals
+2015,75,Phillies,Mets
+2015,75,Twins,Pirates
+2015,75,Angels,Dodgers
+2015,75,Mariners,Marlins
+2015,75,Athletics,Giants
+2015,75,Blue Jays,White Sox
+2015,75,Tigers,Braves
+2015,75,Rockies,Rangers
+2015,75,Rays,Cubs
+2015,75,Astros,Nationals
+2015,75,Yankees,Reds
+2015,76,Brewers,Indians
+2015,76,Padres,Dodgers
+2015,76,Angels,Twins
+2015,76,Mariners,Royals
+2015,76,Orioles,Pirates
+2015,76,Rangers,Red Sox
+2015,76,Diamondbacks,Braves
+2015,76,Rockies,Astros
+2015,76,Athletics,Phillies
+2015,76,Cardinals,Giants
+2015,76,Mets,Yankees
+2015,76,Blue Jays,Cubs
+2015,76,White Sox,Marlins
+2015,76,Tigers,Reds
+2015,76,Rays,Nationals
+2015,77,Rays,Marlins
+2015,77,Rockies,Astros
+2015,77,Phillies,Padres
+2015,77,Tigers,Braves
+2015,77,Red Sox,Giants
+2015,77,Royals,White Sox
+2015,77,Dodgers,Blue Jays
+2015,77,Yankees,Pirates
+2015,77,Brewers,Cardinals
+2015,77,Reds,Mariners
+2015,77,Athletics,Nationals
+2015,77,Angels,Rangers
+2015,77,Twins,Cubs
+2015,77,Orioles,Diamondbacks
+2015,77,Mets,Indians
+2015,78,Dodgers,Padres
+2015,78,Indians,Royals
+2015,78,Orioles,Athletics
+2015,78,Diamondbacks,Phillies
+2015,78,Blue Jays,Nationals
+2015,78,Brewers,Mets
+2015,78,White Sox,Rockies
+2015,78,Reds,Giants
+2015,78,Cardinals,Tigers
+2015,78,Pirates,Mariners
+2015,78,Astros,Angels
+2015,78,Red Sox,Twins
+2015,78,Braves,Yankees
+2015,78,Marlins,Cubs
+2015,78,Rangers,Rays
+2015,79,Phillies,Angels
+2015,79,Rockies,Pirates
+2015,79,Giants,Dodgers
+2015,79,Braves,White Sox
+2015,79,Cardinals,Orioles
+2015,79,Yankees,Red Sox
+2015,79,Blue Jays,Nationals
+2015,79,Tigers,Twins
+2015,79,Marlins,Cubs
+2015,79,Rangers,Reds
+2015,79,Astros,Diamondbacks
+2015,79,Indians,Brewers
+2015,79,Padres,Mariners
+2015,79,Athletics,Mets
+2015,79,Royals,Rays
+2015,80,Phillies,Braves
+2015,80,Yankees,Padres
+2015,80,Diamondbacks,Mets
+2015,80,Indians,Dodgers
+2015,80,Tigers,Rockies
+2015,80,Mariners,Athletics
+2015,80,Nationals,Royals
+2015,80,Marlins,Angels
+2015,80,Twins,Astros
+2015,80,Rays,Cardinals
+2015,80,Giants,Pirates
+2015,80,Rangers,Reds
+2015,80,Orioles,Cubs
+2015,80,Brewers,White Sox
+2015,80,Blue Jays,Red Sox
+2015,81,Marlins,Braves
+2015,81,Cardinals,Nationals
+2015,81,Blue Jays,Angels
+2015,81,Diamondbacks,Rays
+2015,81,Dodgers,Yankees
+2015,81,Tigers,Indians
+2015,81,Padres,Mets
+2015,81,Rockies,Royals
+2015,81,Twins,White Sox
+2015,81,Giants,Reds
+2015,81,Rangers,Astros
+2015,81,Pirates,Orioles
+2015,81,Athletics,Mariners
+2015,81,Red Sox,Phillies
+2015,81,Cubs,Brewers
+2015,82,Pirates,Rangers
+2015,82,Mariners,Tigers
+2015,82,Brewers,Mets
+2015,82,Astros,Rockies
+2015,82,Padres,Phillies
+2015,82,Reds,Nationals
+2015,82,Rays,Athletics
+2015,82,Marlins,Orioles
+2015,82,Dodgers,Indians
+2015,82,Braves,Royals
+2015,82,Twins,Cardinals
+2015,82,Angels,Yankees
+2015,82,Cubs,Blue Jays
+2015,82,Diamondbacks,Giants
+2015,82,White Sox,Red Sox
+2015,83,Athletics,Orioles
+2015,83,Blue Jays,White Sox
+2015,83,Astros,Braves
+2015,83,Twins,Nationals
+2015,83,Mariners,Tigers
+2015,83,Padres,Cardinals
+2015,83,Rays,Royals
+2015,83,Rangers,Indians
+2015,83,Giants,Dodgers
+2015,83,Marlins,Angels
+2015,83,Diamondbacks,Cubs
+2015,83,Brewers,Red Sox
+2015,83,Yankees,Rockies
+2015,83,Mets,Pirates
+2015,83,Phillies,Reds
+2015,84,White Sox,Cardinals
+2015,84,Reds,Brewers
+2015,84,Dodgers,Padres
+2015,84,Cubs,Marlins
+2015,84,Astros,Phillies
+2015,84,Braves,Orioles
+2015,84,Rockies,Nationals
+2015,84,Giants,Rays
+2015,84,Royals,Mets
+2015,84,Tigers,Athletics
+2015,84,Angels,Twins
+2015,84,Rangers,Yankees
+2015,84,Pirates,Diamondbacks
+2015,84,Red Sox,Mariners
+2015,84,Blue Jays,Indians
+2015,85,Phillies,Braves
+2015,85,Royals,Indians
+2015,85,Cardinals,Brewers
+2015,85,Athletics,Nationals
+2015,85,Diamondbacks,Twins
+2015,85,Astros,Marlins
+2015,85,Mets,Blue Jays
+2015,85,Angels,Cubs
+2015,85,Mariners,White Sox
+2015,85,Yankees,Orioles
+2015,85,Reds,Rockies
+2015,85,Rays,Giants
+2015,85,Red Sox,Tigers
+2015,85,Padres,Dodgers
+2015,85,Pirates,Rangers
+2015,86,Mets,Indians
+2015,86,Red Sox,Cubs
+2015,86,Brewers,Giants
+2015,86,Tigers,Angels
+2015,86,Padres,Astros
+2015,86,Reds,Twins
+2015,86,Mariners,Rockies
+2015,86,Marlins,Rangers
+2015,86,Cardinals,Yankees
+2015,86,Phillies,Braves
+2015,86,Nationals,Rays
+2015,86,Orioles,Blue Jays
+2015,86,Dodgers,Royals
+2015,86,Athletics,Diamondbacks
+2015,86,Pirates,White Sox
+2015,87,Blue Jays,Athletics
+2015,87,Reds,Rays
+2015,87,Padres,Twins
+2015,87,Rockies,Orioles
+2015,87,Giants,Cardinals
+2015,87,Angels,Astros
+2015,87,Brewers,Indians
+2015,87,Phillies,Diamondbacks
+2015,87,Dodgers,Marlins
+2015,87,Pirates,Braves
+2015,87,Rangers,Nationals
+2015,87,Mets,Red Sox
+2015,87,Royals,Mariners
+2015,87,White Sox,Cubs
+2015,87,Tigers,Yankees
+2015,88,White Sox,Blue Jays
+2015,88,Red Sox,Yankees
+2015,88,Tigers,Athletics
+2015,88,Rays,Astros
+2015,88,Diamondbacks,Orioles
+2015,88,Dodgers,Twins
+2015,88,Reds,Mariners
+2015,88,Mets,Royals
+2015,88,Giants,Brewers
+2015,88,Nationals,Rockies
+2015,88,Marlins,Rangers
+2015,88,Braves,Pirates
+2015,88,Indians,Padres
+2015,88,Cubs,Angels
+2015,88,Phillies,Cardinals
+2015,89,Cubs,Blue Jays
+2015,89,Astros,Diamondbacks
+2015,89,Marlins,Athletics
+2015,89,Cardinals,Braves
+2015,89,Mets,Orioles
+2015,89,Twins,Dodgers
+2015,89,Brewers,Giants
+2015,89,Rangers,Mariners
+2015,89,Indians,Red Sox
+2015,89,Rockies,White Sox
+2015,89,Yankees,Pirates
+2015,89,Nationals,Rays
+2015,89,Tigers,Royals
+2015,89,Angels,Phillies
+2015,89,Reds,Padres
+2015,90,Yankees,Cubs
+2015,90,Mets,Blue Jays
+2015,90,Padres,Astros
+2015,90,Braves,Rockies
+2015,90,Athletics,Angels
+2015,90,Brewers,Indians
+2015,90,Twins,Cardinals
+2015,90,Pirates,Rangers
+2015,90,Giants,Nationals
+2015,90,Phillies,Dodgers
+2015,90,Marlins,White Sox
+2015,90,Royals,Orioles
+2015,90,Tigers,Mariners
+2015,90,Red Sox,Rays
+2015,90,Reds,Diamondbacks
+2015,91,Tigers,Red Sox
+2015,91,Twins,Rockies
+2015,91,Athletics,Brewers
+2015,91,Royals,Rays
+2015,91,Nationals,Reds
+2015,91,Astros,Giants
+2015,91,Rangers,Diamondbacks
+2015,91,Mariners,Marlins
+2015,91,Pirates,Orioles
+2015,91,Angels,White Sox
+2015,91,Padres,Dodgers
+2015,91,Yankees,Braves
+2015,91,Blue Jays,Cardinals
+2015,91,Phillies,Indians
+2015,91,Mets,Cubs
+2015,92,Giants,Angels
+2015,92,Padres,Mariners
+2015,92,Diamondbacks,Royals
+2015,92,Orioles,Marlins
+2015,92,Astros,Reds
+2015,92,Athletics,Dodgers
+2015,92,Cubs,Cardinals
+2015,92,Pirates,Rockies
+2015,92,Braves,Red Sox
+2015,92,Yankees,Twins
+2015,92,Phillies,Brewers
+2015,92,Indians,Tigers
+2015,92,Blue Jays,Nationals
+2015,92,Mets,White Sox
+2015,92,Rangers,Rays
+2015,93,Padres,Astros
+2015,93,Rockies,Royals
+2015,93,Giants,Braves
+2015,93,Pirates,Reds
+2015,93,Marlins,Diamondbacks
+2015,93,Mets,Indians
+2015,93,Phillies,Cubs
+2015,93,Cardinals,Orioles
+2015,93,Tigers,Dodgers
+2015,93,Brewers,Twins
+2015,93,Blue Jays,Yankees
+2015,93,White Sox,Nationals
+2015,93,Mariners,Red Sox
+2015,93,Rays,Athletics
+2015,93,Rangers,Angels
+2015,94,Dodgers,Athletics
+2015,94,Angels,Orioles
+2015,94,Rangers,White Sox
+2015,94,Brewers,Marlins
+2015,94,Rockies,Reds
+2015,94,Cardinals,Phillies
+2015,94,Braves,Nationals
+2015,94,Pirates,Rays
+2015,94,Cubs,Padres
+2015,94,Diamondbacks,Red Sox
+2015,94,Astros,Yankees
+2015,94,Indians,Blue Jays
+2015,94,Twins,Giants
+2015,94,Mariners,Royals
+2015,94,Tigers,Mets
+2015,95,Yankees,Mets
+2015,95,Dodgers,Tigers
+2015,95,Pirates,Twins
+2015,95,Phillies,Marlins
+2015,95,Braves,Brewers
+2015,95,Nationals,Red Sox
+2015,95,Astros,Athletics
+2015,95,Blue Jays,Indians
+2015,95,Mariners,Rangers
+2015,95,Giants,Cubs
+2015,95,Angels,White Sox
+2015,95,Royals,Diamondbacks
+2015,95,Cardinals,Padres
+2015,95,Rays,Orioles
+2015,95,Rockies,Reds
+2015,96,White Sox,Nationals
+2015,96,Cubs,Mariners
+2015,96,Rangers,Marlins
+2015,96,Astros,Angels
+2015,96,Indians,Rays
+2015,96,Mets,Twins
+2015,96,Red Sox,Brewers
+2015,96,Athletics,Pirates
+2015,96,Cardinals,Padres
+2015,96,Braves,Giants
+2015,96,Yankees,Diamondbacks
+2015,96,Tigers,Blue Jays
+2015,96,Rockies,Phillies
+2015,96,Orioles,Reds
+2015,96,Royals,Dodgers
+2015,97,Reds,Blue Jays
+2015,97,Athletics,Pirates
+2015,97,Padres,Red Sox
+2015,97,Marlins,Braves
+2015,97,Dodgers,Nationals
+2015,97,Tigers,Brewers
+2015,97,Astros,Rockies
+2015,97,Indians,Mets
+2015,97,Mariners,Yankees
+2015,97,Giants,Phillies
+2015,97,Rays,White Sox
+2015,97,Angels,Cardinals
+2015,97,Royals,Twins
+2015,97,Cubs,Rangers
+2015,97,Orioles,Diamondbacks
+2015,98,Rays,Diamondbacks
+2015,98,Royals,Braves
+2015,98,Athletics,Marlins
+2015,98,Pirates,Rockies
+2015,98,Phillies,Cardinals
+2015,98,Dodgers,Padres
+2015,98,Tigers,Yankees
+2015,98,Blue Jays,Mariners
+2015,98,Red Sox,Twins
+2015,98,Cubs,White Sox
+2015,98,Brewers,Nationals
+2015,98,Reds,Rangers
+2015,98,Orioles,Mets
+2015,98,Astros,Giants
+2015,98,Angels,Indians
+2015,99,Braves,Rays
+2015,99,Marlins,Diamondbacks
+2015,99,Rangers,Indians
+2015,99,Yankees,Royals
+2015,99,Nationals,Mets
+2015,99,White Sox,Angels
+2015,99,Rockies,Twins
+2015,99,Cubs,Phillies
+2015,99,Tigers,Astros
+2015,99,Blue Jays,Brewers
+2015,99,Dodgers,Pirates
+2015,99,Giants,Athletics
+2015,99,Reds,Red Sox
+2015,99,Orioles,Cardinals
+2015,99,Mariners,Padres
+2015,100,Braves,Cardinals
+2015,100,Brewers,Cubs
+2015,100,Rangers,Indians
+2015,100,Rockies,Twins
+2015,100,Blue Jays,Orioles
+2015,100,Tigers,Royals
+2015,100,White Sox,Mets
+2015,100,Astros,Padres
+2015,100,Athletics,Giants
+2015,100,Reds,Pirates
+2015,100,Dodgers,Nationals
+2015,100,Diamondbacks,Phillies
+2015,100,Mariners,Red Sox
+2015,100,Rays,Yankees
+2015,100,Angels,Marlins
+2015,101,Red Sox,Yankees
+2015,101,Mets,White Sox
+2015,101,Athletics,Twins
+2015,101,Giants,Pirates
+2015,101,Phillies,Blue Jays
+2015,101,Marlins,Cubs
+2015,101,Angels,Orioles
+2015,101,Nationals,Mariners
+2015,101,Rockies,Royals
+2015,101,Braves,Indians
+2015,101,Reds,Padres
+2015,101,Diamondbacks,Astros
+2015,101,Dodgers,Rangers
+2015,101,Brewers,Cardinals
+2015,101,Tigers,Rays
+2015,102,Astros,Angels
+2015,102,Rockies,Rangers
+2015,102,Dodgers,Reds
+2015,102,Twins,Diamondbacks
+2015,102,Cardinals,Padres
+2015,102,Red Sox,Nationals
+2015,102,Marlins,Rays
+2015,102,Tigers,Pirates
+2015,102,Brewers,Cubs
+2015,102,Yankees,Braves
+2015,102,Royals,Athletics
+2015,102,Giants,Phillies
+2015,102,White Sox,Mets
+2015,102,Orioles,Blue Jays
+2015,102,Mariners,Indians
+2015,103,Indians,Astros
+2015,103,Angels,Dodgers
+2015,103,Rays,Giants
+2015,103,Red Sox,Marlins
+2015,103,Pirates,Blue Jays
+2015,103,Padres,Mets
+2015,103,Phillies,Royals
+2015,103,White Sox,Rangers
+2015,103,Diamondbacks,Mariners
+2015,103,Rockies,Reds
+2015,103,Orioles,Yankees
+2015,103,Cardinals,Braves
+2015,103,Cubs,Tigers
+2015,103,Nationals,Brewers
+2015,103,Athletics,Twins
+2015,104,Rockies,Marlins
+2015,104,Red Sox,Blue Jays
+2015,104,Rangers,Phillies
+2015,104,White Sox,Diamondbacks
+2015,104,Giants,Twins
+2015,104,Cardinals,Rays
+2015,104,Nationals,Tigers
+2015,104,Cubs,Mariners
+2015,104,Braves,Pirates
+2015,104,Yankees,Dodgers
+2015,104,Padres,Indians
+2015,104,Reds,Mets
+2015,104,Angels,Brewers
+2015,104,Astros,Orioles
+2015,104,Royals,Athletics
+2015,105,Yankees,Astros
+2015,105,Mets,Indians
+2015,105,Marlins,Dodgers
+2015,105,Phillies,Braves
+2015,105,Reds,Twins
+2015,105,Orioles,Nationals
+2015,105,Pirates,Mariners
+2015,105,Giants,Angels
+2015,105,Cardinals,Padres
+2015,105,Diamondbacks,Rangers
+2015,105,White Sox,Tigers
+2015,105,Rockies,Royals
+2015,105,Red Sox,Blue Jays
+2015,105,Athletics,Cubs
+2015,105,Rays,Brewers
+2015,106,White Sox,Tigers
+2015,106,Orioles,Reds
+2015,106,Twins,Marlins
+2015,106,Mets,Angels
+2015,106,Astros,Diamondbacks
+2015,106,Mariners,Cubs
+2015,106,Giants,Athletics
+2015,106,Blue Jays,Rays
+2015,106,Rockies,Brewers
+2015,106,Rangers,Nationals
+2015,106,Indians,Braves
+2015,106,Royals,Yankees
+2015,106,Phillies,Cardinals
+2015,106,Padres,Red Sox
+2015,106,Pirates,Dodgers
+2015,107,Padres,Reds
+2015,107,Angels,Cardinals
+2015,107,Mets,Royals
+2015,107,Mariners,Yankees
+2015,107,Marlins,Twins
+2015,107,Diamondbacks,Brewers
+2015,107,Blue Jays,Nationals
+2015,107,White Sox,Tigers
+2015,107,Astros,Athletics
+2015,107,Indians,Giants
+2015,107,Cubs,Rays
+2015,107,Red Sox,Braves
+2015,107,Rangers,Phillies
+2015,107,Orioles,Dodgers
+2015,107,Pirates,Rockies
+2015,108,Orioles,Marlins
+2015,108,Brewers,Pirates
+2015,108,Rays,Mariners
+2015,108,Twins,Royals
+2015,108,Astros,Padres
+2015,108,Mets,Giants
+2015,108,Cardinals,Rockies
+2015,108,White Sox,Blue Jays
+2015,108,Nationals,Yankees
+2015,108,Indians,Tigers
+2015,108,Reds,Phillies
+2015,108,Angels,Athletics
+2015,108,Diamondbacks,Rangers
+2015,108,Dodgers,Braves
+2015,108,Cubs,Red Sox
+2015,109,Angels,Red Sox
+2015,109,Indians,Cardinals
+2015,109,Tigers,Astros
+2015,109,White Sox,Cubs
+2015,109,Twins,Marlins
+2015,109,Giants,Diamondbacks
+2015,109,Pirates,Rays
+2015,109,Athletics,Mets
+2015,109,Orioles,Dodgers
+2015,109,Mariners,Yankees
+2015,109,Phillies,Brewers
+2015,109,Padres,Blue Jays
+2015,109,Nationals,Braves
+2015,109,Rangers,Reds
+2015,109,Rockies,Royals
+2015,110,Rangers,Red Sox
+2015,110,Padres,Marlins
+2015,110,Blue Jays,Twins
+2015,110,Tigers,Astros
+2015,110,Rays,Rockies
+2015,110,Yankees,Nationals
+2015,110,Cardinals,Mets
+2015,110,Athletics,White Sox
+2015,110,Angels,Giants
+2015,110,Indians,Reds
+2015,110,Royals,Braves
+2015,110,Mariners,Dodgers
+2015,110,Cubs,Brewers
+2015,110,Pirates,Phillies
+2015,110,Diamondbacks,Orioles
+2015,111,Athletics,Padres
+2015,111,Braves,Phillies
+2015,111,Tigers,Cubs
+2015,111,Astros,Nationals
+2015,111,Rockies,Rays
+2015,111,Twins,Rangers
+2015,111,Royals,White Sox
+2015,111,Orioles,Mariners
+2015,111,Reds,Blue Jays
+2015,111,Marlins,Cardinals
+2015,111,Brewers,Yankees
+2015,111,Diamondbacks,Pirates
+2015,111,Indians,Dodgers
+2015,111,Giants,Red Sox
+2015,111,Mets,Angels
+2015,112,Reds,Astros
+2015,112,Mets,Indians
+2015,112,Orioles,Diamondbacks
+2015,112,Angels,Padres
+2015,112,Royals,Phillies
+2015,112,Red Sox,Rockies
+2015,112,Marlins,Dodgers
+2015,112,Cubs,Cardinals
+2015,112,Tigers,Rangers
+2015,112,White Sox,Twins
+2015,112,Giants,Pirates
+2015,112,Brewers,Braves
+2015,112,Athletics,Mariners
+2015,112,Rays,Yankees
+2015,112,Nationals,Blue Jays
+2015,113,Rockies,Nationals
+2015,113,Angels,Astros
+2015,113,Indians,Cubs
+2015,113,Marlins,Blue Jays
+2015,113,Twins,Rangers
+2015,113,Mariners,Brewers
+2015,113,Braves,Cardinals
+2015,113,Athletics,Padres
+2015,113,Pirates,Tigers
+2015,113,Diamondbacks,Giants
+2015,113,Dodgers,White Sox
+2015,113,Yankees,Red Sox
+2015,113,Rays,Orioles
+2015,113,Royals,Mets
+2015,113,Phillies,Reds
+2015,114,Red Sox,Reds
+2015,114,Padres,Rays
+2015,114,Twins,Braves
+2015,114,Astros,Angels
+2015,114,Cardinals,Dodgers
+2015,114,Phillies,Orioles
+2015,114,Tigers,Yankees
+2015,114,Diamondbacks,Royals
+2015,114,Rangers,White Sox
+2015,114,Mets,Mariners
+2015,114,Marlins,Pirates
+2015,114,Cubs,Indians
+2015,114,Giants,Nationals
+2015,114,Athletics,Rockies
+2015,114,Brewers,Blue Jays
+2015,115,Rangers,Athletics
+2015,115,Reds,Royals
+2015,115,Tigers,Phillies
+2015,115,Rays,Padres
+2015,115,Pirates,Braves
+2015,115,Astros,Yankees
+2015,115,Indians,Brewers
+2015,115,Mariners,Blue Jays
+2015,115,Orioles,Mets
+2015,115,Dodgers,Angels
+2015,115,Marlins,Nationals
+2015,115,Cubs,Twins
+2015,115,Cardinals,Diamondbacks
+2015,115,Red Sox,Giants
+2015,115,Rockies,White Sox
+2015,116,Blue Jays,Royals
+2015,116,White Sox,Brewers
+2015,116,Mets,Indians
+2015,116,Twins,Giants
+2015,116,Astros,Marlins
+2015,116,Reds,Dodgers
+2015,116,Padres,Cardinals
+2015,116,Diamondbacks,Yankees
+2015,116,Rays,Red Sox
+2015,116,Nationals,Pirates
+2015,116,Rangers,Mariners
+2015,116,Cubs,Braves
+2015,116,Orioles,Tigers
+2015,116,Rockies,Angels
+2015,116,Athletics,Phillies
+2015,117,Astros,Marlins
+2015,117,Royals,Pirates
+2015,117,Rangers,Mariners
+2015,117,Padres,Giants
+2015,117,Dodgers,White Sox
+2015,117,Yankees,Cardinals
+2015,117,Diamondbacks,Brewers
+2015,117,Red Sox,Braves
+2015,117,Mets,Blue Jays
+2015,117,Angels,Rays
+2015,117,Rockies,Cubs
+2015,117,Tigers,Nationals
+2015,117,Twins,Orioles
+2015,117,Reds,Athletics
+2015,117,Phillies,Indians
+2015,118,Dodgers,Red Sox
+2015,118,Braves,Phillies
+2015,118,Mets,Astros
+2015,118,Orioles,Padres
+2015,118,Cardinals,Reds
+2015,118,Brewers,Blue Jays
+2015,118,Giants,Nationals
+2015,118,Angels,Rangers
+2015,118,Indians,Tigers
+2015,118,Cubs,Twins
+2015,118,Rays,Yankees
+2015,118,Athletics,Diamondbacks
+2015,118,Marlins,White Sox
+2015,118,Pirates,Mariners
+2015,118,Royals,Rockies
+2015,119,White Sox,Dodgers
+2015,119,Royals,Rockies
+2015,119,Rays,Marlins
+2015,119,Athletics,Nationals
+2015,119,Diamondbacks,Red Sox
+2015,119,Astros,Angels
+2015,119,Twins,Orioles
+2015,119,Tigers,Pirates
+2015,119,Cardinals,Giants
+2015,119,Cubs,Braves
+2015,119,Padres,Rangers
+2015,119,Indians,Phillies
+2015,119,Mariners,Brewers
+2015,119,Blue Jays,Reds
+2015,119,Mets,Yankees
+2015,120,Pirates,Yankees
+2015,120,Tigers,Mariners
+2015,120,Dodgers,Rockies
+2015,120,Padres,Cubs
+2015,120,Reds,Twins
+2015,120,Braves,Orioles
+2015,120,Marlins,White Sox
+2015,120,Blue Jays,Royals
+2015,120,Diamondbacks,Athletics
+2015,120,Cardinals,Indians
+2015,120,Phillies,Angels
+2015,120,Rangers,Red Sox
+2015,120,Mets,Nationals
+2015,120,Rays,Giants
+2015,120,Brewers,Astros
+2015,121,Phillies,Orioles
+2015,121,Cardinals,Angels
+2015,121,Mariners,Royals
+2015,121,Astros,Marlins
+2015,121,Twins,Padres
+2015,121,Tigers,Athletics
+2015,121,Rockies,Mets
+2015,121,Reds,Dodgers
+2015,121,Blue Jays,Brewers
+2015,121,Giants,Braves
+2015,121,Cubs,Diamondbacks
+2015,121,Red Sox,White Sox
+2015,121,Yankees,Pirates
+2015,121,Nationals,Rangers
+2015,121,Indians,Rays
+2015,122,Diamondbacks,Dodgers
+2015,122,Tigers,Yankees
+2015,122,Reds,Padres
+2015,122,Indians,Brewers
+2015,122,Rays,Rockies
+2015,122,Athletics,Marlins
+2015,122,Royals,Red Sox
+2015,122,Twins,Cubs
+2015,122,Braves,Mets
+2015,122,Pirates,Astros
+2015,122,Cardinals,Giants
+2015,122,Mariners,Orioles
+2015,122,White Sox,Angels
+2015,122,Blue Jays,Phillies
+2015,122,Rangers,Nationals
+2015,123,Angels,Marlins
+2015,123,Red Sox,Tigers
+2015,123,Pirates,Reds
+2015,123,Rockies,Yankees
+2015,123,Dodgers,Mets
+2015,123,Nationals,Mariners
+2015,123,Padres,Cubs
+2015,123,Braves,Astros
+2015,123,Cardinals,Phillies
+2015,123,Rangers,White Sox
+2015,123,Orioles,Blue Jays
+2015,123,Indians,Royals
+2015,123,Brewers,Athletics
+2015,123,Diamondbacks,Giants
+2015,123,Twins,Rays
+2015,124,Rangers,Phillies
+2015,124,Yankees,Rockies
+2015,124,Cardinals,Giants
+2015,124,Mets,Reds
+2015,124,Nationals,Twins
+2015,124,Brewers,Indians
+2015,124,Angels,Marlins
+2015,124,Braves,Cubs
+2015,124,Dodgers,Mariners
+2015,124,Tigers,Blue Jays
+2015,124,Red Sox,Rays
+2015,124,Orioles,White Sox
+2015,124,Royals,Astros
+2015,124,Athletics,Padres
+2015,124,Pirates,Diamondbacks
+2015,125,Angels,Padres
+2015,125,White Sox,Athletics
+2015,125,Blue Jays,Mariners
+2015,125,Giants,Rockies
+2015,125,Reds,Orioles
+2015,125,Marlins,Brewers
+2015,125,Rays,Braves
+2015,125,Cubs,Astros
+2015,125,Dodgers,Phillies
+2015,125,Yankees,Twins
+2015,125,Nationals,Tigers
+2015,125,Diamondbacks,Indians
+2015,125,Pirates,Cardinals
+2015,125,Royals,Mets
+2015,125,Red Sox,Rangers
+2015,126,Brewers,Cubs
+2015,126,Giants,Tigers
+2015,126,Indians,Mariners
+2015,126,Braves,Twins
+2015,126,Rays,White Sox
+2015,126,Cardinals,Red Sox
+2015,126,Mets,Blue Jays
+2015,126,Orioles,Phillies
+2015,126,Marlins,Dodgers
+2015,126,Yankees,Reds
+2015,126,Pirates,Athletics
+2015,126,Rockies,Royals
+2015,126,Nationals,Rangers
+2015,126,Astros,Angels
+2015,126,Padres,Diamondbacks
+2015,127,Twins,Rockies
+2015,127,Red Sox,Cubs
+2015,127,Rangers,Reds
+2015,127,Rays,Phillies
+2015,127,Mets,Nationals
+2015,127,Pirates,Padres
+2015,127,Mariners,Cardinals
+2015,127,Dodgers,Astros
+2015,127,Blue Jays,White Sox
+2015,127,Indians,Athletics
+2015,127,Diamondbacks,Yankees
+2015,127,Marlins,Braves
+2015,127,Tigers,Angels
+2015,127,Giants,Brewers
+2015,127,Royals,Orioles
+2015,128,Indians,Angels
+2015,128,Braves,Rockies
+2015,128,Phillies,Rays
+2015,128,Mets,Mariners
+2015,128,Twins,Reds
+2015,128,Brewers,Cardinals
+2015,128,Diamondbacks,Cubs
+2015,128,White Sox,Astros
+2015,128,Orioles,Athletics
+2015,128,Padres,Yankees
+2015,128,Dodgers,Pirates
+2015,128,Red Sox,Blue Jays
+2015,128,Giants,Nationals
+2015,128,Rangers,Tigers
+2015,128,Marlins,Royals
+2015,129,Diamondbacks,Marlins
+2015,129,Pirates,Nationals
+2015,129,Reds,Mets
+2015,129,White Sox,Padres
+2015,129,Royals,Rays
+2015,129,Rangers,Yankees
+2015,129,Athletics,Braves
+2015,129,Blue Jays,Mariners
+2015,129,Angels,Cardinals
+2015,129,Cubs,Giants
+2015,129,Twins,Astros
+2015,129,Orioles,Indians
+2015,129,Dodgers,Phillies
+2015,129,Rockies,Red Sox
+2015,129,Brewers,Tigers
+2015,130,Braves,Yankees
+2015,130,Tigers,Rays
+2015,130,Cardinals,Athletics
+2015,130,Padres,Blue Jays
+2015,130,White Sox,Orioles
+2015,130,Mariners,Indians
+2015,130,Astros,Dodgers
+2015,130,Pirates,Phillies
+2015,130,Mets,Cubs
+2015,130,Royals,Diamondbacks
+2015,130,Rangers,Giants
+2015,130,Rockies,Twins
+2015,130,Angels,Reds
+2015,130,Brewers,Marlins
+2015,130,Nationals,Red Sox
+2015,131,Reds,White Sox
+2015,131,Phillies,Twins
+2015,131,Pirates,Cardinals
+2015,131,Red Sox,Indians
+2015,131,Tigers,Athletics
+2015,131,Diamondbacks,Braves
+2015,131,Marlins,Dodgers
+2015,131,Cubs,Blue Jays
+2015,131,Rays,Mets
+2015,131,Rangers,Mariners
+2015,131,Nationals,Yankees
+2015,131,Orioles,Giants
+2015,131,Rockies,Royals
+2015,131,Brewers,Astros
+2015,131,Angels,Padres
+2015,132,Diamondbacks,Cardinals
+2015,132,Rockies,Nationals
+2015,132,Rangers,Phillies
+2015,132,Mets,Tigers
+2015,132,Giants,Blue Jays
+2015,132,Brewers,Astros
+2015,132,Twins,Dodgers
+2015,132,Reds,Braves
+2015,132,Mariners,Cubs
+2015,132,Padres,White Sox
+2015,132,Royals,Rays
+2015,132,Indians,Red Sox
+2015,132,Pirates,Marlins
+2015,132,Athletics,Orioles
+2015,132,Angels,Yankees
+2015,133,Giants,Nationals
+2015,133,Orioles,Yankees
+2015,133,Dodgers,Mets
+2015,133,Cardinals,Brewers
+2015,133,Diamondbacks,Pirates
+2015,133,Phillies,Royals
+2015,133,Reds,Marlins
+2015,133,Astros,Athletics
+2015,133,Rockies,Cubs
+2015,133,Rangers,Red Sox
+2015,133,Tigers,Mariners
+2015,133,Braves,Indians
+2015,133,Rays,Blue Jays
+2015,133,Angels,Twins
+2015,133,Padres,White Sox
+2015,134,Dodgers,Mariners
+2015,134,Twins,Reds
+2015,134,Rangers,Marlins
+2015,134,Phillies,Braves
+2015,134,Rockies,Orioles
+2015,134,Diamondbacks,White Sox
+2015,134,Rays,Indians
+2015,134,Athletics,Royals
+2015,134,Nationals,Tigers
+2015,134,Blue Jays,Cardinals
+2015,134,Cubs,Padres
+2015,134,Pirates,Mets
+2015,134,Yankees,Giants
+2015,134,Angels,Red Sox
+2015,134,Astros,Brewers
+2015,135,Tigers,Marlins
+2015,135,Nationals,Athletics
+2015,135,Brewers,Phillies
+2015,135,Blue Jays,Rangers
+2015,135,Royals,Mariners
+2015,135,Diamondbacks,White Sox
+2015,135,Red Sox,Rays
+2015,135,Cardinals,Angels
+2015,135,Indians,Padres
+2015,135,Orioles,Giants
+2015,135,Yankees,Astros
+2015,135,Twins,Braves
+2015,135,Mets,Cubs
+2015,135,Dodgers,Pirates
+2015,135,Rockies,Reds
+2015,136,Brewers,Astros
+2015,136,Orioles,Phillies
+2015,136,Dodgers,Athletics
+2015,136,Giants,Mets
+2015,136,Yankees,Royals
+2015,136,Blue Jays,Pirates
+2015,136,White Sox,Tigers
+2015,136,Rays,Rangers
+2015,136,Braves,Red Sox
+2015,136,Reds,Angels
+2015,136,Twins,Diamondbacks
+2015,136,Indians,Cardinals
+2015,136,Padres,Cubs
+2015,136,Nationals,Rockies
+2015,136,Marlins,Mariners
+2015,137,Royals,Cubs
+2015,137,Blue Jays,Athletics
+2015,137,Indians,Dodgers
+2015,137,Rays,Tigers
+2015,137,Orioles,Marlins
+2015,137,Rockies,Yankees
+2015,137,Twins,Cardinals
+2015,137,Phillies,Mariners
+2015,137,Braves,Diamondbacks
+2015,137,Astros,Giants
+2015,137,Nationals,Rangers
+2015,137,Red Sox,Angels
+2015,137,Brewers,White Sox
+2015,137,Padres,Mets
+2015,137,Reds,Pirates
+2015,138,Mariners,Phillies
+2015,138,Yankees,Cardinals
+2015,138,Brewers,White Sox
+2015,138,Orioles,Diamondbacks
+2015,138,Nationals,Twins
+2015,138,Blue Jays,Athletics
+2015,138,Dodgers,Cubs
+2015,138,Reds,Padres
+2015,138,Royals,Rays
+2015,138,Angels,Rockies
+2015,138,Giants,Red Sox
+2015,138,Indians,Tigers
+2015,138,Marlins,Pirates
+2015,138,Rangers,Mets
+2015,138,Astros,Braves
+2015,139,Royals,Red Sox
+2015,139,Brewers,Diamondbacks
+2015,139,Twins,Mariners
+2015,139,Marlins,Athletics
+2015,139,Yankees,Rays
+2015,139,Indians,Nationals
+2015,139,Cubs,Cardinals
+2015,139,Mets,Blue Jays
+2015,139,Angels,Giants
+2015,139,Braves,Phillies
+2015,139,Dodgers,Astros
+2015,139,Rangers,White Sox
+2015,139,Tigers,Padres
+2015,139,Orioles,Reds
+2015,139,Rockies,Pirates
+2015,140,Diamondbacks,Royals
+2015,140,Angels,Reds
+2015,140,Mets,Rockies
+2015,140,Tigers,Braves
+2015,140,Brewers,Cardinals
+2015,140,Giants,Marlins
+2015,140,Padres,Yankees
+2015,140,Phillies,White Sox
+2015,140,Orioles,Twins
+2015,140,Astros,Rays
+2015,140,Mariners,Pirates
+2015,140,Athletics,Rangers
+2015,140,Nationals,Red Sox
+2015,140,Dodgers,Blue Jays
+2015,140,Cubs,Indians
+2015,141,Brewers,Cubs
+2015,141,Twins,Yankees
+2015,141,Mets,Phillies
+2015,141,Marlins,Rangers
+2015,141,Athletics,Nationals
+2015,141,White Sox,Rays
+2015,141,Indians,Astros
+2015,141,Dodgers,Orioles
+2015,141,Diamondbacks,Cardinals
+2015,141,Tigers,Rockies
+2015,141,Red Sox,Reds
+2015,141,Royals,Braves
+2015,141,Giants,Pirates
+2015,141,Angels,Blue Jays
+2015,141,Mariners,Padres
+2015,142,Pirates,Blue Jays
+2015,142,Reds,Mets
+2015,142,Royals,Orioles
+2015,142,Yankees,Padres
+2015,142,Brewers,White Sox
+2015,142,Giants,Red Sox
+2015,142,Athletics,Tigers
+2015,142,Cardinals,Cubs
+2015,142,Rockies,Dodgers
+2015,142,Marlins,Braves
+2015,142,Phillies,Astros
+2015,142,Diamondbacks,Rangers
+2015,142,Angels,Rays
+2015,142,Indians,Mariners
+2015,142,Twins,Nationals
+2015,143,Rays,Reds
+2015,143,Astros,Marlins
+2015,143,Mets,Brewers
+2015,143,Phillies,Twins
+2015,143,Braves,Athletics
+2015,143,Red Sox,Giants
+2015,143,Cardinals,Dodgers
+2015,143,Padres,Blue Jays
+2015,143,Royals,Yankees
+2015,143,Diamondbacks,Rockies
+2015,143,Mariners,Cubs
+2015,143,Pirates,Indians
+2015,143,Angels,Orioles
+2015,143,Tigers,White Sox
+2015,143,Nationals,Rangers
+2015,144,Rangers,Yankees
+2015,144,Reds,Indians
+2015,144,Nationals,Athletics
+2015,144,Astros,Brewers
+2015,144,Twins,Red Sox
+2015,144,Tigers,Cubs
+2015,144,Pirates,Diamondbacks
+2015,144,Mariners,Orioles
+2015,144,Mets,Braves
+2015,144,Marlins,Rays
+2015,144,Dodgers,Royals
+2015,144,White Sox,Blue Jays
+2015,144,Cardinals,Giants
+2015,144,Angels,Phillies
+2015,144,Padres,Rockies
+2015,145,Cubs,Blue Jays
+2015,145,Athletics,Diamondbacks
+2015,145,Brewers,Angels
+2015,145,Indians,Yankees
+2015,145,Reds,Cardinals
+2015,145,Tigers,Marlins
+2015,145,Mets,White Sox
+2015,145,Rangers,Pirates
+2015,145,Twins,Nationals
+2015,145,Rockies,Orioles
+2015,145,Astros,Royals
+2015,145,Dodgers,Mariners
+2015,145,Phillies,Giants
+2015,145,Red Sox,Braves
+2015,145,Rays,Padres
+2015,146,Reds,Red Sox
+2015,146,Rangers,Rockies
+2015,146,Mariners,Athletics
+2015,146,Twins,Tigers
+2015,146,Diamondbacks,Angels
+2015,146,White Sox,Brewers
+2015,146,Giants,Cardinals
+2015,146,Braves,Orioles
+2015,146,Astros,Nationals
+2015,146,Dodgers,Mets
+2015,146,Rays,Pirates
+2015,146,Cubs,Indians
+2015,146,Royals,Yankees
+2015,146,Marlins,Phillies
+2015,146,Padres,Blue Jays
+2015,147,Athletics,Mariners
+2015,147,Padres,Rangers
+2015,147,Angels,Braves
+2015,147,Nationals,Yankees
+2015,147,Royals,Diamondbacks
+2015,147,Twins,Orioles
+2015,147,Cardinals,Mets
+2015,147,Cubs,Phillies
+2015,147,Rays,Red Sox
+2015,147,Blue Jays,Indians
+2015,147,Reds,Pirates
+2015,147,Dodgers,Marlins
+2015,147,Giants,Brewers
+2015,147,Astros,Tigers
+2015,147,White Sox,Rockies
+2015,148,Rays,Cubs
+2015,148,White Sox,Red Sox
+2015,148,Padres,Mariners
+2015,148,Brewers,Pirates
+2015,148,Athletics,Indians
+2015,148,Rangers,Cardinals
+2015,148,Marlins,Rockies
+2015,148,Twins,Royals
+2015,148,Nationals,Braves
+2015,148,Dodgers,Angels
+2015,148,Yankees,Tigers
+2015,148,Blue Jays,Astros
+2015,148,Diamondbacks,Reds
+2015,148,Giants,Orioles
+2015,148,Phillies,Mets
+2015,149,Rangers,Orioles
+2015,149,Padres,Cubs
+2015,149,Twins,Mariners
+2015,149,Marlins,Dodgers
+2015,149,Diamondbacks,Brewers
+2015,149,Indians,Blue Jays
+2015,149,Phillies,Nationals
+2015,149,Mets,Athletics
+2015,149,Pirates,Cardinals
+2015,149,Rockies,Red Sox
+2015,149,Tigers,Giants
+2015,149,Royals,Rays
+2015,149,Braves,Yankees
+2015,149,White Sox,Reds
+2015,149,Astros,Angels
+2015,150,Cubs,Padres
+2015,150,Mariners,Pirates
+2015,150,Giants,Twins
+2015,150,Nationals,Cardinals
+2015,150,Marlins,Red Sox
+2015,150,Braves,Reds
+2015,150,Blue Jays,Rays
+2015,150,Athletics,Rangers
+2015,150,Royals,Rockies
+2015,150,Yankees,Indians
+2015,150,Mets,Diamondbacks
+2015,150,Phillies,Brewers
+2015,150,White Sox,Orioles
+2015,150,Angels,Dodgers
+2015,150,Astros,Tigers
+2015,151,Rockies,Rangers
+2015,151,Braves,Mariners
+2015,151,Astros,Nationals
+2015,151,Athletics,Mets
+2015,151,Orioles,Pirates
+2015,151,Phillies,Brewers
+2015,151,Indians,Reds
+2015,151,Dodgers,Cubs
+2015,151,Padres,Red Sox
+2015,151,Twins,White Sox
+2015,151,Tigers,Cardinals
+2015,151,Giants,Blue Jays
+2015,151,Diamondbacks,Rays
+2015,151,Angels,Royals
+2015,151,Marlins,Yankees
+2015,152,White Sox,Tigers
+2015,152,Nationals,Mariners
+2015,152,Cubs,Rockies
+2015,152,Padres,Reds
+2015,152,Yankees,Dodgers
+2015,152,Cardinals,Giants
+2015,152,Indians,Pirates
+2015,152,Twins,Mets
+2015,152,Rangers,Astros
+2015,152,Angels,Phillies
+2015,152,Braves,Blue Jays
+2015,152,Brewers,Orioles
+2015,152,Rays,Red Sox
+2015,152,Royals,Athletics
+2015,152,Marlins,Diamondbacks
+2015,153,Rangers,Nationals
+2015,153,Brewers,Astros
+2015,153,Marlins,Orioles
+2015,153,Athletics,Yankees
+2015,153,Blue Jays,Padres
+2015,153,Reds,Pirates
+2015,153,Giants,Braves
+2015,153,Cubs,Twins
+2015,153,Dodgers,Rays
+2015,153,Phillies,Mets
+2015,153,Royals,Red Sox
+2015,153,Cardinals,Rockies
+2015,153,Tigers,Mariners
+2015,153,Indians,Angels
+2015,153,Diamondbacks,White Sox
+2015,154,Cardinals,Diamondbacks
+2015,154,Astros,Rangers
+2015,154,Cubs,Rockies
+2015,154,Mets,Nationals
+2015,154,Athletics,Blue Jays
+2015,154,Phillies,Yankees
+2015,154,Orioles,Reds
+2015,154,Giants,White Sox
+2015,154,Braves,Twins
+2015,154,Red Sox,Mariners
+2015,154,Brewers,Padres
+2015,154,Indians,Royals
+2015,154,Marlins,Rays
+2015,154,Dodgers,Angels
+2015,154,Pirates,Tigers
+2015,155,Mets,Mariners
+2015,155,Yankees,Nationals
+2015,155,Athletics,Orioles
+2015,155,Cubs,Astros
+2015,155,Reds,Phillies
+2015,155,Cardinals,Blue Jays
+2015,155,Royals,Rangers
+2015,155,Marlins,Red Sox
+2015,155,Pirates,Indians
+2015,155,Rockies,Braves
+2015,155,White Sox,Brewers
+2015,155,Rays,Diamondbacks
+2015,155,Padres,Giants
+2015,155,Tigers,Twins
+2015,155,Angels,Dodgers
+2015,156,Pirates,Cubs
+2015,156,Rangers,Red Sox
+2015,156,Orioles,Athletics
+2015,156,Reds,Angels
+2015,156,Padres,Dodgers
+2015,156,Nationals,Diamondbacks
+2015,156,Braves,Giants
+2015,156,Brewers,Rays
+2015,156,Mets,Indians
+2015,156,Twins,Rockies
+2015,156,Mariners,Yankees
+2015,156,Cardinals,Astros
+2015,156,Phillies,White Sox
+2015,156,Blue Jays,Tigers
+2015,156,Royals,Marlins
+2015,157,Braves,Giants
+2015,157,Yankees,Athletics
+2015,157,Reds,Phillies
+2015,157,Angels,Red Sox
+2015,157,Astros,Mariners
+2015,157,Cardinals,Dodgers
+2015,157,Nationals,Rockies
+2015,157,Diamondbacks,Cubs
+2015,157,Brewers,Marlins
+2015,157,Royals,Blue Jays
+2015,157,White Sox,Indians
+2015,157,Rays,Rangers
+2015,157,Tigers,Pirates
+2015,157,Orioles,Mets
+2015,157,Twins,Padres
+2015,158,Diamondbacks,Padres
+2015,158,Reds,Braves
+2015,158,Rangers,Phillies
+2015,158,Brewers,Mariners
+2015,158,Orioles,Cardinals
+2015,158,Blue Jays,White Sox
+2015,158,Giants,Yankees
+2015,158,Pirates,Nationals
+2015,158,Angels,Mets
+2015,158,Red Sox,Rays
+2015,158,Twins,Marlins
+2015,158,Cubs,Royals
+2015,158,Athletics,Indians
+2015,158,Rockies,Tigers
+2015,158,Dodgers,Astros
+2015,159,Cubs,Angels
+2015,159,Royals,Phillies
+2015,159,Pirates,Rockies
+2015,159,Orioles,Mets
+2015,159,Reds,Cardinals
+2015,159,Marlins,Rangers
+2015,159,Yankees,Athletics
+2015,159,Tigers,Blue Jays
+2015,159,Rays,Brewers
+2015,159,Twins,Mariners
+2015,159,Indians,Giants
+2015,159,White Sox,Padres
+2015,159,Dodgers,Red Sox
+2015,159,Nationals,Diamondbacks
+2015,159,Braves,Astros
+2015,160,Yankees,Mets
+2015,160,Tigers,Reds
+2015,160,Nationals,Royals
+2015,160,Athletics,Cardinals
+2015,160,Cubs,Angels
+2015,160,White Sox,Giants
+2015,160,Diamondbacks,Rockies
+2015,160,Padres,Red Sox
+2015,160,Mariners,Rays
+2015,160,Rangers,Twins
+2015,160,Orioles,Pirates
+2015,160,Phillies,Blue Jays
+2015,160,Astros,Braves
+2015,160,Indians,Marlins
+2015,160,Brewers,Dodgers
+2015,161,Blue Jays,Astros
+2015,161,Rockies,Cubs
+2015,161,Yankees,Giants
+2015,161,Marlins,Diamondbacks
+2015,161,Royals,White Sox
+2015,161,Nationals,Mets
+2015,161,Pirates,Twins
+2015,161,Rangers,Reds
+2015,161,Mariners,Cardinals
+2015,161,Rays,Phillies
+2015,161,Dodgers,Brewers
+2015,161,Indians,Braves
+2015,161,Angels,Athletics
+2015,161,Padres,Orioles
+2015,161,Tigers,Red Sox
+2015,162,Phillies,Athletics
+2015,162,White Sox,Tigers
+2015,162,Royals,Rays
+2015,162,Angels,Brewers
+2015,162,Orioles,Padres
+2015,162,Mariners,Pirates
+2015,162,Mets,Blue Jays
+2015,162,Rockies,Braves
+2015,162,Indians,Reds
+2015,162,Yankees,Twins
+2015,162,Astros,Marlins
+2015,162,Rangers,Red Sox
+2015,162,Cubs,Giants
+2015,162,Nationals,Diamondbacks
+2015,162,Cardinals,Dodgers

@@ -1,0 +1,2431 @@
+Year,day,home_team_name,away_team_name
+2016,1,Dodgers,Tigers
+2016,1,Marlins,Mariners
+2016,1,Cardinals,Red Sox
+2016,1,Rangers,Yankees
+2016,1,Blue Jays,Angels
+2016,1,Reds,Braves
+2016,1,Cubs,Indians
+2016,1,Phillies,Giants
+2016,1,Rockies,Mets
+2016,1,Athletics,Pirates
+2016,1,Astros,Orioles
+2016,1,Twins,Diamondbacks
+2016,1,White Sox,Padres
+2016,1,Royals,Brewers
+2016,1,Nationals,Rays
+2016,2,Mariners,Tigers
+2016,2,Angels,Dodgers
+2016,2,Rangers,Athletics
+2016,2,Diamondbacks,Orioles
+2016,2,Brewers,Astros
+2016,2,Red Sox,Braves
+2016,2,Giants,Nationals
+2016,2,Indians,Rockies
+2016,2,Mets,Cubs
+2016,2,Padres,Marlins
+2016,2,Reds,Rays
+2016,2,Pirates,Phillies
+2016,2,Royals,Yankees
+2016,2,Blue Jays,Cardinals
+2016,2,White Sox,Twins
+2016,3,Astros,Marlins
+2016,3,Rays,Indians
+2016,3,Braves,Orioles
+2016,3,Blue Jays,Cubs
+2016,3,Phillies,Yankees
+2016,3,Angels,Diamondbacks
+2016,3,Cardinals,Padres
+2016,3,Giants,Tigers
+2016,3,Pirates,Mets
+2016,3,Rangers,Twins
+2016,3,Brewers,Rockies
+2016,3,Red Sox,Dodgers
+2016,3,Mariners,Athletics
+2016,3,Royals,White Sox
+2016,3,Nationals,Reds
+2016,4,Diamondbacks,Brewers
+2016,4,Giants,Rays
+2016,4,Padres,Reds
+2016,4,Rangers,Astros
+2016,4,Nationals,Phillies
+2016,4,Yankees,Mets
+2016,4,Royals,Blue Jays
+2016,4,Cardinals,Tigers
+2016,4,Pirates,Rockies
+2016,4,Angels,Orioles
+2016,4,Marlins,Mariners
+2016,4,White Sox,Braves
+2016,4,Twins,Red Sox
+2016,4,Indians,Athletics
+2016,4,Dodgers,Cubs
+2016,5,Braves,Red Sox
+2016,5,Nationals,Dodgers
+2016,5,Mets,Brewers
+2016,5,Blue Jays,Cubs
+2016,5,Athletics,Angels
+2016,5,Tigers,Yankees
+2016,5,Twins,Pirates
+2016,5,Marlins,Giants
+2016,5,Cardinals,White Sox
+2016,5,Padres,Rays
+2016,5,Orioles,Indians
+2016,5,Astros,Phillies
+2016,5,Royals,Rockies
+2016,5,Reds,Diamondbacks
+2016,5,Rangers,Mariners
+2016,6,Rays,Athletics
+2016,6,Nationals,Pirates
+2016,6,White Sox,Red Sox
+2016,6,Diamondbacks,Orioles
+2016,6,Braves,Yankees
+2016,6,Tigers,Padres
+2016,6,Marlins,Blue Jays
+2016,6,Twins,Phillies
+2016,6,Dodgers,Reds
+2016,6,Giants,Cardinals
+2016,6,Royals,Brewers
+2016,6,Rangers,Mets
+2016,6,Mariners,Indians
+2016,6,Cubs,Angels
+2016,6,Astros,Rockies
+2016,7,Blue Jays,Indians
+2016,7,Phillies,Reds
+2016,7,Royals,Padres
+2016,7,Athletics,Nationals
+2016,7,Rockies,Braves
+2016,7,Mariners,Mets
+2016,7,Orioles,Dodgers
+2016,7,Diamondbacks,Tigers
+2016,7,Twins,White Sox
+2016,7,Marlins,Angels
+2016,7,Red Sox,Rays
+2016,7,Cubs,Brewers
+2016,7,Astros,Pirates
+2016,7,Rangers,Giants
+2016,7,Yankees,Cardinals
+2016,8,Rockies,Cubs
+2016,8,Angels,Dodgers
+2016,8,Pirates,Athletics
+2016,8,Twins,White Sox
+2016,8,Red Sox,Marlins
+2016,8,Brewers,Cardinals
+2016,8,Mets,Rays
+2016,8,Royals,Rangers
+2016,8,Reds,Blue Jays
+2016,8,Padres,Giants
+2016,8,Braves,Tigers
+2016,8,Astros,Yankees
+2016,8,Indians,Nationals
+2016,8,Orioles,Phillies
+2016,8,Diamondbacks,Mariners
+2016,9,Phillies,Indians
+2016,9,Marlins,Mariners
+2016,9,Rays,Red Sox
+2016,9,Reds,Astros
+2016,9,Athletics,Rockies
+2016,9,Cardinals,Padres
+2016,9,Rangers,Blue Jays
+2016,9,Twins,Nationals
+2016,9,Angels,Diamondbacks
+2016,9,Giants,Mets
+2016,9,Orioles,Royals
+2016,9,Brewers,Dodgers
+2016,9,White Sox,Tigers
+2016,9,Cubs,Braves
+2016,9,Yankees,Pirates
+2016,10,Cardinals,Orioles
+2016,10,Padres,Twins
+2016,10,Royals,Dodgers
+2016,10,Phillies,Nationals
+2016,10,Blue Jays,Rangers
+2016,10,Angels,Tigers
+2016,10,Pirates,Athletics
+2016,10,White Sox,Mets
+2016,10,Giants,Indians
+2016,10,Mariners,Reds
+2016,10,Red Sox,Braves
+2016,10,Marlins,Astros
+2016,10,Yankees,Diamondbacks
+2016,10,Brewers,Cubs
+2016,10,Rockies,Rays
+2016,11,Athletics,Tigers
+2016,11,Giants,Blue Jays
+2016,11,Twins,Rays
+2016,11,Cardinals,Cubs
+2016,11,Astros,Orioles
+2016,11,Rangers,Nationals
+2016,11,Mariners,Mets
+2016,11,Reds,Braves
+2016,11,Dodgers,White Sox
+2016,11,Rockies,Phillies
+2016,11,Pirates,Diamondbacks
+2016,11,Angels,Padres
+2016,11,Indians,Red Sox
+2016,11,Royals,Yankees
+2016,11,Marlins,Brewers
+2016,12,Rays,Twins
+2016,12,Orioles,Cardinals
+2016,12,Mariners,Yankees
+2016,12,Braves,White Sox
+2016,12,Athletics,Marlins
+2016,12,Giants,Red Sox
+2016,12,Brewers,Tigers
+2016,12,Pirates,Blue Jays
+2016,12,Dodgers,Nationals
+2016,12,Astros,Reds
+2016,12,Padres,Cubs
+2016,12,Rockies,Mets
+2016,12,Rangers,Royals
+2016,12,Diamondbacks,Angels
+2016,12,Indians,Phillies
+2016,13,Athletics,Cubs
+2016,13,Marlins,Yankees
+2016,13,Mariners,Nationals
+2016,13,Giants,Red Sox
+2016,13,Rockies,Rays
+2016,13,White Sox,Royals
+2016,13,Orioles,Twins
+2016,13,Angels,Braves
+2016,13,Blue Jays,Cardinals
+2016,13,Pirates,Brewers
+2016,13,Reds,Astros
+2016,13,Tigers,Dodgers
+2016,13,Indians,Phillies
+2016,13,Mets,Rangers
+2016,13,Padres,Diamondbacks
+2016,14,Dodgers,Reds
+2016,14,Padres,Rockies
+2016,14,Angels,Twins
+2016,14,Braves,Nationals
+2016,14,Athletics,Mariners
+2016,14,Cardinals,Rays
+2016,14,Marlins,Orioles
+2016,14,Astros,Yankees
+2016,14,Indians,Phillies
+2016,14,Rangers,Brewers
+2016,14,Tigers,Cubs
+2016,14,Diamondbacks,Blue Jays
+2016,14,Royals,Red Sox
+2016,14,Pirates,White Sox
+2016,14,Mets,Giants
+2016,15,Cardinals,Rockies
+2016,15,Pirates,Phillies
+2016,15,Diamondbacks,Astros
+2016,15,Braves,Orioles
+2016,15,Brewers,Nationals
+2016,15,Marlins,Giants
+2016,15,Reds,Mariners
+2016,15,Mets,Tigers
+2016,15,Royals,Red Sox
+2016,15,Rays,Indians
+2016,15,Twins,White Sox
+2016,15,Dodgers,Cubs
+2016,15,Padres,Blue Jays
+2016,15,Rangers,Angels
+2016,15,Yankees,Athletics
+2016,16,Braves,Cardinals
+2016,16,Astros,Pirates
+2016,16,Cubs,Phillies
+2016,16,Padres,Mets
+2016,16,Royals,Reds
+2016,16,Rangers,Rays
+2016,16,Dodgers,Giants
+2016,16,Indians,Blue Jays
+2016,16,Rockies,Twins
+2016,16,Tigers,Marlins
+2016,16,Athletics,Diamondbacks
+2016,16,Mariners,Red Sox
+2016,16,White Sox,Yankees
+2016,16,Orioles,Nationals
+2016,16,Angels,Brewers
+2016,17,Twins,Rangers
+2016,17,Red Sox,Royals
+2016,17,Rockies,Nationals
+2016,17,Rays,Tigers
+2016,17,Dodgers,White Sox
+2016,17,Athletics,Orioles
+2016,17,Reds,Brewers
+2016,17,Padres,Angels
+2016,17,Blue Jays,Cardinals
+2016,17,Mariners,Diamondbacks
+2016,17,Pirates,Giants
+2016,17,Yankees,Astros
+2016,17,Indians,Mets
+2016,17,Marlins,Cubs
+2016,17,Braves,Phillies
+2016,18,Mets,Cubs
+2016,18,Orioles,Braves
+2016,18,Athletics,Indians
+2016,18,Padres,Mariners
+2016,18,Red Sox,Rockies
+2016,18,Cardinals,Rangers
+2016,18,White Sox,Phillies
+2016,18,Pirates,Diamondbacks
+2016,18,Royals,Rays
+2016,18,Tigers,Reds
+2016,18,Angels,Brewers
+2016,18,Nationals,Marlins
+2016,18,Twins,Giants
+2016,18,Yankees,Blue Jays
+2016,18,Dodgers,Astros
+2016,19,Athletics,Padres
+2016,19,Mariners,Rangers
+2016,19,Diamondbacks,Mets
+2016,19,Red Sox,Astros
+2016,19,Marlins,Rays
+2016,19,White Sox,Blue Jays
+2016,19,Angels,Rockies
+2016,19,Indians,Yankees
+2016,19,Cardinals,Reds
+2016,19,Cubs,Phillies
+2016,19,Royals,Brewers
+2016,19,Giants,Pirates
+2016,19,Braves,Orioles
+2016,19,Tigers,Nationals
+2016,19,Twins,Dodgers
+2016,20,Mariners,Orioles
+2016,20,Reds,Rays
+2016,20,Twins,Brewers
+2016,20,Mets,Rockies
+2016,20,Marlins,Tigers
+2016,20,Red Sox,Nationals
+2016,20,Yankees,Pirates
+2016,20,Blue Jays,Giants
+2016,20,Diamondbacks,Indians
+2016,20,Athletics,Braves
+2016,20,Phillies,Cardinals
+2016,20,Astros,Angels
+2016,20,Cubs,Rangers
+2016,20,Padres,Royals
+2016,20,White Sox,Dodgers
+2016,21,Astros,Royals
+2016,21,Mets,Pirates
+2016,21,Athletics,Orioles
+2016,21,Yankees,Tigers
+2016,21,Red Sox,White Sox
+2016,21,Blue Jays,Cubs
+2016,21,Phillies,Angels
+2016,21,Rangers,Twins
+2016,21,Marlins,Reds
+2016,21,Nationals,Braves
+2016,21,Giants,Dodgers
+2016,21,Diamondbacks,Indians
+2016,21,Rockies,Padres
+2016,21,Rays,Mariners
+2016,21,Brewers,Cardinals
+2016,22,Diamondbacks,Braves
+2016,22,Marlins,Phillies
+2016,22,Pirates,Red Sox
+2016,22,Brewers,Rangers
+2016,22,Twins,Padres
+2016,22,Giants,Angels
+2016,22,Blue Jays,Royals
+2016,22,Nationals,Astros
+2016,22,Athletics,Rockies
+2016,22,Dodgers,Rays
+2016,22,Indians,Reds
+2016,22,Cardinals,Mets
+2016,22,White Sox,Orioles
+2016,22,Tigers,Cubs
+2016,22,Yankees,Mariners
+2016,23,Phillies,Cubs
+2016,23,Athletics,Twins
+2016,23,Orioles,Tigers
+2016,23,Padres,Brewers
+2016,23,Mets,Pirates
+2016,23,Braves,Marlins
+2016,23,Mariners,Astros
+2016,23,Nationals,Giants
+2016,23,Rays,Rockies
+2016,23,Diamondbacks,White Sox
+2016,23,Royals,Rangers
+2016,23,Blue Jays,Dodgers
+2016,23,Yankees,Red Sox
+2016,23,Indians,Angels
+2016,23,Cardinals,Reds
+2016,24,Indians,Orioles
+2016,24,Athletics,Cardinals
+2016,24,Royals,Rays
+2016,24,Tigers,Padres
+2016,24,Astros,Blue Jays
+2016,24,Dodgers,Brewers
+2016,24,Reds,Cubs
+2016,24,Yankees,Marlins
+2016,24,White Sox,Rangers
+2016,24,Giants,Mets
+2016,24,Rockies,Mariners
+2016,24,Angels,Phillies
+2016,24,Diamondbacks,Nationals
+2016,24,Red Sox,Braves
+2016,24,Pirates,Twins
+2016,25,Rockies,Cubs
+2016,25,Rangers,Blue Jays
+2016,25,Pirates,Athletics
+2016,25,Rays,Reds
+2016,25,Indians,Angels
+2016,25,Braves,Orioles
+2016,25,Padres,White Sox
+2016,25,Dodgers,Marlins
+2016,25,Yankees,Nationals
+2016,25,Brewers,Mets
+2016,25,Tigers,Cardinals
+2016,25,Mariners,Astros
+2016,25,Giants,Royals
+2016,25,Red Sox,Diamondbacks
+2016,25,Twins,Phillies
+2016,26,Blue Jays,White Sox
+2016,26,Tigers,Brewers
+2016,26,Pirates,Red Sox
+2016,26,Mets,Twins
+2016,26,Astros,Diamondbacks
+2016,26,Mariners,Angels
+2016,26,Rockies,Yankees
+2016,26,Rays,Rangers
+2016,26,Nationals,Orioles
+2016,26,Braves,Reds
+2016,26,Indians,Royals
+2016,26,Padres,Giants
+2016,26,Cubs,Cardinals
+2016,26,Dodgers,Marlins
+2016,26,Phillies,Athletics
+2016,27,Cardinals,Angels
+2016,27,Padres,Giants
+2016,27,Pirates,Royals
+2016,27,Mets,Brewers
+2016,27,Astros,Orioles
+2016,27,Rangers,Marlins
+2016,27,Mariners,Rockies
+2016,27,Nationals,Cubs
+2016,27,Blue Jays,Diamondbacks
+2016,27,Tigers,Athletics
+2016,27,Indians,Rays
+2016,27,Phillies,White Sox
+2016,27,Yankees,Red Sox
+2016,27,Braves,Twins
+2016,27,Reds,Dodgers
+2016,28,Red Sox,Phillies
+2016,28,Cubs,Twins
+2016,28,Nationals,Rangers
+2016,28,Braves,Angels
+2016,28,Mariners,Cardinals
+2016,28,Tigers,Pirates
+2016,28,Rays,Giants
+2016,28,Athletics,Royals
+2016,28,Padres,Marlins
+2016,28,Mets,Brewers
+2016,28,Diamondbacks,Dodgers
+2016,28,Orioles,Astros
+2016,28,Blue Jays,Rockies
+2016,28,White Sox,Yankees
+2016,28,Indians,Reds
+2016,29,Indians,Athletics
+2016,29,Pirates,Orioles
+2016,29,Royals,Yankees
+2016,29,White Sox,Reds
+2016,29,Brewers,Red Sox
+2016,29,Astros,Cardinals
+2016,29,Cubs,Blue Jays
+2016,29,Rockies,Tigers
+2016,29,Marlins,Nationals
+2016,29,Dodgers,Rangers
+2016,29,Mariners,Diamondbacks
+2016,29,Giants,Braves
+2016,29,Mets,Angels
+2016,29,Padres,Rays
+2016,29,Twins,Phillies
+2016,30,Rockies,Astros
+2016,30,Athletics,Royals
+2016,30,Cardinals,Red Sox
+2016,30,Yankees,Braves
+2016,30,Reds,Tigers
+2016,30,Nationals,Angels
+2016,30,Phillies,Giants
+2016,30,Mets,Marlins
+2016,30,Mariners,Indians
+2016,30,Orioles,Blue Jays
+2016,30,Rays,Padres
+2016,30,Cubs,Rangers
+2016,30,Dodgers,Diamondbacks
+2016,30,Twins,Pirates
+2016,30,White Sox,Brewers
+2016,31,Giants,Royals
+2016,31,Blue Jays,Rockies
+2016,31,Reds,Padres
+2016,31,Yankees,Mets
+2016,31,Orioles,Astros
+2016,31,Rays,Rangers
+2016,31,Twins,Tigers
+2016,31,Red Sox,Braves
+2016,31,Diamondbacks,Angels
+2016,31,Pirates,Dodgers
+2016,31,Cardinals,Cubs
+2016,31,Brewers,Nationals
+2016,31,Phillies,White Sox
+2016,31,Marlins,Athletics
+2016,31,Indians,Mariners
+2016,32,Cardinals,Brewers
+2016,32,Rays,Mariners
+2016,32,Padres,Rockies
+2016,32,Tigers,Braves
+2016,32,Athletics,Phillies
+2016,32,Twins,Angels
+2016,32,Blue Jays,White Sox
+2016,32,Yankees,Indians
+2016,32,Cubs,Diamondbacks
+2016,32,Dodgers,Royals
+2016,32,Reds,Mets
+2016,32,Astros,Giants
+2016,32,Red Sox,Nationals
+2016,32,Orioles,Rangers
+2016,32,Pirates,Marlins
+2016,33,Rays,Phillies
+2016,33,Angels,Rockies
+2016,33,Diamondbacks,Nationals
+2016,33,Astros,Giants
+2016,33,White Sox,Dodgers
+2016,33,Reds,Orioles
+2016,33,Brewers,Pirates
+2016,33,Indians,Rangers
+2016,33,Tigers,Twins
+2016,33,Blue Jays,Cubs
+2016,33,Athletics,Marlins
+2016,33,Cardinals,Braves
+2016,33,Mariners,Yankees
+2016,33,Padres,Mets
+2016,33,Red Sox,Royals
+2016,34,Padres,White Sox
+2016,34,Angels,Cardinals
+2016,34,Mets,Tigers
+2016,34,Orioles,Rangers
+2016,34,Diamondbacks,Brewers
+2016,34,Phillies,Royals
+2016,34,Marlins,Pirates
+2016,34,Mariners,Reds
+2016,34,Twins,Indians
+2016,34,Cubs,Astros
+2016,34,Yankees,Red Sox
+2016,34,Rockies,Braves
+2016,34,Dodgers,Blue Jays
+2016,34,Nationals,Athletics
+2016,34,Giants,Rays
+2016,35,Marlins,Dodgers
+2016,35,Athletics,Astros
+2016,35,Braves,Cubs
+2016,35,Rockies,Royals
+2016,35,Reds,Indians
+2016,35,Mariners,Cardinals
+2016,35,Padres,Blue Jays
+2016,35,Rays,Angels
+2016,35,Twins,White Sox
+2016,35,Orioles,Phillies
+2016,35,Yankees,Nationals
+2016,35,Pirates,Red Sox
+2016,35,Diamondbacks,Tigers
+2016,35,Brewers,Mets
+2016,35,Giants,Rangers
+2016,36,Pirates,Indians
+2016,36,Orioles,Twins
+2016,36,Reds,Cubs
+2016,36,Astros,Brewers
+2016,36,Cardinals,Rays
+2016,36,Yankees,White Sox
+2016,36,Rockies,Blue Jays
+2016,36,Red Sox,Braves
+2016,36,Dodgers,Royals
+2016,36,Diamondbacks,Angels
+2016,36,Giants,Marlins
+2016,36,Mets,Tigers
+2016,36,Padres,Phillies
+2016,36,Athletics,Nationals
+2016,36,Rangers,Mariners
+2016,37,Reds,White Sox
+2016,37,Pirates,Phillies
+2016,37,Red Sox,Athletics
+2016,37,Rockies,Dodgers
+2016,37,Royals,Astros
+2016,37,Brewers,Angels
+2016,37,Twins,Nationals
+2016,37,Cardinals,Blue Jays
+2016,37,Rangers,Giants
+2016,37,Diamondbacks,Mets
+2016,37,Marlins,Indians
+2016,37,Cubs,Tigers
+2016,37,Braves,Yankees
+2016,37,Mariners,Rays
+2016,37,Orioles,Padres
+2016,38,Diamondbacks,Phillies
+2016,38,Dodgers,Rangers
+2016,38,Giants,Red Sox
+2016,38,Mariners,Cardinals
+2016,38,Reds,Blue Jays
+2016,38,Rays,Indians
+2016,38,Royals,Brewers
+2016,38,Pirates,Nationals
+2016,38,Angels,Rockies
+2016,38,Cubs,Yankees
+2016,38,Tigers,Astros
+2016,38,White Sox,Marlins
+2016,38,Orioles,Twins
+2016,38,Mets,Padres
+2016,38,Braves,Athletics
+2016,39,Royals,Angels
+2016,39,Astros,Yankees
+2016,39,Pirates,Mets
+2016,39,Giants,White Sox
+2016,39,Indians,Orioles
+2016,39,Brewers,Cubs
+2016,39,Dodgers,Nationals
+2016,39,Reds,Blue Jays
+2016,39,Phillies,Marlins
+2016,39,Red Sox,Braves
+2016,39,Rockies,Rangers
+2016,39,Rays,Mariners
+2016,39,Athletics,Diamondbacks
+2016,39,Padres,Twins
+2016,39,Tigers,Cardinals
+2016,40,Red Sox,Padres
+2016,40,White Sox,Rockies
+2016,40,Angels,Reds
+2016,40,Royals,Mets
+2016,40,Yankees,Nationals
+2016,40,Marlins,Twins
+2016,40,Pirates,Rangers
+2016,40,Indians,Giants
+2016,40,Brewers,Athletics
+2016,40,Astros,Blue Jays
+2016,40,Rays,Mariners
+2016,40,Braves,Diamondbacks
+2016,40,Tigers,Phillies
+2016,40,Cubs,Orioles
+2016,40,Cardinals,Dodgers
+2016,41,Nationals,Royals
+2016,41,Angels,Red Sox
+2016,41,Cardinals,Indians
+2016,41,Phillies,Braves
+2016,41,White Sox,Athletics
+2016,41,Yankees,Giants
+2016,41,Rangers,Brewers
+2016,41,Marlins,Cubs
+2016,41,Padres,Rays
+2016,41,Rockies,Blue Jays
+2016,41,Reds,Tigers
+2016,41,Diamondbacks,Mariners
+2016,41,Mets,Astros
+2016,41,Twins,Dodgers
+2016,41,Orioles,Pirates
+2016,42,Mariners,Yankees
+2016,42,Tigers,Royals
+2016,42,Indians,Twins
+2016,42,Cubs,Nationals
+2016,42,Angels,Rays
+2016,42,Astros,Marlins
+2016,42,Rangers,White Sox
+2016,42,Braves,Padres
+2016,42,Blue Jays,Rockies
+2016,42,Phillies,Brewers
+2016,42,Cardinals,Mets
+2016,42,Giants,Dodgers
+2016,42,Red Sox,Diamondbacks
+2016,42,Pirates,Orioles
+2016,42,Reds,Athletics
+2016,43,Rockies,Mets
+2016,43,Rangers,Tigers
+2016,43,Twins,Athletics
+2016,43,Astros,Marlins
+2016,43,Cubs,Padres
+2016,43,Orioles,Dodgers
+2016,43,Reds,Brewers
+2016,43,Pirates,Red Sox
+2016,43,Rays,Blue Jays
+2016,43,Diamondbacks,Indians
+2016,43,Giants,Cardinals
+2016,43,Braves,White Sox
+2016,43,Royals,Angels
+2016,43,Yankees,Mariners
+2016,43,Nationals,Phillies
+2016,44,Brewers,Orioles
+2016,44,Angels,Indians
+2016,44,Athletics,Royals
+2016,44,Pirates,Cardinals
+2016,44,Rangers,Braves
+2016,44,Rockies,Phillies
+2016,44,Cubs,Red Sox
+2016,44,Blue Jays,Dodgers
+2016,44,Tigers,Twins
+2016,44,Giants,Astros
+2016,44,Mets,Padres
+2016,44,Diamondbacks,White Sox
+2016,44,Reds,Yankees
+2016,44,Rays,Nationals
+2016,44,Marlins,Mariners
+2016,45,Rangers,Pirates
+2016,45,Dodgers,Cardinals
+2016,45,Rockies,Royals
+2016,45,Diamondbacks,Cubs
+2016,45,Padres,Red Sox
+2016,45,Mariners,Tigers
+2016,45,Blue Jays,Giants
+2016,45,Indians,Nationals
+2016,45,Reds,Brewers
+2016,45,Marlins,Rays
+2016,45,Angels,Yankees
+2016,45,Phillies,Athletics
+2016,45,White Sox,Orioles
+2016,45,Twins,Braves
+2016,45,Mets,Astros
+2016,46,Red Sox,Yankees
+2016,46,White Sox,Braves
+2016,46,Rays,Orioles
+2016,46,Pirates,Giants
+2016,46,Mariners,Royals
+2016,46,Blue Jays,Nationals
+2016,46,Rockies,Astros
+2016,46,Dodgers,Diamondbacks
+2016,46,Phillies,Brewers
+2016,46,Athletics,Rangers
+2016,46,Cardinals,Mets
+2016,46,Tigers,Twins
+2016,46,Padres,Cubs
+2016,46,Marlins,Indians
+2016,46,Angels,Reds
+2016,47,Marlins,Rays
+2016,47,Angels,Indians
+2016,47,Nationals,Diamondbacks
+2016,47,Mariners,Tigers
+2016,47,Giants,Yankees
+2016,47,Cardinals,Mets
+2016,47,Reds,Phillies
+2016,47,Dodgers,Orioles
+2016,47,Padres,Cubs
+2016,47,Rangers,Red Sox
+2016,47,Twins,Blue Jays
+2016,47,Rockies,Astros
+2016,47,Pirates,Athletics
+2016,47,Royals,Braves
+2016,47,Brewers,White Sox
+2016,48,Indians,Rangers
+2016,48,Diamondbacks,Red Sox
+2016,48,Cardinals,Dodgers
+2016,48,Tigers,Rays
+2016,48,Rockies,Braves
+2016,48,Brewers,White Sox
+2016,48,Pirates,Nationals
+2016,48,Twins,Orioles
+2016,48,Athletics,Reds
+2016,48,Giants,Phillies
+2016,48,Mariners,Astros
+2016,48,Mets,Blue Jays
+2016,48,Angels,Yankees
+2016,48,Royals,Cubs
+2016,48,Padres,Marlins
+2016,49,Nationals,Pirates
+2016,49,Tigers,Padres
+2016,49,Rangers,Royals
+2016,49,Dodgers,Rockies
+2016,49,Mets,Phillies
+2016,49,Cardinals,Marlins
+2016,49,Twins,Rays
+2016,49,Yankees,Blue Jays
+2016,49,Red Sox,Astros
+2016,49,Diamondbacks,Cubs
+2016,49,Braves,Brewers
+2016,49,Mariners,Athletics
+2016,49,Indians,Reds
+2016,49,Giants,Orioles
+2016,49,White Sox,Angels
+2016,50,Padres,White Sox
+2016,50,Twins,Cardinals
+2016,50,Giants,Orioles
+2016,50,Diamondbacks,Brewers
+2016,50,Marlins,Braves
+2016,50,Nationals,Blue Jays
+2016,50,Rays,Mariners
+2016,50,Athletics,Angels
+2016,50,Tigers,Pirates
+2016,50,Mets,Phillies
+2016,50,Dodgers,Astros
+2016,50,Cubs,Yankees
+2016,50,Reds,Rockies
+2016,50,Indians,Rangers
+2016,50,Red Sox,Royals
+2016,51,Royals,Angels
+2016,51,Reds,Tigers
+2016,51,Padres,White Sox
+2016,51,Rockies,Dodgers
+2016,51,Rangers,Rays
+2016,51,Blue Jays,Astros
+2016,51,Marlins,Brewers
+2016,51,Giants,Pirates
+2016,51,Nationals,Red Sox
+2016,51,Athletics,Indians
+2016,51,Yankees,Mariners
+2016,51,Twins,Braves
+2016,51,Phillies,Diamondbacks
+2016,51,Cubs,Mets
+2016,51,Orioles,Cardinals
+2016,52,Rangers,Angels
+2016,52,Mariners,Rockies
+2016,52,Braves,Phillies
+2016,52,Royals,White Sox
+2016,52,Reds,Astros
+2016,52,Twins,Indians
+2016,52,Blue Jays,Red Sox
+2016,52,Diamondbacks,Padres
+2016,52,Giants,Cardinals
+2016,52,Brewers,Nationals
+2016,52,Mets,Cubs
+2016,52,Orioles,Dodgers
+2016,52,Pirates,Yankees
+2016,52,Tigers,Athletics
+2016,52,Rays,Marlins
+2016,53,Red Sox,Astros
+2016,53,Rangers,Rockies
+2016,53,Marlins,Cardinals
+2016,53,Nationals,Diamondbacks
+2016,53,Rays,Orioles
+2016,53,Mets,Yankees
+2016,53,Cubs,Padres
+2016,53,Blue Jays,Brewers
+2016,53,Dodgers,Angels
+2016,53,Royals,Pirates
+2016,53,Indians,White Sox
+2016,53,Giants,Mariners
+2016,53,Braves,Twins
+2016,53,Athletics,Reds
+2016,53,Phillies,Tigers
+2016,54,White Sox,Phillies
+2016,54,Diamondbacks,Angels
+2016,54,Cardinals,Rays
+2016,54,Mariners,Marlins
+2016,54,Nationals,Pirates
+2016,54,Brewers,Red Sox
+2016,54,Orioles,Twins
+2016,54,Royals,Rangers
+2016,54,Cubs,Astros
+2016,54,Rockies,Braves
+2016,54,Giants,Blue Jays
+2016,54,Reds,Yankees
+2016,54,Indians,Mets
+2016,54,Dodgers,Athletics
+2016,54,Tigers,Padres
+2016,55,Brewers,Braves
+2016,55,Pirates,Cardinals
+2016,55,Cubs,Red Sox
+2016,55,Dodgers,Nationals
+2016,55,Mets,Tigers
+2016,55,Athletics,Rays
+2016,55,Padres,Angels
+2016,55,Royals,Blue Jays
+2016,55,Reds,Yankees
+2016,55,Giants,Mariners
+2016,55,Rockies,Twins
+2016,55,Astros,Orioles
+2016,55,Marlins,White Sox
+2016,55,Phillies,Diamondbacks
+2016,55,Indians,Rangers
+2016,56,Indians,Dodgers
+2016,56,Marlins,Giants
+2016,56,Tigers,Rangers
+2016,56,Astros,Rockies
+2016,56,White Sox,Blue Jays
+2016,56,Cubs,Athletics
+2016,56,Orioles,Rays
+2016,56,Yankees,Braves
+2016,56,Mets,Royals
+2016,56,Diamondbacks,Reds
+2016,56,Brewers,Cardinals
+2016,56,Mariners,Padres
+2016,56,Pirates,Angels
+2016,56,Nationals,Twins
+2016,56,Red Sox,Phillies
+2016,57,Reds,Astros
+2016,57,Cardinals,Diamondbacks
+2016,57,Rockies,Mariners
+2016,57,Nationals,Indians
+2016,57,Yankees,White Sox
+2016,57,Braves,Blue Jays
+2016,57,Giants,Phillies
+2016,57,Athletics,Padres
+2016,57,Rangers,Royals
+2016,57,Marlins,Orioles
+2016,57,Red Sox,Twins
+2016,57,Pirates,Dodgers
+2016,57,Rays,Mets
+2016,57,Tigers,Angels
+2016,57,Brewers,Cubs
+2016,58,Diamondbacks,Red Sox
+2016,58,Twins,Padres
+2016,58,Mariners,Cubs
+2016,58,Nationals,Orioles
+2016,58,Indians,Blue Jays
+2016,58,Pirates,Rangers
+2016,58,Giants,White Sox
+2016,58,Mets,Phillies
+2016,58,Tigers,Cardinals
+2016,58,Athletics,Marlins
+2016,58,Royals,Dodgers
+2016,58,Rays,Reds
+2016,58,Brewers,Braves
+2016,58,Angels,Rockies
+2016,58,Yankees,Astros
+2016,59,Nationals,Blue Jays
+2016,59,Marlins,Cubs
+2016,59,Mariners,Rays
+2016,59,Mets,Braves
+2016,59,Royals,Cardinals
+2016,59,Giants,Padres
+2016,59,Orioles,Indians
+2016,59,Reds,Angels
+2016,59,Dodgers,Twins
+2016,59,Phillies,Astros
+2016,59,Red Sox,Athletics
+2016,59,White Sox,Yankees
+2016,59,Pirates,Diamondbacks
+2016,59,Rangers,Tigers
+2016,59,Brewers,Rockies
+2016,60,Yankees,Astros
+2016,60,Diamondbacks,Braves
+2016,60,Padres,Angels
+2016,60,Nationals,Mariners
+2016,60,Rangers,Twins
+2016,60,Orioles,Mets
+2016,60,Rockies,Cardinals
+2016,60,Red Sox,Blue Jays
+2016,60,Phillies,Dodgers
+2016,60,Pirates,Athletics
+2016,60,Indians,Royals
+2016,60,White Sox,Marlins
+2016,60,Rays,Tigers
+2016,60,Giants,Reds
+2016,60,Cubs,Brewers
+2016,61,Tigers,Cubs
+2016,61,Royals,Yankees
+2016,61,Athletics,Braves
+2016,61,Diamondbacks,Giants
+2016,61,Mets,Astros
+2016,61,Padres,Blue Jays
+2016,61,Mariners,Brewers
+2016,61,Cardinals,White Sox
+2016,61,Rangers,Pirates
+2016,61,Angels,Nationals
+2016,61,Indians,Reds
+2016,61,Marlins,Rockies
+2016,61,Twins,Orioles
+2016,61,Red Sox,Rays
+2016,61,Dodgers,Phillies
+2016,62,Yankees,Indians
+2016,62,Cardinals,Reds
+2016,62,Rockies,Tigers
+2016,62,Dodgers,Giants
+2016,62,Royals,Braves
+2016,62,Astros,Twins
+2016,62,Phillies,Blue Jays
+2016,62,Athletics,Rays
+2016,62,Nationals,Red Sox
+2016,62,Orioles,Marlins
+2016,62,White Sox,Cubs
+2016,62,Pirates,Mariners
+2016,62,Padres,Mets
+2016,62,Diamondbacks,Brewers
+2016,62,Rangers,Angels
+2016,63,Athletics,Angels
+2016,63,Cardinals,Rockies
+2016,63,Orioles,Diamondbacks
+2016,63,White Sox,Mariners
+2016,63,Dodgers,Yankees
+2016,63,Rangers,Mets
+2016,63,Padres,Giants
+2016,63,Braves,Twins
+2016,63,Pirates,Phillies
+2016,63,Indians,Royals
+2016,63,Red Sox,Reds
+2016,63,Cubs,Blue Jays
+2016,63,Tigers,Marlins
+2016,63,Astros,Brewers
+2016,63,Nationals,Rays
+2016,64,Rockies,Astros
+2016,64,Reds,Padres
+2016,64,Blue Jays,Cardinals
+2016,64,Phillies,Red Sox
+2016,64,Mets,Giants
+2016,64,Brewers,Tigers
+2016,64,Rangers,Athletics
+2016,64,Marlins,Mariners
+2016,64,Royals,Cubs
+2016,64,Nationals,Dodgers
+2016,64,Twins,Diamondbacks
+2016,64,White Sox,Indians
+2016,64,Pirates,Braves
+2016,64,Yankees,Rays
+2016,64,Angels,Orioles
+2016,65,Rangers,Astros
+2016,65,Braves,Reds
+2016,65,Blue Jays,Angels
+2016,65,Marlins,White Sox
+2016,65,Nationals,Pirates
+2016,65,Dodgers,Mariners
+2016,65,Rockies,Orioles
+2016,65,Giants,Indians
+2016,65,Phillies,Cardinals
+2016,65,Cubs,Tigers
+2016,65,Rays,Yankees
+2016,65,Padres,Diamondbacks
+2016,65,Red Sox,Royals
+2016,65,Mets,Brewers
+2016,65,Twins,Athletics
+2016,66,Yankees,Cardinals
+2016,66,Cubs,Braves
+2016,66,Blue Jays,Tigers
+2016,66,Rockies,Nationals
+2016,66,Padres,Diamondbacks
+2016,66,Marlins,Astros
+2016,66,Mariners,Phillies
+2016,66,Orioles,Rays
+2016,66,Twins,Dodgers
+2016,66,Indians,Angels
+2016,66,Red Sox,Rangers
+2016,66,Athletics,Mets
+2016,66,Royals,Pirates
+2016,66,Reds,White Sox
+2016,66,Brewers,Giants
+2016,67,Orioles,Nationals
+2016,67,Rockies,Pirates
+2016,67,Reds,Athletics
+2016,67,Diamondbacks,Marlins
+2016,67,Tigers,Blue Jays
+2016,67,Indians,Rangers
+2016,67,Braves,Mets
+2016,67,Astros,Cardinals
+2016,67,Angels,Red Sox
+2016,67,Giants,Cubs
+2016,67,Phillies,Padres
+2016,67,Rays,Dodgers
+2016,67,Brewers,White Sox
+2016,67,Royals,Twins
+2016,67,Yankees,Mariners
+2016,68,Red Sox,Angels
+2016,68,Giants,Indians
+2016,68,Pirates,Mets
+2016,68,Dodgers,Cardinals
+2016,68,Athletics,Astros
+2016,68,White Sox,Nationals
+2016,68,Brewers,Rockies
+2016,68,Twins,Marlins
+2016,68,Mariners,Braves
+2016,68,Tigers,Blue Jays
+2016,68,Reds,Yankees
+2016,68,Rays,Cubs
+2016,68,Diamondbacks,Orioles
+2016,68,Royals,Padres
+2016,68,Phillies,Rangers
+2016,69,Tigers,Astros
+2016,69,Pirates,Nationals
+2016,69,Reds,Diamondbacks
+2016,69,Blue Jays,Marlins
+2016,69,Orioles,Red Sox
+2016,69,Cubs,Braves
+2016,69,Mariners,Giants
+2016,69,Dodgers,Angels
+2016,69,Cardinals,Brewers
+2016,69,Rockies,Royals
+2016,69,Rays,Padres
+2016,69,Yankees,Twins
+2016,69,White Sox,Indians
+2016,69,Athletics,Rangers
+2016,69,Phillies,Mets
+2016,70,Blue Jays,Astros
+2016,70,Yankees,Rockies
+2016,70,Marlins,Pirates
+2016,70,Rangers,Athletics
+2016,70,Orioles,Dodgers
+2016,70,Brewers,Giants
+2016,70,Cardinals,Indians
+2016,70,Braves,Mariners
+2016,70,Cubs,Royals
+2016,70,Reds,Angels
+2016,70,Phillies,Red Sox
+2016,70,Diamondbacks,Rays
+2016,70,White Sox,Tigers
+2016,70,Twins,Padres
+2016,70,Mets,Nationals
+2016,71,Marlins,Padres
+2016,71,Angels,Indians
+2016,71,Diamondbacks,Mariners
+2016,71,Tigers,Reds
+2016,71,Mets,Yankees
+2016,71,Phillies,Giants
+2016,71,Rockies,Royals
+2016,71,Rangers,Pirates
+2016,71,Blue Jays,Orioles
+2016,71,Red Sox,Athletics
+2016,71,Twins,Cardinals
+2016,71,Rays,Braves
+2016,71,Astros,Cubs
+2016,71,Brewers,Dodgers
+2016,71,White Sox,Nationals
+2016,72,Blue Jays,Cardinals
+2016,72,Phillies,Angels
+2016,72,Royals,Giants
+2016,72,Diamondbacks,Indians
+2016,72,Braves,Rays
+2016,72,Cubs,Yankees
+2016,72,Mets,Reds
+2016,72,Rangers,Orioles
+2016,72,Athletics,White Sox
+2016,72,Padres,Tigers
+2016,72,Mariners,Marlins
+2016,72,Dodgers,Pirates
+2016,72,Red Sox,Astros
+2016,72,Rockies,Brewers
+2016,72,Twins,Nationals
+2016,73,Nationals,Pirates
+2016,73,Marlins,Giants
+2016,73,Astros,Padres
+2016,73,Rays,Tigers
+2016,73,Blue Jays,Royals
+2016,73,Orioles,Cardinals
+2016,73,Mariners,Diamondbacks
+2016,73,Angels,White Sox
+2016,73,Cubs,Mets
+2016,73,Twins,Phillies
+2016,73,Brewers,Rockies
+2016,73,Red Sox,Reds
+2016,73,Yankees,Braves
+2016,73,Indians,Athletics
+2016,73,Rangers,Dodgers
+2016,74,Orioles,Nationals
+2016,74,Diamondbacks,White Sox
+2016,74,Rockies,Padres
+2016,74,Dodgers,Red Sox
+2016,74,Cardinals,Athletics
+2016,74,Mets,Angels
+2016,74,Tigers,Twins
+2016,74,Royals,Cubs
+2016,74,Blue Jays,Pirates
+2016,74,Mariners,Yankees
+2016,74,Giants,Indians
+2016,74,Rangers,Astros
+2016,74,Brewers,Reds
+2016,74,Marlins,Rays
+2016,74,Phillies,Braves
+2016,75,Phillies,Brewers
+2016,75,Cubs,Royals
+2016,75,Cardinals,White Sox
+2016,75,Rockies,Braves
+2016,75,Angels,Mariners
+2016,75,Padres,Rays
+2016,75,Orioles,Rangers
+2016,75,Giants,Athletics
+2016,75,Mets,Nationals
+2016,75,Yankees,Tigers
+2016,75,Marlins,Pirates
+2016,75,Diamondbacks,Astros
+2016,75,Twins,Red Sox
+2016,75,Indians,Blue Jays
+2016,75,Reds,Dodgers
+2016,76,Royals,Dodgers
+2016,76,Mariners,Nationals
+2016,76,Red Sox,Pirates
+2016,76,Blue Jays,Diamondbacks
+2016,76,Yankees,Giants
+2016,76,Cubs,Mets
+2016,76,Angels,Astros
+2016,76,Marlins,Phillies
+2016,76,Rays,Reds
+2016,76,Rangers,Brewers
+2016,76,Orioles,Cardinals
+2016,76,Braves,Tigers
+2016,76,Indians,Rockies
+2016,76,Padres,Athletics
+2016,76,Twins,White Sox
+2016,77,Brewers,Phillies
+2016,77,Angels,Red Sox
+2016,77,Braves,Diamondbacks
+2016,77,Athletics,Nationals
+2016,77,Blue Jays,Indians
+2016,77,Rockies,Cubs
+2016,77,Yankees,Padres
+2016,77,Rays,Rangers
+2016,77,Dodgers,Mariners
+2016,77,Tigers,Cardinals
+2016,77,Astros,Mets
+2016,77,Giants,White Sox
+2016,77,Reds,Twins
+2016,77,Pirates,Orioles
+2016,77,Marlins,Royals
+2016,78,Athletics,Indians
+2016,78,Twins,Diamondbacks
+2016,78,Marlins,Giants
+2016,78,Angels,Cubs
+2016,78,Red Sox,White Sox
+2016,78,Royals,Yankees
+2016,78,Padres,Pirates
+2016,78,Braves,Rangers
+2016,78,Cardinals,Reds
+2016,78,Rockies,Nationals
+2016,78,Astros,Rays
+2016,78,Orioles,Tigers
+2016,78,Brewers,Mets
+2016,78,Blue Jays,Dodgers
+2016,78,Phillies,Mariners
+2016,79,Reds,Orioles
+2016,79,Twins,Rays
+2016,79,Phillies,Athletics
+2016,79,Pirates,Brewers
+2016,79,Angels,Marlins
+2016,79,Cubs,Mets
+2016,79,Mariners,Astros
+2016,79,Royals,Cardinals
+2016,79,Dodgers,Rockies
+2016,79,Red Sox,Diamondbacks
+2016,79,Giants,Nationals
+2016,79,Padres,Blue Jays
+2016,79,Tigers,Rangers
+2016,79,Braves,White Sox
+2016,79,Yankees,Indians
+2016,80,Marlins,Orioles
+2016,80,Phillies,Reds
+2016,80,Rangers,White Sox
+2016,80,Yankees,Angels
+2016,80,Mariners,Athletics
+2016,80,Giants,Diamondbacks
+2016,80,Padres,Blue Jays
+2016,80,Rockies,Astros
+2016,80,Pirates,Mets
+2016,80,Braves,Dodgers
+2016,80,Nationals,Red Sox
+2016,80,Cardinals,Indians
+2016,80,Rays,Brewers
+2016,80,Royals,Twins
+2016,80,Tigers,Cubs
+2016,81,Rangers,Yankees
+2016,81,Mets,Rockies
+2016,81,Padres,Tigers
+2016,81,Marlins,Dodgers
+2016,81,Pirates,Mariners
+2016,81,Rays,Brewers
+2016,81,Astros,Royals
+2016,81,Cardinals,Reds
+2016,81,Orioles,Blue Jays
+2016,81,Nationals,Giants
+2016,81,Angels,Athletics
+2016,81,Diamondbacks,Phillies
+2016,81,Braves,White Sox
+2016,81,Twins,Red Sox
+2016,81,Cubs,Indians
+2016,82,Royals,Tigers
+2016,82,Blue Jays,Giants
+2016,82,Braves,Astros
+2016,82,Reds,Twins
+2016,82,Athletics,Rockies
+2016,82,Cardinals,Rangers
+2016,82,Pirates,Nationals
+2016,82,Mariners,Orioles
+2016,82,Mets,Indians
+2016,82,Padres,Dodgers
+2016,82,Yankees,White Sox
+2016,82,Marlins,Phillies
+2016,82,Red Sox,Cubs
+2016,82,Diamondbacks,Brewers
+2016,82,Rays,Angels
+2016,83,Brewers,Padres
+2016,83,Indians,Reds
+2016,83,Blue Jays,Yankees
+2016,83,Pirates,Royals
+2016,83,Athletics,Cardinals
+2016,83,Cubs,Mariners
+2016,83,Nationals,Giants
+2016,83,Angels,Rangers
+2016,83,Rays,Twins
+2016,83,Phillies,Red Sox
+2016,83,Mets,Rockies
+2016,83,Tigers,Dodgers
+2016,83,Diamondbacks,Marlins
+2016,83,Orioles,Astros
+2016,83,Braves,White Sox
+2016,84,Braves,Rangers
+2016,84,Mariners,White Sox
+2016,84,Indians,Rays
+2016,84,Angels,Giants
+2016,84,Tigers,Cubs
+2016,84,Twins,Padres
+2016,84,Rockies,Reds
+2016,84,Mets,Nationals
+2016,84,Blue Jays,Marlins
+2016,84,Astros,Phillies
+2016,84,Dodgers,Diamondbacks
+2016,84,Orioles,Athletics
+2016,84,Brewers,Cardinals
+2016,84,Royals,Pirates
+2016,84,Red Sox,Yankees
+2016,85,Mariners,Rays
+2016,85,Cardinals,Red Sox
+2016,85,Royals,Marlins
+2016,85,Braves,Brewers
+2016,85,Mets,Reds
+2016,85,Orioles,Rockies
+2016,85,Phillies,Twins
+2016,85,Blue Jays,White Sox
+2016,85,Yankees,Athletics
+2016,85,Astros,Padres
+2016,85,Tigers,Giants
+2016,85,Diamondbacks,Angels
+2016,85,Dodgers,Nationals
+2016,85,Rangers,Cubs
+2016,85,Pirates,Indians
+2016,86,Giants,Tigers
+2016,86,Red Sox,Diamondbacks
+2016,86,Rangers,Mariners
+2016,86,Athletics,Orioles
+2016,86,Rays,Yankees
+2016,86,Rockies,Braves
+2016,86,Astros,Pirates
+2016,86,Reds,Cubs
+2016,86,Mets,Dodgers
+2016,86,Twins,White Sox
+2016,86,Phillies,Padres
+2016,86,Cardinals,Indians
+2016,86,Angels,Brewers
+2016,86,Marlins,Blue Jays
+2016,86,Nationals,Royals
+2016,87,Red Sox,Cardinals
+2016,87,Pirates,Mariners
+2016,87,Mets,Indians
+2016,87,Braves,Royals
+2016,87,Cubs,Tigers
+2016,87,Orioles,Rockies
+2016,87,Angels,Blue Jays
+2016,87,Yankees,Athletics
+2016,87,Dodgers,White Sox
+2016,87,Phillies,Reds
+2016,87,Padres,Brewers
+2016,87,Astros,Rangers
+2016,87,Rays,Diamondbacks
+2016,87,Twins,Nationals
+2016,87,Giants,Marlins
+2016,88,Pirates,Astros
+2016,88,Padres,Orioles
+2016,88,Rockies,Giants
+2016,88,Rangers,Indians
+2016,88,Blue Jays,Nationals
+2016,88,Royals,Tigers
+2016,88,Marlins,Diamondbacks
+2016,88,Cardinals,Angels
+2016,88,Dodgers,Braves
+2016,88,Mets,Cubs
+2016,88,Brewers,Mariners
+2016,88,White Sox,Red Sox
+2016,88,Athletics,Phillies
+2016,88,Twins,Yankees
+2016,88,Rays,Reds
+2016,89,Phillies,Padres
+2016,89,Royals,Tigers
+2016,89,Rays,Rockies
+2016,89,Mariners,Orioles
+2016,89,Cardinals,Blue Jays
+2016,89,Indians,Cubs
+2016,89,Giants,Astros
+2016,89,Yankees,Diamondbacks
+2016,89,Twins,Mets
+2016,89,Athletics,Braves
+2016,89,Marlins,Nationals
+2016,89,Reds,Red Sox
+2016,89,White Sox,Dodgers
+2016,89,Angels,Rangers
+2016,89,Brewers,Pirates
+2016,90,Yankees,Astros
+2016,90,White Sox,Rockies
+2016,90,Phillies,Diamondbacks
+2016,90,Padres,Rangers
+2016,90,Marlins,Mariners
+2016,90,Nationals,Orioles
+2016,90,Mets,Brewers
+2016,90,Reds,Blue Jays
+2016,90,Dodgers,Pirates
+2016,90,Athletics,Tigers
+2016,90,Royals,Indians
+2016,90,Giants,Rays
+2016,90,Twins,Cardinals
+2016,90,Angels,Cubs
+2016,90,Braves,Red Sox
+2016,91,Blue Jays,Braves
+2016,91,Indians,Red Sox
+2016,91,Astros,Padres
+2016,91,White Sox,Rays
+2016,91,Yankees,Athletics
+2016,91,Dodgers,Cardinals
+2016,91,Orioles,Marlins
+2016,91,Mariners,Reds
+2016,91,Angels,Pirates
+2016,91,Nationals,Phillies
+2016,91,Cubs,Brewers
+2016,91,Tigers,Twins
+2016,91,Rockies,Rangers
+2016,91,Mets,Giants
+2016,91,Diamondbacks,Royals
+2016,92,Athletics,Mariners
+2016,92,Orioles,Twins
+2016,92,Reds,Angels
+2016,92,Cardinals,Nationals
+2016,92,Giants,Indians
+2016,92,Yankees,Blue Jays
+2016,92,Rangers,Mets
+2016,92,Rays,Marlins
+2016,92,Dodgers,Brewers
+2016,92,Braves,Cubs
+2016,92,Astros,Phillies
+2016,92,Tigers,Padres
+2016,92,White Sox,Pirates
+2016,92,Royals,Diamondbacks
+2016,92,Red Sox,Rockies
+2016,93,Mets,Cubs
+2016,93,Rays,White Sox
+2016,93,Braves,Rockies
+2016,93,Tigers,Royals
+2016,93,Red Sox,Rangers
+2016,93,Yankees,Twins
+2016,93,Athletics,Reds
+2016,93,Phillies,Brewers
+2016,93,Indians,Diamondbacks
+2016,93,Orioles,Dodgers
+2016,93,Mariners,Blue Jays
+2016,93,Nationals,Angels
+2016,93,Padres,Marlins
+2016,93,Astros,Cardinals
+2016,93,Giants,Pirates
+2016,94,Pirates,Orioles
+2016,94,White Sox,Mariners
+2016,94,Astros,Cubs
+2016,94,Rockies,Dodgers
+2016,94,Rays,Royals
+2016,94,Indians,Giants
+2016,94,Athletics,Padres
+2016,94,Brewers,Tigers
+2016,94,Rangers,Red Sox
+2016,94,Mets,Twins
+2016,94,Phillies,Angels
+2016,94,Blue Jays,Braves
+2016,94,Reds,Diamondbacks
+2016,94,Nationals,Marlins
+2016,94,Yankees,Cardinals
+2016,95,Angels,Cardinals
+2016,95,Yankees,Mariners
+2016,95,Tigers,Royals
+2016,95,Rangers,Orioles
+2016,95,Blue Jays,Mets
+2016,95,Braves,Rays
+2016,95,Nationals,Diamondbacks
+2016,95,White Sox,Cubs
+2016,95,Brewers,Phillies
+2016,95,Twins,Padres
+2016,95,Reds,Marlins
+2016,95,Indians,Red Sox
+2016,95,Athletics,Pirates
+2016,95,Rockies,Dodgers
+2016,95,Giants,Astros
+2016,96,Rockies,Giants
+2016,96,Braves,Dodgers
+2016,96,Indians,Twins
+2016,96,Yankees,White Sox
+2016,96,Red Sox,Cardinals
+2016,96,Blue Jays,Reds
+2016,96,Mets,Pirates
+2016,96,Rangers,Royals
+2016,96,Tigers,Nationals
+2016,96,Brewers,Marlins
+2016,96,Cubs,Rays
+2016,96,Phillies,Astros
+2016,96,Angels,Padres
+2016,96,Athletics,Orioles
+2016,96,Mariners,Diamondbacks
+2016,97,Braves,Rangers
+2016,97,Angels,Rockies
+2016,97,White Sox,Dodgers
+2016,97,Mets,Red Sox
+2016,97,Brewers,Astros
+2016,97,Pirates,Giants
+2016,97,Orioles,Phillies
+2016,97,Mariners,Tigers
+2016,97,Rays,Reds
+2016,97,Marlins,Diamondbacks
+2016,97,Blue Jays,Cardinals
+2016,97,Padres,Royals
+2016,97,Twins,Nationals
+2016,97,Yankees,Indians
+2016,97,Athletics,Cubs
+2016,98,Diamondbacks,White Sox
+2016,98,Indians,Mets
+2016,98,Astros,Dodgers
+2016,98,Brewers,Cardinals
+2016,98,Twins,Reds
+2016,98,Tigers,Athletics
+2016,98,Royals,Orioles
+2016,98,Rays,Padres
+2016,98,Angels,Rangers
+2016,98,Yankees,Nationals
+2016,98,Rockies,Pirates
+2016,98,Braves,Red Sox
+2016,98,Phillies,Cubs
+2016,98,Mariners,Marlins
+2016,98,Giants,Blue Jays
+2016,99,Dodgers,Reds
+2016,99,Nationals,Rangers
+2016,99,Rays,Indians
+2016,99,Cardinals,Twins
+2016,99,Marlins,Tigers
+2016,99,Cubs,Pirates
+2016,99,Padres,Rockies
+2016,99,White Sox,Giants
+2016,99,Athletics,Orioles
+2016,99,Royals,Brewers
+2016,99,Angels,Yankees
+2016,99,Mets,Red Sox
+2016,99,Braves,Blue Jays
+2016,99,Mariners,Astros
+2016,99,Phillies,Diamondbacks
+2016,100,Cubs,Angels
+2016,100,White Sox,Red Sox
+2016,100,Yankees,Phillies
+2016,100,Braves,Rockies
+2016,100,Cardinals,Padres
+2016,100,Rays,Tigers
+2016,100,Rangers,Giants
+2016,100,Blue Jays,Marlins
+2016,100,Astros,Diamondbacks
+2016,100,Nationals,Indians
+2016,100,Dodgers,Orioles
+2016,100,Reds,Royals
+2016,100,Twins,Pirates
+2016,100,Mariners,Mets
+2016,100,Brewers,Athletics
+2016,101,Royals,Pirates
+2016,101,Rockies,Cardinals
+2016,101,Mariners,Reds
+2016,101,Diamondbacks,Blue Jays
+2016,101,Yankees,Orioles
+2016,101,Braves,Athletics
+2016,101,Red Sox,Tigers
+2016,101,Brewers,Angels
+2016,101,Rays,Cubs
+2016,101,Twins,White Sox
+2016,101,Dodgers,Mets
+2016,101,Giants,Phillies
+2016,101,Rangers,Padres
+2016,101,Nationals,Indians
+2016,101,Marlins,Astros
+2016,102,Rockies,Reds
+2016,102,Rangers,Braves
+2016,102,Diamondbacks,Mets
+2016,102,Nationals,Blue Jays
+2016,102,White Sox,Pirates
+2016,102,Astros,Brewers
+2016,102,Royals,Dodgers
+2016,102,Twins,Orioles
+2016,102,Giants,Marlins
+2016,102,Phillies,Yankees
+2016,102,Angels,Red Sox
+2016,102,Athletics,Indians
+2016,102,Padres,Tigers
+2016,102,Cardinals,Cubs
+2016,102,Rays,Mariners
+2016,103,Padres,Rockies
+2016,103,Mariners,Pirates
+2016,103,Rays,Twins
+2016,103,Blue Jays,Athletics
+2016,103,Nationals,White Sox
+2016,103,Indians,Braves
+2016,103,Marlins,Yankees
+2016,103,Royals,Reds
+2016,103,Astros,Cubs
+2016,103,Phillies,Mets
+2016,103,Brewers,Angels
+2016,103,Cardinals,Diamondbacks
+2016,103,Orioles,Dodgers
+2016,103,Giants,Tigers
+2016,103,Rangers,Red Sox
+2016,104,Mets,Astros
+2016,104,Dodgers,Giants
+2016,104,Cubs,Blue Jays
+2016,104,White Sox,Rangers
+2016,104,Athletics,Brewers
+2016,104,Phillies,Royals
+2016,104,Red Sox,Orioles
+2016,104,Diamondbacks,Angels
+2016,104,Rays,Rockies
+2016,104,Mariners,Cardinals
+2016,104,Yankees,Pirates
+2016,104,Braves,Nationals
+2016,104,Tigers,Marlins
+2016,104,Padres,Twins
+2016,104,Indians,Reds
+2016,105,Rockies,Athletics
+2016,105,Angels,Giants
+2016,105,White Sox,Orioles
+2016,105,Red Sox,Astros
+2016,105,Dodgers,Twins
+2016,105,Brewers,Indians
+2016,105,Blue Jays,Yankees
+2016,105,Braves,Rangers
+2016,105,Cubs,Royals
+2016,105,Mets,Phillies
+2016,105,Tigers,Mariners
+2016,105,Diamondbacks,Cardinals
+2016,105,Padres,Nationals
+2016,105,Pirates,Rays
+2016,105,Reds,Marlins
+2016,106,Diamondbacks,Angels
+2016,106,Brewers,White Sox
+2016,106,Orioles,Nationals
+2016,106,Indians,Royals
+2016,106,Reds,Phillies
+2016,106,Astros,Marlins
+2016,106,Tigers,Twins
+2016,106,Giants,Yankees
+2016,106,Rockies,Cubs
+2016,106,Braves,Athletics
+2016,106,Mariners,Mets
+2016,106,Pirates,Rangers
+2016,106,Red Sox,Padres
+2016,106,Blue Jays,Dodgers
+2016,106,Rays,Cardinals
+2016,107,Angels,Athletics
+2016,107,Astros,Cubs
+2016,107,Giants,Yankees
+2016,107,Braves,Mariners
+2016,107,Cardinals,Indians
+2016,107,Padres,Tigers
+2016,107,Reds,Dodgers
+2016,107,Phillies,Rays
+2016,107,Orioles,Diamondbacks
+2016,107,Rockies,White Sox
+2016,107,Red Sox,Marlins
+2016,107,Twins,Nationals
+2016,107,Blue Jays,Rangers
+2016,107,Brewers,Mets
+2016,107,Pirates,Royals
+2016,108,Cubs,Nationals
+2016,108,Mets,Brewers
+2016,108,Reds,Athletics
+2016,108,Braves,Padres
+2016,108,Indians,Astros
+2016,108,Tigers,Dodgers
+2016,108,Pirates,Twins
+2016,108,Rockies,Rangers
+2016,108,Giants,Cardinals
+2016,108,Angels,Blue Jays
+2016,108,Red Sox,White Sox
+2016,108,Royals,Diamondbacks
+2016,108,Phillies,Rays
+2016,108,Orioles,Marlins
+2016,108,Yankees,Mariners
+2016,109,Rays,Mariners
+2016,109,Red Sox,Indians
+2016,109,Rockies,Diamondbacks
+2016,109,Rangers,Marlins
+2016,109,Royals,White Sox
+2016,109,Giants,Pirates
+2016,109,Mets,Cubs
+2016,109,Padres,Nationals
+2016,109,Cardinals,Yankees
+2016,109,Astros,Brewers
+2016,109,Athletics,Braves
+2016,109,Reds,Dodgers
+2016,109,Blue Jays,Tigers
+2016,109,Twins,Angels
+2016,109,Orioles,Phillies
+2016,110,Yankees,Indians
+2016,110,White Sox,Mariners
+2016,110,Dodgers,Orioles
+2016,110,Pirates,Twins
+2016,110,Phillies,Diamondbacks
+2016,110,Rangers,Astros
+2016,110,Braves,Blue Jays
+2016,110,Rays,Tigers
+2016,110,Brewers,Red Sox
+2016,110,Angels,Nationals
+2016,110,Cubs,Cardinals
+2016,110,Reds,Padres
+2016,110,Mets,Marlins
+2016,110,Athletics,Rockies
+2016,110,Royals,Giants
+2016,111,Twins,Rays
+2016,111,Mariners,Nationals
+2016,111,Tigers,Giants
+2016,111,Red Sox,Pirates
+2016,111,Diamondbacks,Reds
+2016,111,Cubs,Rangers
+2016,111,Brewers,Padres
+2016,111,Indians,Rockies
+2016,111,Astros,Angels
+2016,111,Orioles,Dodgers
+2016,111,Cardinals,Blue Jays
+2016,111,Phillies,Royals
+2016,111,Braves,Mets
+2016,111,Marlins,Athletics
+2016,111,White Sox,Yankees
+2016,112,Brewers,Mariners
+2016,112,Athletics,Rays
+2016,112,Rangers,White Sox
+2016,112,Twins,Angels
+2016,112,Cardinals,Indians
+2016,112,Marlins,Reds
+2016,112,Diamondbacks,Mets
+2016,112,Dodgers,Astros
+2016,112,Blue Jays,Giants
+2016,112,Red Sox,Phillies
+2016,112,Pirates,Rockies
+2016,112,Cubs,Nationals
+2016,112,Padres,Braves
+2016,112,Tigers,Yankees
+2016,112,Orioles,Royals
+2016,113,Orioles,Giants
+2016,113,Dodgers,Cubs
+2016,113,Pirates,Angels
+2016,113,Nationals,Marlins
+2016,113,White Sox,Brewers
+2016,113,Yankees,Braves
+2016,113,Tigers,Cardinals
+2016,113,Padres,Twins
+2016,113,Mariners,Indians
+2016,113,Reds,Rays
+2016,113,Rangers,Athletics
+2016,113,Mets,Blue Jays
+2016,113,Red Sox,Astros
+2016,113,Phillies,Rockies
+2016,113,Royals,Diamondbacks
+2016,114,Cubs,Phillies
+2016,114,Blue Jays,Nationals
+2016,114,White Sox,Dodgers
+2016,114,Pirates,Rockies
+2016,114,Twins,Diamondbacks
+2016,114,Indians,Angels
+2016,114,Cardinals,Orioles
+2016,114,Brewers,Giants
+2016,114,Royals,Mets
+2016,114,Mariners,Red Sox
+2016,114,Yankees,Athletics
+2016,114,Astros,Reds
+2016,114,Rangers,Rays
+2016,114,Braves,Marlins
+2016,114,Tigers,Padres
+2016,115,Astros,White Sox
+2016,115,Twins,Indians
+2016,115,Yankees,Blue Jays
+2016,115,Giants,Reds
+2016,115,Athletics,Phillies
+2016,115,Mets,Padres
+2016,115,Cardinals,Angels
+2016,115,Mariners,Cubs
+2016,115,Nationals,Rangers
+2016,115,Red Sox,Diamondbacks
+2016,115,Brewers,Braves
+2016,115,Dodgers,Royals
+2016,115,Pirates,Rockies
+2016,115,Rays,Marlins
+2016,115,Tigers,Orioles
+2016,116,Yankees,Royals
+2016,116,Orioles,Athletics
+2016,116,Tigers,Diamondbacks
+2016,116,Giants,Blue Jays
+2016,116,Dodgers,Padres
+2016,116,Nationals,Astros
+2016,116,Indians,Twins
+2016,116,White Sox,Red Sox
+2016,116,Angels,Rays
+2016,116,Rangers,Mets
+2016,116,Braves,Cubs
+2016,116,Phillies,Rockies
+2016,116,Reds,Pirates
+2016,116,Cardinals,Brewers
+2016,116,Marlins,Mariners
+2016,117,Red Sox,Rangers
+2016,117,Mets,Astros
+2016,117,Royals,Indians
+2016,117,Rays,Marlins
+2016,117,Braves,Padres
+2016,117,Tigers,White Sox
+2016,117,Dodgers,Yankees
+2016,117,Cubs,Angels
+2016,117,Athletics,Diamondbacks
+2016,117,Cardinals,Nationals
+2016,117,Reds,Blue Jays
+2016,117,Giants,Rockies
+2016,117,Brewers,Mariners
+2016,117,Orioles,Twins
+2016,117,Phillies,Pirates
+2016,118,Red Sox,Brewers
+2016,118,Reds,Braves
+2016,118,Cardinals,Rays
+2016,118,Nationals,Orioles
+2016,118,Padres,Pirates
+2016,118,Phillies,Rockies
+2016,118,Diamondbacks,White Sox
+2016,118,Blue Jays,Rangers
+2016,118,Angels,Athletics
+2016,118,Indians,Yankees
+2016,118,Giants,Royals
+2016,118,Mets,Cubs
+2016,118,Astros,Dodgers
+2016,118,Mariners,Tigers
+2016,118,Marlins,Twins
+2016,119,Athletics,Rays
+2016,119,Braves,Diamondbacks
+2016,119,Yankees,Cubs
+2016,119,Blue Jays,Red Sox
+2016,119,Tigers,Mariners
+2016,119,Marlins,Reds
+2016,119,Padres,Brewers
+2016,119,Pirates,Cardinals
+2016,119,Rangers,Mets
+2016,119,Orioles,Dodgers
+2016,119,Angels,Rockies
+2016,119,Twins,Giants
+2016,119,Astros,White Sox
+2016,119,Nationals,Indians
+2016,119,Phillies,Royals
+2016,120,Orioles,Red Sox
+2016,120,Astros,Yankees
+2016,120,Cubs,Phillies
+2016,120,Twins,Royals
+2016,120,Athletics,Pirates
+2016,120,Blue Jays,Rangers
+2016,120,Rays,Tigers
+2016,120,Nationals,Marlins
+2016,120,Diamondbacks,Reds
+2016,120,Giants,Mets
+2016,120,Indians,Angels
+2016,120,Cardinals,Rockies
+2016,120,Brewers,Padres
+2016,120,Braves,Mariners
+2016,120,Dodgers,White Sox
+2016,121,Yankees,Astros
+2016,121,Rays,Brewers
+2016,121,Orioles,Cubs
+2016,121,White Sox,Giants
+2016,121,Red Sox,Nationals
+2016,121,Athletics,Twins
+2016,121,Mets,Rangers
+2016,121,Rockies,Royals
+2016,121,Angels,Phillies
+2016,121,Indians,Padres
+2016,121,Dodgers,Diamondbacks
+2016,121,Tigers,Marlins
+2016,121,Braves,Pirates
+2016,121,Reds,Cardinals
+2016,121,Mariners,Blue Jays
+2016,122,Royals,White Sox
+2016,122,Twins,Mets
+2016,122,Blue Jays,Braves
+2016,122,Giants,Nationals
+2016,122,Pirates,Cubs
+2016,122,Dodgers,Padres
+2016,122,Rays,Mariners
+2016,122,Reds,Tigers
+2016,122,Athletics,Angels
+2016,122,Phillies,Cardinals
+2016,122,Orioles,Rockies
+2016,122,Rangers,Red Sox
+2016,122,Brewers,Diamondbacks
+2016,122,Astros,Yankees
+2016,122,Indians,Marlins
+2016,123,Blue Jays,Indians
+2016,123,Marlins,Cubs
+2016,123,Twins,Dodgers
+2016,123,Tigers,Angels
+2016,123,Yankees,Cardinals
+2016,123,Phillies,Braves
+2016,123,Rangers,Athletics
+2016,123,Giants,White Sox
+2016,123,Mariners,Reds
+2016,123,Rockies,Nationals
+2016,123,Orioles,Red Sox
+2016,123,Brewers,Mets
+2016,123,Pirates,Rays
+2016,123,Diamondbacks,Padres
+2016,123,Astros,Royals
+2016,124,Marlins,Athletics
+2016,124,Royals,Blue Jays
+2016,124,Brewers,Mets
+2016,124,Pirates,Orioles
+2016,124,Nationals,Rays
+2016,124,Cardinals,Diamondbacks
+2016,124,Dodgers,Rockies
+2016,124,Mariners,Red Sox
+2016,124,Indians,Phillies
+2016,124,Twins,Giants
+2016,124,Yankees,Angels
+2016,124,Reds,Astros
+2016,124,Tigers,Braves
+2016,124,Rangers,Cubs
+2016,124,Padres,White Sox
+2016,125,Angels,Braves
+2016,125,Astros,Giants
+2016,125,Blue Jays,Rays
+2016,125,Indians,Cubs
+2016,125,Yankees,Padres
+2016,125,Rockies,Twins
+2016,125,Nationals,Phillies
+2016,125,Dodgers,Athletics
+2016,125,Tigers,Mariners
+2016,125,Royals,Diamondbacks
+2016,125,Cardinals,White Sox
+2016,125,Marlins,Orioles
+2016,125,Red Sox,Mets
+2016,125,Reds,Rangers
+2016,125,Brewers,Pirates
+2016,126,Rays,Orioles
+2016,126,Tigers,Twins
+2016,126,Rangers,Brewers
+2016,126,Mariners,Royals
+2016,126,Reds,White Sox
+2016,126,Rockies,Marlins
+2016,126,Athletics,Cubs
+2016,126,Angels,Mets
+2016,126,Pirates,Dodgers
+2016,126,Nationals,Red Sox
+2016,126,Yankees,Giants
+2016,126,Phillies,Blue Jays
+2016,126,Cardinals,Diamondbacks
+2016,126,Braves,Padres
+2016,126,Indians,Astros
+2016,127,Indians,Yankees
+2016,127,Cardinals,Rangers
+2016,127,Giants,Astros
+2016,127,Braves,Red Sox
+2016,127,Tigers,Mariners
+2016,127,Marlins,Cubs
+2016,127,Mets,Brewers
+2016,127,Pirates,Twins
+2016,127,Nationals,Phillies
+2016,127,Athletics,Blue Jays
+2016,127,Padres,Royals
+2016,127,Orioles,White Sox
+2016,127,Diamondbacks,Dodgers
+2016,127,Reds,Rays
+2016,127,Rockies,Angels
+2016,128,Astros,Rangers
+2016,128,Marlins,Indians
+2016,128,Royals,Blue Jays
+2016,128,Red Sox,Rays
+2016,128,Dodgers,White Sox
+2016,128,Twins,Athletics
+2016,128,Nationals,Braves
+2016,128,Cardinals,Rockies
+2016,128,Brewers,Pirates
+2016,128,Giants,Angels
+2016,128,Cubs,Diamondbacks
+2016,128,Orioles,Mets
+2016,128,Padres,Reds
+2016,128,Mariners,Phillies
+2016,128,Tigers,Yankees
+2016,129,Dodgers,Braves
+2016,129,White Sox,Mariners
+2016,129,Diamondbacks,Reds
+2016,129,Red Sox,Phillies
+2016,129,Indians,Nationals
+2016,129,Mets,Cardinals
+2016,129,Brewers,Angels
+2016,129,Yankees,Marlins
+2016,129,Padres,Tigers
+2016,129,Twins,Astros
+2016,129,Royals,Athletics
+2016,129,Orioles,Rangers
+2016,129,Rays,Cubs
+2016,129,Rockies,Blue Jays
+2016,129,Pirates,Giants
+2016,130,Twins,White Sox
+2016,130,Giants,Tigers
+2016,130,Pirates,Phillies
+2016,130,Indians,Dodgers
+2016,130,Cardinals,Rockies
+2016,130,Diamondbacks,Blue Jays
+2016,130,Reds,Mariners
+2016,130,Padres,Red Sox
+2016,130,Mets,Braves
+2016,130,Angels,Athletics
+2016,130,Orioles,Astros
+2016,130,Rays,Royals
+2016,130,Cubs,Brewers
+2016,130,Nationals,Yankees
+2016,130,Marlins,Rangers
+2016,131,Rangers,Phillies
+2016,131,Nationals,Red Sox
+2016,131,Royals,Athletics
+2016,131,Astros,Tigers
+2016,131,Brewers,Dodgers
+2016,131,Mets,Cubs
+2016,131,Orioles,Reds
+2016,131,Rays,Indians
+2016,131,Braves,Diamondbacks
+2016,131,Rockies,Cardinals
+2016,131,Padres,Twins
+2016,131,White Sox,Mariners
+2016,131,Giants,Marlins
+2016,131,Yankees,Pirates
+2016,131,Blue Jays,Angels
+2016,132,Pirates,White Sox
+2016,132,Twins,Mets
+2016,132,Brewers,Reds
+2016,132,Blue Jays,Mariners
+2016,132,Braves,Royals
+2016,132,Giants,Cardinals
+2016,132,Nationals,Phillies
+2016,132,Rangers,Indians
+2016,132,Red Sox,Rockies
+2016,132,Orioles,Astros
+2016,132,Angels,Dodgers
+2016,132,Rays,Tigers
+2016,132,Cubs,Athletics
+2016,132,Marlins,Padres
+2016,132,Diamondbacks,Yankees
+2016,133,Cardinals,Tigers
+2016,133,Cubs,Dodgers
+2016,133,Rangers,Blue Jays
+2016,133,Orioles,Braves
+2016,133,Brewers,Pirates
+2016,133,Indians,Phillies
+2016,133,Mets,Padres
+2016,133,Astros,Athletics
+2016,133,Mariners,Red Sox
+2016,133,White Sox,Giants
+2016,133,Rays,Marlins
+2016,133,Angels,Royals
+2016,133,Rockies,Diamondbacks
+2016,133,Yankees,Twins
+2016,133,Reds,Nationals
+2016,134,Mets,Orioles
+2016,134,Tigers,Angels
+2016,134,Rangers,Rockies
+2016,134,Blue Jays,Mariners
+2016,134,Cubs,White Sox
+2016,134,Rays,Royals
+2016,134,Yankees,Braves
+2016,134,Reds,Nationals
+2016,134,Dodgers,Twins
+2016,134,Cardinals,Giants
+2016,134,Indians,Marlins
+2016,134,Brewers,Astros
+2016,134,Padres,Red Sox
+2016,134,Diamondbacks,Athletics
+2016,134,Phillies,Pirates
+2016,135,White Sox,Yankees
+2016,135,Rockies,Twins
+2016,135,Tigers,Mets
+2016,135,Phillies,Giants
+2016,135,Athletics,Indians
+2016,135,Mariners,Braves
+2016,135,Rangers,Diamondbacks
+2016,135,Padres,Rays
+2016,135,Dodgers,Orioles
+2016,135,Red Sox,Cubs
+2016,135,Cardinals,Reds
+2016,135,Nationals,Angels
+2016,135,Brewers,Astros
+2016,135,Pirates,Royals
+2016,135,Marlins,Blue Jays
+2016,136,Angels,Rangers
+2016,136,Cardinals,Athletics
+2016,136,Marlins,Cubs
+2016,136,Diamondbacks,Yankees
+2016,136,Orioles,Padres
+2016,136,Mets,Dodgers
+2016,136,Rays,Astros
+2016,136,Rockies,Giants
+2016,136,Indians,Pirates
+2016,136,Nationals,White Sox
+2016,136,Reds,Blue Jays
+2016,136,Red Sox,Brewers
+2016,136,Twins,Phillies
+2016,136,Royals,Tigers
+2016,136,Braves,Mariners
+2016,137,Mariners,Rangers
+2016,137,Nationals,Blue Jays
+2016,137,Cardinals,Braves
+2016,137,Mets,Rockies
+2016,137,Tigers,Pirates
+2016,137,Dodgers,White Sox
+2016,137,Yankees,Brewers
+2016,137,Diamondbacks,Angels
+2016,137,Astros,Red Sox
+2016,137,Royals,Twins
+2016,137,Padres,Indians
+2016,137,Marlins,Reds
+2016,137,Athletics,Cubs
+2016,137,Phillies,Orioles
+2016,137,Giants,Rays
+2016,138,Yankees,Athletics
+2016,138,Royals,Mariners
+2016,138,Angels,Orioles
+2016,138,Phillies,Diamondbacks
+2016,138,Braves,Twins
+2016,138,Marlins,Padres
+2016,138,Dodgers,Pirates
+2016,138,Cubs,Rockies
+2016,138,Indians,Red Sox
+2016,138,Cardinals,Blue Jays
+2016,138,Giants,Rangers
+2016,138,Mets,Rays
+2016,138,Astros,Reds
+2016,138,Tigers,Brewers
+2016,138,White Sox,Nationals
+2016,139,Athletics,Diamondbacks
+2016,139,Tigers,Brewers
+2016,139,Reds,Cardinals
+2016,139,Padres,Indians
+2016,139,Phillies,Rangers
+2016,139,Royals,Astros
+2016,139,Mets,Nationals
+2016,139,Yankees,Blue Jays
+2016,139,Braves,Dodgers
+2016,139,Giants,Twins
+2016,139,Cubs,Angels
+2016,139,Pirates,White Sox
+2016,139,Orioles,Rockies
+2016,139,Marlins,Red Sox
+2016,139,Rays,Mariners
+2016,140,Nationals,Astros
+2016,140,Cardinals,Blue Jays
+2016,140,White Sox,Yankees
+2016,140,Braves,Mets
+2016,140,Tigers,Indians
+2016,140,Brewers,Cubs
+2016,140,Rockies,Twins
+2016,140,Angels,Rays
+2016,140,Giants,Padres
+2016,140,Red Sox,Orioles
+2016,140,Dodgers,Reds
+2016,140,Athletics,Mariners
+2016,140,Royals,Pirates
+2016,140,Rangers,Phillies
+2016,140,Marlins,Diamondbacks
+2016,141,Mets,Orioles
+2016,141,Angels,Pirates
+2016,141,Tigers,Red Sox
+2016,141,Nationals,Astros
+2016,141,Blue Jays,Mariners
+2016,141,Cubs,Cardinals
+2016,141,Diamondbacks,Yankees
+2016,141,Rays,Marlins
+2016,141,Braves,Padres
+2016,141,Phillies,Twins
+2016,141,Reds,Athletics
+2016,141,Indians,Brewers
+2016,141,Dodgers,Rangers
+2016,141,Rockies,Giants
+2016,141,Royals,White Sox
+2016,142,White Sox,Rockies
+2016,142,Nationals,Mets
+2016,142,Braves,Twins
+2016,142,Royals,Giants
+2016,142,Cardinals,Diamondbacks
+2016,142,Mariners,Dodgers
+2016,142,Brewers,Pirates
+2016,142,Red Sox,Athletics
+2016,142,Blue Jays,Reds
+2016,142,Rangers,Marlins
+2016,142,Indians,Phillies
+2016,142,Padres,Cubs
+2016,142,Orioles,Yankees
+2016,142,Tigers,Angels
+2016,142,Astros,Rays
+2016,143,White Sox,Mariners
+2016,143,Nationals,Yankees
+2016,143,Rangers,Cardinals
+2016,143,Angels,Diamondbacks
+2016,143,Dodgers,Padres
+2016,143,Giants,Marlins
+2016,143,Braves,Tigers
+2016,143,Orioles,Athletics
+2016,143,Brewers,Rockies
+2016,143,Reds,Pirates
+2016,143,Mets,Blue Jays
+2016,143,Royals,Red Sox
+2016,143,Cubs,Twins
+2016,143,Phillies,Indians
+2016,143,Astros,Rays
+2016,144,Rays,Nationals
+2016,144,Rangers,Mets
+2016,144,Yankees,Orioles
+2016,144,Blue Jays,White Sox
+2016,144,Indians,Giants
+2016,144,Rockies,Padres
+2016,144,Phillies,Angels
+2016,144,Dodgers,Marlins
+2016,144,Brewers,Reds
+2016,144,Pirates,Athletics
+2016,144,Tigers,Astros
+2016,144,Royals,Cubs
+2016,144,Cardinals,Braves
+2016,144,Diamondbacks,Twins
+2016,144,Mariners,Red Sox
+2016,145,Athletics,Astros
+2016,145,Rockies,Cubs
+2016,145,Blue Jays,Tigers
+2016,145,Rangers,Yankees
+2016,145,Brewers,Cardinals
+2016,145,Phillies,Angels
+2016,145,Braves,Red Sox
+2016,145,Dodgers,Pirates
+2016,145,Indians,Royals
+2016,145,Diamondbacks,Marlins
+2016,145,Orioles,Mets
+2016,145,White Sox,Mariners
+2016,145,Padres,Reds
+2016,145,Nationals,Twins
+2016,145,Rays,Giants
+2016,146,Orioles,Rangers
+2016,146,Giants,Marlins
+2016,146,Braves,Cubs
+2016,146,White Sox,Twins
+2016,146,Nationals,Red Sox
+2016,146,Blue Jays,Dodgers
+2016,146,Reds,Phillies
+2016,146,Athletics,Astros
+2016,146,Royals,Pirates
+2016,146,Angels,Brewers
+2016,146,Indians,Padres
+2016,146,Rays,Tigers
+2016,146,Rockies,Cardinals
+2016,146,Diamondbacks,Mets
+2016,146,Yankees,Mariners
+2016,147,Red Sox,Royals
+2016,147,Phillies,Marlins
+2016,147,Yankees,Brewers
+2016,147,Tigers,Braves
+2016,147,Cubs,Blue Jays
+2016,147,Twins,Cardinals
+2016,147,Pirates,Padres
+2016,147,Mets,Diamondbacks
+2016,147,Giants,Mariners
+2016,147,Rangers,Athletics
+2016,147,Dodgers,Reds
+2016,147,Indians,Astros
+2016,147,Nationals,Rockies
+2016,147,White Sox,Angels
+2016,147,Orioles,Rays
+2016,148,Blue Jays,Orioles
+2016,148,Dodgers,Braves
+2016,148,Nationals,Rangers
+2016,148,Padres,Phillies
+2016,148,Athletics,Red Sox
+2016,148,Twins,Yankees
+2016,148,Astros,Diamondbacks
+2016,148,Rays,Brewers
+2016,148,Cardinals,Giants
+2016,148,Royals,Cubs
+2016,148,Angels,Pirates
+2016,148,Rockies,Tigers
+2016,148,Indians,Mets
+2016,148,Marlins,Mariners
+2016,148,Reds,White Sox
+2016,149,Yankees,Padres
+2016,149,Phillies,Cubs
+2016,149,Nationals,Braves
+2016,149,Reds,Tigers
+2016,149,Indians,Dodgers
+2016,149,White Sox,Rays
+2016,149,Twins,Astros
+2016,149,Diamondbacks,Brewers
+2016,149,Red Sox,Orioles
+2016,149,Royals,Pirates
+2016,149,Athletics,Mets
+2016,149,Angels,Rangers
+2016,149,Giants,Blue Jays
+2016,149,Marlins,Cardinals
+2016,149,Rockies,Mariners
+2016,150,Pirates,Orioles
+2016,150,White Sox,Reds
+2016,150,Cubs,Cardinals
+2016,150,Brewers,Rays
+2016,150,Marlins,Indians
+2016,150,Blue Jays,Rockies
+2016,150,Phillies,Astros
+2016,150,Rangers,Mets
+2016,150,Red Sox,Nationals
+2016,150,Athletics,Mariners
+2016,150,Diamondbacks,Yankees
+2016,150,Royals,Braves
+2016,150,Padres,Twins
+2016,150,Tigers,Dodgers
+2016,150,Giants,Angels
+2016,151,Padres,Astros
+2016,151,Orioles,Pirates
+2016,151,Diamondbacks,Rockies
+2016,151,Angels,Reds
+2016,151,Dodgers,Giants
+2016,151,Indians,Brewers
+2016,151,Yankees,Marlins
+2016,151,White Sox,Rays
+2016,151,Twins,Royals
+2016,151,Mets,Nationals
+2016,151,Rangers,Mariners
+2016,151,Red Sox,Cardinals
+2016,151,Tigers,Athletics
+2016,151,Blue Jays,Phillies
+2016,151,Cubs,Braves
+2016,152,Dodgers,Padres
+2016,152,Rays,Diamondbacks
+2016,152,Mariners,Athletics
+2016,152,Phillies,Indians
+2016,152,Tigers,White Sox
+2016,152,Rockies,Pirates
+2016,152,Marlins,Rangers
+2016,152,Cardinals,Brewers
+2016,152,Reds,Giants
+2016,152,Braves,Cubs
+2016,152,Angels,Twins
+2016,152,Blue Jays,Astros
+2016,152,Nationals,Red Sox
+2016,152,Yankees,Royals
+2016,152,Orioles,Mets
+2016,153,Mets,Astros
+2016,153,Rockies,Braves
+2016,153,Marlins,Red Sox
+2016,153,Rays,Pirates
+2016,153,Athletics,Brewers
+2016,153,Giants,Yankees
+2016,153,Dodgers,Angels
+2016,153,Padres,Orioles
+2016,153,Twins,Diamondbacks
+2016,153,Mariners,Royals
+2016,153,Indians,Phillies
+2016,153,Rangers,Tigers
+2016,153,Cardinals,White Sox
+2016,153,Blue Jays,Cubs
+2016,153,Nationals,Reds
+2016,154,Mets,Dodgers
+2016,154,Mariners,Twins
+2016,154,Reds,Cubs
+2016,154,Astros,Orioles
+2016,154,Royals,Phillies
+2016,154,Rays,Yankees
+2016,154,Indians,Padres
+2016,154,Brewers,Red Sox
+2016,154,Athletics,Angels
+2016,154,Blue Jays,Diamondbacks
+2016,154,Braves,Cardinals
+2016,154,White Sox,Nationals
+2016,154,Rockies,Tigers
+2016,154,Marlins,Rangers
+2016,154,Pirates,Giants
+2016,155,Dodgers,Diamondbacks
+2016,155,Rays,Braves
+2016,155,Padres,Phillies
+2016,155,Yankees,Blue Jays
+2016,155,Indians,Marlins
+2016,155,Astros,Red Sox
+2016,155,Reds,Angels
+2016,155,Rockies,Pirates
+2016,155,Mets,Rangers
+2016,155,Royals,Mariners
+2016,155,Brewers,Tigers
+2016,155,Nationals,Twins
+2016,155,Athletics,White Sox
+2016,155,Cardinals,Orioles
+2016,155,Cubs,Giants
+2016,156,Dodgers,Cardinals
+2016,156,White Sox,Braves
+2016,156,Angels,Pirates
+2016,156,Rangers,Orioles
+2016,156,Indians,Royals
+2016,156,Phillies,Twins
+2016,156,Blue Jays,Giants
+2016,156,Yankees,Brewers
+2016,156,Tigers,Padres
+2016,156,Cubs,Mets
+2016,156,Reds,Athletics
+2016,156,Astros,Marlins
+2016,156,Rockies,Diamondbacks
+2016,156,Red Sox,Mariners
+2016,156,Rays,Nationals
+2016,157,Twins,Brewers
+2016,157,Rangers,Padres
+2016,157,Pirates,Astros
+2016,157,Red Sox,Mets
+2016,157,Angels,Rays
+2016,157,Tigers,Diamondbacks
+2016,157,Dodgers,Orioles
+2016,157,Cardinals,Nationals
+2016,157,Indians,Giants
+2016,157,Braves,Marlins
+2016,157,Royals,Cubs
+2016,157,White Sox,Yankees
+2016,157,Reds,Phillies
+2016,157,Athletics,Rockies
+2016,157,Blue Jays,Mariners
+2016,158,Yankees,Angels
+2016,158,Mariners,Astros
+2016,158,Phillies,Blue Jays
+2016,158,Indians,Reds
+2016,158,Athletics,Giants
+2016,158,Diamondbacks,Marlins
+2016,158,Tigers,White Sox
+2016,158,Nationals,Rockies
+2016,158,Red Sox,Dodgers
+2016,158,Cubs,Rays
+2016,158,Padres,Mets
+2016,158,Pirates,Orioles
+2016,158,Royals,Braves
+2016,158,Twins,Rangers
+2016,158,Brewers,Cardinals
+2016,159,Reds,Royals
+2016,159,Braves,Nationals
+2016,159,Brewers,Mets
+2016,159,Twins,Rockies
+2016,159,Red Sox,Rays
+2016,159,Pirates,Indians
+2016,159,Mariners,Athletics
+2016,159,Dodgers,Yankees
+2016,159,Angels,Giants
+2016,159,Diamondbacks,Phillies
+2016,159,White Sox,Tigers
+2016,159,Cardinals,Orioles
+2016,159,Cubs,Rangers
+2016,159,Marlins,Astros
+2016,159,Padres,Blue Jays
+2016,160,Nationals,Phillies
+2016,160,Athletics,Blue Jays
+2016,160,White Sox,Braves
+2016,160,Cubs,Reds
+2016,160,Diamondbacks,Rockies
+2016,160,Mariners,Rays
+2016,160,Giants,Royals
+2016,160,Dodgers,Indians
+2016,160,Mets,Marlins
+2016,160,Rangers,Angels
+2016,160,Yankees,Astros
+2016,160,Cardinals,Tigers
+2016,160,Twins,Orioles
+2016,160,Red Sox,Pirates
+2016,160,Padres,Brewers
+2016,161,Rockies,Dodgers
+2016,161,Tigers,Giants
+2016,161,Angels,Blue Jays
+2016,161,Yankees,Nationals
+2016,161,Astros,Phillies
+2016,161,Twins,Royals
+2016,161,Red Sox,Braves
+2016,161,Pirates,Mariners
+2016,161,Diamondbacks,Padres
+2016,161,Rangers,White Sox
+2016,161,Cardinals,Mets
+2016,161,Orioles,Athletics
+2016,161,Brewers,Cubs
+2016,161,Reds,Marlins
+2016,161,Rays,Indians
+2016,162,Reds,Red Sox
+2016,162,Nationals,Marlins
+2016,162,Cardinals,Rockies
+2016,162,Indians,Giants
+2016,162,Braves,Phillies
+2016,162,Rays,Mets
+2016,162,Padres,Athletics
+2016,162,Brewers,Mariners
+2016,162,Twins,Yankees
+2016,162,Tigers,Angels
+2016,162,White Sox,Astros
+2016,162,Royals,Orioles
+2016,162,Diamondbacks,Blue Jays
+2016,162,Cubs,Pirates
+2016,162,Dodgers,Rangers

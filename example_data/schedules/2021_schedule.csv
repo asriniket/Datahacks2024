@@ -1,0 +1,2431 @@
+Year,day,home_team_name,away_team_name
+2021,1,White Sox,Twins
+2021,1,Royals,Padres
+2021,1,Athletics,Reds
+2021,1,Marlins,Nationals
+2021,1,Angels,Braves
+2021,1,Brewers,Rangers
+2021,1,Rockies,Tigers
+2021,1,Indians,Mets
+2021,1,Astros,Pirates
+2021,1,Cubs,Orioles
+2021,1,Blue Jays,Diamondbacks
+2021,1,Rays,Phillies
+2021,1,Giants,Red Sox
+2021,1,Yankees,Mariners
+2021,1,Dodgers,Cardinals
+2021,2,Rockies,Twins
+2021,2,Orioles,Tigers
+2021,2,Phillies,Marlins
+2021,2,Giants,Astros
+2021,2,Nationals,Brewers
+2021,2,Cardinals,Padres
+2021,2,Angels,Athletics
+2021,2,Blue Jays,Dodgers
+2021,2,Mets,Indians
+2021,2,Cubs,Rays
+2021,2,Yankees,Braves
+2021,2,White Sox,Rangers
+2021,2,Reds,Red Sox
+2021,2,Royals,Mariners
+2021,2,Pirates,Diamondbacks
+2021,3,Phillies,Yankees
+2021,3,Mariners,Rangers
+2021,3,Marlins,Padres
+2021,3,Royals,Rays
+2021,3,Dodgers,Red Sox
+2021,3,Angels,Brewers
+2021,3,Blue Jays,Astros
+2021,3,Pirates,Twins
+2021,3,Diamondbacks,White Sox
+2021,3,Braves,Nationals
+2021,3,Tigers,Reds
+2021,3,Indians,Cubs
+2021,3,Athletics,Rockies
+2021,3,Giants,Mets
+2021,3,Orioles,Cardinals
+2021,4,Pirates,Padres
+2021,4,Brewers,Tigers
+2021,4,Giants,Rockies
+2021,4,Cardinals,Mets
+2021,4,Mariners,Cubs
+2021,4,Royals,Blue Jays
+2021,4,Yankees,Athletics
+2021,4,Indians,White Sox
+2021,4,Rangers,Dodgers
+2021,4,Orioles,Nationals
+2021,4,Diamondbacks,Red Sox
+2021,4,Marlins,Angels
+2021,4,Twins,Astros
+2021,4,Phillies,Rays
+2021,4,Braves,Reds
+2021,5,Diamondbacks,Padres
+2021,5,Giants,Brewers
+2021,5,Marlins,Astros
+2021,5,Cardinals,Tigers
+2021,5,Red Sox,Mariners
+2021,5,Phillies,Orioles
+2021,5,Twins,White Sox
+2021,5,Reds,Yankees
+2021,5,Nationals,Blue Jays
+2021,5,Angels,Mets
+2021,5,Braves,Rockies
+2021,5,Royals,Rays
+2021,5,Dodgers,Indians
+2021,5,Cubs,Athletics
+2021,5,Rangers,Pirates
+2021,6,Cardinals,Braves
+2021,6,Mets,Brewers
+2021,6,Yankees,Pirates
+2021,6,Astros,Dodgers
+2021,6,Rangers,Padres
+2021,6,White Sox,Phillies
+2021,6,Athletics,Mariners
+2021,6,Marlins,Red Sox
+2021,6,Blue Jays,Nationals
+2021,6,Twins,Rockies
+2021,6,Rays,Indians
+2021,6,Royals,Orioles
+2021,6,Cubs,Angels
+2021,6,Giants,Diamondbacks
+2021,6,Reds,Tigers
+2021,7,White Sox,Rays
+2021,7,Orioles,Padres
+2021,7,Royals,Athletics
+2021,7,Indians,Astros
+2021,7,Pirates,Reds
+2021,7,Rangers,Angels
+2021,7,Blue Jays,Yankees
+2021,7,Red Sox,Mets
+2021,7,Nationals,Marlins
+2021,7,Braves,Diamondbacks
+2021,7,Twins,Cardinals
+2021,7,Dodgers,Tigers
+2021,7,Brewers,Giants
+2021,7,Cubs,Phillies
+2021,7,Rockies,Mariners
+2021,8,Tigers,Astros
+2021,8,Red Sox,Reds
+2021,8,Rays,Blue Jays
+2021,8,Dodgers,Braves
+2021,8,Phillies,Athletics
+2021,8,Twins,Giants
+2021,8,Nationals,Marlins
+2021,8,Yankees,Royals
+2021,8,Rockies,Indians
+2021,8,Diamondbacks,Brewers
+2021,8,Pirates,Angels
+2021,8,Mariners,Cardinals
+2021,8,White Sox,Cubs
+2021,8,Rangers,Padres
+2021,8,Orioles,Mets
+2021,9,Red Sox,Indians
+2021,9,Marlins,Nationals
+2021,9,White Sox,Astros
+2021,9,Cardinals,Mariners
+2021,9,Tigers,Royals
+2021,9,Padres,Cubs
+2021,9,Reds,Giants
+2021,9,Rockies,Diamondbacks
+2021,9,Athletics,Rays
+2021,9,Pirates,Orioles
+2021,9,Twins,Phillies
+2021,9,Mets,Angels
+2021,9,Dodgers,Brewers
+2021,9,Blue Jays,Yankees
+2021,9,Braves,Rangers
+2021,10,White Sox,Pirates
+2021,10,Mariners,Dodgers
+2021,10,Braves,Nationals
+2021,10,Rockies,Athletics
+2021,10,Astros,Giants
+2021,10,Diamondbacks,Phillies
+2021,10,Red Sox,Marlins
+2021,10,Twins,Angels
+2021,10,Rangers,Padres
+2021,10,Rays,Orioles
+2021,10,Indians,Royals
+2021,10,Brewers,Yankees
+2021,10,Cardinals,Reds
+2021,10,Cubs,Blue Jays
+2021,10,Mets,Tigers
+2021,11,Indians,Royals
+2021,11,Mets,Diamondbacks
+2021,11,Tigers,White Sox
+2021,11,Marlins,Pirates
+2021,11,Cardinals,Rockies
+2021,11,Red Sox,Rays
+2021,11,Angels,Nationals
+2021,11,Athletics,Twins
+2021,11,Cubs,Rangers
+2021,11,Phillies,Braves
+2021,11,Dodgers,Yankees
+2021,11,Mariners,Brewers
+2021,11,Reds,Astros
+2021,11,Padres,Giants
+2021,11,Orioles,Blue Jays
+2021,12,Mariners,Orioles
+2021,12,Rockies,Cubs
+2021,12,Braves,White Sox
+2021,12,Dodgers,Giants
+2021,12,Astros,Red Sox
+2021,12,Royals,Tigers
+2021,12,Phillies,Rangers
+2021,12,Rays,Brewers
+2021,12,Reds,Nationals
+2021,12,Twins,Mets
+2021,12,Padres,Indians
+2021,12,Pirates,Diamondbacks
+2021,12,Yankees,Angels
+2021,12,Cardinals,Blue Jays
+2021,12,Marlins,Athletics
+2021,13,Braves,Indians
+2021,13,Blue Jays,Orioles
+2021,13,Yankees,Nationals
+2021,13,Pirates,Red Sox
+2021,13,Mariners,Tigers
+2021,13,Rangers,Rockies
+2021,13,Mets,Astros
+2021,13,Athletics,Angels
+2021,13,Brewers,Cubs
+2021,13,Rays,White Sox
+2021,13,Reds,Marlins
+2021,13,Royals,Giants
+2021,13,Cardinals,Diamondbacks
+2021,13,Phillies,Padres
+2021,13,Twins,Dodgers
+2021,14,Nationals,Yankees
+2021,14,Astros,Athletics
+2021,14,Reds,Cubs
+2021,14,Rays,Pirates
+2021,14,Rangers,Indians
+2021,14,Twins,Padres
+2021,14,Blue Jays,Angels
+2021,14,Red Sox,Diamondbacks
+2021,14,Marlins,Rockies
+2021,14,Mets,Mariners
+2021,14,Braves,Orioles
+2021,14,Brewers,Dodgers
+2021,14,Giants,Phillies
+2021,14,Royals,Cardinals
+2021,14,White Sox,Tigers
+2021,15,Yankees,Phillies
+2021,15,Braves,Orioles
+2021,15,Cubs,Nationals
+2021,15,Astros,Padres
+2021,15,Angels,Marlins
+2021,15,Royals,Rays
+2021,15,Rangers,Mets
+2021,15,Blue Jays,Reds
+2021,15,Athletics,Dodgers
+2021,15,Rockies,Tigers
+2021,15,Diamondbacks,White Sox
+2021,15,Mariners,Giants
+2021,15,Brewers,Indians
+2021,15,Pirates,Red Sox
+2021,15,Twins,Cardinals
+2021,16,Rays,Angels
+2021,16,Braves,Giants
+2021,16,Indians,Dodgers
+2021,16,White Sox,Rangers
+2021,16,Rockies,Royals
+2021,16,Mariners,Phillies
+2021,16,Orioles,Twins
+2021,16,Tigers,Marlins
+2021,16,Brewers,Mets
+2021,16,Nationals,Blue Jays
+2021,16,Yankees,Padres
+2021,16,Cubs,Reds
+2021,16,Astros,Pirates
+2021,16,Cardinals,Athletics
+2021,16,Diamondbacks,Red Sox
+2021,17,Nationals,Cardinals
+2021,17,Blue Jays,Red Sox
+2021,17,Astros,Rockies
+2021,17,Diamondbacks,Mets
+2021,17,Mariners,Phillies
+2021,17,Dodgers,White Sox
+2021,17,Brewers,Angels
+2021,17,Cubs,Tigers
+2021,17,Reds,Indians
+2021,17,Rays,Royals
+2021,17,Rangers,Padres
+2021,17,Yankees,Pirates
+2021,17,Marlins,Orioles
+2021,17,Braves,Twins
+2021,17,Giants,Athletics
+2021,18,Tigers,Marlins
+2021,18,Royals,Diamondbacks
+2021,18,Nationals,Indians
+2021,18,Orioles,Astros
+2021,18,Rockies,White Sox
+2021,18,Angels,Yankees
+2021,18,Red Sox,Giants
+2021,18,Athletics,Phillies
+2021,18,Padres,Cardinals
+2021,18,Mets,Brewers
+2021,18,Pirates,Rangers
+2021,18,Mariners,Dodgers
+2021,18,Reds,Blue Jays
+2021,18,Cubs,Braves
+2021,18,Twins,Rays
+2021,19,Rays,Mets
+2021,19,Diamondbacks,Braves
+2021,19,Twins,Nationals
+2021,19,White Sox,Astros
+2021,19,Rockies,Tigers
+2021,19,Phillies,Athletics
+2021,19,Cardinals,Padres
+2021,19,Marlins,Brewers
+2021,19,Royals,Cubs
+2021,19,Orioles,Blue Jays
+2021,19,Mariners,Dodgers
+2021,19,Pirates,Indians
+2021,19,Red Sox,Angels
+2021,19,Giants,Rangers
+2021,19,Yankees,Reds
+2021,20,Red Sox,Pirates
+2021,20,Orioles,Mets
+2021,20,Brewers,Twins
+2021,20,Giants,Braves
+2021,20,Reds,Rockies
+2021,20,Tigers,Cardinals
+2021,20,Cubs,Marlins
+2021,20,Blue Jays,Indians
+2021,20,White Sox,Nationals
+2021,20,Yankees,Astros
+2021,20,Mariners,Rangers
+2021,20,Angels,Rays
+2021,20,Diamondbacks,Athletics
+2021,20,Phillies,Royals
+2021,20,Padres,Dodgers
+2021,21,Giants,Blue Jays
+2021,21,Brewers,Nationals
+2021,21,Orioles,Angels
+2021,21,Padres,Rockies
+2021,21,Royals,Phillies
+2021,21,Dodgers,Red Sox
+2021,21,Marlins,Tigers
+2021,21,Cardinals,Rangers
+2021,21,Astros,Yankees
+2021,21,Pirates,White Sox
+2021,21,Twins,Cubs
+2021,21,Diamondbacks,Athletics
+2021,21,Mets,Rays
+2021,21,Braves,Reds
+2021,21,Indians,Mariners
+2021,22,Mariners,Cubs
+2021,22,Rangers,Rays
+2021,22,Yankees,Mets
+2021,22,Giants,Pirates
+2021,22,Padres,Braves
+2021,22,Cardinals,Marlins
+2021,22,Tigers,Diamondbacks
+2021,22,Reds,Brewers
+2021,22,Orioles,Rockies
+2021,22,Athletics,Phillies
+2021,22,Angels,Nationals
+2021,22,White Sox,Royals
+2021,22,Astros,Twins
+2021,22,Indians,Blue Jays
+2021,22,Dodgers,Red Sox
+2021,23,Giants,Angels
+2021,23,Nationals,Blue Jays
+2021,23,Padres,Yankees
+2021,23,Astros,Dodgers
+2021,23,Reds,Rangers
+2021,23,Indians,Tigers
+2021,23,Diamondbacks,Mets
+2021,23,Royals,Braves
+2021,23,Rockies,Athletics
+2021,23,Phillies,Cardinals
+2021,23,Marlins,White Sox
+2021,23,Red Sox,Cubs
+2021,23,Pirates,Orioles
+2021,23,Twins,Brewers
+2021,23,Mariners,Rays
+2021,24,Twins,Rays
+2021,24,Phillies,Blue Jays
+2021,24,White Sox,Braves
+2021,24,Red Sox,Royals
+2021,24,Athletics,Angels
+2021,24,Reds,Rockies
+2021,24,Orioles,Dodgers
+2021,24,Brewers,Mariners
+2021,24,Padres,Tigers
+2021,24,Pirates,Cardinals
+2021,24,Cubs,Yankees
+2021,24,Mets,Nationals
+2021,24,Giants,Rangers
+2021,24,Indians,Diamondbacks
+2021,24,Marlins,Astros
+2021,25,Cardinals,Marlins
+2021,25,Twins,Yankees
+2021,25,Giants,Angels
+2021,25,Tigers,Royals
+2021,25,Padres,Braves
+2021,25,Dodgers,Reds
+2021,25,Diamondbacks,Rangers
+2021,25,Pirates,Rays
+2021,25,Cubs,Mets
+2021,25,Blue Jays,Phillies
+2021,25,Brewers,Indians
+2021,25,Mariners,Astros
+2021,25,White Sox,Red Sox
+2021,25,Athletics,Rockies
+2021,25,Nationals,Orioles
+2021,26,Rockies,Blue Jays
+2021,26,Dodgers,Red Sox
+2021,26,White Sox,Brewers
+2021,26,Braves,Rangers
+2021,26,Pirates,Royals
+2021,26,Angels,Phillies
+2021,26,Twins,Mets
+2021,26,Indians,Rays
+2021,26,Diamondbacks,Cubs
+2021,26,Giants,Marlins
+2021,26,Yankees,Mariners
+2021,26,Padres,Reds
+2021,26,Cardinals,Tigers
+2021,26,Orioles,Nationals
+2021,26,Astros,Athletics
+2021,27,Royals,Pirates
+2021,27,Athletics,Marlins
+2021,27,Tigers,Giants
+2021,27,Brewers,Rockies
+2021,27,Mariners,Cardinals
+2021,27,Diamondbacks,Twins
+2021,27,Reds,Indians
+2021,27,Orioles,Angels
+2021,27,Nationals,White Sox
+2021,27,Blue Jays,Phillies
+2021,27,Rangers,Cubs
+2021,27,Padres,Yankees
+2021,27,Astros,Mets
+2021,27,Dodgers,Rays
+2021,27,Braves,Red Sox
+2021,28,Red Sox,Rockies
+2021,28,Angels,Giants
+2021,28,Cardinals,Indians
+2021,28,Dodgers,Astros
+2021,28,Marlins,Royals
+2021,28,Braves,Reds
+2021,28,Blue Jays,White Sox
+2021,28,Mets,Yankees
+2021,28,Pirates,Orioles
+2021,28,Padres,Diamondbacks
+2021,28,Mariners,Tigers
+2021,28,Nationals,Phillies
+2021,28,Twins,Athletics
+2021,28,Brewers,Cubs
+2021,28,Rays,Rangers
+2021,29,Phillies,Nationals
+2021,29,Cardinals,Athletics
+2021,29,Royals,Blue Jays
+2021,29,Mariners,Astros
+2021,29,Reds,Twins
+2021,29,Orioles,Indians
+2021,29,Yankees,Rays
+2021,29,Rangers,Dodgers
+2021,29,Giants,Cubs
+2021,29,Braves,Red Sox
+2021,29,Marlins,Diamondbacks
+2021,29,Angels,Tigers
+2021,29,Padres,Mets
+2021,29,White Sox,Brewers
+2021,29,Pirates,Rockies
+2021,30,Yankees,Nationals
+2021,30,Tigers,Red Sox
+2021,30,Angels,Rangers
+2021,30,Marlins,Phillies
+2021,30,Athletics,Mariners
+2021,30,Giants,Royals
+2021,30,White Sox,Padres
+2021,30,Rockies,Mets
+2021,30,Pirates,Orioles
+2021,30,Braves,Reds
+2021,30,Rays,Dodgers
+2021,30,Cubs,Indians
+2021,30,Blue Jays,Astros
+2021,30,Brewers,Diamondbacks
+2021,30,Cardinals,Twins
+2021,31,Padres,Astros
+2021,31,Cardinals,Tigers
+2021,31,Marlins,Reds
+2021,31,Orioles,Dodgers
+2021,31,Mets,Braves
+2021,31,Royals,Cubs
+2021,31,Nationals,Athletics
+2021,31,Indians,Angels
+2021,31,Yankees,Rangers
+2021,31,Red Sox,Giants
+2021,31,Mariners,Phillies
+2021,31,Blue Jays,Brewers
+2021,31,Twins,Pirates
+2021,31,White Sox,Rockies
+2021,31,Rays,Diamondbacks
+2021,32,Yankees,Angels
+2021,32,White Sox,Diamondbacks
+2021,32,Royals,Nationals
+2021,32,Giants,Indians
+2021,32,Rangers,Marlins
+2021,32,Dodgers,Cardinals
+2021,32,Mariners,Brewers
+2021,32,Pirates,Padres
+2021,32,Braves,Athletics
+2021,32,Blue Jays,Cubs
+2021,32,Twins,Red Sox
+2021,32,Mets,Astros
+2021,32,Rockies,Phillies
+2021,32,Tigers,Orioles
+2021,32,Reds,Rays
+2021,33,White Sox,Reds
+2021,33,Braves,Marlins
+2021,33,Rangers,Angels
+2021,33,Mariners,Astros
+2021,33,Royals,Yankees
+2021,33,Pirates,Cubs
+2021,33,Nationals,Red Sox
+2021,33,Tigers,Blue Jays
+2021,33,Athletics,Rays
+2021,33,Orioles,Phillies
+2021,33,Giants,Rockies
+2021,33,Mets,Twins
+2021,33,Cardinals,Diamondbacks
+2021,33,Brewers,Indians
+2021,33,Padres,Dodgers
+2021,34,Rockies,Pirates
+2021,34,Blue Jays,Tigers
+2021,34,Athletics,Brewers
+2021,34,Reds,Marlins
+2021,34,Rangers,Mets
+2021,34,Cubs,Cardinals
+2021,34,Giants,Padres
+2021,34,Astros,Braves
+2021,34,Royals,White Sox
+2021,34,Indians,Orioles
+2021,34,Twins,Diamondbacks
+2021,34,Red Sox,Rays
+2021,34,Nationals,Mariners
+2021,34,Dodgers,Yankees
+2021,34,Angels,Phillies
+2021,35,White Sox,Braves
+2021,35,Mets,Angels
+2021,35,Giants,Tigers
+2021,35,Cardinals,Astros
+2021,35,Reds,Pirates
+2021,35,Rays,Mariners
+2021,35,Blue Jays,Royals
+2021,35,Yankees,Orioles
+2021,35,Cubs,Diamondbacks
+2021,35,Twins,Marlins
+2021,35,Red Sox,Rangers
+2021,35,Athletics,Brewers
+2021,35,Phillies,Indians
+2021,35,Padres,Nationals
+2021,35,Dodgers,Rockies
+2021,36,Cubs,Diamondbacks
+2021,36,White Sox,Orioles
+2021,36,Giants,Phillies
+2021,36,Mariners,Reds
+2021,36,Angels,Yankees
+2021,36,Tigers,Marlins
+2021,36,Indians,Athletics
+2021,36,Cardinals,Pirates
+2021,36,Astros,Brewers
+2021,36,Twins,Rangers
+2021,36,Padres,Nationals
+2021,36,Blue Jays,Dodgers
+2021,36,Royals,Rockies
+2021,36,Red Sox,Mets
+2021,36,Braves,Rays
+2021,37,Astros,Red Sox
+2021,37,Pirates,Rangers
+2021,37,Giants,Rays
+2021,37,Angels,Marlins
+2021,37,Blue Jays,Reds
+2021,37,Mets,Diamondbacks
+2021,37,Dodgers,White Sox
+2021,37,Brewers,Yankees
+2021,37,Orioles,Phillies
+2021,37,Athletics,Tigers
+2021,37,Indians,Braves
+2021,37,Mariners,Padres
+2021,37,Rockies,Royals
+2021,37,Twins,Cardinals
+2021,37,Cubs,Nationals
+2021,38,Tigers,Brewers
+2021,38,Dodgers,Royals
+2021,38,Yankees,Marlins
+2021,38,Athletics,Red Sox
+2021,38,White Sox,Orioles
+2021,38,Padres,Diamondbacks
+2021,38,Braves,Rangers
+2021,38,Mets,Mariners
+2021,38,Cubs,Reds
+2021,38,Pirates,Indians
+2021,38,Nationals,Phillies
+2021,38,Rockies,Giants
+2021,38,Astros,Cardinals
+2021,38,Blue Jays,Twins
+2021,38,Rays,Angels
+2021,39,Diamondbacks,Reds
+2021,39,Cardinals,Padres
+2021,39,Royals,Cubs
+2021,39,Mariners,Twins
+2021,39,Pirates,Marlins
+2021,39,Athletics,Red Sox
+2021,39,Angels,Blue Jays
+2021,39,Braves,Yankees
+2021,39,Brewers,Nationals
+2021,39,Astros,Rockies
+2021,39,Rays,Giants
+2021,39,Orioles,Rangers
+2021,39,Dodgers,Tigers
+2021,39,Mets,White Sox
+2021,39,Phillies,Indians
+2021,40,Orioles,Reds
+2021,40,Rays,Giants
+2021,40,Pirates,Padres
+2021,40,Dodgers,Astros
+2021,40,White Sox,Cubs
+2021,40,Mariners,Marlins
+2021,40,Brewers,Braves
+2021,40,Cardinals,Rangers
+2021,40,Twins,Red Sox
+2021,40,Yankees,Royals
+2021,40,Rockies,Athletics
+2021,40,Nationals,Tigers
+2021,40,Indians,Mets
+2021,40,Phillies,Angels
+2021,40,Blue Jays,Diamondbacks
+2021,41,Angels,Pirates
+2021,41,Tigers,Cardinals
+2021,41,Blue Jays,Rangers
+2021,41,Reds,Rays
+2021,41,Twins,Indians
+2021,41,Orioles,Red Sox
+2021,41,Astros,Mariners
+2021,41,Nationals,Padres
+2021,41,Royals,Giants
+2021,41,Mets,Cubs
+2021,41,Athletics,Phillies
+2021,41,Rockies,Diamondbacks
+2021,41,Marlins,Braves
+2021,41,White Sox,Brewers
+2021,41,Dodgers,Yankees
+2021,42,Phillies,Dodgers
+2021,42,Brewers,Angels
+2021,42,Braves,Orioles
+2021,42,Giants,White Sox
+2021,42,Yankees,Indians
+2021,42,Pirates,Mariners
+2021,42,Athletics,Tigers
+2021,42,Astros,Royals
+2021,42,Padres,Nationals
+2021,42,Cubs,Rays
+2021,42,Marlins,Blue Jays
+2021,42,Rockies,Cardinals
+2021,42,Red Sox,Rangers
+2021,42,Twins,Mets
+2021,42,Diamondbacks,Reds
+2021,43,Cubs,Brewers
+2021,43,Cardinals,Mets
+2021,43,Athletics,Tigers
+2021,43,Dodgers,Astros
+2021,43,Reds,Twins
+2021,43,Marlins,Red Sox
+2021,43,Royals,Orioles
+2021,43,Rangers,Phillies
+2021,43,Mariners,Diamondbacks
+2021,43,Braves,Yankees
+2021,43,Rays,Blue Jays
+2021,43,Indians,Nationals
+2021,43,Padres,Angels
+2021,43,Rockies,Giants
+2021,43,White Sox,Pirates
+2021,44,Rockies,Phillies
+2021,44,White Sox,Blue Jays
+2021,44,Royals,Orioles
+2021,44,Mets,Giants
+2021,44,Astros,Dodgers
+2021,44,Pirates,Red Sox
+2021,44,Athletics,Angels
+2021,44,Reds,Cardinals
+2021,44,Marlins,Braves
+2021,44,Yankees,Indians
+2021,44,Tigers,Cubs
+2021,44,Diamondbacks,Padres
+2021,44,Rangers,Rays
+2021,44,Nationals,Twins
+2021,44,Mariners,Brewers
+2021,45,Athletics,Phillies
+2021,45,Blue Jays,Mets
+2021,45,Astros,Rangers
+2021,45,Pirates,Cubs
+2021,45,Rays,Yankees
+2021,45,Braves,Brewers
+2021,45,Royals,Orioles
+2021,45,Twins,Nationals
+2021,45,Cardinals,Dodgers
+2021,45,Giants,Rockies
+2021,45,White Sox,Tigers
+2021,45,Diamondbacks,Red Sox
+2021,45,Indians,Angels
+2021,45,Reds,Marlins
+2021,45,Mariners,Padres
+2021,46,Reds,Diamondbacks
+2021,46,Dodgers,Cubs
+2021,46,Cardinals,Marlins
+2021,46,Twins,Padres
+2021,46,Indians,Tigers
+2021,46,Blue Jays,Rangers
+2021,46,Astros,Phillies
+2021,46,Giants,Rockies
+2021,46,Pirates,Nationals
+2021,46,Orioles,Braves
+2021,46,Angels,Yankees
+2021,46,Red Sox,Mets
+2021,46,Athletics,White Sox
+2021,46,Royals,Mariners
+2021,46,Rays,Brewers
+2021,47,Orioles,Angels
+2021,47,White Sox,Mets
+2021,47,Twins,Athletics
+2021,47,Giants,Cubs
+2021,47,Rockies,Blue Jays
+2021,47,Astros,Tigers
+2021,47,Padres,Indians
+2021,47,Phillies,Dodgers
+2021,47,Nationals,Reds
+2021,47,Cardinals,Pirates
+2021,47,Rangers,Red Sox
+2021,47,Braves,Rays
+2021,47,Marlins,Yankees
+2021,47,Brewers,Diamondbacks
+2021,47,Mariners,Royals
+2021,48,Marlins,Indians
+2021,48,Tigers,Blue Jays
+2021,48,Pirates,Rangers
+2021,48,Rays,Twins
+2021,48,Giants,Astros
+2021,48,Cardinals,Mets
+2021,48,Reds,Padres
+2021,48,Red Sox,White Sox
+2021,48,Mariners,Diamondbacks
+2021,48,Brewers,Cubs
+2021,48,Orioles,Royals
+2021,48,Yankees,Braves
+2021,48,Nationals,Rockies
+2021,48,Athletics,Phillies
+2021,48,Dodgers,Angels
+2021,49,Astros,Blue Jays
+2021,49,Braves,Rockies
+2021,49,Diamondbacks,Padres
+2021,49,Rangers,Angels
+2021,49,Royals,Athletics
+2021,49,Rays,Tigers
+2021,49,Yankees,Marlins
+2021,49,Giants,Mets
+2021,49,Cardinals,Pirates
+2021,49,Phillies,Twins
+2021,49,Indians,Orioles
+2021,49,White Sox,Cubs
+2021,49,Nationals,Brewers
+2021,49,Red Sox,Mariners
+2021,49,Reds,Dodgers
+2021,50,Cubs,Astros
+2021,50,Diamondbacks,Tigers
+2021,50,Pirates,Indians
+2021,50,Yankees,Angels
+2021,50,Orioles,Twins
+2021,50,Rockies,Padres
+2021,50,Cardinals,Reds
+2021,50,Giants,Mariners
+2021,50,Rays,Mets
+2021,50,White Sox,Dodgers
+2021,50,Phillies,Nationals
+2021,50,Athletics,Royals
+2021,50,Marlins,Blue Jays
+2021,50,Brewers,Braves
+2021,50,Rangers,Red Sox
+2021,51,Dodgers,Astros
+2021,51,Nationals,Brewers
+2021,51,Cubs,Athletics
+2021,51,Rockies,Phillies
+2021,51,Pirates,Giants
+2021,51,Yankees,Cardinals
+2021,51,White Sox,Tigers
+2021,51,Orioles,Mariners
+2021,51,Braves,Rangers
+2021,51,Indians,Marlins
+2021,51,Rays,Angels
+2021,51,Red Sox,Mets
+2021,51,Diamondbacks,Padres
+2021,51,Reds,Twins
+2021,51,Blue Jays,Royals
+2021,52,Mets,Blue Jays
+2021,52,Pirates,Astros
+2021,52,Indians,Cubs
+2021,52,Rays,Athletics
+2021,52,Rangers,Orioles
+2021,52,White Sox,Brewers
+2021,52,Twins,Braves
+2021,52,Reds,Cardinals
+2021,52,Phillies,Tigers
+2021,52,Royals,Dodgers
+2021,52,Padres,Red Sox
+2021,52,Angels,Marlins
+2021,52,Yankees,Mariners
+2021,52,Diamondbacks,Rockies
+2021,52,Nationals,Giants
+2021,53,Pirates,Athletics
+2021,53,Cubs,Rangers
+2021,53,Phillies,Mariners
+2021,53,Blue Jays,Braves
+2021,53,Nationals,Tigers
+2021,53,Astros,Twins
+2021,53,Royals,Red Sox
+2021,53,Diamondbacks,Mets
+2021,53,Marlins,Brewers
+2021,53,Reds,Giants
+2021,53,Rockies,Orioles
+2021,53,White Sox,Angels
+2021,53,Dodgers,Padres
+2021,53,Yankees,Cardinals
+2021,53,Indians,Rays
+2021,54,Mets,Padres
+2021,54,Marlins,Braves
+2021,54,Astros,Blue Jays
+2021,54,Reds,Yankees
+2021,54,Brewers,Cardinals
+2021,54,Indians,Red Sox
+2021,54,Tigers,Rays
+2021,54,Athletics,Phillies
+2021,54,Nationals,Angels
+2021,54,Rangers,Royals
+2021,54,Mariners,Dodgers
+2021,54,Pirates,Diamondbacks
+2021,54,Rockies,Orioles
+2021,54,Cubs,Twins
+2021,54,Giants,White Sox
+2021,55,Giants,Astros
+2021,55,Nationals,Cardinals
+2021,55,Blue Jays,Brewers
+2021,55,Phillies,Cubs
+2021,55,Rangers,Marlins
+2021,55,Athletics,Padres
+2021,55,Indians,Braves
+2021,55,Orioles,Reds
+2021,55,Tigers,Mets
+2021,55,Mariners,Rays
+2021,55,Dodgers,Diamondbacks
+2021,55,Pirates,Royals
+2021,55,Angels,White Sox
+2021,55,Red Sox,Yankees
+2021,55,Rockies,Twins
+2021,56,Pirates,Cardinals
+2021,56,Rays,Blue Jays
+2021,56,Mets,Rockies
+2021,56,Reds,Diamondbacks
+2021,56,White Sox,Rangers
+2021,56,Marlins,Indians
+2021,56,Royals,Yankees
+2021,56,Tigers,Giants
+2021,56,Dodgers,Phillies
+2021,56,Twins,Athletics
+2021,56,Red Sox,Padres
+2021,56,Orioles,Nationals
+2021,56,Cubs,Angels
+2021,56,Braves,Astros
+2021,56,Brewers,Mariners
+2021,57,Athletics,Dodgers
+2021,57,Giants,Tigers
+2021,57,Phillies,Orioles
+2021,57,Rangers,Angels
+2021,57,Blue Jays,Twins
+2021,57,Padres,Red Sox
+2021,57,Indians,Diamondbacks
+2021,57,Rockies,Reds
+2021,57,Marlins,Cardinals
+2021,57,Brewers,Astros
+2021,57,Royals,Yankees
+2021,57,Rays,Braves
+2021,57,Mets,White Sox
+2021,57,Cubs,Mariners
+2021,57,Pirates,Nationals
+2021,58,Cubs,Diamondbacks
+2021,58,Tigers,Nationals
+2021,58,Padres,Red Sox
+2021,58,Rays,Indians
+2021,58,Rangers,Twins
+2021,58,Athletics,White Sox
+2021,58,Rockies,Brewers
+2021,58,Royals,Reds
+2021,58,Braves,Orioles
+2021,58,Marlins,Angels
+2021,58,Dodgers,Blue Jays
+2021,58,Mariners,Giants
+2021,58,Mets,Yankees
+2021,58,Cardinals,Astros
+2021,58,Phillies,Pirates
+2021,59,Braves,Mets
+2021,59,Rangers,Orioles
+2021,59,Tigers,Red Sox
+2021,59,Yankees,Cardinals
+2021,59,White Sox,Indians
+2021,59,Pirates,Blue Jays
+2021,59,Angels,Cubs
+2021,59,Dodgers,Nationals
+2021,59,Mariners,Athletics
+2021,59,Twins,Royals
+2021,59,Rays,Reds
+2021,59,Padres,Giants
+2021,59,Marlins,Phillies
+2021,59,Diamondbacks,Rockies
+2021,59,Brewers,Astros
+2021,60,Blue Jays,Nationals
+2021,60,Twins,Indians
+2021,60,Reds,Athletics
+2021,60,Dodgers,Orioles
+2021,60,Brewers,Braves
+2021,60,Yankees,Cubs
+2021,60,White Sox,Royals
+2021,60,Marlins,Pirates
+2021,60,Red Sox,Mariners
+2021,60,Cardinals,Padres
+2021,60,Mets,Rangers
+2021,60,Rays,Astros
+2021,60,Diamondbacks,Phillies
+2021,60,Rockies,Giants
+2021,60,Tigers,Angels
+2021,61,Blue Jays,Rays
+2021,61,Nationals,Cardinals
+2021,61,Mets,White Sox
+2021,61,Giants,Pirates
+2021,61,Orioles,Indians
+2021,61,Marlins,Twins
+2021,61,Astros,Red Sox
+2021,61,Athletics,Rangers
+2021,61,Rockies,Cubs
+2021,61,Royals,Braves
+2021,61,Dodgers,Mariners
+2021,61,Brewers,Angels
+2021,61,Yankees,Padres
+2021,61,Diamondbacks,Phillies
+2021,61,Reds,Tigers
+2021,62,Giants,Padres
+2021,62,Pirates,Red Sox
+2021,62,Dodgers,Blue Jays
+2021,62,Mets,White Sox
+2021,62,Braves,Cardinals
+2021,62,Brewers,Reds
+2021,62,Phillies,Orioles
+2021,62,Tigers,Angels
+2021,62,Yankees,Athletics
+2021,62,Rockies,Rays
+2021,62,Indians,Twins
+2021,62,Mariners,Marlins
+2021,62,Rangers,Cubs
+2021,62,Diamondbacks,Astros
+2021,62,Nationals,Royals
+2021,63,White Sox,Pirates
+2021,63,Brewers,Phillies
+2021,63,Blue Jays,Rangers
+2021,63,Giants,Yankees
+2021,63,Orioles,Padres
+2021,63,Cubs,Marlins
+2021,63,Astros,Nationals
+2021,63,Royals,Indians
+2021,63,Dodgers,Rays
+2021,63,Reds,Tigers
+2021,63,Mariners,Red Sox
+2021,63,Athletics,Mets
+2021,63,Twins,Braves
+2021,63,Cardinals,Diamondbacks
+2021,63,Angels,Rockies
+2021,64,Cubs,Phillies
+2021,64,Orioles,Reds
+2021,64,Royals,Red Sox
+2021,64,Yankees,White Sox
+2021,64,Braves,Padres
+2021,64,Giants,Pirates
+2021,64,Rockies,Cardinals
+2021,64,Mets,Angels
+2021,64,Nationals,Dodgers
+2021,64,Blue Jays,Tigers
+2021,64,Mariners,Diamondbacks
+2021,64,Rangers,Indians
+2021,64,Twins,Marlins
+2021,64,Brewers,Athletics
+2021,64,Rays,Astros
+2021,65,Mets,Royals
+2021,65,Athletics,Padres
+2021,65,Phillies,Pirates
+2021,65,Diamondbacks,Orioles
+2021,65,Tigers,Braves
+2021,65,Reds,Rays
+2021,65,Red Sox,Dodgers
+2021,65,Rangers,Nationals
+2021,65,Cardinals,Mariners
+2021,65,Twins,Astros
+2021,65,Angels,White Sox
+2021,65,Yankees,Marlins
+2021,65,Blue Jays,Rockies
+2021,65,Brewers,Cubs
+2021,65,Giants,Indians
+2021,66,Pirates,Padres
+2021,66,Reds,Mariners
+2021,66,Angels,Blue Jays
+2021,66,Astros,Marlins
+2021,66,Indians,Rangers
+2021,66,Diamondbacks,Orioles
+2021,66,Twins,Nationals
+2021,66,Cardinals,Red Sox
+2021,66,Royals,Phillies
+2021,66,Giants,Mets
+2021,66,Yankees,Cubs
+2021,66,Rays,Athletics
+2021,66,Braves,Dodgers
+2021,66,Brewers,Rockies
+2021,66,Tigers,White Sox
+2021,67,Pirates,Brewers
+2021,67,Tigers,Diamondbacks
+2021,67,Cubs,Indians
+2021,67,Nationals,Red Sox
+2021,67,Marlins,Dodgers
+2021,67,Rangers,Mets
+2021,67,Mariners,Giants
+2021,67,Cardinals,Braves
+2021,67,Twins,Yankees
+2021,67,Phillies,White Sox
+2021,67,Padres,Royals
+2021,67,Blue Jays,Rays
+2021,67,Astros,Reds
+2021,67,Athletics,Angels
+2021,67,Orioles,Rockies
+2021,68,Astros,Rangers
+2021,68,Indians,Marlins
+2021,68,Rockies,Reds
+2021,68,Yankees,Phillies
+2021,68,Athletics,Dodgers
+2021,68,Red Sox,Brewers
+2021,68,Cardinals,Blue Jays
+2021,68,Rays,Mariners
+2021,68,Tigers,Royals
+2021,68,Orioles,Cubs
+2021,68,Mets,Diamondbacks
+2021,68,Angels,Braves
+2021,68,Padres,Giants
+2021,68,Nationals,Pirates
+2021,68,Twins,White Sox
+2021,69,Cardinals,Rangers
+2021,69,Blue Jays,Red Sox
+2021,69,Tigers,Rockies
+2021,69,Diamondbacks,Astros
+2021,69,Marlins,Twins
+2021,69,Angels,Mets
+2021,69,Royals,Braves
+2021,69,Rays,Orioles
+2021,69,Dodgers,Yankees
+2021,69,Athletics,White Sox
+2021,69,Nationals,Cubs
+2021,69,Padres,Indians
+2021,69,Pirates,Brewers
+2021,69,Mariners,Reds
+2021,69,Phillies,Giants
+2021,70,Padres,Athletics
+2021,70,Brewers,Cubs
+2021,70,Royals,Mariners
+2021,70,Astros,Tigers
+2021,70,Rays,Marlins
+2021,70,Reds,Giants
+2021,70,Red Sox,Diamondbacks
+2021,70,Mets,Twins
+2021,70,Phillies,Yankees
+2021,70,Blue Jays,Rangers
+2021,70,Braves,Rockies
+2021,70,White Sox,Pirates
+2021,70,Angels,Dodgers
+2021,70,Nationals,Orioles
+2021,70,Indians,Cardinals
+2021,71,Padres,Braves
+2021,71,Reds,White Sox
+2021,71,Rangers,Indians
+2021,71,Brewers,Pirates
+2021,71,Mets,Giants
+2021,71,Athletics,Yankees
+2021,71,Royals,Rays
+2021,71,Marlins,Dodgers
+2021,71,Nationals,Diamondbacks
+2021,71,Red Sox,Angels
+2021,71,Orioles,Rockies
+2021,71,Twins,Tigers
+2021,71,Cardinals,Astros
+2021,71,Cubs,Phillies
+2021,71,Blue Jays,Mariners
+2021,72,Orioles,Red Sox
+2021,72,White Sox,Rays
+2021,72,Angels,Royals
+2021,72,Marlins,Cubs
+2021,72,Dodgers,Mariners
+2021,72,Giants,Pirates
+2021,72,Nationals,Indians
+2021,72,Diamondbacks,Rangers
+2021,72,Tigers,Cardinals
+2021,72,Phillies,Reds
+2021,72,Padres,Rockies
+2021,72,Braves,Blue Jays
+2021,72,Yankees,Twins
+2021,72,Athletics,Mets
+2021,72,Astros,Brewers
+2021,73,Dodgers,Royals
+2021,73,Braves,Indians
+2021,73,Blue Jays,Red Sox
+2021,73,Pirates,Diamondbacks
+2021,73,Giants,Phillies
+2021,73,Rockies,Nationals
+2021,73,Cardinals,Twins
+2021,73,Brewers,Rangers
+2021,73,Athletics,Astros
+2021,73,Orioles,Padres
+2021,73,Mariners,Mets
+2021,73,Rays,Yankees
+2021,73,White Sox,Tigers
+2021,73,Angels,Marlins
+2021,73,Reds,Cubs
+2021,74,Rockies,Marlins
+2021,74,Dodgers,Astros
+2021,74,Mariners,Indians
+2021,74,Cardinals,Braves
+2021,74,Rays,Blue Jays
+2021,74,Nationals,Athletics
+2021,74,Orioles,Giants
+2021,74,Angels,Phillies
+2021,74,Diamondbacks,Yankees
+2021,74,White Sox,Padres
+2021,74,Pirates,Brewers
+2021,74,Tigers,Rangers
+2021,74,Cubs,Royals
+2021,74,Reds,Red Sox
+2021,74,Twins,Mets
+2021,75,Braves,Athletics
+2021,75,Yankees,Rays
+2021,75,Royals,White Sox
+2021,75,Red Sox,Rockies
+2021,75,Mets,Padres
+2021,75,Tigers,Nationals
+2021,75,Cubs,Giants
+2021,75,Dodgers,Marlins
+2021,75,Pirates,Astros
+2021,75,Diamondbacks,Orioles
+2021,75,Mariners,Indians
+2021,75,Phillies,Reds
+2021,75,Twins,Rangers
+2021,75,Blue Jays,Cardinals
+2021,75,Brewers,Angels
+2021,76,Athletics,Marlins
+2021,76,White Sox,Twins
+2021,76,Padres,Reds
+2021,76,Phillies,Blue Jays
+2021,76,Astros,Braves
+2021,76,Nationals,Giants
+2021,76,Angels,Rockies
+2021,76,Yankees,Cubs
+2021,76,Rangers,Red Sox
+2021,76,Cardinals,Royals
+2021,76,Mariners,Brewers
+2021,76,Tigers,Diamondbacks
+2021,76,Orioles,Dodgers
+2021,76,Indians,Mets
+2021,76,Pirates,Rays
+2021,77,Marlins,Yankees
+2021,77,Angels,Pirates
+2021,77,Cubs,Red Sox
+2021,77,Mets,Reds
+2021,77,Royals,Indians
+2021,77,Braves,Phillies
+2021,77,Orioles,Twins
+2021,77,Giants,Tigers
+2021,77,Nationals,Rockies
+2021,77,Padres,Dodgers
+2021,77,Cardinals,Rangers
+2021,77,Rays,Mariners
+2021,77,Astros,White Sox
+2021,77,Blue Jays,Brewers
+2021,77,Athletics,Diamondbacks
+2021,78,Phillies,Pirates
+2021,78,Astros,Rangers
+2021,78,Marlins,White Sox
+2021,78,Angels,Diamondbacks
+2021,78,Indians,Tigers
+2021,78,Padres,Yankees
+2021,78,Orioles,Mariners
+2021,78,Twins,Mets
+2021,78,Brewers,Rockies
+2021,78,Giants,Rays
+2021,78,Royals,Nationals
+2021,78,Cardinals,Reds
+2021,78,Dodgers,Red Sox
+2021,78,Cubs,Blue Jays
+2021,78,Athletics,Braves
+2021,79,Dodgers,Pirates
+2021,79,Mets,Giants
+2021,79,Braves,Rangers
+2021,79,Rays,Mariners
+2021,79,Twins,Brewers
+2021,79,Indians,Orioles
+2021,79,Marlins,Cubs
+2021,79,Nationals,Diamondbacks
+2021,79,Padres,Phillies
+2021,79,Cardinals,Rockies
+2021,79,Reds,Tigers
+2021,79,Blue Jays,Red Sox
+2021,79,White Sox,Angels
+2021,79,Astros,Athletics
+2021,79,Yankees,Royals
+2021,80,Phillies,Giants
+2021,80,Nationals,Pirates
+2021,80,Astros,Tigers
+2021,80,Orioles,Red Sox
+2021,80,Marlins,Athletics
+2021,80,Cardinals,Braves
+2021,80,Diamondbacks,Padres
+2021,80,Brewers,Rockies
+2021,80,Rangers,Cubs
+2021,80,Rays,Yankees
+2021,80,Dodgers,Indians
+2021,80,Twins,Mets
+2021,80,Blue Jays,Mariners
+2021,80,Reds,White Sox
+2021,80,Angels,Royals
+2021,81,Blue Jays,Marlins
+2021,81,Brewers,Rays
+2021,81,Dodgers,Astros
+2021,81,Cardinals,Orioles
+2021,81,Rangers,Giants
+2021,81,Cubs,Padres
+2021,81,Nationals,Yankees
+2021,81,Mets,Indians
+2021,81,Twins,Mariners
+2021,81,Royals,Angels
+2021,81,Red Sox,Pirates
+2021,81,Tigers,White Sox
+2021,81,Reds,Athletics
+2021,81,Braves,Phillies
+2021,81,Diamondbacks,Rockies
+2021,82,Pirates,Marlins
+2021,82,Orioles,Phillies
+2021,82,Diamondbacks,Brewers
+2021,82,Yankees,Rangers
+2021,82,Indians,Dodgers
+2021,82,Mets,Cardinals
+2021,82,Rockies,White Sox
+2021,82,Cubs,Royals
+2021,82,Blue Jays,Giants
+2021,82,Angels,Braves
+2021,82,Reds,Red Sox
+2021,82,Twins,Astros
+2021,82,Tigers,Athletics
+2021,82,Padres,Rays
+2021,82,Nationals,Mariners
+2021,83,Indians,Padres
+2021,83,Athletics,Cardinals
+2021,83,Astros,Royals
+2021,83,White Sox,Rays
+2021,83,Rangers,Tigers
+2021,83,Yankees,Mariners
+2021,83,Brewers,Diamondbacks
+2021,83,Angels,Rockies
+2021,83,Dodgers,Giants
+2021,83,Marlins,Pirates
+2021,83,Orioles,Nationals
+2021,83,Reds,Braves
+2021,83,Cubs,Mets
+2021,83,Phillies,Blue Jays
+2021,83,Twins,Red Sox
+2021,84,Rangers,Nationals
+2021,84,Braves,Athletics
+2021,84,Dodgers,Mariners
+2021,84,Brewers,Astros
+2021,84,Indians,Rockies
+2021,84,Rays,Tigers
+2021,84,Cubs,Cardinals
+2021,84,Pirates,Reds
+2021,84,Marlins,White Sox
+2021,84,Diamondbacks,Red Sox
+2021,84,Blue Jays,Twins
+2021,84,Orioles,Angels
+2021,84,Yankees,Mets
+2021,84,Royals,Phillies
+2021,84,Giants,Padres
+2021,85,Twins,Athletics
+2021,85,Dodgers,Rays
+2021,85,Braves,Mets
+2021,85,Diamondbacks,Indians
+2021,85,White Sox,Yankees
+2021,85,Cardinals,Phillies
+2021,85,Pirates,Angels
+2021,85,Rangers,Reds
+2021,85,Padres,Blue Jays
+2021,85,Marlins,Giants
+2021,85,Mariners,Brewers
+2021,85,Cubs,Royals
+2021,85,Rockies,Tigers
+2021,85,Nationals,Orioles
+2021,85,Red Sox,Astros
+2021,86,Red Sox,Mariners
+2021,86,Dodgers,Padres
+2021,86,Angels,Astros
+2021,86,Athletics,Orioles
+2021,86,Pirates,Nationals
+2021,86,Rockies,Tigers
+2021,86,Rangers,Cardinals
+2021,86,Yankees,Marlins
+2021,86,Braves,Phillies
+2021,86,Cubs,White Sox
+2021,86,Giants,Brewers
+2021,86,Diamondbacks,Twins
+2021,86,Reds,Rays
+2021,86,Blue Jays,Indians
+2021,86,Royals,Mets
+2021,87,Blue Jays,Giants
+2021,87,Athletics,White Sox
+2021,87,Braves,Royals
+2021,87,Pirates,Mariners
+2021,87,Orioles,Rockies
+2021,87,Dodgers,Padres
+2021,87,Yankees,Nationals
+2021,87,Red Sox,Indians
+2021,87,Twins,Astros
+2021,87,Rays,Marlins
+2021,87,Reds,Cardinals
+2021,87,Brewers,Angels
+2021,87,Rangers,Mets
+2021,87,Tigers,Phillies
+2021,87,Cubs,Diamondbacks
+2021,88,Yankees,Athletics
+2021,88,Rangers,Mariners
+2021,88,Orioles,Rockies
+2021,88,Giants,Red Sox
+2021,88,Phillies,Astros
+2021,88,Diamondbacks,Twins
+2021,88,Dodgers,Cardinals
+2021,88,Padres,Cubs
+2021,88,Tigers,Pirates
+2021,88,Marlins,Nationals
+2021,88,Royals,Mets
+2021,88,White Sox,Reds
+2021,88,Brewers,Blue Jays
+2021,88,Braves,Rays
+2021,88,Angels,Indians
+2021,89,Athletics,Nationals
+2021,89,Red Sox,Diamondbacks
+2021,89,Giants,Tigers
+2021,89,Rays,Angels
+2021,89,Pirates,Royals
+2021,89,Reds,White Sox
+2021,89,Indians,Twins
+2021,89,Brewers,Braves
+2021,89,Marlins,Astros
+2021,89,Cardinals,Mets
+2021,89,Rockies,Padres
+2021,89,Yankees,Mariners
+2021,89,Rangers,Cubs
+2021,89,Phillies,Blue Jays
+2021,89,Dodgers,Orioles
+2021,90,Dodgers,White Sox
+2021,90,Mariners,Blue Jays
+2021,90,Cardinals,Indians
+2021,90,Padres,Rockies
+2021,90,Red Sox,Reds
+2021,90,Pirates,Braves
+2021,90,Nationals,Orioles
+2021,90,Athletics,Diamondbacks
+2021,90,Tigers,Rangers
+2021,90,Yankees,Rays
+2021,90,Astros,Phillies
+2021,90,Royals,Mets
+2021,90,Giants,Twins
+2021,90,Angels,Brewers
+2021,90,Marlins,Cubs
+2021,91,Indians,White Sox
+2021,91,Padres,Athletics
+2021,91,Diamondbacks,Cubs
+2021,91,Dodgers,Astros
+2021,91,Rockies,Red Sox
+2021,91,Yankees,Mariners
+2021,91,Blue Jays,Phillies
+2021,91,Mets,Royals
+2021,91,Tigers,Marlins
+2021,91,Braves,Reds
+2021,91,Giants,Nationals
+2021,91,Brewers,Angels
+2021,91,Pirates,Rangers
+2021,91,Twins,Orioles
+2021,91,Rays,Cardinals
+2021,92,Marlins,Astros
+2021,92,Rays,Yankees
+2021,92,Athletics,Diamondbacks
+2021,92,Giants,Padres
+2021,92,Cubs,Reds
+2021,92,Pirates,Royals
+2021,92,Mets,Orioles
+2021,92,Tigers,White Sox
+2021,92,Rockies,Blue Jays
+2021,92,Rangers,Twins
+2021,92,Angels,Phillies
+2021,92,Cardinals,Brewers
+2021,92,Braves,Nationals
+2021,92,Red Sox,Dodgers
+2021,92,Mariners,Indians
+2021,93,Rangers,Reds
+2021,93,Nationals,Padres
+2021,93,Dodgers,Pirates
+2021,93,Astros,Twins
+2021,93,Brewers,Tigers
+2021,93,Rockies,Mariners
+2021,93,Blue Jays,Red Sox
+2021,93,Phillies,Rays
+2021,93,Royals,Diamondbacks
+2021,93,Braves,Cardinals
+2021,93,Indians,Giants
+2021,93,Athletics,Mets
+2021,93,Yankees,Marlins
+2021,93,White Sox,Angels
+2021,93,Orioles,Cubs
+2021,94,Mets,Cardinals
+2021,94,Marlins,Red Sox
+2021,94,Athletics,Nationals
+2021,94,Royals,Blue Jays
+2021,94,Mariners,Brewers
+2021,94,Cubs,Angels
+2021,94,Rays,Rangers
+2021,94,Astros,Padres
+2021,94,Rockies,Diamondbacks
+2021,94,Pirates,Giants
+2021,94,White Sox,Braves
+2021,94,Twins,Phillies
+2021,94,Reds,Indians
+2021,94,Yankees,Dodgers
+2021,94,Tigers,Orioles
+2021,95,Rockies,Astros
+2021,95,Cubs,Blue Jays
+2021,95,Dodgers,Rays
+2021,95,White Sox,Nationals
+2021,95,Athletics,Giants
+2021,95,Braves,Phillies
+2021,95,Red Sox,Reds
+2021,95,Brewers,Pirates
+2021,95,Padres,Yankees
+2021,95,Royals,Rangers
+2021,95,Marlins,Diamondbacks
+2021,95,Indians,Mariners
+2021,95,Mets,Cardinals
+2021,95,Tigers,Orioles
+2021,95,Angels,Twins
+2021,96,Angels,Athletics
+2021,96,Orioles,Rays
+2021,96,Brewers,Blue Jays
+2021,96,Reds,Marlins
+2021,96,Rockies,Yankees
+2021,96,Indians,Diamondbacks
+2021,96,Royals,Braves
+2021,96,Cubs,Giants
+2021,96,Pirates,Tigers
+2021,96,Dodgers,Padres
+2021,96,Astros,Twins
+2021,96,Mets,Cardinals
+2021,96,Nationals,Phillies
+2021,96,Mariners,Red Sox
+2021,96,Rangers,White Sox
+2021,97,Yankees,Red Sox
+2021,97,Indians,Mariners
+2021,97,Orioles,Padres
+2021,97,Cardinals,Cubs
+2021,97,Tigers,Rangers
+2021,97,Giants,Blue Jays
+2021,97,Pirates,Astros
+2021,97,Reds,Nationals
+2021,97,Rays,Marlins
+2021,97,Brewers,Rockies
+2021,97,Athletics,Angels
+2021,97,Braves,Twins
+2021,97,White Sox,Dodgers
+2021,97,Royals,Mets
+2021,97,Diamondbacks,Phillies
+2021,98,Braves,Giants
+2021,98,Cubs,Phillies
+2021,98,Athletics,Rangers
+2021,98,Cardinals,Padres
+2021,98,Nationals,Rockies
+2021,98,Red Sox,Marlins
+2021,98,Dodgers,Tigers
+2021,98,Twins,Orioles
+2021,98,Yankees,Mets
+2021,98,Pirates,Indians
+2021,98,Rays,Astros
+2021,98,Mariners,Reds
+2021,98,Brewers,Blue Jays
+2021,98,White Sox,Angels
+2021,98,Diamondbacks,Royals
+2021,99,Mariners,Cubs
+2021,99,Angels,Giants
+2021,99,Rays,Dodgers
+2021,99,Blue Jays,Red Sox
+2021,99,Royals,Rockies
+2021,99,Diamondbacks,Cardinals
+2021,99,Phillies,Mets
+2021,99,Yankees,Marlins
+2021,99,Twins,Rangers
+2021,99,Padres,Orioles
+2021,99,Indians,Athletics
+2021,99,Braves,Nationals
+2021,99,Brewers,Tigers
+2021,99,Pirates,Reds
+2021,99,White Sox,Astros
+2021,100,Red Sox,Athletics
+2021,100,Phillies,White Sox
+2021,100,Pirates,Diamondbacks
+2021,100,Reds,Brewers
+2021,100,Nationals,Marlins
+2021,100,Giants,Twins
+2021,100,Dodgers,Orioles
+2021,100,Cubs,Cardinals
+2021,100,Yankees,Angels
+2021,100,Astros,Rays
+2021,100,Rangers,Blue Jays
+2021,100,Tigers,Indians
+2021,100,Mariners,Mets
+2021,100,Braves,Royals
+2021,100,Padres,Rockies
+2021,101,Braves,Rangers
+2021,101,Rays,Athletics
+2021,101,Giants,Nationals
+2021,101,Mariners,Blue Jays
+2021,101,Cardinals,Phillies
+2021,101,Reds,Yankees
+2021,101,Twins,Orioles
+2021,101,Astros,Red Sox
+2021,101,White Sox,Tigers
+2021,101,Brewers,Marlins
+2021,101,Padres,Rockies
+2021,101,Angels,Dodgers
+2021,101,Cubs,Royals
+2021,101,Mets,Indians
+2021,101,Diamondbacks,Pirates
+2021,102,Dodgers,Braves
+2021,102,Royals,Brewers
+2021,102,Marlins,Athletics
+2021,102,Blue Jays,Cubs
+2021,102,Rockies,Reds
+2021,102,Rangers,Diamondbacks
+2021,102,Rays,Orioles
+2021,102,Padres,Red Sox
+2021,102,Mets,Mariners
+2021,102,Cardinals,Nationals
+2021,102,Phillies,Tigers
+2021,102,Indians,Pirates
+2021,102,Giants,Yankees
+2021,102,White Sox,Twins
+2021,102,Astros,Angels
+2021,103,Giants,Orioles
+2021,103,Tigers,Braves
+2021,103,Mariners,Royals
+2021,103,Angels,Rockies
+2021,103,Phillies,Padres
+2021,103,Rays,Marlins
+2021,103,White Sox,Blue Jays
+2021,103,Dodgers,Twins
+2021,103,Red Sox,Rangers
+2021,103,Cubs,Yankees
+2021,103,Cardinals,Brewers
+2021,103,Mets,Nationals
+2021,103,Diamondbacks,Pirates
+2021,103,Reds,Athletics
+2021,103,Indians,Astros
+2021,104,Mets,Padres
+2021,104,Dodgers,Marlins
+2021,104,Cardinals,Angels
+2021,104,Phillies,Giants
+2021,104,Cubs,Nationals
+2021,104,Mariners,Braves
+2021,104,Rays,Red Sox
+2021,104,Indians,Rockies
+2021,104,Diamondbacks,Rangers
+2021,104,Orioles,Twins
+2021,104,Blue Jays,Pirates
+2021,104,Yankees,Reds
+2021,104,Tigers,Astros
+2021,104,Brewers,Athletics
+2021,104,White Sox,Royals
+2021,105,Rockies,Reds
+2021,105,White Sox,Twins
+2021,105,Diamondbacks,Blue Jays
+2021,105,Athletics,Yankees
+2021,105,Rangers,Orioles
+2021,105,Cardinals,Brewers
+2021,105,Angels,Mets
+2021,105,Cubs,Royals
+2021,105,Phillies,Tigers
+2021,105,Indians,Braves
+2021,105,Dodgers,Nationals
+2021,105,Astros,Marlins
+2021,105,Rays,Mariners
+2021,105,Padres,Giants
+2021,105,Red Sox,Pirates
+2021,106,White Sox,Marlins
+2021,106,Diamondbacks,Orioles
+2021,106,Cardinals,Padres
+2021,106,Pirates,Rangers
+2021,106,Twins,Athletics
+2021,106,Mariners,Brewers
+2021,106,Royals,Giants
+2021,106,Reds,Red Sox
+2021,106,Dodgers,Tigers
+2021,106,Phillies,Blue Jays
+2021,106,Rays,Braves
+2021,106,Rockies,Yankees
+2021,106,Nationals,Astros
+2021,106,Mets,Indians
+2021,106,Cubs,Angels
+2021,107,Red Sox,White Sox
+2021,107,Orioles,Dodgers
+2021,107,Yankees,Angels
+2021,107,Braves,Reds
+2021,107,Pirates,Cardinals
+2021,107,Tigers,Cubs
+2021,107,Marlins,Mariners
+2021,107,Mets,Giants
+2021,107,Royals,Brewers
+2021,107,Nationals,Rays
+2021,107,Indians,Rockies
+2021,107,Athletics,Diamondbacks
+2021,107,Rangers,Blue Jays
+2021,107,Phillies,Padres
+2021,107,Twins,Astros
+2021,108,Nationals,Padres
+2021,108,Reds,Braves
+2021,108,Athletics,Giants
+2021,108,Orioles,Blue Jays
+2021,108,Rockies,Royals
+2021,108,Mariners,Red Sox
+2021,108,Twins,Angels
+2021,108,Phillies,Brewers
+2021,108,Tigers,Marlins
+2021,108,Pirates,Astros
+2021,108,Diamondbacks,Indians
+2021,108,Cubs,Yankees
+2021,108,White Sox,Mets
+2021,108,Dodgers,Rays
+2021,108,Rangers,Cardinals
+2021,109,Diamondbacks,Padres
+2021,109,Indians,Athletics
+2021,109,Tigers,Blue Jays
+2021,109,Phillies,Reds
+2021,109,Angels,Marlins
+2021,109,Twins,Dodgers
+2021,109,Rangers,Mariners
+2021,109,Rockies,Red Sox
+2021,109,Astros,Mets
+2021,109,Yankees,Brewers
+2021,109,Cubs,Orioles
+2021,109,Royals,Nationals
+2021,109,Rays,White Sox
+2021,109,Giants,Cardinals
+2021,109,Pirates,Braves
+2021,110,Dodgers,Twins
+2021,110,Astros,White Sox
+2021,110,Blue Jays,Athletics
+2021,110,Phillies,Indians
+2021,110,Nationals,Orioles
+2021,110,Mariners,Reds
+2021,110,Rangers,Padres
+2021,110,Yankees,Royals
+2021,110,Mets,Diamondbacks
+2021,110,Giants,Tigers
+2021,110,Red Sox,Angels
+2021,110,Cubs,Braves
+2021,110,Rays,Rockies
+2021,110,Marlins,Cardinals
+2021,110,Pirates,Brewers
+2021,111,Athletics,Reds
+2021,111,Mets,Nationals
+2021,111,Brewers,Cubs
+2021,111,Pirates,Indians
+2021,111,Marlins,Yankees
+2021,111,Tigers,Red Sox
+2021,111,Dodgers,Padres
+2021,111,White Sox,Braves
+2021,111,Rays,Rangers
+2021,111,Giants,Rockies
+2021,111,Orioles,Royals
+2021,111,Phillies,Diamondbacks
+2021,111,Angels,Blue Jays
+2021,111,Cardinals,Mariners
+2021,111,Astros,Twins
+2021,112,Nationals,Indians
+2021,112,Athletics,Yankees
+2021,112,Cubs,Astros
+2021,112,Mets,Braves
+2021,112,Reds,Dodgers
+2021,112,Phillies,Tigers
+2021,112,Rockies,Orioles
+2021,112,Angels,Red Sox
+2021,112,Pirates,Cardinals
+2021,112,Rangers,Royals
+2021,112,Rays,Padres
+2021,112,Twins,Mariners
+2021,112,Giants,Blue Jays
+2021,112,Brewers,White Sox
+2021,112,Diamondbacks,Marlins
+2021,113,Nationals,Diamondbacks
+2021,113,Indians,Blue Jays
+2021,113,Mariners,Giants
+2021,113,Reds,Orioles
+2021,113,Twins,White Sox
+2021,113,Rangers,Brewers
+2021,113,Royals,Rays
+2021,113,Tigers,Astros
+2021,113,Mets,Cubs
+2021,113,Yankees,Rockies
+2021,113,Marlins,Phillies
+2021,113,Braves,Angels
+2021,113,Red Sox,Padres
+2021,113,Athletics,Cardinals
+2021,113,Pirates,Dodgers
+2021,114,Cubs,Diamondbacks
+2021,114,Rangers,Rockies
+2021,114,Yankees,Royals
+2021,114,Brewers,Astros
+2021,114,Reds,Marlins
+2021,114,Rays,Braves
+2021,114,Blue Jays,Athletics
+2021,114,Phillies,Angels
+2021,114,Indians,Nationals
+2021,114,Cardinals,Orioles
+2021,114,Giants,Padres
+2021,114,Red Sox,Pirates
+2021,114,White Sox,Mariners
+2021,114,Twins,Tigers
+2021,114,Mets,Dodgers
+2021,115,Angels,Rangers
+2021,115,Red Sox,Mariners
+2021,115,Diamondbacks,Cardinals
+2021,115,Royals,Blue Jays
+2021,115,Nationals,Astros
+2021,115,White Sox,Indians
+2021,115,Padres,Phillies
+2021,115,Rockies,Dodgers
+2021,115,Rays,Braves
+2021,115,Reds,Pirates
+2021,115,Twins,Brewers
+2021,115,Athletics,Mets
+2021,115,Cubs,Marlins
+2021,115,Tigers,Yankees
+2021,115,Giants,Orioles
+2021,116,Giants,Dodgers
+2021,116,Blue Jays,Twins
+2021,116,Phillies,Mets
+2021,116,Angels,Reds
+2021,116,Diamondbacks,Nationals
+2021,116,Tigers,Marlins
+2021,116,Orioles,Rays
+2021,116,Pirates,Royals
+2021,116,Brewers,Astros
+2021,116,Red Sox,Mariners
+2021,116,Rockies,Braves
+2021,116,White Sox,Cubs
+2021,116,Padres,Athletics
+2021,116,Yankees,Indians
+2021,116,Rangers,Cardinals
+2021,117,Braves,Rangers
+2021,117,Indians,Padres
+2021,117,Royals,Cubs
+2021,117,Marlins,Twins
+2021,117,Phillies,Dodgers
+2021,117,Astros,Red Sox
+2021,117,Nationals,Yankees
+2021,117,Cardinals,Brewers
+2021,117,Angels,Mets
+2021,117,Tigers,Giants
+2021,117,Pirates,Orioles
+2021,117,Reds,Blue Jays
+2021,117,Rays,White Sox
+2021,117,Rockies,Mariners
+2021,117,Athletics,Diamondbacks
+2021,118,Rays,Dodgers
+2021,118,Reds,Astros
+2021,118,Phillies,Mariners
+2021,118,Blue Jays,Cubs
+2021,118,Marlins,Angels
+2021,118,Pirates,Cardinals
+2021,118,White Sox,Yankees
+2021,118,Indians,Mets
+2021,118,Diamondbacks,Rangers
+2021,118,Orioles,Tigers
+2021,118,Rockies,Brewers
+2021,118,Nationals,Braves
+2021,118,Royals,Athletics
+2021,118,Giants,Red Sox
+2021,118,Padres,Twins
+2021,119,Diamondbacks,Tigers
+2021,119,Yankees,Indians
+2021,119,Giants,Dodgers
+2021,119,Reds,Mets
+2021,119,White Sox,Red Sox
+2021,119,Rays,Blue Jays
+2021,119,Brewers,Mariners
+2021,119,Padres,Twins
+2021,119,Cubs,Angels
+2021,119,Rangers,Athletics
+2021,119,Astros,Pirates
+2021,119,Royals,Rockies
+2021,119,Orioles,Phillies
+2021,119,Cardinals,Nationals
+2021,119,Marlins,Braves
+2021,120,Yankees,Pirates
+2021,120,Blue Jays,Athletics
+2021,120,Marlins,Reds
+2021,120,Rockies,Cubs
+2021,120,Giants,Orioles
+2021,120,Dodgers,Brewers
+2021,120,White Sox,Cardinals
+2021,120,Royals,Rangers
+2021,120,Red Sox,Twins
+2021,120,Mariners,Diamondbacks
+2021,120,Tigers,Angels
+2021,120,Indians,Astros
+2021,120,Rays,Phillies
+2021,120,Mets,Padres
+2021,120,Braves,Nationals
+2021,121,Twins,Angels
+2021,121,Brewers,Athletics
+2021,121,Royals,Cardinals
+2021,121,Reds,Mariners
+2021,121,Dodgers,Yankees
+2021,121,Diamondbacks,Orioles
+2021,121,Giants,Braves
+2021,121,Rangers,Tigers
+2021,121,Indians,Astros
+2021,121,Blue Jays,Rays
+2021,121,Mets,Cubs
+2021,121,White Sox,Pirates
+2021,121,Red Sox,Marlins
+2021,121,Phillies,Rockies
+2021,121,Padres,Nationals
+2021,122,Astros,Reds
+2021,122,Diamondbacks,Angels
+2021,122,Rays,Nationals
+2021,122,Indians,Mets
+2021,122,Rockies,Pirates
+2021,122,Cardinals,Twins
+2021,122,Cubs,Blue Jays
+2021,122,Mariners,Giants
+2021,122,Tigers,Braves
+2021,122,Brewers,Yankees
+2021,122,Rangers,Marlins
+2021,122,Royals,Dodgers
+2021,122,Padres,Athletics
+2021,122,White Sox,Phillies
+2021,122,Orioles,Red Sox
+2021,123,Red Sox,Yankees
+2021,123,Twins,Pirates
+2021,123,Royals,Astros
+2021,123,Phillies,Indians
+2021,123,Tigers,Cardinals
+2021,123,Diamondbacks,Braves
+2021,123,Giants,White Sox
+2021,123,Nationals,Rays
+2021,123,Padres,Mets
+2021,123,Rockies,Marlins
+2021,123,Blue Jays,Reds
+2021,123,Dodgers,Brewers
+2021,123,Orioles,Angels
+2021,123,Mariners,Cubs
+2021,123,Athletics,Rangers
+2021,124,Orioles,Tigers
+2021,124,White Sox,Indians
+2021,124,Pirates,Angels
+2021,124,Phillies,Padres
+2021,124,Diamondbacks,Royals
+2021,124,Cardinals,Braves
+2021,124,Red Sox,Athletics
+2021,124,Reds,Rays
+2021,124,Rangers,Marlins
+2021,124,Nationals,Cubs
+2021,124,Mets,Yankees
+2021,124,Blue Jays,Rockies
+2021,124,Astros,Giants
+2021,124,Twins,Brewers
+2021,124,Mariners,Dodgers
+2021,125,Yankees,Diamondbacks
+2021,125,Phillies,Royals
+2021,125,Mets,Twins
+2021,125,Reds,Mariners
+2021,125,Astros,Marlins
+2021,125,Indians,Braves
+2021,125,Blue Jays,Rangers
+2021,125,Red Sox,Rockies
+2021,125,Cubs,Padres
+2021,125,Brewers,Orioles
+2021,125,Rays,White Sox
+2021,125,Nationals,Athletics
+2021,125,Giants,Angels
+2021,125,Dodgers,Cardinals
+2021,125,Pirates,Tigers
+2021,126,Padres,Dodgers
+2021,126,Diamondbacks,Phillies
+2021,126,White Sox,Rays
+2021,126,Rockies,Mets
+2021,126,Tigers,Red Sox
+2021,126,Mariners,Twins
+2021,126,Cubs,Giants
+2021,126,Angels,Yankees
+2021,126,Nationals,Orioles
+2021,126,Brewers,Reds
+2021,126,Cardinals,Rangers
+2021,126,Athletics,Blue Jays
+2021,126,Astros,Marlins
+2021,126,Pirates,Royals
+2021,126,Braves,Indians
+2021,127,Angels,Twins
+2021,127,Cardinals,Brewers
+2021,127,Rays,Orioles
+2021,127,Phillies,Tigers
+2021,127,Indians,Reds
+2021,127,Braves,Pirates
+2021,127,Padres,Mariners
+2021,127,Cubs,Giants
+2021,127,Rockies,Diamondbacks
+2021,127,Dodgers,Marlins
+2021,127,Yankees,Athletics
+2021,127,Red Sox,Nationals
+2021,127,Rangers,Astros
+2021,127,Mets,Blue Jays
+2021,127,Royals,White Sox
+2021,128,Rays,Angels
+2021,128,Red Sox,Reds
+2021,128,Athletics,Giants
+2021,128,Braves,Pirates
+2021,128,Astros,Cardinals
+2021,128,Mets,Nationals
+2021,128,Brewers,Royals
+2021,128,Mariners,Twins
+2021,128,Phillies,Cubs
+2021,128,Rockies,Blue Jays
+2021,128,Diamondbacks,Rangers
+2021,128,Yankees,Padres
+2021,128,Tigers,Indians
+2021,128,Dodgers,Marlins
+2021,128,Orioles,White Sox
+2021,129,Diamondbacks,Red Sox
+2021,129,Rockies,Blue Jays
+2021,129,Brewers,Tigers
+2021,129,Phillies,Yankees
+2021,129,Rays,Royals
+2021,129,Giants,Orioles
+2021,129,Athletics,Marlins
+2021,129,Mets,Reds
+2021,129,Padres,Braves
+2021,129,Nationals,Angels
+2021,129,Astros,Pirates
+2021,129,Rangers,Twins
+2021,129,Cardinals,White Sox
+2021,129,Dodgers,Indians
+2021,129,Mariners,Cubs
+2021,130,Rays,Reds
+2021,130,Marlins,Astros
+2021,130,Pirates,Tigers
+2021,130,Rockies,Braves
+2021,130,Orioles,Blue Jays
+2021,130,Rangers,Nationals
+2021,130,Phillies,Cardinals
+2021,130,Twins,White Sox
+2021,130,Diamondbacks,Athletics
+2021,130,Red Sox,Angels
+2021,130,Mariners,Padres
+2021,130,Dodgers,Mets
+2021,130,Yankees,Giants
+2021,130,Cubs,Brewers
+2021,130,Royals,Indians
+2021,131,Tigers,Mariners
+2021,131,Yankees,Astros
+2021,131,Phillies,Cubs
+2021,131,Athletics,Braves
+2021,131,Pirates,Mets
+2021,131,Royals,Indians
+2021,131,Padres,White Sox
+2021,131,Orioles,Marlins
+2021,131,Twins,Rays
+2021,131,Nationals,Cardinals
+2021,131,Diamondbacks,Blue Jays
+2021,131,Reds,Giants
+2021,131,Red Sox,Angels
+2021,131,Rangers,Rockies
+2021,131,Dodgers,Brewers
+2021,132,Yankees,Astros
+2021,132,Red Sox,Blue Jays
+2021,132,Padres,Cardinals
+2021,132,Twins,White Sox
+2021,132,Braves,Royals
+2021,132,Diamondbacks,Rockies
+2021,132,Cubs,Reds
+2021,132,Marlins,Nationals
+2021,132,Indians,Brewers
+2021,132,Rays,Rangers
+2021,132,Giants,Dodgers
+2021,132,Pirates,Athletics
+2021,132,Phillies,Mariners
+2021,132,Mets,Angels
+2021,132,Orioles,Tigers
+2021,133,Phillies,Athletics
+2021,133,Cardinals,Padres
+2021,133,Indians,Dodgers
+2021,133,Marlins,Angels
+2021,133,Rockies,Blue Jays
+2021,133,Tigers,Brewers
+2021,133,Reds,Orioles
+2021,133,Rangers,Pirates
+2021,133,Yankees,Diamondbacks
+2021,133,Braves,Giants
+2021,133,Mariners,Mets
+2021,133,White Sox,Twins
+2021,133,Red Sox,Royals
+2021,133,Rays,Astros
+2021,133,Nationals,Cubs
+2021,134,Twins,Orioles
+2021,134,Rangers,Cardinals
+2021,134,Brewers,Yankees
+2021,134,Rockies,Rays
+2021,134,Mets,White Sox
+2021,134,Phillies,Marlins
+2021,134,Astros,Pirates
+2021,134,Giants,Dodgers
+2021,134,Reds,Tigers
+2021,134,Padres,Red Sox
+2021,134,Indians,Blue Jays
+2021,134,Royals,Cubs
+2021,134,Mariners,Braves
+2021,134,Nationals,Diamondbacks
+2021,134,Angels,Athletics
+2021,135,Rays,Indians
+2021,135,Dodgers,Tigers
+2021,135,Cardinals,Astros
+2021,135,White Sox,Athletics
+2021,135,Orioles,Reds
+2021,135,Pirates,Mets
+2021,135,Mariners,Rockies
+2021,135,Rangers,Padres
+2021,135,Giants,Angels
+2021,135,Brewers,Marlins
+2021,135,Nationals,Twins
+2021,135,Diamondbacks,Royals
+2021,135,Phillies,Red Sox
+2021,135,Cubs,Yankees
+2021,135,Blue Jays,Braves
+2021,136,Tigers,Braves
+2021,136,Orioles,Twins
+2021,136,Nationals,Blue Jays
+2021,136,Rockies,Cubs
+2021,136,Red Sox,Padres
+2021,136,Giants,Reds
+2021,136,Dodgers,Mets
+2021,136,Diamondbacks,Angels
+2021,136,Royals,Indians
+2021,136,White Sox,Rays
+2021,136,Cardinals,Athletics
+2021,136,Mariners,Brewers
+2021,136,Marlins,Astros
+2021,136,Phillies,Rangers
+2021,136,Yankees,Pirates
+2021,137,White Sox,Mariners
+2021,137,Astros,Nationals
+2021,137,Athletics,Padres
+2021,137,Royals,Cardinals
+2021,137,Marlins,Rockies
+2021,137,Blue Jays,Orioles
+2021,137,Yankees,Pirates
+2021,137,Diamondbacks,Rays
+2021,137,Indians,Mets
+2021,137,Angels,Rangers
+2021,137,Phillies,Dodgers
+2021,137,Brewers,Red Sox
+2021,137,Reds,Giants
+2021,137,Tigers,Cubs
+2021,137,Twins,Braves
+2021,138,Pirates,Blue Jays
+2021,138,Reds,Rockies
+2021,138,Royals,Mets
+2021,138,Nationals,Phillies
+2021,138,White Sox,Giants
+2021,138,Rays,Diamondbacks
+2021,138,Cardinals,Astros
+2021,138,Marlins,Cubs
+2021,138,Brewers,Red Sox
+2021,138,Rangers,Twins
+2021,138,Orioles,Tigers
+2021,138,Padres,Dodgers
+2021,138,Angels,Yankees
+2021,138,Athletics,Braves
+2021,138,Mariners,Indians
+2021,139,Red Sox,Indians
+2021,139,Athletics,Diamondbacks
+2021,139,Royals,Orioles
+2021,139,Rockies,Pirates
+2021,139,Phillies,Mets
+2021,139,White Sox,Padres
+2021,139,Astros,Dodgers
+2021,139,Cardinals,Cubs
+2021,139,Blue Jays,Rays
+2021,139,Yankees,Giants
+2021,139,Rangers,Angels
+2021,139,Reds,Tigers
+2021,139,Braves,Nationals
+2021,139,Brewers,Twins
+2021,139,Marlins,Mariners
+2021,140,Cubs,Reds
+2021,140,Twins,Yankees
+2021,140,Rockies,Diamondbacks
+2021,140,Orioles,Marlins
+2021,140,Dodgers,Royals
+2021,140,Braves,Rangers
+2021,140,Nationals,Mets
+2021,140,Blue Jays,Padres
+2021,140,Tigers,Astros
+2021,140,Rays,Indians
+2021,140,Pirates,Cardinals
+2021,140,Brewers,Mariners
+2021,140,Athletics,Phillies
+2021,140,Angels,White Sox
+2021,140,Giants,Red Sox
+2021,141,Mariners,Cardinals
+2021,141,Red Sox,Nationals
+2021,141,Mets,Blue Jays
+2021,141,Pirates,Angels
+2021,141,Astros,Padres
+2021,141,Giants,Diamondbacks
+2021,141,Reds,Cubs
+2021,141,Marlins,Twins
+2021,141,Rangers,Phillies
+2021,141,Braves,Dodgers
+2021,141,Orioles,Rockies
+2021,141,Athletics,Yankees
+2021,141,Brewers,Royals
+2021,141,White Sox,Rays
+2021,141,Tigers,Indians
+2021,142,Orioles,Indians
+2021,142,Astros,Diamondbacks
+2021,142,Dodgers,Cardinals
+2021,142,White Sox,Pirates
+2021,142,Brewers,Braves
+2021,142,Rangers,Rays
+2021,142,Tigers,Cubs
+2021,142,Yankees,Mariners
+2021,142,Angels,Marlins
+2021,142,Royals,Twins
+2021,142,Blue Jays,Nationals
+2021,142,Phillies,Padres
+2021,142,Reds,Red Sox
+2021,142,Rockies,Giants
+2021,142,Mets,Athletics
+2021,143,Brewers,Yankees
+2021,143,Astros,Tigers
+2021,143,Royals,Blue Jays
+2021,143,Rangers,Twins
+2021,143,Cubs,Orioles
+2021,143,Braves,Nationals
+2021,143,Mariners,Phillies
+2021,143,Indians,Giants
+2021,143,Athletics,Marlins
+2021,143,Diamondbacks,Reds
+2021,143,Red Sox,Rockies
+2021,143,Pirates,White Sox
+2021,143,Dodgers,Cardinals
+2021,143,Padres,Angels
+2021,143,Rays,Mets
+2021,144,Blue Jays,Red Sox
+2021,144,Giants,Athletics
+2021,144,Mets,Cubs
+2021,144,Phillies,Pirates
+2021,144,Marlins,Rockies
+2021,144,Reds,Astros
+2021,144,White Sox,Royals
+2021,144,Padres,Indians
+2021,144,Yankees,Brewers
+2021,144,Cardinals,Braves
+2021,144,Rangers,Nationals
+2021,144,Orioles,Mariners
+2021,144,Diamondbacks,Rays
+2021,144,Twins,Angels
+2021,144,Dodgers,Tigers
+2021,145,Blue Jays,Twins
+2021,145,Royals,Braves
+2021,145,Phillies,Giants
+2021,145,Rangers,Mariners
+2021,145,Brewers,Cardinals
+2021,145,Orioles,Tigers
+2021,145,Rockies,Red Sox
+2021,145,Dodgers,Padres
+2021,145,Mets,White Sox
+2021,145,Marlins,Astros
+2021,145,Yankees,Pirates
+2021,145,Nationals,Rays
+2021,145,Angels,Indians
+2021,145,Cubs,Reds
+2021,145,Athletics,Diamondbacks
+2021,146,Rockies,Dodgers
+2021,146,Orioles,Phillies
+2021,146,Padres,Cardinals
+2021,146,Rays,Cubs
+2021,146,Twins,Braves
+2021,146,Mets,Diamondbacks
+2021,146,Red Sox,Yankees
+2021,146,Giants,Reds
+2021,146,Indians,Rangers
+2021,146,White Sox,Nationals
+2021,146,Pirates,Blue Jays
+2021,146,Athletics,Royals
+2021,146,Angels,Tigers
+2021,146,Brewers,Mariners
+2021,146,Marlins,Astros
+2021,147,Twins,Rockies
+2021,147,Indians,Reds
+2021,147,Cubs,Mets
+2021,147,Tigers,Phillies
+2021,147,Rays,Angels
+2021,147,Orioles,Cardinals
+2021,147,Dodgers,Braves
+2021,147,Marlins,White Sox
+2021,147,Blue Jays,Padres
+2021,147,Pirates,Athletics
+2021,147,Red Sox,Nationals
+2021,147,Brewers,Mariners
+2021,147,Giants,Yankees
+2021,147,Diamondbacks,Rangers
+2021,147,Royals,Astros
+2021,148,Phillies,Marlins
+2021,148,Angels,Yankees
+2021,148,Blue Jays,Rockies
+2021,148,Giants,Cardinals
+2021,148,Padres,Astros
+2021,148,Braves,Diamondbacks
+2021,148,Red Sox,Rays
+2021,148,White Sox,Tigers
+2021,148,Twins,Pirates
+2021,148,Mets,Cubs
+2021,148,Orioles,Dodgers
+2021,148,Mariners,Nationals
+2021,148,Indians,Royals
+2021,148,Brewers,Rangers
+2021,148,Reds,Athletics
+2021,149,Yankees,Mariners
+2021,149,Astros,Mets
+2021,149,Indians,Diamondbacks
+2021,149,Rockies,Rangers
+2021,149,Rays,Red Sox
+2021,149,Blue Jays,Orioles
+2021,149,Brewers,Nationals
+2021,149,White Sox,Tigers
+2021,149,Marlins,Padres
+2021,149,Royals,Cubs
+2021,149,Pirates,Dodgers
+2021,149,Reds,Angels
+2021,149,Giants,Braves
+2021,149,Cardinals,Athletics
+2021,149,Twins,Phillies
+2021,150,Blue Jays,Red Sox
+2021,150,Orioles,Astros
+2021,150,Royals,Rays
+2021,150,Rangers,Cubs
+2021,150,Marlins,Braves
+2021,150,Phillies,Rockies
+2021,150,Dodgers,Brewers
+2021,150,Nationals,Mariners
+2021,150,Indians,Pirates
+2021,150,Padres,Cardinals
+2021,150,White Sox,Yankees
+2021,150,Twins,Reds
+2021,150,Tigers,Athletics
+2021,150,Giants,Mets
+2021,150,Diamondbacks,Angels
+2021,151,Rockies,Tigers
+2021,151,Phillies,Pirates
+2021,151,Orioles,Mets
+2021,151,Rangers,Mariners
+2021,151,Nationals,Marlins
+2021,151,Angels,Reds
+2021,151,Royals,White Sox
+2021,151,Blue Jays,Yankees
+2021,151,Braves,Padres
+2021,151,Twins,Dodgers
+2021,151,Brewers,Astros
+2021,151,Giants,Cubs
+2021,151,Indians,Diamondbacks
+2021,151,Red Sox,Athletics
+2021,151,Rays,Cardinals
+2021,152,Padres,Dodgers
+2021,152,Royals,Pirates
+2021,152,Cubs,Twins
+2021,152,Red Sox,Reds
+2021,152,Cardinals,Rays
+2021,152,White Sox,Mariners
+2021,152,Rockies,Orioles
+2021,152,Marlins,Rangers
+2021,152,Angels,Diamondbacks
+2021,152,Athletics,Braves
+2021,152,Giants,Yankees
+2021,152,Brewers,Tigers
+2021,152,Indians,Blue Jays
+2021,152,Nationals,Astros
+2021,152,Mets,Phillies
+2021,153,Athletics,Padres
+2021,153,Marlins,Diamondbacks
+2021,153,Orioles,Indians
+2021,153,Yankees,Braves
+2021,153,Rays,Twins
+2021,153,Angels,Giants
+2021,153,Pirates,Mariners
+2021,153,Blue Jays,Cardinals
+2021,153,Rockies,Cubs
+2021,153,Dodgers,Astros
+2021,153,Tigers,Brewers
+2021,153,Reds,Rangers
+2021,153,Mets,White Sox
+2021,153,Nationals,Royals
+2021,153,Red Sox,Phillies
+2021,154,Orioles,Astros
+2021,154,Phillies,Rockies
+2021,154,Braves,Twins
+2021,154,Cubs,Nationals
+2021,154,Cardinals,Indians
+2021,154,Brewers,Rays
+2021,154,Angels,Reds
+2021,154,Giants,Diamondbacks
+2021,154,Blue Jays,Dodgers
+2021,154,Mariners,Tigers
+2021,154,Rangers,Red Sox
+2021,154,Athletics,Padres
+2021,154,Marlins,Royals
+2021,154,Pirates,Mets
+2021,154,White Sox,Yankees
+2021,155,Orioles,Yankees
+2021,155,Rays,White Sox
+2021,155,Marlins,Giants
+2021,155,Padres,Diamondbacks
+2021,155,Mariners,Indians
+2021,155,Reds,Pirates
+2021,155,Rockies,Cubs
+2021,155,Blue Jays,Red Sox
+2021,155,Dodgers,Rangers
+2021,155,Braves,Twins
+2021,155,Tigers,Nationals
+2021,155,Mets,Angels
+2021,155,Phillies,Brewers
+2021,155,Athletics,Royals
+2021,155,Astros,Cardinals
+2021,156,Royals,Reds
+2021,156,Tigers,Yankees
+2021,156,Marlins,Padres
+2021,156,Pirates,Twins
+2021,156,Red Sox,Mariners
+2021,156,White Sox,Angels
+2021,156,Mets,Rangers
+2021,156,Nationals,Cubs
+2021,156,Phillies,Diamondbacks
+2021,156,Blue Jays,Dodgers
+2021,156,Rays,Orioles
+2021,156,Astros,Indians
+2021,156,Athletics,Brewers
+2021,156,Giants,Rockies
+2021,156,Cardinals,Braves
+2021,157,Red Sox,Padres
+2021,157,Cubs,Cardinals
+2021,157,Twins,Tigers
+2021,157,Orioles,Diamondbacks
+2021,157,Astros,Blue Jays
+2021,157,Marlins,Braves
+2021,157,Dodgers,Nationals
+2021,157,Royals,Mariners
+2021,157,Rockies,Giants
+2021,157,Angels,Rangers
+2021,157,Rays,Mets
+2021,157,Indians,Brewers
+2021,157,Athletics,Reds
+2021,157,White Sox,Pirates
+2021,157,Yankees,Phillies
+2021,158,Twins,Athletics
+2021,158,Mets,Dodgers
+2021,158,Padres,Cubs
+2021,158,Orioles,Royals
+2021,158,Nationals,Mariners
+2021,158,Rays,Pirates
+2021,158,Astros,Marlins
+2021,158,Phillies,Tigers
+2021,158,Indians,Yankees
+2021,158,Angels,Giants
+2021,158,White Sox,Diamondbacks
+2021,158,Braves,Brewers
+2021,158,Blue Jays,Rockies
+2021,158,Rangers,Reds
+2021,158,Red Sox,Cardinals
+2021,159,Orioles,Cardinals
+2021,159,Braves,White Sox
+2021,159,Giants,Marlins
+2021,159,Tigers,Mariners
+2021,159,Royals,Rockies
+2021,159,Astros,Angels
+2021,159,Mets,Rangers
+2021,159,Dodgers,Pirates
+2021,159,Nationals,Diamondbacks
+2021,159,Reds,Brewers
+2021,159,Blue Jays,Phillies
+2021,159,Yankees,Indians
+2021,159,Athletics,Red Sox
+2021,159,Twins,Padres
+2021,159,Rays,Cubs
+2021,160,Twins,Mariners
+2021,160,Blue Jays,White Sox
+2021,160,Red Sox,Diamondbacks
+2021,160,Marlins,Astros
+2021,160,Royals,Giants
+2021,160,Brewers,Orioles
+2021,160,Mets,Pirates
+2021,160,Yankees,Angels
+2021,160,Cubs,Nationals
+2021,160,Rockies,Dodgers
+2021,160,Phillies,Athletics
+2021,160,Reds,Tigers
+2021,160,Braves,Cardinals
+2021,160,Rangers,Indians
+2021,160,Padres,Rays
+2021,161,Mariners,Yankees
+2021,161,Orioles,Marlins
+2021,161,Angels,Rays
+2021,161,Cubs,Phillies
+2021,161,Twins,Nationals
+2021,161,Reds,Braves
+2021,161,Rangers,Cardinals
+2021,161,Athletics,Blue Jays
+2021,161,Brewers,Padres
+2021,161,Mets,Tigers
+2021,161,Indians,Rockies
+2021,161,Giants,Royals
+2021,161,Red Sox,White Sox
+2021,161,Dodgers,Diamondbacks
+2021,161,Astros,Pirates
+2021,162,Blue Jays,Orioles
+2021,162,Marlins,Astros
+2021,162,Padres,Nationals
+2021,162,Dodgers,Diamondbacks
+2021,162,Cardinals,Red Sox
+2021,162,Giants,Braves
+2021,162,Twins,Pirates
+2021,162,Mets,Rockies
+2021,162,Rangers,Reds
+2021,162,Angels,Royals
+2021,162,Phillies,Brewers
+2021,162,Indians,White Sox
+2021,162,Rays,Yankees
+2021,162,Cubs,Mariners
+2021,162,Athletics,Tigers

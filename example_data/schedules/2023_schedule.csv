@@ -1,0 +1,2431 @@
+Year,day,home_team_name,away_team_name
+2023,1,Rangers,White Sox
+2023,1,Nationals,Phillies
+2023,1,Athletics,Royals
+2023,1,Rays,Cubs
+2023,1,Braves,Yankees
+2023,1,Rockies,Blue Jays
+2023,1,Padres,Dodgers
+2023,1,Indians,Giants
+2023,1,Brewers,Mariners
+2023,1,Pirates,Mets
+2023,1,Twins,Orioles
+2023,1,Marlins,Cardinals
+2023,1,Astros,Diamondbacks
+2023,1,Angels,Reds
+2023,1,Red Sox,Tigers
+2023,2,Braves,Cubs
+2023,2,Cardinals,Indians
+2023,2,Rangers,Blue Jays
+2023,2,Athletics,Giants
+2023,2,Red Sox,Astros
+2023,2,Brewers,Phillies
+2023,2,Dodgers,Yankees
+2023,2,Rockies,Rays
+2023,2,Royals,Mariners
+2023,2,Marlins,Nationals
+2023,2,White Sox,Diamondbacks
+2023,2,Reds,Angels
+2023,2,Orioles,Mets
+2023,2,Tigers,Padres
+2023,2,Pirates,Twins
+2023,3,White Sox,Angels
+2023,3,Rangers,Cardinals
+2023,3,Braves,Twins
+2023,3,Yankees,Athletics
+2023,3,Padres,Mets
+2023,3,Nationals,Red Sox
+2023,3,Astros,Dodgers
+2023,3,Royals,Marlins
+2023,3,Rockies,Phillies
+2023,3,Reds,Rays
+2023,3,Brewers,Tigers
+2023,3,Blue Jays,Pirates
+2023,3,Giants,Diamondbacks
+2023,3,Mariners,Cubs
+2023,3,Indians,Orioles
+2023,4,Giants,Yankees
+2023,4,Padres,Athletics
+2023,4,Rangers,Cardinals
+2023,4,Dodgers,Marlins
+2023,4,Mariners,Rockies
+2023,4,Pirates,Royals
+2023,4,Tigers,Angels
+2023,4,Blue Jays,Twins
+2023,4,Phillies,White Sox
+2023,4,Brewers,Rays
+2023,4,Nationals,Cubs
+2023,4,Orioles,Red Sox
+2023,4,Astros,Braves
+2023,4,Mets,Reds
+2023,4,Indians,Diamondbacks
+2023,5,Padres,Blue Jays
+2023,5,Red Sox,Dodgers
+2023,5,Rangers,Rockies
+2023,5,Braves,Royals
+2023,5,Marlins,Rays
+2023,5,Phillies,Angels
+2023,5,White Sox,Indians
+2023,5,Cardinals,Nationals
+2023,5,Yankees,Twins
+2023,5,Tigers,Brewers
+2023,5,Athletics,Mets
+2023,5,Giants,Orioles
+2023,5,Astros,Cubs
+2023,5,Reds,Diamondbacks
+2023,5,Mariners,Pirates
+2023,6,Indians,Royals
+2023,6,Brewers,Diamondbacks
+2023,6,Cubs,Rays
+2023,6,White Sox,Dodgers
+2023,6,Padres,Pirates
+2023,6,Angels,Cardinals
+2023,6,Phillies,Nationals
+2023,6,Mariners,Rangers
+2023,6,Tigers,Marlins
+2023,6,Mets,Red Sox
+2023,6,Reds,Twins
+2023,6,Braves,Orioles
+2023,6,Yankees,Astros
+2023,6,Rockies,Giants
+2023,6,Athletics,Blue Jays
+2023,7,Cardinals,Rangers
+2023,7,Indians,Royals
+2023,7,Dodgers,Blue Jays
+2023,7,Diamondbacks,Athletics
+2023,7,Rays,Nationals
+2023,7,Mets,Giants
+2023,7,Marlins,Mariners
+2023,7,Cubs,Astros
+2023,7,Angels,Yankees
+2023,7,Twins,Orioles
+2023,7,Red Sox,Braves
+2023,7,White Sox,Rockies
+2023,7,Phillies,Reds
+2023,7,Padres,Brewers
+2023,7,Tigers,Pirates
+2023,8,Phillies,Reds
+2023,8,Rockies,Athletics
+2023,8,Padres,Angels
+2023,8,Rays,Braves
+2023,8,Astros,White Sox
+2023,8,Tigers,Dodgers
+2023,8,Rangers,Mets
+2023,8,Mariners,Cardinals
+2023,8,Diamondbacks,Nationals
+2023,8,Brewers,Marlins
+2023,8,Orioles,Cubs
+2023,8,Red Sox,Royals
+2023,8,Yankees,Twins
+2023,8,Blue Jays,Giants
+2023,8,Indians,Pirates
+2023,9,Orioles,Phillies
+2023,9,Brewers,Giants
+2023,9,Rays,Mariners
+2023,9,Red Sox,Reds
+2023,9,Angels,Athletics
+2023,9,Mets,Rockies
+2023,9,Diamondbacks,Cardinals
+2023,9,Twins,Blue Jays
+2023,9,Yankees,Nationals
+2023,9,Rangers,Padres
+2023,9,Astros,Cubs
+2023,9,Royals,White Sox
+2023,9,Dodgers,Marlins
+2023,9,Indians,Braves
+2023,9,Pirates,Tigers
+2023,10,Yankees,Brewers
+2023,10,Tigers,Twins
+2023,10,Orioles,Dodgers
+2023,10,Phillies,Royals
+2023,10,Mariners,Red Sox
+2023,10,Astros,Rockies
+2023,10,White Sox,Reds
+2023,10,Pirates,Braves
+2023,10,Angels,Blue Jays
+2023,10,Rangers,Rays
+2023,10,Giants,Cardinals
+2023,10,Padres,Diamondbacks
+2023,10,Athletics,Nationals
+2023,10,Indians,Cubs
+2023,10,Mets,Marlins
+2023,11,Rockies,Rays
+2023,11,Braves,Red Sox
+2023,11,Reds,White Sox
+2023,11,Angels,Athletics
+2023,11,Blue Jays,Cardinals
+2023,11,Orioles,Twins
+2023,11,Mariners,Tigers
+2023,11,Giants,Phillies
+2023,11,Yankees,Marlins
+2023,11,Astros,Diamondbacks
+2023,11,Rangers,Nationals
+2023,11,Cubs,Mets
+2023,11,Indians,Dodgers
+2023,11,Brewers,Royals
+2023,11,Padres,Pirates
+2023,12,Twins,Orioles
+2023,12,Yankees,Rangers
+2023,12,Mariners,Reds
+2023,12,Giants,Angels
+2023,12,Dodgers,Rockies
+2023,12,Athletics,White Sox
+2023,12,Mets,Brewers
+2023,12,Indians,Royals
+2023,12,Tigers,Cardinals
+2023,12,Nationals,Padres
+2023,12,Phillies,Rays
+2023,12,Red Sox,Cubs
+2023,12,Marlins,Blue Jays
+2023,12,Braves,Diamondbacks
+2023,12,Pirates,Astros
+2023,13,Cardinals,Phillies
+2023,13,Padres,Brewers
+2023,13,Pirates,Diamondbacks
+2023,13,Giants,Twins
+2023,13,Tigers,Dodgers
+2023,13,Mets,Rays
+2023,13,Rockies,Red Sox
+2023,13,Cubs,Rangers
+2023,13,Athletics,Marlins
+2023,13,Yankees,Indians
+2023,13,Orioles,White Sox
+2023,13,Blue Jays,Braves
+2023,13,Nationals,Royals
+2023,13,Angels,Astros
+2023,13,Reds,Mariners
+2023,14,Angels,Diamondbacks
+2023,14,Blue Jays,Padres
+2023,14,Nationals,Mets
+2023,14,Braves,Rockies
+2023,14,Mariners,Phillies
+2023,14,Dodgers,Rangers
+2023,14,Yankees,Cardinals
+2023,14,White Sox,Tigers
+2023,14,Twins,Giants
+2023,14,Brewers,Marlins
+2023,14,Indians,Reds
+2023,14,Royals,Red Sox
+2023,14,Cubs,Pirates
+2023,14,Athletics,Astros
+2023,14,Orioles,Rays
+2023,15,Nationals,Cardinals
+2023,15,Indians,Tigers
+2023,15,Cubs,Marlins
+2023,15,Reds,Giants
+2023,15,Mariners,Rays
+2023,15,Braves,Phillies
+2023,15,Dodgers,Rangers
+2023,15,Twins,Red Sox
+2023,15,Blue Jays,Royals
+2023,15,White Sox,Mets
+2023,15,Rockies,Brewers
+2023,15,Angels,Athletics
+2023,15,Diamondbacks,Padres
+2023,15,Pirates,Yankees
+2023,15,Orioles,Astros
+2023,16,Twins,White Sox
+2023,16,Mariners,Yankees
+2023,16,Tigers,Reds
+2023,16,Diamondbacks,Giants
+2023,16,Red Sox,Athletics
+2023,16,Angels,Blue Jays
+2023,16,Royals,Braves
+2023,16,Padres,Orioles
+2023,16,Indians,Rangers
+2023,16,Cubs,Phillies
+2023,16,Dodgers,Cardinals
+2023,16,Nationals,Rays
+2023,16,Astros,Pirates
+2023,16,Mets,Marlins
+2023,16,Rockies,Brewers
+2023,17,Rangers,Athletics
+2023,17,Indians,Orioles
+2023,17,Twins,Giants
+2023,17,Rockies,Cardinals
+2023,17,Reds,Braves
+2023,17,Padres,Marlins
+2023,17,Phillies,Diamondbacks
+2023,17,Rays,White Sox
+2023,17,Mariners,Red Sox
+2023,17,Blue Jays,Dodgers
+2023,17,Nationals,Angels
+2023,17,Mets,Pirates
+2023,17,Astros,Royals
+2023,17,Yankees,Cubs
+2023,17,Brewers,Tigers
+2023,18,Mariners,Rangers
+2023,18,Mets,Padres
+2023,18,Astros,Braves
+2023,18,Royals,Cubs
+2023,18,Nationals,Cardinals
+2023,18,Twins,Indians
+2023,18,Brewers,Dodgers
+2023,18,Pirates,Yankees
+2023,18,Blue Jays,Phillies
+2023,18,Angels,Giants
+2023,18,Marlins,Red Sox
+2023,18,Reds,Tigers
+2023,18,Rockies,Rays
+2023,18,White Sox,Diamondbacks
+2023,18,Athletics,Orioles
+2023,19,Braves,Rockies
+2023,19,Cardinals,Tigers
+2023,19,Mets,Padres
+2023,19,Twins,Red Sox
+2023,19,Cubs,Royals
+2023,19,Nationals,Rangers
+2023,19,Mariners,Pirates
+2023,19,Rays,Marlins
+2023,19,Angels,Phillies
+2023,19,Brewers,Astros
+2023,19,White Sox,Diamondbacks
+2023,19,Athletics,Reds
+2023,19,Giants,Dodgers
+2023,19,Yankees,Blue Jays
+2023,19,Orioles,Indians
+2023,20,Royals,Phillies
+2023,20,Nationals,Pirates
+2023,20,Orioles,Cardinals
+2023,20,Dodgers,Astros
+2023,20,Giants,Rays
+2023,20,Athletics,Marlins
+2023,20,Diamondbacks,Twins
+2023,20,Rockies,Brewers
+2023,20,Mets,Tigers
+2023,20,Indians,Rangers
+2023,20,Red Sox,Braves
+2023,20,Angels,Cubs
+2023,20,Reds,Yankees
+2023,20,Mariners,Padres
+2023,20,Blue Jays,White Sox
+2023,21,Pirates,Nationals
+2023,21,Twins,Yankees
+2023,21,Braves,Rangers
+2023,21,Blue Jays,Dodgers
+2023,21,Angels,Mets
+2023,21,Astros,Reds
+2023,21,White Sox,Orioles
+2023,21,Athletics,Mariners
+2023,21,Diamondbacks,Red Sox
+2023,21,Rockies,Rays
+2023,21,Tigers,Cardinals
+2023,21,Marlins,Phillies
+2023,21,Giants,Cubs
+2023,21,Indians,Royals
+2023,21,Padres,Brewers
+2023,22,White Sox,Red Sox
+2023,22,Giants,Pirates
+2023,22,Brewers,Twins
+2023,22,Orioles,Cubs
+2023,22,Nationals,Marlins
+2023,22,Cardinals,Tigers
+2023,22,Athletics,Rangers
+2023,22,Diamondbacks,Blue Jays
+2023,22,Astros,Dodgers
+2023,22,Rockies,Reds
+2023,22,Rays,Indians
+2023,22,Royals,Mets
+2023,22,Mariners,Braves
+2023,22,Yankees,Padres
+2023,22,Angels,Phillies
+2023,23,Rays,Cardinals
+2023,23,Red Sox,Brewers
+2023,23,Astros,Padres
+2023,23,Tigers,Phillies
+2023,23,Orioles,Marlins
+2023,23,Twins,Braves
+2023,23,Royals,Indians
+2023,23,Reds,Athletics
+2023,23,Dodgers,Angels
+2023,23,Nationals,Rockies
+2023,23,Pirates,Blue Jays
+2023,23,Mariners,Mets
+2023,23,Giants,Diamondbacks
+2023,23,Yankees,Cubs
+2023,23,Rangers,White Sox
+2023,24,Rays,Phillies
+2023,24,Rangers,Marlins
+2023,24,Athletics,Astros
+2023,24,Twins,Royals
+2023,24,Cardinals,Giants
+2023,24,Red Sox,Rockies
+2023,24,Indians,Diamondbacks
+2023,24,Mets,Tigers
+2023,24,Cubs,Orioles
+2023,24,Braves,Angels
+2023,24,Nationals,Pirates
+2023,24,White Sox,Brewers
+2023,24,Mariners,Yankees
+2023,24,Reds,Padres
+2023,24,Blue Jays,Dodgers
+2023,25,Giants,Mets
+2023,25,Marlins,Rays
+2023,25,Red Sox,Tigers
+2023,25,Diamondbacks,Blue Jays
+2023,25,Twins,Brewers
+2023,25,Dodgers,Padres
+2023,25,Cardinals,Indians
+2023,25,Phillies,Reds
+2023,25,Pirates,Cubs
+2023,25,Mariners,White Sox
+2023,25,Athletics,Yankees
+2023,25,Nationals,Angels
+2023,25,Rangers,Rockies
+2023,25,Orioles,Astros
+2023,25,Braves,Royals
+2023,26,Rangers,Twins
+2023,26,Reds,Royals
+2023,26,Athletics,Cubs
+2023,26,Dodgers,Indians
+2023,26,Marlins,Angels
+2023,26,Rays,Rockies
+2023,26,Blue Jays,Mariners
+2023,26,Yankees,Red Sox
+2023,26,Mets,Braves
+2023,26,Giants,Cardinals
+2023,26,Orioles,Diamondbacks
+2023,26,Tigers,White Sox
+2023,26,Astros,Nationals
+2023,26,Pirates,Brewers
+2023,26,Padres,Phillies
+2023,27,Astros,Red Sox
+2023,27,Athletics,Giants
+2023,27,Cardinals,Rangers
+2023,27,Reds,Cubs
+2023,27,Braves,Diamondbacks
+2023,27,Marlins,Orioles
+2023,27,Rays,Padres
+2023,27,Blue Jays,White Sox
+2023,27,Yankees,Angels
+2023,27,Tigers,Mariners
+2023,27,Phillies,Brewers
+2023,27,Royals,Dodgers
+2023,27,Pirates,Nationals
+2023,27,Rockies,Mets
+2023,27,Twins,Indians
+2023,28,Royals,Orioles
+2023,28,Brewers,White Sox
+2023,28,Tigers,Giants
+2023,28,Nationals,Red Sox
+2023,28,Blue Jays,Astros
+2023,28,Mariners,Yankees
+2023,28,Braves,Rangers
+2023,28,Phillies,Indians
+2023,28,Cubs,Twins
+2023,28,Rays,Pirates
+2023,28,Diamondbacks,Cardinals
+2023,28,Dodgers,Athletics
+2023,28,Padres,Angels
+2023,28,Reds,Mets
+2023,28,Rockies,Marlins
+2023,29,Orioles,Twins
+2023,29,Rangers,Dodgers
+2023,29,Cubs,Astros
+2023,29,Athletics,Phillies
+2023,29,Mets,Red Sox
+2023,29,Giants,Yankees
+2023,29,Rays,Angels
+2023,29,Blue Jays,Pirates
+2023,29,Braves,Rockies
+2023,29,White Sox,Mariners
+2023,29,Tigers,Royals
+2023,29,Indians,Nationals
+2023,29,Diamondbacks,Cardinals
+2023,29,Brewers,Reds
+2023,29,Padres,Marlins
+2023,30,Indians,Rays
+2023,30,Twins,Rockies
+2023,30,Dodgers,Padres
+2023,30,Blue Jays,Athletics
+2023,30,Cubs,Nationals
+2023,30,Yankees,White Sox
+2023,30,Marlins,Pirates
+2023,30,Cardinals,Reds
+2023,30,Giants,Orioles
+2023,30,Rangers,Mets
+2023,30,Red Sox,Brewers
+2023,30,Diamondbacks,Royals
+2023,30,Phillies,Angels
+2023,30,Mariners,Braves
+2023,30,Tigers,Astros
+2023,31,Athletics,Rangers
+2023,31,Nationals,Marlins
+2023,31,Royals,Mariners
+2023,31,Dodgers,Pirates
+2023,31,Brewers,Yankees
+2023,31,Cubs,Phillies
+2023,31,Angels,Twins
+2023,31,Rockies,Red Sox
+2023,31,Blue Jays,Orioles
+2023,31,Astros,Diamondbacks
+2023,31,Padres,Reds
+2023,31,Cardinals,White Sox
+2023,31,Rays,Indians
+2023,31,Braves,Giants
+2023,31,Tigers,Mets
+2023,32,White Sox,Rockies
+2023,32,Phillies,Nationals
+2023,32,Padres,Giants
+2023,32,Marlins,Yankees
+2023,32,Brewers,Astros
+2023,32,Mets,Reds
+2023,32,Pirates,Red Sox
+2023,32,Orioles,Angels
+2023,32,Diamondbacks,Royals
+2023,32,Braves,Mariners
+2023,32,Rays,Cubs
+2023,32,Cardinals,Rangers
+2023,32,Athletics,Tigers
+2023,32,Twins,Blue Jays
+2023,32,Dodgers,Indians
+2023,33,Giants,Tigers
+2023,33,Mets,Red Sox
+2023,33,Royals,Diamondbacks
+2023,33,Yankees,Orioles
+2023,33,Nationals,Phillies
+2023,33,Pirates,Marlins
+2023,33,Rangers,Padres
+2023,33,Astros,Angels
+2023,33,Brewers,Mariners
+2023,33,Twins,Blue Jays
+2023,33,Reds,Rockies
+2023,33,Cardinals,Athletics
+2023,33,Indians,Dodgers
+2023,33,White Sox,Braves
+2023,33,Cubs,Rays
+2023,34,Brewers,Astros
+2023,34,Blue Jays,Giants
+2023,34,Rockies,Padres
+2023,34,Athletics,Phillies
+2023,34,Rays,Twins
+2023,34,Braves,Marlins
+2023,34,Orioles,Royals
+2023,34,Pirates,Indians
+2023,34,Nationals,Mets
+2023,34,Diamondbacks,Angels
+2023,34,Yankees,Red Sox
+2023,34,Cubs,Cardinals
+2023,34,Rangers,White Sox
+2023,34,Mariners,Reds
+2023,34,Tigers,Dodgers
+2023,35,Marlins,Astros
+2023,35,Angels,Dodgers
+2023,35,Reds,Brewers
+2023,35,Red Sox,Cubs
+2023,35,Athletics,Phillies
+2023,35,Diamondbacks,Rangers
+2023,35,Orioles,Giants
+2023,35,Padres,Blue Jays
+2023,35,Mets,Pirates
+2023,35,Nationals,Yankees
+2023,35,Mariners,Rays
+2023,35,Rockies,Cardinals
+2023,35,Twins,Royals
+2023,35,Tigers,Indians
+2023,35,White Sox,Braves
+2023,36,Rockies,White Sox
+2023,36,Indians,Yankees
+2023,36,Rays,Phillies
+2023,36,Mariners,Reds
+2023,36,Cardinals,Athletics
+2023,36,Orioles,Dodgers
+2023,36,Astros,Tigers
+2023,36,Braves,Royals
+2023,36,Marlins,Twins
+2023,36,Blue Jays,Brewers
+2023,36,Padres,Giants
+2023,36,Rangers,Cubs
+2023,36,Mets,Diamondbacks
+2023,36,Angels,Red Sox
+2023,36,Nationals,Pirates
+2023,37,White Sox,Mets
+2023,37,Reds,Braves
+2023,37,Phillies,Rangers
+2023,37,Pirates,Brewers
+2023,37,Angels,Rockies
+2023,37,Tigers,Rays
+2023,37,Astros,Indians
+2023,37,Mariners,Padres
+2023,37,Giants,Red Sox
+2023,37,Royals,Twins
+2023,37,Dodgers,Orioles
+2023,37,Diamondbacks,Athletics
+2023,37,Blue Jays,Cardinals
+2023,37,Marlins,Nationals
+2023,37,Yankees,Cubs
+2023,38,Rangers,Astros
+2023,38,Marlins,Reds
+2023,38,Yankees,Pirates
+2023,38,Brewers,Cardinals
+2023,38,Twins,Braves
+2023,38,Angels,Diamondbacks
+2023,38,Tigers,Mariners
+2023,38,Athletics,Cubs
+2023,38,Orioles,Rays
+2023,38,Blue Jays,Padres
+2023,38,Mets,Red Sox
+2023,38,Royals,Dodgers
+2023,38,Phillies,Nationals
+2023,38,White Sox,Giants
+2023,38,Rockies,Indians
+2023,39,Twins,Dodgers
+2023,39,Mariners,Royals
+2023,39,Reds,Diamondbacks
+2023,39,Cardinals,Astros
+2023,39,Nationals,Padres
+2023,39,Yankees,Giants
+2023,39,Rangers,Cubs
+2023,39,Pirates,Brewers
+2023,39,Rockies,Indians
+2023,39,Braves,Tigers
+2023,39,Angels,White Sox
+2023,39,Blue Jays,Phillies
+2023,39,Rays,Red Sox
+2023,39,Orioles,Marlins
+2023,39,Mets,Athletics
+2023,40,Red Sox,Nationals
+2023,40,Mariners,Yankees
+2023,40,Indians,Brewers
+2023,40,Braves,Mets
+2023,40,Astros,Diamondbacks
+2023,40,Angels,Giants
+2023,40,Twins,Tigers
+2023,40,Athletics,Rockies
+2023,40,White Sox,Phillies
+2023,40,Marlins,Rays
+2023,40,Rangers,Padres
+2023,40,Cardinals,Dodgers
+2023,40,Cubs,Royals
+2023,40,Blue Jays,Reds
+2023,40,Orioles,Pirates
+2023,41,Mariners,Padres
+2023,41,Phillies,Brewers
+2023,41,Rockies,Angels
+2023,41,Dodgers,Rangers
+2023,41,Pirates,Red Sox
+2023,41,Diamondbacks,Orioles
+2023,41,Mets,Giants
+2023,41,Marlins,Nationals
+2023,41,Cardinals,Blue Jays
+2023,41,White Sox,Reds
+2023,41,Royals,Yankees
+2023,41,Indians,Braves
+2023,41,Astros,Rays
+2023,41,Athletics,Twins
+2023,41,Tigers,Cubs
+2023,42,Yankees,Blue Jays
+2023,42,Cardinals,Cubs
+2023,42,Padres,Braves
+2023,42,Red Sox,Rays
+2023,42,Phillies,Dodgers
+2023,42,Mariners,Marlins
+2023,42,Diamondbacks,Indians
+2023,42,Orioles,Royals
+2023,42,Rangers,Twins
+2023,42,White Sox,Astros
+2023,42,Nationals,Reds
+2023,42,Pirates,Mets
+2023,42,Giants,Athletics
+2023,42,Tigers,Brewers
+2023,42,Rockies,Angels
+2023,43,Orioles,Diamondbacks
+2023,43,White Sox,Indians
+2023,43,Giants,Braves
+2023,43,Astros,Phillies
+2023,43,Tigers,Nationals
+2023,43,Yankees,Mets
+2023,43,Royals,Blue Jays
+2023,43,Rangers,Athletics
+2023,43,Padres,Cubs
+2023,43,Twins,Brewers
+2023,43,Angels,Marlins
+2023,43,Pirates,Dodgers
+2023,43,Red Sox,Reds
+2023,43,Rays,Rockies
+2023,43,Cardinals,Mariners
+2023,44,Rays,Reds
+2023,44,Phillies,Athletics
+2023,44,Dodgers,Orioles
+2023,44,Indians,Yankees
+2023,44,Royals,Astros
+2023,44,Angels,Cubs
+2023,44,Nationals,Rockies
+2023,44,Tigers,Blue Jays
+2023,44,Padres,Mets
+2023,44,Giants,Brewers
+2023,44,Pirates,Rangers
+2023,44,Diamondbacks,Cardinals
+2023,44,Marlins,White Sox
+2023,44,Red Sox,Braves
+2023,44,Mariners,Twins
+2023,45,Mets,Angels
+2023,45,Tigers,Cardinals
+2023,45,Giants,Twins
+2023,45,Diamondbacks,Braves
+2023,45,Astros,Rockies
+2023,45,Royals,Yankees
+2023,45,Dodgers,Rays
+2023,45,Marlins,Orioles
+2023,45,Blue Jays,Indians
+2023,45,Red Sox,Padres
+2023,45,Pirates,Cubs
+2023,45,Nationals,Athletics
+2023,45,Phillies,Brewers
+2023,45,Mariners,White Sox
+2023,45,Reds,Rangers
+2023,46,Royals,Rangers
+2023,46,Dodgers,Padres
+2023,46,Diamondbacks,Rockies
+2023,46,Brewers,Cubs
+2023,46,Nationals,Tigers
+2023,46,Astros,Rays
+2023,46,Twins,Angels
+2023,46,Reds,White Sox
+2023,46,Pirates,Giants
+2023,46,Cardinals,Blue Jays
+2023,46,Yankees,Braves
+2023,46,Phillies,Orioles
+2023,46,Athletics,Marlins
+2023,46,Mets,Mariners
+2023,46,Indians,Red Sox
+2023,47,Reds,Yankees
+2023,47,Tigers,Astros
+2023,47,Athletics,Mets
+2023,47,Marlins,Brewers
+2023,47,Rays,White Sox
+2023,47,Orioles,Phillies
+2023,47,Red Sox,Nationals
+2023,47,Giants,Rockies
+2023,47,Royals,Rangers
+2023,47,Pirates,Diamondbacks
+2023,47,Cubs,Cardinals
+2023,47,Angels,Dodgers
+2023,47,Twins,Blue Jays
+2023,47,Indians,Braves
+2023,47,Padres,Mariners
+2023,48,Red Sox,Rockies
+2023,48,Marlins,Diamondbacks
+2023,48,Rays,White Sox
+2023,48,Yankees,Mariners
+2023,48,Indians,Padres
+2023,48,Athletics,Brewers
+2023,48,Orioles,Twins
+2023,48,Dodgers,Rangers
+2023,48,Blue Jays,Pirates
+2023,48,Nationals,Angels
+2023,48,Tigers,Mets
+2023,48,Astros,Reds
+2023,48,Braves,Phillies
+2023,48,Giants,Royals
+2023,48,Cardinals,Cubs
+2023,49,Athletics,Reds
+2023,49,Braves,Mariners
+2023,49,Royals,Blue Jays
+2023,49,Astros,Cubs
+2023,49,Rangers,Cardinals
+2023,49,Mets,Yankees
+2023,49,Diamondbacks,Orioles
+2023,49,Dodgers,Rockies
+2023,49,Angels,Giants
+2023,49,Twins,White Sox
+2023,49,Rays,Tigers
+2023,49,Marlins,Nationals
+2023,49,Brewers,Pirates
+2023,49,Red Sox,Padres
+2023,49,Indians,Phillies
+2023,50,Athletics,Rays
+2023,50,Dodgers,Blue Jays
+2023,50,White Sox,Red Sox
+2023,50,Diamondbacks,Padres
+2023,50,Braves,Brewers
+2023,50,Mariners,Reds
+2023,50,Tigers,Rangers
+2023,50,Indians,Pirates
+2023,50,Rockies,Orioles
+2023,50,Phillies,Cubs
+2023,50,Mets,Yankees
+2023,50,Royals,Cardinals
+2023,50,Angels,Nationals
+2023,50,Marlins,Twins
+2023,50,Astros,Giants
+2023,51,Red Sox,Yankees
+2023,51,Royals,Padres
+2023,51,Rockies,Braves
+2023,51,Twins,Orioles
+2023,51,Giants,White Sox
+2023,51,Rangers,Tigers
+2023,51,Reds,Rays
+2023,51,Cubs,Indians
+2023,51,Marlins,Mets
+2023,51,Mariners,Diamondbacks
+2023,51,Dodgers,Brewers
+2023,51,Angels,Nationals
+2023,51,Cardinals,Phillies
+2023,51,Pirates,Astros
+2023,51,Blue Jays,Athletics
+2023,52,Rockies,Indians
+2023,52,Yankees,Twins
+2023,52,Royals,Astros
+2023,52,Pirates,Angels
+2023,52,Blue Jays,Phillies
+2023,52,Cardinals,Reds
+2023,52,White Sox,Rays
+2023,52,Mariners,Cubs
+2023,52,Orioles,Padres
+2023,52,Giants,Diamondbacks
+2023,52,Brewers,Rangers
+2023,52,Athletics,Braves
+2023,52,Tigers,Dodgers
+2023,52,Mets,Nationals
+2023,52,Red Sox,Marlins
+2023,53,Mariners,Athletics
+2023,53,Cardinals,Blue Jays
+2023,53,Phillies,Astros
+2023,53,Giants,Orioles
+2023,53,Dodgers,Pirates
+2023,53,Mets,Padres
+2023,53,Royals,Red Sox
+2023,53,Marlins,Twins
+2023,53,Rays,Angels
+2023,53,Rockies,Nationals
+2023,53,Braves,Yankees
+2023,53,Rangers,Brewers
+2023,53,Diamondbacks,White Sox
+2023,53,Reds,Indians
+2023,53,Cubs,Tigers
+2023,54,Astros,Athletics
+2023,54,Rangers,Phillies
+2023,54,Twins,Braves
+2023,54,Red Sox,Cubs
+2023,54,Rockies,Orioles
+2023,54,Giants,Tigers
+2023,54,Dodgers,Marlins
+2023,54,Mariners,Brewers
+2023,54,Rays,Angels
+2023,54,Mets,Padres
+2023,54,Reds,Diamondbacks
+2023,54,Royals,Blue Jays
+2023,54,Indians,Pirates
+2023,54,Cardinals,Yankees
+2023,54,White Sox,Nationals
+2023,55,Braves,Indians
+2023,55,Phillies,Red Sox
+2023,55,Brewers,Blue Jays
+2023,55,Royals,Rockies
+2023,55,Padres,Yankees
+2023,55,Cardinals,Angels
+2023,55,Marlins,Rays
+2023,55,Reds,Mets
+2023,55,Diamondbacks,Mariners
+2023,55,Athletics,Nationals
+2023,55,Giants,Twins
+2023,55,Cubs,Orioles
+2023,55,Pirates,Astros
+2023,55,Dodgers,Rangers
+2023,55,White Sox,Tigers
+2023,56,Mariners,Indians
+2023,56,Marlins,Phillies
+2023,56,Diamondbacks,Rangers
+2023,56,Reds,Cubs
+2023,56,Rays,Yankees
+2023,56,Tigers,Athletics
+2023,56,Padres,Mets
+2023,56,Angels,Rockies
+2023,56,Pirates,Royals
+2023,56,Cardinals,Braves
+2023,56,White Sox,Nationals
+2023,56,Giants,Brewers
+2023,56,Blue Jays,Twins
+2023,56,Astros,Orioles
+2023,56,Red Sox,Dodgers
+2023,57,Brewers,Reds
+2023,57,Orioles,Red Sox
+2023,57,Blue Jays,Pirates
+2023,57,Braves,White Sox
+2023,57,Rangers,Mariners
+2023,57,Diamondbacks,Cubs
+2023,57,Giants,Rays
+2023,57,Mets,Padres
+2023,57,Angels,Royals
+2023,57,Phillies,Cardinals
+2023,57,Tigers,Nationals
+2023,57,Rockies,Indians
+2023,57,Athletics,Twins
+2023,57,Dodgers,Astros
+2023,57,Yankees,Marlins
+2023,58,Tigers,Orioles
+2023,58,Giants,Mariners
+2023,58,Twins,White Sox
+2023,58,Cardinals,Pirates
+2023,58,Cubs,Royals
+2023,58,Diamondbacks,Rangers
+2023,58,Reds,Mets
+2023,58,Brewers,Phillies
+2023,58,Rays,Red Sox
+2023,58,Rockies,Blue Jays
+2023,58,Dodgers,Athletics
+2023,58,Nationals,Braves
+2023,58,Yankees,Indians
+2023,58,Astros,Angels
+2023,58,Marlins,Padres
+2023,59,Nationals,Dodgers
+2023,59,Phillies,Indians
+2023,59,Padres,Red Sox
+2023,59,Diamondbacks,Rangers
+2023,59,Cubs,Brewers
+2023,59,Mariners,Blue Jays
+2023,59,Yankees,Astros
+2023,59,Athletics,Braves
+2023,59,Tigers,Marlins
+2023,59,Reds,Cardinals
+2023,59,Giants,Mets
+2023,59,Orioles,White Sox
+2023,59,Pirates,Royals
+2023,59,Angels,Twins
+2023,59,Rays,Rockies
+2023,60,Phillies,White Sox
+2023,60,Braves,Mariners
+2023,60,Pirates,Yankees
+2023,60,Athletics,Rays
+2023,60,Orioles,Cubs
+2023,60,Royals,Rockies
+2023,60,Dodgers,Red Sox
+2023,60,Giants,Reds
+2023,60,Indians,Mets
+2023,60,Nationals,Tigers
+2023,60,Brewers,Rangers
+2023,60,Cardinals,Twins
+2023,60,Angels,Marlins
+2023,60,Padres,Astros
+2023,60,Blue Jays,Diamondbacks
+2023,61,Angels,Nationals
+2023,61,Royals,Red Sox
+2023,61,Mariners,Brewers
+2023,61,Rockies,Cardinals
+2023,61,White Sox,Astros
+2023,61,Mets,Cubs
+2023,61,Reds,Pirates
+2023,61,Yankees,Orioles
+2023,61,Giants,Braves
+2023,61,Rays,Blue Jays
+2023,61,Indians,Rangers
+2023,61,Diamondbacks,Athletics
+2023,61,Dodgers,Tigers
+2023,61,Padres,Twins
+2023,61,Phillies,Marlins
+2023,62,Angels,Mariners
+2023,62,Diamondbacks,Dodgers
+2023,62,Orioles,Nationals
+2023,62,Braves,Pirates
+2023,62,Mets,Royals
+2023,62,Reds,White Sox
+2023,62,Tigers,Indians
+2023,62,Blue Jays,Rays
+2023,62,Cubs,Rangers
+2023,62,Yankees,Athletics
+2023,62,Cardinals,Marlins
+2023,62,Padres,Astros
+2023,62,Red Sox,Twins
+2023,62,Rockies,Phillies
+2023,62,Brewers,Giants
+2023,63,Nationals,White Sox
+2023,63,Mets,Marlins
+2023,63,Cardinals,Yankees
+2023,63,Cubs,Rangers
+2023,63,Angels,Athletics
+2023,63,Padres,Dodgers
+2023,63,Orioles,Indians
+2023,63,Phillies,Reds
+2023,63,Red Sox,Twins
+2023,63,Mariners,Tigers
+2023,63,Pirates,Astros
+2023,63,Diamondbacks,Royals
+2023,63,Rockies,Giants
+2023,63,Braves,Brewers
+2023,63,Rays,Blue Jays
+2023,64,White Sox,Mets
+2023,64,Giants,Rockies
+2023,64,Athletics,Braves
+2023,64,Rays,Phillies
+2023,64,Indians,Royals
+2023,64,Astros,Blue Jays
+2023,64,Padres,Twins
+2023,64,Marlins,Cubs
+2023,64,Dodgers,Red Sox
+2023,64,Rangers,Yankees
+2023,64,Angels,Reds
+2023,64,Cardinals,Pirates
+2023,64,Nationals,Mariners
+2023,64,Orioles,Brewers
+2023,64,Diamondbacks,Tigers
+2023,65,Phillies,Nationals
+2023,65,Mariners,Cubs
+2023,65,Dodgers,Padres
+2023,65,Giants,Red Sox
+2023,65,Rockies,Rays
+2023,65,Reds,Royals
+2023,65,Rangers,Twins
+2023,65,Astros,Cardinals
+2023,65,Mets,Marlins
+2023,65,Indians,Braves
+2023,65,Tigers,Brewers
+2023,65,Diamondbacks,White Sox
+2023,65,Pirates,Blue Jays
+2023,65,Athletics,Angels
+2023,65,Orioles,Yankees
+2023,66,Cardinals,Twins
+2023,66,Cubs,Brewers
+2023,66,Rockies,Blue Jays
+2023,66,Giants,Nationals
+2023,66,Athletics,Mets
+2023,66,Yankees,Dodgers
+2023,66,Red Sox,Astros
+2023,66,Diamondbacks,White Sox
+2023,66,Tigers,Marlins
+2023,66,Braves,Rangers
+2023,66,Phillies,Mariners
+2023,66,Pirates,Orioles
+2023,66,Padres,Rays
+2023,66,Indians,Angels
+2023,66,Royals,Reds
+2023,67,Nationals,Reds
+2023,67,Indians,Mariners
+2023,67,Twins,Cardinals
+2023,67,White Sox,Giants
+2023,67,Brewers,Diamondbacks
+2023,67,Mets,Marlins
+2023,67,Angels,Yankees
+2023,67,Phillies,Rockies
+2023,67,Rangers,Pirates
+2023,67,Orioles,Blue Jays
+2023,67,Astros,Braves
+2023,67,Tigers,Padres
+2023,67,Athletics,Royals
+2023,67,Red Sox,Dodgers
+2023,67,Cubs,Rays
+2023,68,Astros,Pirates
+2023,68,Blue Jays,Athletics
+2023,68,Padres,Dodgers
+2023,68,Cardinals,Twins
+2023,68,Brewers,Red Sox
+2023,68,Rangers,White Sox
+2023,68,Cubs,Nationals
+2023,68,Braves,Phillies
+2023,68,Royals,Diamondbacks
+2023,68,Angels,Mariners
+2023,68,Mets,Reds
+2023,68,Marlins,Indians
+2023,68,Giants,Rockies
+2023,68,Rays,Yankees
+2023,68,Tigers,Orioles
+2023,69,Tigers,Rockies
+2023,69,Blue Jays,Rangers
+2023,69,Mariners,Athletics
+2023,69,Cardinals,Pirates
+2023,69,Twins,Cubs
+2023,69,Reds,Yankees
+2023,69,Royals,Giants
+2023,69,Padres,Rays
+2023,69,Braves,Astros
+2023,69,Diamondbacks,Marlins
+2023,69,Indians,Mets
+2023,69,Phillies,Angels
+2023,69,Dodgers,White Sox
+2023,69,Nationals,Orioles
+2023,69,Brewers,Red Sox
+2023,70,Yankees,Cardinals
+2023,70,Marlins,Rays
+2023,70,Dodgers,Mets
+2023,70,Royals,Rockies
+2023,70,Angels,Pirates
+2023,70,Mariners,Blue Jays
+2023,70,Rangers,Red Sox
+2023,70,Diamondbacks,White Sox
+2023,70,Giants,Twins
+2023,70,Padres,Orioles
+2023,70,Reds,Indians
+2023,70,Nationals,Phillies
+2023,70,Brewers,Athletics
+2023,70,Braves,Astros
+2023,70,Tigers,Cubs
+2023,71,Padres,Orioles
+2023,71,Diamondbacks,Astros
+2023,71,Indians,Nationals
+2023,71,Mets,Rays
+2023,71,Cubs,Angels
+2023,71,Brewers,Royals
+2023,71,Giants,Reds
+2023,71,Red Sox,Yankees
+2023,71,Rangers,Phillies
+2023,71,Blue Jays,White Sox
+2023,71,Braves,Cardinals
+2023,71,Twins,Dodgers
+2023,71,Pirates,Rockies
+2023,71,Marlins,Mariners
+2023,71,Athletics,Tigers
+2023,72,Astros,White Sox
+2023,72,Cubs,Blue Jays
+2023,72,Nationals,Pirates
+2023,72,Cardinals,Royals
+2023,72,Diamondbacks,Orioles
+2023,72,Angels,Giants
+2023,72,Rangers,Marlins
+2023,72,Braves,Indians
+2023,72,Rays,Dodgers
+2023,72,Phillies,Red Sox
+2023,72,Yankees,Mariners
+2023,72,Mets,Athletics
+2023,72,Tigers,Reds
+2023,72,Rockies,Twins
+2023,72,Padres,Brewers
+2023,73,Royals,Yankees
+2023,73,Cubs,White Sox
+2023,73,Tigers,Angels
+2023,73,Mariners,Indians
+2023,73,Rockies,Nationals
+2023,73,Astros,Braves
+2023,73,Blue Jays,Mets
+2023,73,Red Sox,Athletics
+2023,73,Phillies,Marlins
+2023,73,Rays,Rangers
+2023,73,Pirates,Orioles
+2023,73,Padres,Diamondbacks
+2023,73,Reds,Twins
+2023,73,Brewers,Dodgers
+2023,73,Giants,Cardinals
+2023,74,Twins,Blue Jays
+2023,74,Pirates,Nationals
+2023,74,Dodgers,White Sox
+2023,74,Athletics,Reds
+2023,74,Astros,Cardinals
+2023,74,Rangers,Diamondbacks
+2023,74,Brewers,Red Sox
+2023,74,Mariners,Cubs
+2023,74,Tigers,Marlins
+2023,74,Phillies,Rays
+2023,74,Mets,Padres
+2023,74,Indians,Royals
+2023,74,Orioles,Yankees
+2023,74,Angels,Rockies
+2023,74,Giants,Braves
+2023,75,Indians,Yankees
+2023,75,Mets,White Sox
+2023,75,Phillies,Cardinals
+2023,75,Braves,Royals
+2023,75,Cubs,Diamondbacks
+2023,75,Mariners,Nationals
+2023,75,Athletics,Dodgers
+2023,75,Rangers,Blue Jays
+2023,75,Pirates,Tigers
+2023,75,Orioles,Astros
+2023,75,Rays,Marlins
+2023,75,Red Sox,Brewers
+2023,75,Padres,Rockies
+2023,75,Twins,Giants
+2023,75,Reds,Angels
+2023,76,Blue Jays,Orioles
+2023,76,Indians,Dodgers
+2023,76,Astros,Giants
+2023,76,Cubs,Pirates
+2023,76,Reds,Mariners
+2023,76,Cardinals,Marlins
+2023,76,Rangers,Nationals
+2023,76,Athletics,Yankees
+2023,76,Rockies,Angels
+2023,76,Red Sox,Diamondbacks
+2023,76,Brewers,Phillies
+2023,76,Braves,Tigers
+2023,76,Rays,White Sox
+2023,76,Twins,Royals
+2023,76,Mets,Padres
+2023,77,Marlins,Padres
+2023,77,Giants,Angels
+2023,77,Tigers,Rangers
+2023,77,Rays,Brewers
+2023,77,Twins,Cardinals
+2023,77,White Sox,Astros
+2023,77,Cubs,Blue Jays
+2023,77,Red Sox,Reds
+2023,77,Pirates,Diamondbacks
+2023,77,Dodgers,Royals
+2023,77,Athletics,Rockies
+2023,77,Orioles,Mariners
+2023,77,Nationals,Phillies
+2023,77,Mets,Indians
+2023,77,Yankees,Braves
+2023,78,Cubs,Dodgers
+2023,78,Tigers,Astros
+2023,78,Rangers,Diamondbacks
+2023,78,Padres,Braves
+2023,78,Orioles,Red Sox
+2023,78,Mets,Phillies
+2023,78,Reds,Blue Jays
+2023,78,Indians,Marlins
+2023,78,Yankees,Athletics
+2023,78,Nationals,Cardinals
+2023,78,Twins,Rockies
+2023,78,Mariners,Rays
+2023,78,Giants,Royals
+2023,78,Brewers,Pirates
+2023,78,White Sox,Angels
+2023,79,Rockies,Cardinals
+2023,79,Red Sox,Mets
+2023,79,White Sox,Brewers
+2023,79,Diamondbacks,Cubs
+2023,79,Mariners,Indians
+2023,79,Phillies,Pirates
+2023,79,Reds,Royals
+2023,79,Padres,Tigers
+2023,79,Rays,Twins
+2023,79,Angels,Nationals
+2023,79,Astros,Giants
+2023,79,Braves,Orioles
+2023,79,Athletics,Yankees
+2023,79,Rangers,Marlins
+2023,79,Blue Jays,Dodgers
+2023,80,Cubs,Cardinals
+2023,80,Rangers,White Sox
+2023,80,Red Sox,Tigers
+2023,80,Nationals,Braves
+2023,80,Royals,Brewers
+2023,80,Rockies,Orioles
+2023,80,Dodgers,Padres
+2023,80,Angels,Athletics
+2023,80,Marlins,Mariners
+2023,80,Astros,Pirates
+2023,80,Phillies,Diamondbacks
+2023,80,Reds,Indians
+2023,80,Yankees,Mets
+2023,80,Twins,Giants
+2023,80,Rays,Blue Jays
+2023,81,Pirates,Athletics
+2023,81,Nationals,Tigers
+2023,81,Yankees,Mets
+2023,81,Orioles,Rockies
+2023,81,Giants,Brewers
+2023,81,Angels,Astros
+2023,81,Phillies,Rays
+2023,81,Cubs,Marlins
+2023,81,Rangers,Red Sox
+2023,81,Cardinals,Royals
+2023,81,Braves,Padres
+2023,81,Diamondbacks,Mariners
+2023,81,Reds,Dodgers
+2023,81,Indians,White Sox
+2023,81,Twins,Blue Jays
+2023,82,Cubs,Indians
+2023,82,Astros,Diamondbacks
+2023,82,Royals,Reds
+2023,82,Twins,Tigers
+2023,82,Dodgers,Mariners
+2023,82,Padres,White Sox
+2023,82,Athletics,Brewers
+2023,82,Marlins,Phillies
+2023,82,Mets,Nationals
+2023,82,Rangers,Orioles
+2023,82,Giants,Cardinals
+2023,82,Red Sox,Blue Jays
+2023,82,Yankees,Rays
+2023,82,Angels,Braves
+2023,82,Pirates,Rockies
+2023,83,Blue Jays,Cardinals
+2023,83,Astros,Red Sox
+2023,83,Mariners,Marlins
+2023,83,Giants,Rays
+2023,83,Padres,Mets
+2023,83,Rangers,White Sox
+2023,83,Phillies,Tigers
+2023,83,Dodgers,Twins
+2023,83,Reds,Diamondbacks
+2023,83,Brewers,Braves
+2023,83,Nationals,Yankees
+2023,83,Royals,Rockies
+2023,83,Indians,Angels
+2023,83,Cubs,Athletics
+2023,83,Pirates,Orioles
+2023,84,Blue Jays,Royals
+2023,84,Cubs,Nationals
+2023,84,Braves,Brewers
+2023,84,Rays,Dodgers
+2023,84,Tigers,Mets
+2023,84,Marlins,Angels
+2023,84,Yankees,Rockies
+2023,84,Athletics,Orioles
+2023,84,Rangers,Giants
+2023,84,Reds,Mariners
+2023,84,Twins,White Sox
+2023,84,Padres,Cardinals
+2023,84,Red Sox,Diamondbacks
+2023,84,Astros,Pirates
+2023,84,Indians,Phillies
+2023,85,Diamondbacks,Yankees
+2023,85,Royals,Tigers
+2023,85,Cubs,Marlins
+2023,85,Angels,Red Sox
+2023,85,Rays,Cardinals
+2023,85,Mets,Braves
+2023,85,Indians,Twins
+2023,85,Rangers,Athletics
+2023,85,Rockies,Astros
+2023,85,Blue Jays,Brewers
+2023,85,Orioles,White Sox
+2023,85,Reds,Nationals
+2023,85,Mariners,Giants
+2023,85,Dodgers,Padres
+2023,85,Phillies,Pirates
+2023,86,Rockies,Blue Jays
+2023,86,Royals,Yankees
+2023,86,Mets,Indians
+2023,86,Brewers,Red Sox
+2023,86,Rays,Diamondbacks
+2023,86,White Sox,Astros
+2023,86,Reds,Mariners
+2023,86,Cardinals,Rangers
+2023,86,Nationals,Angels
+2023,86,Giants,Braves
+2023,86,Dodgers,Athletics
+2023,86,Twins,Phillies
+2023,86,Orioles,Tigers
+2023,86,Marlins,Pirates
+2023,86,Padres,Cubs
+2023,87,White Sox,Angels
+2023,87,Padres,Giants
+2023,87,Braves,Brewers
+2023,87,Royals,Pirates
+2023,87,Phillies,Rangers
+2023,87,Red Sox,Indians
+2023,87,Orioles,Astros
+2023,87,Mets,Yankees
+2023,87,Nationals,Diamondbacks
+2023,87,Tigers,Marlins
+2023,87,Reds,Mariners
+2023,87,Rockies,Rays
+2023,87,Blue Jays,Athletics
+2023,87,Cubs,Dodgers
+2023,87,Cardinals,Twins
+2023,88,White Sox,Rays
+2023,88,Nationals,Mets
+2023,88,Tigers,Cubs
+2023,88,Red Sox,Royals
+2023,88,Marlins,Phillies
+2023,88,Twins,Padres
+2023,88,Astros,Braves
+2023,88,Yankees,Blue Jays
+2023,88,Giants,Brewers
+2023,88,Pirates,Rockies
+2023,88,Indians,Diamondbacks
+2023,88,Rangers,Mariners
+2023,88,Angels,Cardinals
+2023,88,Reds,Dodgers
+2023,88,Orioles,Athletics
+2023,89,Rockies,Rays
+2023,89,Yankees,Reds
+2023,89,Marlins,Padres
+2023,89,Braves,Tigers
+2023,89,Mets,Diamondbacks
+2023,89,Mariners,Dodgers
+2023,89,Rangers,Brewers
+2023,89,Phillies,Royals
+2023,89,Orioles,Indians
+2023,89,Twins,Pirates
+2023,89,Astros,Nationals
+2023,89,Giants,Blue Jays
+2023,89,Cubs,Athletics
+2023,89,Cardinals,Angels
+2023,89,Red Sox,White Sox
+2023,90,Reds,Royals
+2023,90,Giants,Nationals
+2023,90,Tigers,White Sox
+2023,90,Marlins,Rockies
+2023,90,Mariners,Angels
+2023,90,Dodgers,Cubs
+2023,90,Mets,Orioles
+2023,90,Athletics,Blue Jays
+2023,90,Brewers,Padres
+2023,90,Diamondbacks,Pirates
+2023,90,Braves,Cardinals
+2023,90,Twins,Rays
+2023,90,Yankees,Phillies
+2023,90,Red Sox,Astros
+2023,90,Indians,Rangers
+2023,91,Brewers,White Sox
+2023,91,Blue Jays,Mariners
+2023,91,Indians,Rangers
+2023,91,Yankees,Astros
+2023,91,Cubs,Braves
+2023,91,Angels,Tigers
+2023,91,Marlins,Cardinals
+2023,91,Diamondbacks,Twins
+2023,91,Pirates,Mets
+2023,91,Giants,Rockies
+2023,91,Phillies,Red Sox
+2023,91,Reds,Orioles
+2023,91,Dodgers,Royals
+2023,91,Padres,Rays
+2023,91,Nationals,Athletics
+2023,92,White Sox,Diamondbacks
+2023,92,Rockies,Blue Jays
+2023,92,Twins,Marlins
+2023,92,Astros,Giants
+2023,92,Brewers,Angels
+2023,92,Yankees,Tigers
+2023,92,Phillies,Nationals
+2023,92,Dodgers,Athletics
+2023,92,Indians,Reds
+2023,92,Padres,Cubs
+2023,92,Cardinals,Orioles
+2023,92,Rangers,Braves
+2023,92,Royals,Mets
+2023,92,Pirates,Mariners
+2023,92,Rays,Red Sox
+2023,93,Tigers,Nationals
+2023,93,Royals,Rays
+2023,93,Athletics,Phillies
+2023,93,Astros,Yankees
+2023,93,Cardinals,Red Sox
+2023,93,Mets,Indians
+2023,93,Rangers,Twins
+2023,93,Marlins,Padres
+2023,93,Angels,Blue Jays
+2023,93,Braves,Rockies
+2023,93,Dodgers,Reds
+2023,93,White Sox,Diamondbacks
+2023,93,Cubs,Pirates
+2023,93,Giants,Brewers
+2023,93,Mariners,Orioles
+2023,94,Reds,Royals
+2023,94,Rays,White Sox
+2023,94,Braves,Blue Jays
+2023,94,Marlins,Indians
+2023,94,Astros,Nationals
+2023,94,Tigers,Red Sox
+2023,94,Phillies,Padres
+2023,94,Cubs,Giants
+2023,94,Angels,Dodgers
+2023,94,Rangers,Athletics
+2023,94,Mets,Twins
+2023,94,Mariners,Cardinals
+2023,94,Orioles,Yankees
+2023,94,Rockies,Brewers
+2023,94,Diamondbacks,Pirates
+2023,95,Marlins,Rockies
+2023,95,Mariners,Diamondbacks
+2023,95,Orioles,Royals
+2023,95,Athletics,Nationals
+2023,95,Tigers,Twins
+2023,95,Cardinals,Phillies
+2023,95,Indians,Giants
+2023,95,Padres,Angels
+2023,95,Braves,Pirates
+2023,95,Reds,Cubs
+2023,95,Rangers,Rays
+2023,95,White Sox,Blue Jays
+2023,95,Brewers,Dodgers
+2023,95,Mets,Yankees
+2023,95,Red Sox,Astros
+2023,96,Blue Jays,Dodgers
+2023,96,Yankees,Nationals
+2023,96,Angels,Mets
+2023,96,Padres,Reds
+2023,96,Rays,Mariners
+2023,96,Tigers,Diamondbacks
+2023,96,Phillies,Pirates
+2023,96,Cardinals,Brewers
+2023,96,Braves,Astros
+2023,96,Royals,Twins
+2023,96,Orioles,Giants
+2023,96,Cubs,Red Sox
+2023,96,Athletics,White Sox
+2023,96,Rockies,Rangers
+2023,96,Indians,Marlins
+2023,97,Rangers,Cardinals
+2023,97,Phillies,Nationals
+2023,97,Royals,Mets
+2023,97,Indians,Brewers
+2023,97,White Sox,Orioles
+2023,97,Blue Jays,Yankees
+2023,97,Braves,Pirates
+2023,97,Athletics,Giants
+2023,97,Dodgers,Red Sox
+2023,97,Diamondbacks,Tigers
+2023,97,Rays,Reds
+2023,97,Cubs,Marlins
+2023,97,Twins,Mariners
+2023,97,Angels,Padres
+2023,97,Astros,Rockies
+2023,98,Brewers,Tigers
+2023,98,Rockies,Marlins
+2023,98,Phillies,Pirates
+2023,98,Nationals,Mets
+2023,98,Twins,Reds
+2023,98,Indians,Rangers
+2023,98,Dodgers,Mariners
+2023,98,Athletics,Royals
+2023,98,Diamondbacks,Red Sox
+2023,98,Orioles,Blue Jays
+2023,98,Rays,White Sox
+2023,98,Giants,Cubs
+2023,98,Padres,Angels
+2023,98,Yankees,Astros
+2023,98,Braves,Cardinals
+2023,99,Marlins,Angels
+2023,99,Mariners,Padres
+2023,99,Rockies,Red Sox
+2023,99,Cardinals,Tigers
+2023,99,Twins,Pirates
+2023,99,Nationals,Brewers
+2023,99,Reds,Royals
+2023,99,Diamondbacks,Astros
+2023,99,Giants,Phillies
+2023,99,Orioles,Rangers
+2023,99,Cubs,Yankees
+2023,99,Dodgers,Rays
+2023,99,Blue Jays,Athletics
+2023,99,Indians,White Sox
+2023,99,Braves,Mets
+2023,100,Giants,Cubs
+2023,100,Mariners,Angels
+2023,100,Rangers,Mets
+2023,100,Rockies,Tigers
+2023,100,Yankees,Padres
+2023,100,Phillies,Athletics
+2023,100,Royals,Blue Jays
+2023,100,Brewers,White Sox
+2023,100,Dodgers,Red Sox
+2023,100,Cardinals,Rays
+2023,100,Astros,Reds
+2023,100,Pirates,Nationals
+2023,100,Diamondbacks,Orioles
+2023,100,Twins,Braves
+2023,100,Indians,Marlins
+2023,101,Twins,Royals
+2023,101,Rangers,Mariners
+2023,101,Red Sox,Dodgers
+2023,101,Marlins,Nationals
+2023,101,Braves,Angels
+2023,101,Diamondbacks,Padres
+2023,101,Astros,Cardinals
+2023,101,Brewers,Tigers
+2023,101,Phillies,Reds
+2023,101,Giants,Cubs
+2023,101,Pirates,Indians
+2023,101,Orioles,Blue Jays
+2023,101,Athletics,Rays
+2023,101,Mets,Rockies
+2023,101,Yankees,White Sox
+2023,102,Yankees,Cubs
+2023,102,Orioles,Dodgers
+2023,102,Mets,Athletics
+2023,102,Astros,Padres
+2023,102,Braves,Red Sox
+2023,102,Marlins,Blue Jays
+2023,102,Angels,Nationals
+2023,102,Indians,Twins
+2023,102,White Sox,Brewers
+2023,102,Tigers,Rangers
+2023,102,Rays,Giants
+2023,102,Diamondbacks,Royals
+2023,102,Pirates,Phillies
+2023,102,Mariners,Rockies
+2023,102,Reds,Cardinals
+2023,103,Nationals,Twins
+2023,103,Dodgers,Athletics
+2023,103,Braves,Yankees
+2023,103,Marlins,Orioles
+2023,103,Angels,Tigers
+2023,103,Mets,Cubs
+2023,103,Rockies,Red Sox
+2023,103,Reds,Rays
+2023,103,Giants,Diamondbacks
+2023,103,Blue Jays,Padres
+2023,103,Cardinals,Rangers
+2023,103,Mariners,Indians
+2023,103,Pirates,Royals
+2023,103,Brewers,Phillies
+2023,103,White Sox,Astros
+2023,104,Cubs,Mets
+2023,104,Marlins,Giants
+2023,104,White Sox,Mariners
+2023,104,Athletics,Blue Jays
+2023,104,Brewers,Twins
+2023,104,Orioles,Royals
+2023,104,Indians,Dodgers
+2023,104,Diamondbacks,Padres
+2023,104,Tigers,Rangers
+2023,104,Red Sox,Nationals
+2023,104,Cardinals,Braves
+2023,104,Phillies,Pirates
+2023,104,Yankees,Reds
+2023,104,Angels,Astros
+2023,104,Rockies,Rays
+2023,105,Giants,Orioles
+2023,105,Blue Jays,Yankees
+2023,105,Marlins,Cubs
+2023,105,Reds,Royals
+2023,105,Twins,Cardinals
+2023,105,Angels,Phillies
+2023,105,Braves,Rockies
+2023,105,Athletics,Dodgers
+2023,105,Diamondbacks,Rays
+2023,105,Nationals,Astros
+2023,105,Red Sox,Rangers
+2023,105,Mets,Indians
+2023,105,White Sox,Mariners
+2023,105,Padres,Brewers
+2023,105,Pirates,Tigers
+2023,106,Braves,Indians
+2023,106,Twins,Marlins
+2023,106,White Sox,Cardinals
+2023,106,Nationals,Rangers
+2023,106,Brewers,Athletics
+2023,106,Red Sox,Giants
+2023,106,Angels,Orioles
+2023,106,Blue Jays,Rockies
+2023,106,Padres,Tigers
+2023,106,Royals,Cubs
+2023,106,Phillies,Dodgers
+2023,106,Mariners,Yankees
+2023,106,Reds,Pirates
+2023,106,Diamondbacks,Astros
+2023,106,Mets,Rays
+2023,107,Brewers,Phillies
+2023,107,Braves,Cubs
+2023,107,Twins,Red Sox
+2023,107,Mets,Cardinals
+2023,107,Diamondbacks,Astros
+2023,107,Padres,Reds
+2023,107,Rangers,Nationals
+2023,107,White Sox,Rockies
+2023,107,Mariners,Tigers
+2023,107,Athletics,Giants
+2023,107,Indians,Royals
+2023,107,Yankees,Blue Jays
+2023,107,Marlins,Angels
+2023,107,Orioles,Rays
+2023,107,Dodgers,Pirates
+2023,108,Dodgers,Nationals
+2023,108,Rockies,Royals
+2023,108,Diamondbacks,Mets
+2023,108,Tigers,Braves
+2023,108,Padres,Rays
+2023,108,Marlins,White Sox
+2023,108,Cardinals,Brewers
+2023,108,Mariners,Orioles
+2023,108,Red Sox,Rangers
+2023,108,Indians,Astros
+2023,108,Twins,Angels
+2023,108,Yankees,Pirates
+2023,108,Phillies,Giants
+2023,108,Cubs,Athletics
+2023,108,Reds,Blue Jays
+2023,109,Yankees,Angels
+2023,109,Blue Jays,White Sox
+2023,109,Nationals,Diamondbacks
+2023,109,Marlins,Brewers
+2023,109,Rockies,Phillies
+2023,109,Red Sox,Giants
+2023,109,Reds,Mets
+2023,109,Royals,Orioles
+2023,109,Indians,Tigers
+2023,109,Twins,Athletics
+2023,109,Braves,Cubs
+2023,109,Dodgers,Padres
+2023,109,Rangers,Pirates
+2023,109,Astros,Cardinals
+2023,109,Rays,Mariners
+2023,110,Pirates,Brewers
+2023,110,Rays,Cubs
+2023,110,Yankees,Royals
+2023,110,Mets,Indians
+2023,110,Dodgers,Orioles
+2023,110,Phillies,Mariners
+2023,110,Rockies,Diamondbacks
+2023,110,Nationals,Tigers
+2023,110,Cardinals,Rangers
+2023,110,Reds,Braves
+2023,110,Marlins,Athletics
+2023,110,Giants,Angels
+2023,110,Padres,Red Sox
+2023,110,Astros,Twins
+2023,110,White Sox,Blue Jays
+2023,111,Athletics,Mets
+2023,111,Brewers,Phillies
+2023,111,Twins,Dodgers
+2023,111,Indians,Padres
+2023,111,Tigers,Braves
+2023,111,Cubs,Red Sox
+2023,111,Royals,Marlins
+2023,111,Astros,Rays
+2023,111,Yankees,Diamondbacks
+2023,111,Reds,Rangers
+2023,111,Pirates,Nationals
+2023,111,Orioles,Blue Jays
+2023,111,Giants,Cardinals
+2023,111,Mariners,White Sox
+2023,111,Angels,Rockies
+2023,112,Rangers,Mets
+2023,112,Giants,Twins
+2023,112,Blue Jays,Braves
+2023,112,Diamondbacks,Reds
+2023,112,Mariners,Pirates
+2023,112,Tigers,Dodgers
+2023,112,Red Sox,Rockies
+2023,112,Nationals,Cubs
+2023,112,Yankees,Rays
+2023,112,Royals,Orioles
+2023,112,Angels,White Sox
+2023,112,Marlins,Indians
+2023,112,Brewers,Cardinals
+2023,112,Phillies,Astros
+2023,112,Athletics,Padres
+2023,113,Padres,Braves
+2023,113,Orioles,Marlins
+2023,113,White Sox,Pirates
+2023,113,Royals,Tigers
+2023,113,Brewers,Rangers
+2023,113,Dodgers,Mariners
+2023,113,Rockies,Rays
+2023,113,Diamondbacks,Athletics
+2023,113,Giants,Red Sox
+2023,113,Cardinals,Cubs
+2023,113,Reds,Angels
+2023,113,Indians,Blue Jays
+2023,113,Phillies,Yankees
+2023,113,Nationals,Mets
+2023,113,Twins,Astros
+2023,114,Tigers,Rangers
+2023,114,Cubs,Red Sox
+2023,114,Rays,Dodgers
+2023,114,Marlins,Diamondbacks
+2023,114,Padres,Cardinals
+2023,114,Indians,Astros
+2023,114,Yankees,Mets
+2023,114,Twins,Phillies
+2023,114,Giants,White Sox
+2023,114,Pirates,Athletics
+2023,114,Reds,Royals
+2023,114,Rockies,Angels
+2023,114,Orioles,Nationals
+2023,114,Blue Jays,Brewers
+2023,114,Braves,Mariners
+2023,115,Athletics,Astros
+2023,115,White Sox,Brewers
+2023,115,Blue Jays,Marlins
+2023,115,Phillies,Cubs
+2023,115,Indians,Mariners
+2023,115,Red Sox,Mets
+2023,115,Dodgers,Cardinals
+2023,115,Rockies,Braves
+2023,115,Orioles,Tigers
+2023,115,Royals,Nationals
+2023,115,Twins,Rangers
+2023,115,Padres,Diamondbacks
+2023,115,Reds,Pirates
+2023,115,Giants,Yankees
+2023,115,Angels,Rays
+2023,116,Orioles,Rangers
+2023,116,Padres,Athletics
+2023,116,Reds,Tigers
+2023,116,Yankees,Rays
+2023,116,Giants,Angels
+2023,116,Brewers,White Sox
+2023,116,Dodgers,Rockies
+2023,116,Diamondbacks,Astros
+2023,116,Red Sox,Cardinals
+2023,116,Blue Jays,Marlins
+2023,116,Twins,Mariners
+2023,116,Pirates,Royals
+2023,116,Braves,Nationals
+2023,116,Indians,Cubs
+2023,116,Phillies,Mets
+2023,117,Red Sox,Astros
+2023,117,Dodgers,Rays
+2023,117,Brewers,Twins
+2023,117,Giants,Pirates
+2023,117,Nationals,Mariners
+2023,117,Tigers,Marlins
+2023,117,Orioles,Rockies
+2023,117,Reds,Cardinals
+2023,117,Phillies,Diamondbacks
+2023,117,Royals,Blue Jays
+2023,117,Yankees,White Sox
+2023,117,Indians,Mets
+2023,117,Angels,Cubs
+2023,117,Rangers,Athletics
+2023,117,Padres,Braves
+2023,118,Royals,Rockies
+2023,118,Pirates,Angels
+2023,118,White Sox,Brewers
+2023,118,Dodgers,Phillies
+2023,118,Marlins,Yankees
+2023,118,Nationals,Red Sox
+2023,118,Mariners,Astros
+2023,118,Mets,Blue Jays
+2023,118,Twins,Orioles
+2023,118,Cubs,Tigers
+2023,118,Rays,Padres
+2023,118,Diamondbacks,Indians
+2023,118,Rangers,Giants
+2023,118,Athletics,Cardinals
+2023,118,Reds,Braves
+2023,119,Mets,Marlins
+2023,119,Angels,Diamondbacks
+2023,119,Yankees,Rays
+2023,119,Padres,Brewers
+2023,119,Red Sox,Pirates
+2023,119,Cubs,Tigers
+2023,119,Giants,Reds
+2023,119,Blue Jays,Mariners
+2023,119,Cardinals,Rockies
+2023,119,Royals,Orioles
+2023,119,Rangers,Twins
+2023,119,Phillies,Dodgers
+2023,119,Astros,Braves
+2023,119,Indians,White Sox
+2023,119,Athletics,Nationals
+2023,120,Indians,Braves
+2023,120,Orioles,Cardinals
+2023,120,Athletics,Yankees
+2023,120,Brewers,Angels
+2023,120,Diamondbacks,Mariners
+2023,120,Rays,Giants
+2023,120,Twins,Red Sox
+2023,120,Padres,Phillies
+2023,120,Tigers,Marlins
+2023,120,Dodgers,Mets
+2023,120,White Sox,Nationals
+2023,120,Cubs,Rangers
+2023,120,Blue Jays,Astros
+2023,120,Rockies,Reds
+2023,120,Royals,Pirates
+2023,121,Braves,Rangers
+2023,121,Rockies,Orioles
+2023,121,Angels,Mariners
+2023,121,Cardinals,Indians
+2023,121,Athletics,White Sox
+2023,121,Yankees,Royals
+2023,121,Diamondbacks,Mets
+2023,121,Red Sox,Marlins
+2023,121,Nationals,Twins
+2023,121,Pirates,Blue Jays
+2023,121,Tigers,Astros
+2023,121,Phillies,Reds
+2023,121,Rays,Giants
+2023,121,Brewers,Cubs
+2023,121,Padres,Dodgers
+2023,122,Reds,Rangers
+2023,122,Phillies,Tigers
+2023,122,Royals,Angels
+2023,122,Braves,Rays
+2023,122,Brewers,Marlins
+2023,122,Giants,Indians
+2023,122,Nationals,Padres
+2023,122,Astros,Blue Jays
+2023,122,Diamondbacks,Cardinals
+2023,122,Red Sox,Rockies
+2023,122,Athletics,White Sox
+2023,122,Dodgers,Pirates
+2023,122,Mariners,Orioles
+2023,122,Yankees,Mets
+2023,122,Twins,Cubs
+2023,123,Tigers,Mariners
+2023,123,Rays,Reds
+2023,123,Braves,Royals
+2023,123,Blue Jays,Athletics
+2023,123,Angels,Padres
+2023,123,Twins,Diamondbacks
+2023,123,Rangers,Rockies
+2023,123,Marlins,Cubs
+2023,123,Dodgers,Mets
+2023,123,Cardinals,Giants
+2023,123,Pirates,Indians
+2023,123,Red Sox,Orioles
+2023,123,Astros,Nationals
+2023,123,White Sox,Brewers
+2023,123,Yankees,Phillies
+2023,124,Pirates,Padres
+2023,124,White Sox,Cardinals
+2023,124,Royals,Athletics
+2023,124,Nationals,Rays
+2023,124,Reds,Blue Jays
+2023,124,Tigers,Yankees
+2023,124,Dodgers,Mariners
+2023,124,Diamondbacks,Twins
+2023,124,Marlins,Rockies
+2023,124,Giants,Brewers
+2023,124,Cubs,Mets
+2023,124,Orioles,Angels
+2023,124,Astros,Phillies
+2023,124,Indians,Red Sox
+2023,124,Braves,Rangers
+2023,125,Rangers,Diamondbacks
+2023,125,Blue Jays,Indians
+2023,125,Royals,Twins
+2023,125,Pirates,Braves
+2023,125,Rockies,Athletics
+2023,125,Tigers,Nationals
+2023,125,Yankees,Marlins
+2023,125,Astros,Mets
+2023,125,Dodgers,Red Sox
+2023,125,Angels,Phillies
+2023,125,White Sox,Cubs
+2023,125,Mariners,Brewers
+2023,125,Orioles,Giants
+2023,125,Padres,Rays
+2023,125,Reds,Cardinals
+2023,126,Astros,Tigers
+2023,126,Dodgers,Cubs
+2023,126,Braves,Reds
+2023,126,Marlins,Orioles
+2023,126,Phillies,Yankees
+2023,126,Blue Jays,Athletics
+2023,126,Indians,Cardinals
+2023,126,Giants,Royals
+2023,126,Twins,Red Sox
+2023,126,Angels,Diamondbacks
+2023,126,Mariners,Nationals
+2023,126,Rangers,Mets
+2023,126,Rockies,Rays
+2023,126,Brewers,Padres
+2023,126,White Sox,Pirates
+2023,127,Nationals,Orioles
+2023,127,Reds,Giants
+2023,127,Angels,Blue Jays
+2023,127,Mariners,Phillies
+2023,127,Indians,Cubs
+2023,127,Rockies,White Sox
+2023,127,Dodgers,Royals
+2023,127,Yankees,Marlins
+2023,127,Twins,Rays
+2023,127,Astros,Diamondbacks
+2023,127,Tigers,Cardinals
+2023,127,Mets,Athletics
+2023,127,Red Sox,Pirates
+2023,127,Braves,Brewers
+2023,127,Rangers,Padres
+2023,128,Pirates,Orioles
+2023,128,Brewers,Astros
+2023,128,White Sox,Nationals
+2023,128,Rangers,Rays
+2023,128,Tigers,Athletics
+2023,128,Mets,Cardinals
+2023,128,Blue Jays,Indians
+2023,128,Mariners,Twins
+2023,128,Angels,Giants
+2023,128,Marlins,Padres
+2023,128,Braves,Phillies
+2023,128,Red Sox,Cubs
+2023,128,Rockies,Diamondbacks
+2023,128,Reds,Yankees
+2023,128,Royals,Dodgers
+2023,129,Reds,Cardinals
+2023,129,Mariners,Rays
+2023,129,Diamondbacks,Marlins
+2023,129,Rangers,Angels
+2023,129,Royals,Indians
+2023,129,Orioles,Nationals
+2023,129,Red Sox,Twins
+2023,129,Dodgers,White Sox
+2023,129,Phillies,Giants
+2023,129,Athletics,Padres
+2023,129,Tigers,Blue Jays
+2023,129,Mets,Yankees
+2023,129,Braves,Brewers
+2023,129,Pirates,Rockies
+2023,129,Cubs,Astros
+2023,130,Rays,Padres
+2023,130,Yankees,Nationals
+2023,130,Cubs,White Sox
+2023,130,Orioles,Rangers
+2023,130,Marlins,Royals
+2023,130,Angels,Tigers
+2023,130,Dodgers,Rockies
+2023,130,Reds,Giants
+2023,130,Braves,Mets
+2023,130,Phillies,Twins
+2023,130,Blue Jays,Mariners
+2023,130,Red Sox,Diamondbacks
+2023,130,Indians,Athletics
+2023,130,Astros,Brewers
+2023,130,Cardinals,Pirates
+2023,131,Orioles,Cubs
+2023,131,Rangers,Pirates
+2023,131,Phillies,Nationals
+2023,131,Rays,Red Sox
+2023,131,Dodgers,Tigers
+2023,131,Yankees,Twins
+2023,131,Marlins,Angels
+2023,131,Mets,Cardinals
+2023,131,White Sox,Athletics
+2023,131,Brewers,Braves
+2023,131,Diamondbacks,Indians
+2023,131,Royals,Mariners
+2023,131,Blue Jays,Giants
+2023,131,Reds,Astros
+2023,131,Padres,Rockies
+2023,132,Cubs,Rays
+2023,132,Phillies,Astros
+2023,132,Braves,Marlins
+2023,132,Reds,Athletics
+2023,132,Rockies,Yankees
+2023,132,Pirates,Cardinals
+2023,132,Mariners,Royals
+2023,132,Diamondbacks,Indians
+2023,132,Giants,Mets
+2023,132,Angels,Brewers
+2023,132,Orioles,Padres
+2023,132,Dodgers,Twins
+2023,132,Tigers,Red Sox
+2023,132,White Sox,Blue Jays
+2023,132,Nationals,Rangers
+2023,133,Twins,Mariners
+2023,133,Braves,Reds
+2023,133,Phillies,Padres
+2023,133,Marlins,Dodgers
+2023,133,Brewers,Cubs
+2023,133,Yankees,Rays
+2023,133,Pirates,Nationals
+2023,133,Royals,Astros
+2023,133,Angels,Indians
+2023,133,Cardinals,Blue Jays
+2023,133,White Sox,Mets
+2023,133,Giants,Orioles
+2023,133,Rockies,Red Sox
+2023,133,Athletics,Rangers
+2023,133,Tigers,Diamondbacks
+2023,134,Twins,White Sox
+2023,134,Orioles,Indians
+2023,134,Cubs,Padres
+2023,134,Blue Jays,Rockies
+2023,134,Dodgers,Rangers
+2023,134,Pirates,Brewers
+2023,134,Angels,Red Sox
+2023,134,Mariners,Rays
+2023,134,Cardinals,Athletics
+2023,134,Diamondbacks,Nationals
+2023,134,Astros,Mets
+2023,134,Yankees,Marlins
+2023,134,Reds,Giants
+2023,134,Royals,Braves
+2023,134,Tigers,Phillies
+2023,135,Orioles,Cubs
+2023,135,Yankees,Pirates
+2023,135,Phillies,Cardinals
+2023,135,White Sox,Padres
+2023,135,Rays,Tigers
+2023,135,Reds,Nationals
+2023,135,Blue Jays,Giants
+2023,135,Rangers,Royals
+2023,135,Rockies,Marlins
+2023,135,Twins,Diamondbacks
+2023,135,Mariners,Angels
+2023,135,Red Sox,Braves
+2023,135,Mets,Indians
+2023,135,Brewers,Athletics
+2023,135,Dodgers,Astros
+2023,136,Cardinals,Indians
+2023,136,Mets,Nationals
+2023,136,Astros,Blue Jays
+2023,136,Red Sox,Braves
+2023,136,Orioles,Yankees
+2023,136,Marlins,White Sox
+2023,136,Mariners,Rays
+2023,136,Tigers,Twins
+2023,136,Athletics,Rockies
+2023,136,Cubs,Reds
+2023,136,Brewers,Pirates
+2023,136,Angels,Phillies
+2023,136,Diamondbacks,Royals
+2023,136,Giants,Rangers
+2023,136,Dodgers,Padres
+2023,137,Nationals,Rangers
+2023,137,Dodgers,Rockies
+2023,137,Mariners,Royals
+2023,137,Tigers,Padres
+2023,137,Rays,Reds
+2023,137,Blue Jays,Cardinals
+2023,137,Phillies,Marlins
+2023,137,Pirates,Yankees
+2023,137,Brewers,Red Sox
+2023,137,Astros,Cubs
+2023,137,Giants,Braves
+2023,137,Angels,Diamondbacks
+2023,137,Indians,Athletics
+2023,137,Twins,White Sox
+2023,137,Orioles,Mets
+2023,138,Royals,Dodgers
+2023,138,Angels,Nationals
+2023,138,Diamondbacks,Rays
+2023,138,Red Sox,Blue Jays
+2023,138,Tigers,Marlins
+2023,138,Cardinals,Reds
+2023,138,Phillies,Rockies
+2023,138,White Sox,Pirates
+2023,138,Padres,Mets
+2023,138,Giants,Cubs
+2023,138,Orioles,Mariners
+2023,138,Astros,Athletics
+2023,138,Brewers,Braves
+2023,138,Rangers,Indians
+2023,138,Yankees,Twins
+2023,139,Dodgers,Mariners
+2023,139,Cubs,Indians
+2023,139,Pirates,Twins
+2023,139,Athletics,Brewers
+2023,139,Nationals,Mets
+2023,139,Phillies,Rays
+2023,139,Tigers,Rockies
+2023,139,Orioles,Padres
+2023,139,Yankees,Angels
+2023,139,White Sox,Reds
+2023,139,Red Sox,Giants
+2023,139,Royals,Braves
+2023,139,Blue Jays,Cardinals
+2023,139,Astros,Marlins
+2023,139,Diamondbacks,Rangers
+2023,140,Rockies,Mariners
+2023,140,Cubs,Marlins
+2023,140,Angels,Cardinals
+2023,140,Nationals,Giants
+2023,140,Dodgers,Brewers
+2023,140,Blue Jays,Indians
+2023,140,Royals,Phillies
+2023,140,Rays,Mets
+2023,140,Diamondbacks,Twins
+2023,140,Red Sox,Tigers
+2023,140,Orioles,Pirates
+2023,140,Reds,Braves
+2023,140,Athletics,Astros
+2023,140,Yankees,Rangers
+2023,140,Padres,White Sox
+2023,141,Pirates,Braves
+2023,141,Blue Jays,Indians
+2023,141,Mariners,Rays
+2023,141,Giants,Tigers
+2023,141,Twins,Reds
+2023,141,Marlins,Orioles
+2023,141,Red Sox,Phillies
+2023,141,Brewers,Mets
+2023,141,Padres,Royals
+2023,141,Nationals,Yankees
+2023,141,Angels,Rangers
+2023,141,Athletics,White Sox
+2023,141,Dodgers,Astros
+2023,141,Rockies,Cubs
+2023,141,Cardinals,Diamondbacks
+2023,142,Athletics,Yankees
+2023,142,Giants,Diamondbacks
+2023,142,Blue Jays,Angels
+2023,142,Dodgers,Royals
+2023,142,Rays,Phillies
+2023,142,Braves,Reds
+2023,142,Cardinals,Rockies
+2023,142,Mets,Tigers
+2023,142,Brewers,Pirates
+2023,142,White Sox,Twins
+2023,142,Padres,Nationals
+2023,142,Rangers,Astros
+2023,142,Marlins,Mariners
+2023,142,Cubs,Orioles
+2023,142,Indians,Red Sox
+2023,143,White Sox,Marlins
+2023,143,Rays,Mariners
+2023,143,Reds,Twins
+2023,143,Blue Jays,Astros
+2023,143,Cardinals,Rockies
+2023,143,Yankees,Angels
+2023,143,Dodgers,Phillies
+2023,143,Braves,Tigers
+2023,143,Orioles,Royals
+2023,143,Brewers,Rangers
+2023,143,Cubs,Athletics
+2023,143,Pirates,Padres
+2023,143,Red Sox,Diamondbacks
+2023,143,Indians,Mets
+2023,143,Giants,Nationals
+2023,144,Brewers,Royals
+2023,144,Astros,Cubs
+2023,144,Marlins,Yankees
+2023,144,Braves,Cardinals
+2023,144,Red Sox,Athletics
+2023,144,Dodgers,Rays
+2023,144,Pirates,Rangers
+2023,144,Nationals,Padres
+2023,144,Blue Jays,Rockies
+2023,144,Phillies,Angels
+2023,144,Tigers,Diamondbacks
+2023,144,Orioles,Mariners
+2023,144,White Sox,Giants
+2023,144,Indians,Mets
+2023,144,Reds,Twins
+2023,145,Astros,Dodgers
+2023,145,Orioles,Blue Jays
+2023,145,Red Sox,Mariners
+2023,145,Athletics,Yankees
+2023,145,Padres,Braves
+2023,145,Brewers,Giants
+2023,145,Angels,White Sox
+2023,145,Cardinals,Rockies
+2023,145,Diamondbacks,Phillies
+2023,145,Indians,Reds
+2023,145,Marlins,Rays
+2023,145,Tigers,Mets
+2023,145,Rangers,Nationals
+2023,145,Cubs,Pirates
+2023,145,Twins,Royals
+2023,146,Tigers,Cubs
+2023,146,Dodgers,Orioles
+2023,146,Cardinals,Mariners
+2023,146,Padres,Nationals
+2023,146,Marlins,Braves
+2023,146,Indians,Giants
+2023,146,Yankees,Royals
+2023,146,Pirates,Diamondbacks
+2023,146,Twins,Angels
+2023,146,Rockies,Reds
+2023,146,Rays,Rangers
+2023,146,White Sox,Athletics
+2023,146,Mets,Blue Jays
+2023,146,Red Sox,Brewers
+2023,146,Astros,Phillies
+2023,147,Mariners,White Sox
+2023,147,Tigers,Dodgers
+2023,147,Astros,Phillies
+2023,147,Red Sox,Cubs
+2023,147,Nationals,Padres
+2023,147,Orioles,Indians
+2023,147,Yankees,Cardinals
+2023,147,Angels,Twins
+2023,147,Mets,Pirates
+2023,147,Rays,Giants
+2023,147,Brewers,Rockies
+2023,147,Braves,Royals
+2023,147,Rangers,Athletics
+2023,147,Blue Jays,Marlins
+2023,147,Diamondbacks,Reds
+2023,148,Diamondbacks,Royals
+2023,148,Athletics,Pirates
+2023,148,Blue Jays,Rangers
+2023,148,Orioles,Phillies
+2023,148,Rockies,Brewers
+2023,148,Twins,Padres
+2023,148,Yankees,Giants
+2023,148,White Sox,Cubs
+2023,148,Nationals,Cardinals
+2023,148,Mets,Reds
+2023,148,Tigers,Astros
+2023,148,Red Sox,Dodgers
+2023,148,Angels,Indians
+2023,148,Marlins,Mariners
+2023,148,Braves,Rays
+2023,149,Reds,Mariners
+2023,149,Angels,Dodgers
+2023,149,Twins,Giants
+2023,149,Rangers,Orioles
+2023,149,Diamondbacks,Rockies
+2023,149,Athletics,Nationals
+2023,149,Royals,White Sox
+2023,149,Phillies,Red Sox
+2023,149,Rays,Cubs
+2023,149,Pirates,Brewers
+2023,149,Blue Jays,Marlins
+2023,149,Yankees,Padres
+2023,149,Astros,Mets
+2023,149,Cardinals,Tigers
+2023,149,Indians,Braves
+2023,150,Nationals,Mets
+2023,150,Tigers,Athletics
+2023,150,Cubs,Rockies
+2023,150,Pirates,Rays
+2023,150,Phillies,Angels
+2023,150,Blue Jays,Yankees
+2023,150,Brewers,Padres
+2023,150,Reds,Orioles
+2023,150,Royals,Mariners
+2023,150,Indians,Braves
+2023,150,White Sox,Astros
+2023,150,Giants,Cardinals
+2023,150,Twins,Marlins
+2023,150,Diamondbacks,Red Sox
+2023,150,Dodgers,Rangers
+2023,151,Padres,Orioles
+2023,151,Cubs,White Sox
+2023,151,Brewers,Blue Jays
+2023,151,Giants,Indians
+2023,151,Pirates,Twins
+2023,151,Rays,Rangers
+2023,151,Diamondbacks,Astros
+2023,151,Royals,Reds
+2023,151,Rockies,Phillies
+2023,151,Braves,Nationals
+2023,151,Mariners,Athletics
+2023,151,Marlins,Red Sox
+2023,151,Cardinals,Dodgers
+2023,151,Angels,Yankees
+2023,151,Mets,Tigers
+2023,152,Yankees,Twins
+2023,152,Astros,Angels
+2023,152,Royals,Red Sox
+2023,152,Orioles,Braves
+2023,152,Rockies,Nationals
+2023,152,White Sox,Indians
+2023,152,Giants,Athletics
+2023,152,Dodgers,Cardinals
+2023,152,Tigers,Rays
+2023,152,Pirates,Phillies
+2023,152,Marlins,Mariners
+2023,152,Padres,Diamondbacks
+2023,152,Reds,Blue Jays
+2023,152,Rangers,Brewers
+2023,152,Cubs,Mets
+2023,153,Orioles,Nationals
+2023,153,Yankees,Rays
+2023,153,Royals,Tigers
+2023,153,Mets,Athletics
+2023,153,Angels,White Sox
+2023,153,Cubs,Phillies
+2023,153,Brewers,Padres
+2023,153,Diamondbacks,Braves
+2023,153,Red Sox,Reds
+2023,153,Marlins,Twins
+2023,153,Astros,Rockies
+2023,153,Blue Jays,Indians
+2023,153,Dodgers,Cardinals
+2023,153,Pirates,Rangers
+2023,153,Giants,Mariners
+2023,154,Rockies,Mariners
+2023,154,Marlins,Orioles
+2023,154,Rangers,Royals
+2023,154,Nationals,White Sox
+2023,154,Twins,Cardinals
+2023,154,Mets,Athletics
+2023,154,Padres,Pirates
+2023,154,Indians,Dodgers
+2023,154,Blue Jays,Giants
+2023,154,Phillies,Braves
+2023,154,Diamondbacks,Brewers
+2023,154,Tigers,Rays
+2023,154,Astros,Red Sox
+2023,154,Yankees,Cubs
+2023,154,Reds,Angels
+2023,155,Nationals,Mariners
+2023,155,Athletics,Twins
+2023,155,Pirates,Brewers
+2023,155,Dodgers,Red Sox
+2023,155,Braves,Rockies
+2023,155,Indians,Yankees
+2023,155,Mets,Rangers
+2023,155,Royals,Padres
+2023,155,Cubs,Reds
+2023,155,Phillies,Marlins
+2023,155,Rays,Diamondbacks
+2023,155,Angels,Cardinals
+2023,155,Astros,Orioles
+2023,155,Tigers,White Sox
+2023,155,Giants,Blue Jays
+2023,156,Padres,Rangers
+2023,156,Marlins,Giants
+2023,156,Athletics,Brewers
+2023,156,Tigers,Cubs
+2023,156,Braves,Pirates
+2023,156,Mets,Red Sox
+2023,156,Blue Jays,Orioles
+2023,156,Phillies,Astros
+2023,156,Angels,Dodgers
+2023,156,Yankees,Nationals
+2023,156,Royals,Twins
+2023,156,White Sox,Indians
+2023,156,Mariners,Cardinals
+2023,156,Rockies,Rays
+2023,156,Diamondbacks,Reds
+2023,157,Tigers,Twins
+2023,157,Mariners,Indians
+2023,157,Pirates,Rangers
+2023,157,Royals,Mets
+2023,157,Astros,Braves
+2023,157,Phillies,Athletics
+2023,157,Orioles,Padres
+2023,157,Red Sox,Cubs
+2023,157,Yankees,Brewers
+2023,157,Diamondbacks,Reds
+2023,157,Giants,Blue Jays
+2023,157,Rockies,Dodgers
+2023,157,Nationals,Angels
+2023,157,Rays,White Sox
+2023,157,Marlins,Cardinals
+2023,158,Angels,Rays
+2023,158,Royals,Padres
+2023,158,Twins,Red Sox
+2023,158,Mariners,Pirates
+2023,158,Marlins,Yankees
+2023,158,Blue Jays,Rockies
+2023,158,Giants,Cardinals
+2023,158,Cubs,Athletics
+2023,158,Nationals,Brewers
+2023,158,Rangers,Diamondbacks
+2023,158,Phillies,Orioles
+2023,158,Indians,Braves
+2023,158,Tigers,Mets
+2023,158,White Sox,Reds
+2023,158,Dodgers,Astros
+2023,159,Braves,Padres
+2023,159,Reds,Dodgers
+2023,159,Mariners,Rangers
+2023,159,Astros,Pirates
+2023,159,Cubs,Mets
+2023,159,Tigers,Diamondbacks
+2023,159,Indians,Angels
+2023,159,Rockies,Phillies
+2023,159,Rays,Nationals
+2023,159,Orioles,Twins
+2023,159,Yankees,Athletics
+2023,159,Marlins,Brewers
+2023,159,White Sox,Royals
+2023,159,Blue Jays,Red Sox
+2023,159,Giants,Cardinals
+2023,160,Athletics,Tigers
+2023,160,Blue Jays,Reds
+2023,160,Orioles,Mets
+2023,160,Red Sox,Pirates
+2023,160,Phillies,Yankees
+2023,160,Royals,Rockies
+2023,160,Braves,Twins
+2023,160,Astros,Marlins
+2023,160,Rays,Rangers
+2023,160,Diamondbacks,Dodgers
+2023,160,Angels,Nationals
+2023,160,Padres,Cubs
+2023,160,Brewers,White Sox
+2023,160,Giants,Mariners
+2023,160,Indians,Cardinals
+2023,161,Padres,Twins
+2023,161,Cardinals,Mariners
+2023,161,Indians,Cubs
+2023,161,Astros,Diamondbacks
+2023,161,Blue Jays,White Sox
+2023,161,Orioles,Athletics
+2023,161,Rays,Reds
+2023,161,Giants,Dodgers
+2023,161,Braves,Red Sox
+2023,161,Yankees,Phillies
+2023,161,Angels,Royals
+2023,161,Rockies,Rangers
+2023,161,Brewers,Marlins
+2023,161,Pirates,Mets
+2023,161,Nationals,Tigers
+2023,162,Cubs,Orioles
+2023,162,Athletics,Royals
+2023,162,Braves,Rangers
+2023,162,Cardinals,Indians
+2023,162,Tigers,Astros
+2023,162,Red Sox,Reds
+2023,162,Padres,Yankees
+2023,162,Mariners,Blue Jays
+2023,162,Rays,Marlins
+2023,162,Diamondbacks,Nationals
+2023,162,Pirates,Twins
+2023,162,Angels,Giants
+2023,162,Rockies,Brewers
+2023,162,White Sox,Dodgers
+2023,162,Mets,Phillies

@@ -1,0 +1,2431 @@
+Year,day,home_team_name,away_team_name
+2014,1,Royals,Braves
+2014,1,Rays,Blue Jays
+2014,1,Diamondbacks,Astros
+2014,1,Pirates,Dodgers
+2014,1,Rockies,Nationals
+2014,1,Cardinals,Red Sox
+2014,1,Orioles,Giants
+2014,1,Reds,Indians
+2014,1,Padres,Phillies
+2014,1,White Sox,Brewers
+2014,1,Yankees,Mets
+2014,1,Rangers,Marlins
+2014,1,Mariners,Twins
+2014,1,Angels,Cubs
+2014,1,Athletics,Tigers
+2014,2,Marlins,Athletics
+2014,2,Tigers,Giants
+2014,2,Padres,Reds
+2014,2,Rangers,Orioles
+2014,2,Rays,Cardinals
+2014,2,Yankees,Twins
+2014,2,Angels,Nationals
+2014,2,Cubs,Diamondbacks
+2014,2,Mets,Dodgers
+2014,2,Braves,Astros
+2014,2,Red Sox,White Sox
+2014,2,Blue Jays,Rockies
+2014,2,Pirates,Brewers
+2014,2,Royals,Indians
+2014,2,Mariners,Phillies
+2014,3,Royals,Rockies
+2014,3,Rangers,Cubs
+2014,3,Phillies,Mariners
+2014,3,Nationals,Red Sox
+2014,3,Giants,Pirates
+2014,3,Dodgers,Angels
+2014,3,Brewers,Padres
+2014,3,Diamondbacks,Astros
+2014,3,Athletics,Rays
+2014,3,Marlins,Cardinals
+2014,3,Indians,Blue Jays
+2014,3,Orioles,White Sox
+2014,3,Braves,Mets
+2014,3,Reds,Twins
+2014,3,Tigers,Yankees
+2014,4,Rockies,Red Sox
+2014,4,Diamondbacks,Indians
+2014,4,White Sox,Mets
+2014,4,Dodgers,Giants
+2014,4,Brewers,Angels
+2014,4,Cardinals,Reds
+2014,4,Braves,Phillies
+2014,4,Athletics,Nationals
+2014,4,Rays,Blue Jays
+2014,4,Pirates,Mariners
+2014,4,Royals,Yankees
+2014,4,Cubs,Astros
+2014,4,Tigers,Rangers
+2014,4,Orioles,Padres
+2014,4,Twins,Marlins
+2014,5,Pirates,Indians
+2014,5,Blue Jays,Cubs
+2014,5,Phillies,Royals
+2014,5,Rangers,Giants
+2014,5,Brewers,Marlins
+2014,5,Diamondbacks,Nationals
+2014,5,Mets,Twins
+2014,5,Rockies,Astros
+2014,5,Red Sox,Cardinals
+2014,5,Angels,Dodgers
+2014,5,White Sox,Braves
+2014,5,Orioles,Padres
+2014,5,Rays,Tigers
+2014,5,Mariners,Yankees
+2014,5,Athletics,Reds
+2014,6,Twins,Indians
+2014,6,Brewers,Diamondbacks
+2014,6,Cubs,Marlins
+2014,6,Braves,Athletics
+2014,6,Phillies,White Sox
+2014,6,Mets,Dodgers
+2014,6,Reds,Mariners
+2014,6,Orioles,Tigers
+2014,6,Blue Jays,Nationals
+2014,6,Giants,Red Sox
+2014,6,Yankees,Cardinals
+2014,6,Rays,Royals
+2014,6,Rockies,Astros
+2014,6,Angels,Pirates
+2014,6,Padres,Rangers
+2014,7,Dodgers,Brewers
+2014,7,Pirates,Giants
+2014,7,Blue Jays,Diamondbacks
+2014,7,Astros,Athletics
+2014,7,White Sox,Mariners
+2014,7,Angels,Padres
+2014,7,Phillies,Braves
+2014,7,Yankees,Rays
+2014,7,Red Sox,Indians
+2014,7,Tigers,Rangers
+2014,7,Orioles,Cardinals
+2014,7,Nationals,Marlins
+2014,7,Mets,Royals
+2014,7,Reds,Cubs
+2014,7,Rockies,Twins
+2014,8,Cubs,Reds
+2014,8,Athletics,Red Sox
+2014,8,Angels,Dodgers
+2014,8,Cardinals,Yankees
+2014,8,Marlins,Tigers
+2014,8,Diamondbacks,Indians
+2014,8,Braves,White Sox
+2014,8,Phillies,Nationals
+2014,8,Twins,Giants
+2014,8,Mariners,Rays
+2014,8,Mets,Brewers
+2014,8,Rockies,Royals
+2014,8,Orioles,Rangers
+2014,8,Pirates,Astros
+2014,8,Blue Jays,Padres
+2014,9,Royals,Rangers
+2014,9,Blue Jays,Mets
+2014,9,Marlins,Brewers
+2014,9,Mariners,Angels
+2014,9,Rays,Rockies
+2014,9,Phillies,Tigers
+2014,9,Cubs,Nationals
+2014,9,Giants,Diamondbacks
+2014,9,Braves,Orioles
+2014,9,Astros,Reds
+2014,9,White Sox,Indians
+2014,9,Yankees,Red Sox
+2014,9,Dodgers,Padres
+2014,9,Pirates,Cardinals
+2014,9,Athletics,Twins
+2014,10,Nationals,Indians
+2014,10,White Sox,Cubs
+2014,10,Diamondbacks,Reds
+2014,10,Rangers,Rockies
+2014,10,Red Sox,Dodgers
+2014,10,Giants,Brewers
+2014,10,Padres,Angels
+2014,10,Pirates,Cardinals
+2014,10,Royals,Orioles
+2014,10,Rays,Mariners
+2014,10,Braves,Mets
+2014,10,Yankees,Astros
+2014,10,Blue Jays,Phillies
+2014,10,Marlins,Twins
+2014,10,Athletics,Tigers
+2014,11,Reds,Braves
+2014,11,Tigers,Rockies
+2014,11,Pirates,Astros
+2014,11,Giants,Orioles
+2014,11,Nationals,Marlins
+2014,11,Royals,Brewers
+2014,11,Indians,Athletics
+2014,11,Diamondbacks,Mets
+2014,11,Twins,Blue Jays
+2014,11,Cubs,Cardinals
+2014,11,Rangers,Red Sox
+2014,11,Angels,Padres
+2014,11,Rays,Mariners
+2014,11,Dodgers,Phillies
+2014,11,White Sox,Yankees
+2014,12,Cubs,Reds
+2014,12,Angels,Dodgers
+2014,12,Giants,Cardinals
+2014,12,Brewers,Astros
+2014,12,Tigers,Rays
+2014,12,Mariners,Rangers
+2014,12,Marlins,Red Sox
+2014,12,Diamondbacks,Nationals
+2014,12,Twins,Pirates
+2014,12,Orioles,Indians
+2014,12,Blue Jays,Phillies
+2014,12,Athletics,Yankees
+2014,12,Padres,Rockies
+2014,12,Braves,White Sox
+2014,12,Royals,Mets
+2014,13,Red Sox,Phillies
+2014,13,Cubs,Cardinals
+2014,13,Athletics,Padres
+2014,13,Blue Jays,Orioles
+2014,13,Braves,Diamondbacks
+2014,13,Royals,Dodgers
+2014,13,Reds,Brewers
+2014,13,Yankees,Rangers
+2014,13,Angels,White Sox
+2014,13,Twins,Rockies
+2014,13,Marlins,Giants
+2014,13,Mets,Indians
+2014,13,Rays,Tigers
+2014,13,Pirates,Mariners
+2014,13,Astros,Nationals
+2014,14,Nationals,Cardinals
+2014,14,Rockies,Royals
+2014,14,Yankees,Giants
+2014,14,Mariners,Braves
+2014,14,Mets,Athletics
+2014,14,Blue Jays,Diamondbacks
+2014,14,Brewers,Rangers
+2014,14,Astros,Dodgers
+2014,14,Reds,Twins
+2014,14,Pirates,Red Sox
+2014,14,Indians,Rays
+2014,14,Padres,Tigers
+2014,14,Marlins,Cubs
+2014,14,White Sox,Angels
+2014,14,Phillies,Orioles
+2014,15,Orioles,White Sox
+2014,15,Tigers,Nationals
+2014,15,Pirates,Athletics
+2014,15,Diamondbacks,Dodgers
+2014,15,Mariners,Twins
+2014,15,Cardinals,Cubs
+2014,15,Rangers,Padres
+2014,15,Royals,Red Sox
+2014,15,Reds,Rays
+2014,15,Indians,Phillies
+2014,15,Giants,Angels
+2014,15,Rockies,Marlins
+2014,15,Yankees,Mets
+2014,15,Astros,Braves
+2014,15,Brewers,Blue Jays
+2014,16,Rockies,Blue Jays
+2014,16,Giants,Astros
+2014,16,Reds,Angels
+2014,16,Tigers,Diamondbacks
+2014,16,Yankees,Twins
+2014,16,Rays,White Sox
+2014,16,Royals,Marlins
+2014,16,Rangers,Cubs
+2014,16,Mariners,Dodgers
+2014,16,Pirates,Phillies
+2014,16,Braves,Orioles
+2014,16,Athletics,Cardinals
+2014,16,Mets,Red Sox
+2014,16,Brewers,Nationals
+2014,16,Indians,Padres
+2014,17,Brewers,Rangers
+2014,17,Braves,Reds
+2014,17,Marlins,Blue Jays
+2014,17,Diamondbacks,Phillies
+2014,17,Yankees,Rockies
+2014,17,White Sox,Astros
+2014,17,Twins,Rays
+2014,17,Cubs,Orioles
+2014,17,Athletics,Giants
+2014,17,Cardinals,Mets
+2014,17,Mariners,Royals
+2014,17,Dodgers,Tigers
+2014,17,Padres,Nationals
+2014,17,Indians,Red Sox
+2014,17,Pirates,Angels
+2014,18,Athletics,Cardinals
+2014,18,Indians,Mets
+2014,18,Braves,Rangers
+2014,18,Diamondbacks,Nationals
+2014,18,Phillies,Astros
+2014,18,Rockies,Rays
+2014,18,White Sox,Mariners
+2014,18,Orioles,Twins
+2014,18,Blue Jays,Tigers
+2014,18,Marlins,Red Sox
+2014,18,Dodgers,Cubs
+2014,18,Pirates,Reds
+2014,18,Brewers,Yankees
+2014,18,Giants,Padres
+2014,18,Angels,Royals
+2014,19,Marlins,Rockies
+2014,19,Tigers,Yankees
+2014,19,Rangers,Rays
+2014,19,Cubs,Angels
+2014,19,Mariners,Athletics
+2014,19,Red Sox,Royals
+2014,19,White Sox,Pirates
+2014,19,Dodgers,Twins
+2014,19,Padres,Braves
+2014,19,Phillies,Cardinals
+2014,19,Mets,Giants
+2014,19,Blue Jays,Diamondbacks
+2014,19,Indians,Reds
+2014,19,Astros,Brewers
+2014,19,Nationals,Orioles
+2014,20,Cubs,Phillies
+2014,20,Rockies,Giants
+2014,20,Athletics,Yankees
+2014,20,Rangers,Royals
+2014,20,Tigers,Marlins
+2014,20,Mets,Padres
+2014,20,White Sox,Blue Jays
+2014,20,Braves,Diamondbacks
+2014,20,Angels,Rays
+2014,20,Dodgers,Pirates
+2014,20,Cardinals,Astros
+2014,20,Mariners,Reds
+2014,20,Twins,Indians
+2014,20,Nationals,Orioles
+2014,20,Red Sox,Brewers
+2014,21,Royals,Athletics
+2014,21,Nationals,Twins
+2014,21,Diamondbacks,Giants
+2014,21,Red Sox,Brewers
+2014,21,Rays,Dodgers
+2014,21,Cubs,Pirates
+2014,21,Tigers,White Sox
+2014,21,Orioles,Yankees
+2014,21,Mets,Angels
+2014,21,Mariners,Blue Jays
+2014,21,Astros,Rangers
+2014,21,Rockies,Marlins
+2014,21,Indians,Reds
+2014,21,Phillies,Cardinals
+2014,21,Padres,Braves
+2014,22,Pirates,Mets
+2014,22,Twins,Angels
+2014,22,Rangers,Tigers
+2014,22,Red Sox,Indians
+2014,22,Marlins,Cubs
+2014,22,Nationals,Royals
+2014,22,Phillies,Dodgers
+2014,22,Astros,Padres
+2014,22,Rockies,Mariners
+2014,22,Orioles,Diamondbacks
+2014,22,Athletics,Yankees
+2014,22,Cardinals,Brewers
+2014,22,Blue Jays,Giants
+2014,22,Braves,Reds
+2014,22,Rays,White Sox
+2014,23,Indians,Cardinals
+2014,23,Mets,Yankees
+2014,23,Padres,Marlins
+2014,23,Cubs,Diamondbacks
+2014,23,Rays,Athletics
+2014,23,Tigers,Rockies
+2014,23,Giants,Astros
+2014,23,Rangers,White Sox
+2014,23,Braves,Blue Jays
+2014,23,Phillies,Pirates
+2014,23,Nationals,Mariners
+2014,23,Dodgers,Royals
+2014,23,Angels,Red Sox
+2014,23,Reds,Orioles
+2014,23,Twins,Brewers
+2014,24,Astros,Tigers
+2014,24,Nationals,Padres
+2014,24,Cardinals,Diamondbacks
+2014,24,Pirates,Blue Jays
+2014,24,Red Sox,Yankees
+2014,24,Mariners,Giants
+2014,24,White Sox,Reds
+2014,24,Phillies,Twins
+2014,24,Marlins,Rangers
+2014,24,Brewers,Rockies
+2014,24,Indians,Rays
+2014,24,Orioles,Dodgers
+2014,24,Royals,Mets
+2014,24,Angels,Athletics
+2014,24,Braves,Cubs
+2014,25,Red Sox,Yankees
+2014,25,Padres,Reds
+2014,25,Mariners,Angels
+2014,25,Cardinals,White Sox
+2014,25,Mets,Giants
+2014,25,Twins,Dodgers
+2014,25,Athletics,Marlins
+2014,25,Royals,Blue Jays
+2014,25,Phillies,Cubs
+2014,25,Pirates,Indians
+2014,25,Tigers,Braves
+2014,25,Nationals,Rangers
+2014,25,Rockies,Astros
+2014,25,Orioles,Brewers
+2014,25,Diamondbacks,Rays
+2014,26,Dodgers,Athletics
+2014,26,Braves,Reds
+2014,26,Indians,Rangers
+2014,26,Padres,Orioles
+2014,26,Twins,Pirates
+2014,26,Brewers,Angels
+2014,26,Giants,Rays
+2014,26,Phillies,Yankees
+2014,26,Blue Jays,Red Sox
+2014,26,Cubs,White Sox
+2014,26,Astros,Cardinals
+2014,26,Tigers,Diamondbacks
+2014,26,Nationals,Mariners
+2014,26,Mets,Rockies
+2014,26,Royals,Marlins
+2014,27,Indians,Mariners
+2014,27,Padres,Marlins
+2014,27,Phillies,Orioles
+2014,27,Giants,Nationals
+2014,27,Cardinals,Yankees
+2014,27,Astros,Mets
+2014,27,Diamondbacks,Dodgers
+2014,27,White Sox,Athletics
+2014,27,Rockies,Braves
+2014,27,Rangers,Blue Jays
+2014,27,Royals,Pirates
+2014,27,Rays,Twins
+2014,27,Brewers,Reds
+2014,27,Cubs,Tigers
+2014,27,Angels,Red Sox
+2014,28,Indians,Angels
+2014,28,Astros,Giants
+2014,28,Cardinals,Marlins
+2014,28,Red Sox,Brewers
+2014,28,Nationals,Padres
+2014,28,Braves,Athletics
+2014,28,Mets,Reds
+2014,28,Royals,Tigers
+2014,28,Twins,Yankees
+2014,28,White Sox,Orioles
+2014,28,Blue Jays,Cubs
+2014,28,Diamondbacks,Pirates
+2014,28,Rockies,Rays
+2014,28,Mariners,Rangers
+2014,28,Phillies,Dodgers
+2014,29,Braves,Athletics
+2014,29,Tigers,Diamondbacks
+2014,29,Twins,Nationals
+2014,29,Angels,Royals
+2014,29,Yankees,Red Sox
+2014,29,Cubs,Cardinals
+2014,29,Mariners,White Sox
+2014,29,Rays,Phillies
+2014,29,Astros,Reds
+2014,29,Padres,Brewers
+2014,29,Rockies,Dodgers
+2014,29,Indians,Giants
+2014,29,Blue Jays,Marlins
+2014,29,Rangers,Mets
+2014,29,Pirates,Orioles
+2014,30,Nationals,Rockies
+2014,30,Athletics,Orioles
+2014,30,Brewers,Mets
+2014,30,Pirates,Reds
+2014,30,Tigers,Mariners
+2014,30,Phillies,Cardinals
+2014,30,Marlins,Rays
+2014,30,White Sox,Yankees
+2014,30,Royals,Blue Jays
+2014,30,Cubs,Diamondbacks
+2014,30,Padres,Giants
+2014,30,Braves,Astros
+2014,30,Rangers,Indians
+2014,30,Twins,Angels
+2014,30,Dodgers,Red Sox
+2014,31,Phillies,Angels
+2014,31,Royals,Cubs
+2014,31,Nationals,Giants
+2014,31,Cardinals,Reds
+2014,31,Blue Jays,Braves
+2014,31,White Sox,Dodgers
+2014,31,Yankees,Pirates
+2014,31,Mariners,Brewers
+2014,31,Mets,Tigers
+2014,31,Diamondbacks,Indians
+2014,31,Rays,Marlins
+2014,31,Padres,Orioles
+2014,31,Rockies,Astros
+2014,31,Rangers,Athletics
+2014,31,Twins,Red Sox
+2014,32,Astros,Red Sox
+2014,32,Athletics,Royals
+2014,32,Brewers,Mets
+2014,32,Reds,White Sox
+2014,32,Diamondbacks,Marlins
+2014,32,Dodgers,Phillies
+2014,32,Nationals,Cubs
+2014,32,Braves,Indians
+2014,32,Cardinals,Giants
+2014,32,Yankees,Twins
+2014,32,Orioles,Rockies
+2014,32,Tigers,Rangers
+2014,32,Pirates,Mariners
+2014,32,Angels,Blue Jays
+2014,32,Padres,Rays
+2014,33,Rockies,Blue Jays
+2014,33,Royals,Astros
+2014,33,Giants,Yankees
+2014,33,Pirates,Mets
+2014,33,Red Sox,Marlins
+2014,33,Indians,Reds
+2014,33,Orioles,Rangers
+2014,33,Athletics,Brewers
+2014,33,Dodgers,Padres
+2014,33,Cardinals,Cubs
+2014,33,Mariners,Phillies
+2014,33,White Sox,Diamondbacks
+2014,33,Twins,Nationals
+2014,33,Tigers,Angels
+2014,33,Rays,Braves
+2014,34,Twins,Yankees
+2014,34,Royals,Reds
+2014,34,Blue Jays,Diamondbacks
+2014,34,Angels,Pirates
+2014,34,White Sox,Mariners
+2014,34,Astros,Orioles
+2014,34,Indians,Phillies
+2014,34,Tigers,Mets
+2014,34,Brewers,Rays
+2014,34,Red Sox,Cubs
+2014,34,Marlins,Athletics
+2014,34,Dodgers,Padres
+2014,34,Rockies,Rangers
+2014,34,Braves,Cardinals
+2014,34,Nationals,Giants
+2014,35,Dodgers,Royals
+2014,35,Cardinals,Phillies
+2014,35,Cubs,Twins
+2014,35,Tigers,Angels
+2014,35,Brewers,Reds
+2014,35,Padres,Nationals
+2014,35,Giants,Indians
+2014,35,Astros,Rockies
+2014,35,Yankees,Rangers
+2014,35,Pirates,Orioles
+2014,35,Blue Jays,Braves
+2014,35,Mariners,Marlins
+2014,35,White Sox,Rays
+2014,35,Diamondbacks,Athletics
+2014,35,Mets,Red Sox
+2014,36,Indians,Giants
+2014,36,Brewers,Marlins
+2014,36,White Sox,Braves
+2014,36,Diamondbacks,Dodgers
+2014,36,Rockies,Angels
+2014,36,Rays,Royals
+2014,36,Red Sox,Mariners
+2014,36,Orioles,Yankees
+2014,36,Blue Jays,Padres
+2014,36,Rangers,Phillies
+2014,36,Twins,Tigers
+2014,36,Reds,Pirates
+2014,36,Nationals,Cardinals
+2014,36,Athletics,Astros
+2014,36,Mets,Cubs
+2014,37,Marlins,Orioles
+2014,37,Phillies,White Sox
+2014,37,Nationals,Dodgers
+2014,37,Astros,Angels
+2014,37,Diamondbacks,Brewers
+2014,37,Tigers,Braves
+2014,37,Padres,Mariners
+2014,37,Mets,Yankees
+2014,37,Royals,Giants
+2014,37,Rockies,Indians
+2014,37,Red Sox,Cardinals
+2014,37,Cubs,Rays
+2014,37,Reds,Blue Jays
+2014,37,Rangers,Athletics
+2014,37,Pirates,Twins
+2014,38,Tigers,Padres
+2014,38,Rays,Cubs
+2014,38,Braves,Indians
+2014,38,Diamondbacks,Twins
+2014,38,Giants,Reds
+2014,38,Mets,Mariners
+2014,38,Red Sox,Angels
+2014,38,Athletics,Yankees
+2014,38,Brewers,Astros
+2014,38,Marlins,Rangers
+2014,38,Cardinals,Nationals
+2014,38,Dodgers,Blue Jays
+2014,38,White Sox,Phillies
+2014,38,Rockies,Royals
+2014,38,Pirates,Orioles
+2014,39,Padres,White Sox
+2014,39,Giants,Angels
+2014,39,Reds,Phillies
+2014,39,Pirates,Astros
+2014,39,Rays,Brewers
+2014,39,Nationals,Rockies
+2014,39,Athletics,Blue Jays
+2014,39,Yankees,Indians
+2014,39,Orioles,Diamondbacks
+2014,39,Tigers,Mariners
+2014,39,Red Sox,Royals
+2014,39,Rangers,Cubs
+2014,39,Marlins,Dodgers
+2014,39,Braves,Cardinals
+2014,39,Mets,Twins
+2014,40,Padres,Nationals
+2014,40,Marlins,Mariners
+2014,40,Yankees,Indians
+2014,40,Twins,Red Sox
+2014,40,Rays,Dodgers
+2014,40,Astros,Reds
+2014,40,Angels,Blue Jays
+2014,40,Tigers,Diamondbacks
+2014,40,Athletics,Orioles
+2014,40,Mets,Pirates
+2014,40,Rangers,Rockies
+2014,40,Cardinals,Brewers
+2014,40,White Sox,Braves
+2014,40,Royals,Cubs
+2014,40,Giants,Phillies
+2014,41,White Sox,Dodgers
+2014,41,Tigers,Blue Jays
+2014,41,Padres,Angels
+2014,41,Cardinals,Phillies
+2014,41,Mets,Twins
+2014,41,Pirates,Rangers
+2014,41,Yankees,Rays
+2014,41,Mariners,Rockies
+2014,41,Marlins,Royals
+2014,41,Red Sox,Diamondbacks
+2014,41,Nationals,Astros
+2014,41,Reds,Indians
+2014,41,Orioles,Brewers
+2014,41,Giants,Athletics
+2014,41,Braves,Cubs
+2014,42,Blue Jays,Rangers
+2014,42,Nationals,Angels
+2014,42,Reds,Tigers
+2014,42,Phillies,Rays
+2014,42,Pirates,Indians
+2014,42,Red Sox,Cubs
+2014,42,Marlins,White Sox
+2014,42,Diamondbacks,Padres
+2014,42,Royals,Giants
+2014,42,Mets,Brewers
+2014,42,Braves,Twins
+2014,42,Cardinals,Orioles
+2014,42,Yankees,Mariners
+2014,42,Rockies,Athletics
+2014,42,Dodgers,Astros
+2014,43,White Sox,Mariners
+2014,43,Red Sox,Brewers
+2014,43,Cardinals,Rangers
+2014,43,Dodgers,Braves
+2014,43,Blue Jays,Rays
+2014,43,Twins,Giants
+2014,43,Angels,Reds
+2014,43,Marlins,Cubs
+2014,43,Orioles,Mets
+2014,43,Padres,Pirates
+2014,43,Nationals,Rockies
+2014,43,Indians,Astros
+2014,43,Phillies,Yankees
+2014,43,Tigers,Diamondbacks
+2014,43,Royals,Athletics
+2014,44,Pirates,Reds
+2014,44,Athletics,Tigers
+2014,44,Cubs,Marlins
+2014,44,Diamondbacks,Rockies
+2014,44,Brewers,Nationals
+2014,44,Indians,Astros
+2014,44,Rangers,Royals
+2014,44,Yankees,Dodgers
+2014,44,Giants,Twins
+2014,44,Angels,Red Sox
+2014,44,Rays,Padres
+2014,44,White Sox,Blue Jays
+2014,44,Mariners,Orioles
+2014,44,Cardinals,Phillies
+2014,44,Mets,Braves
+2014,45,Pirates,Red Sox
+2014,45,Mets,Royals
+2014,45,Cubs,Orioles
+2014,45,Reds,Phillies
+2014,45,Indians,Giants
+2014,45,Rangers,Nationals
+2014,45,Angels,Padres
+2014,45,Diamondbacks,Cardinals
+2014,45,Braves,Brewers
+2014,45,Mariners,Tigers
+2014,45,Twins,Athletics
+2014,45,Rays,Dodgers
+2014,45,Yankees,Blue Jays
+2014,45,White Sox,Marlins
+2014,45,Astros,Rockies
+2014,46,Phillies,Astros
+2014,46,Indians,Red Sox
+2014,46,Orioles,Blue Jays
+2014,46,White Sox,Twins
+2014,46,Mets,Reds
+2014,46,Dodgers,Angels
+2014,46,Cubs,Rangers
+2014,46,Rockies,Giants
+2014,46,Athletics,Pirates
+2014,46,Diamondbacks,Nationals
+2014,46,Cardinals,Brewers
+2014,46,Braves,Padres
+2014,46,Royals,Tigers
+2014,46,Mariners,Rays
+2014,46,Yankees,Marlins
+2014,47,Red Sox,Mariners
+2014,47,Nationals,Rays
+2014,47,Royals,Yankees
+2014,47,Blue Jays,Pirates
+2014,47,Athletics,Astros
+2014,47,Dodgers,Indians
+2014,47,White Sox,Angels
+2014,47,Mets,Diamondbacks
+2014,47,Orioles,Reds
+2014,47,Cardinals,Giants
+2014,47,Rangers,Twins
+2014,47,Padres,Rockies
+2014,47,Cubs,Braves
+2014,47,Brewers,Phillies
+2014,47,Marlins,Tigers
+2014,48,Indians,Orioles
+2014,48,Brewers,Reds
+2014,48,Marlins,Rockies
+2014,48,Blue Jays,Phillies
+2014,48,Diamondbacks,Rangers
+2014,48,Cubs,Yankees
+2014,48,White Sox,Rays
+2014,48,Nationals,Tigers
+2014,48,Red Sox,Pirates
+2014,48,Twins,Dodgers
+2014,48,Padres,Mets
+2014,48,Braves,Angels
+2014,48,Athletics,Cardinals
+2014,48,Mariners,Giants
+2014,48,Astros,Royals
+2014,49,Angels,Pirates
+2014,49,Mets,Royals
+2014,49,Mariners,Dodgers
+2014,49,Nationals,Diamondbacks
+2014,49,Twins,Marlins
+2014,49,Padres,Cubs
+2014,49,Rangers,Athletics
+2014,49,Brewers,Reds
+2014,49,Braves,Red Sox
+2014,49,Astros,Blue Jays
+2014,49,Giants,Rays
+2014,49,Phillies,Cardinals
+2014,49,White Sox,Tigers
+2014,49,Yankees,Orioles
+2014,49,Indians,Rockies
+2014,50,Giants,Mariners
+2014,50,Rangers,Cubs
+2014,50,White Sox,Athletics
+2014,50,Red Sox,Dodgers
+2014,50,Pirates,Indians
+2014,50,Twins,Padres
+2014,50,Orioles,Royals
+2014,50,Cardinals,Blue Jays
+2014,50,Mets,Brewers
+2014,50,Astros,Reds
+2014,50,Phillies,Braves
+2014,50,Rays,Marlins
+2014,50,Rockies,Nationals
+2014,50,Angels,Tigers
+2014,50,Yankees,Diamondbacks
+2014,51,Blue Jays,Indians
+2014,51,Marlins,Mets
+2014,51,Reds,Nationals
+2014,51,Cubs,Diamondbacks
+2014,51,Pirates,Braves
+2014,51,Twins,Red Sox
+2014,51,White Sox,Cardinals
+2014,51,Phillies,Angels
+2014,51,Astros,Rockies
+2014,51,Padres,Royals
+2014,51,Giants,Athletics
+2014,51,Brewers,Mariners
+2014,51,Orioles,Tigers
+2014,51,Dodgers,Rangers
+2014,51,Rays,Yankees
+2014,52,Pirates,Astros
+2014,52,Braves,Tigers
+2014,52,Mets,Orioles
+2014,52,Mariners,Dodgers
+2014,52,Angels,Brewers
+2014,52,Reds,Rockies
+2014,52,Cubs,Nationals
+2014,52,Rays,Blue Jays
+2014,52,Cardinals,Padres
+2014,52,Royals,Athletics
+2014,52,Marlins,Indians
+2014,52,Diamondbacks,Rangers
+2014,52,Twins,Giants
+2014,52,Phillies,White Sox
+2014,52,Yankees,Red Sox
+2014,53,Reds,Tigers
+2014,53,Blue Jays,Mariners
+2014,53,Phillies,Astros
+2014,53,Indians,Athletics
+2014,53,Twins,Yankees
+2014,53,Padres,Pirates
+2014,53,Rays,Red Sox
+2014,53,Royals,Brewers
+2014,53,Giants,White Sox
+2014,53,Diamondbacks,Orioles
+2014,53,Braves,Cubs
+2014,53,Rangers,Mets
+2014,53,Angels,Rockies
+2014,53,Dodgers,Nationals
+2014,53,Cardinals,Marlins
+2014,54,Giants,Brewers
+2014,54,Rockies,Red Sox
+2014,54,Twins,Phillies
+2014,54,Angels,Nationals
+2014,54,Braves,Indians
+2014,54,Blue Jays,Pirates
+2014,54,White Sox,Marlins
+2014,54,Royals,Padres
+2014,54,Cardinals,Yankees
+2014,54,Athletics,Astros
+2014,54,Rays,Rangers
+2014,54,Dodgers,Diamondbacks
+2014,54,Mets,Cubs
+2014,54,Mariners,Orioles
+2014,54,Tigers,Reds
+2014,55,Royals,Twins
+2014,55,Rays,Cardinals
+2014,55,Phillies,Rangers
+2014,55,Pirates,Giants
+2014,55,Cubs,Reds
+2014,55,Tigers,Brewers
+2014,55,Nationals,White Sox
+2014,55,Yankees,Mets
+2014,55,Red Sox,Dodgers
+2014,55,Diamondbacks,Padres
+2014,55,Braves,Astros
+2014,55,Indians,Athletics
+2014,55,Angels,Blue Jays
+2014,55,Rockies,Orioles
+2014,55,Marlins,Mariners
+2014,56,Diamondbacks,Brewers
+2014,56,Astros,Red Sox
+2014,56,Marlins,Athletics
+2014,56,Rockies,Padres
+2014,56,Mets,Dodgers
+2014,56,Nationals,Cardinals
+2014,56,Indians,Pirates
+2014,56,Orioles,Mariners
+2014,56,Rangers,Giants
+2014,56,Phillies,Angels
+2014,56,Reds,Tigers
+2014,56,Braves,Yankees
+2014,56,White Sox,Twins
+2014,56,Blue Jays,Royals
+2014,56,Rays,Cubs
+2014,57,Dodgers,Braves
+2014,57,Blue Jays,Rays
+2014,57,Astros,Nationals
+2014,57,Indians,Mariners
+2014,57,Twins,Brewers
+2014,57,Cardinals,Marlins
+2014,57,Rockies,Yankees
+2014,57,Diamondbacks,Phillies
+2014,57,Rangers,White Sox
+2014,57,Cubs,Giants
+2014,57,Reds,Athletics
+2014,57,Tigers,Mets
+2014,57,Padres,Orioles
+2014,57,Red Sox,Royals
+2014,57,Pirates,Angels
+2014,58,Athletics,Nationals
+2014,58,Marlins,Dodgers
+2014,58,Red Sox,Padres
+2014,58,Giants,Indians
+2014,58,Pirates,Orioles
+2014,58,Angels,Cubs
+2014,58,Mariners,Tigers
+2014,58,Rangers,Royals
+2014,58,Mets,Astros
+2014,58,Braves,Cardinals
+2014,58,Brewers,White Sox
+2014,58,Blue Jays,Rockies
+2014,58,Yankees,Rays
+2014,58,Twins,Diamondbacks
+2014,58,Phillies,Reds
+2014,59,Blue Jays,Twins
+2014,59,Rockies,Mariners
+2014,59,Yankees,Giants
+2014,59,Dodgers,Braves
+2014,59,Cardinals,Cubs
+2014,59,Rays,Royals
+2014,59,Phillies,Nationals
+2014,59,Indians,White Sox
+2014,59,Athletics,Pirates
+2014,59,Diamondbacks,Astros
+2014,59,Brewers,Marlins
+2014,59,Angels,Reds
+2014,59,Tigers,Orioles
+2014,59,Padres,Red Sox
+2014,59,Rangers,Mets
+2014,60,Astros,Nationals
+2014,60,Mariners,Royals
+2014,60,Padres,Athletics
+2014,60,Red Sox,Yankees
+2014,60,Rockies,Mets
+2014,60,White Sox,Brewers
+2014,60,Cardinals,Indians
+2014,60,Rangers,Angels
+2014,60,Twins,Diamondbacks
+2014,60,Braves,Rays
+2014,60,Giants,Marlins
+2014,60,Orioles,Tigers
+2014,60,Dodgers,Phillies
+2014,60,Pirates,Reds
+2014,60,Cubs,Blue Jays
+2014,61,Mets,Indians
+2014,61,Cubs,Cardinals
+2014,61,Red Sox,Rays
+2014,61,Reds,Pirates
+2014,61,Marlins,Braves
+2014,61,Brewers,Astros
+2014,61,Yankees,Royals
+2014,61,Nationals,Padres
+2014,61,Giants,Athletics
+2014,61,Twins,Mariners
+2014,61,Phillies,Tigers
+2014,61,Dodgers,White Sox
+2014,61,Orioles,Rockies
+2014,61,Blue Jays,Diamondbacks
+2014,61,Angels,Rangers
+2014,62,Rangers,Mets
+2014,62,Angels,Athletics
+2014,62,Rockies,Padres
+2014,62,Giants,Indians
+2014,62,Red Sox,Royals
+2014,62,Reds,Tigers
+2014,62,Phillies,Cubs
+2014,62,Braves,Twins
+2014,62,Orioles,Blue Jays
+2014,62,Yankees,Nationals
+2014,62,Astros,Mariners
+2014,62,Marlins,Rays
+2014,62,Pirates,Cardinals
+2014,62,Diamondbacks,Brewers
+2014,62,White Sox,Dodgers
+2014,63,Mariners,Phillies
+2014,63,Rangers,Orioles
+2014,63,Blue Jays,Cardinals
+2014,63,Mets,Marlins
+2014,63,Twins,Rockies
+2014,63,Diamondbacks,Astros
+2014,63,Athletics,Indians
+2014,63,Brewers,Reds
+2014,63,Yankees,Royals
+2014,63,Braves,Red Sox
+2014,63,Tigers,Cubs
+2014,63,Rays,Pirates
+2014,63,Angels,Giants
+2014,63,Dodgers,White Sox
+2014,63,Nationals,Padres
+2014,64,Twins,Nationals
+2014,64,Pirates,Braves
+2014,64,Mets,Diamondbacks
+2014,64,Dodgers,Brewers
+2014,64,Rays,Reds
+2014,64,Yankees,Rangers
+2014,64,Astros,Giants
+2014,64,Tigers,Athletics
+2014,64,Rockies,Angels
+2014,64,Phillies,Orioles
+2014,64,Royals,Padres
+2014,64,Red Sox,Mariners
+2014,64,Blue Jays,Marlins
+2014,64,Cardinals,Cubs
+2014,64,White Sox,Indians
+2014,65,White Sox,Brewers
+2014,65,Diamondbacks,Phillies
+2014,65,Orioles,Mariners
+2014,65,Dodgers,Red Sox
+2014,65,Rangers,Cubs
+2014,65,Rockies,Blue Jays
+2014,65,Twins,Braves
+2014,65,Giants,Pirates
+2014,65,Mets,Athletics
+2014,65,Marlins,Astros
+2014,65,Tigers,Royals
+2014,65,Cardinals,Padres
+2014,65,Nationals,Rays
+2014,65,Yankees,Reds
+2014,65,Indians,Angels
+2014,66,White Sox,Tigers
+2014,66,Nationals,Athletics
+2014,66,Indians,Blue Jays
+2014,66,Astros,Diamondbacks
+2014,66,Red Sox,Cubs
+2014,66,Royals,Rockies
+2014,66,Phillies,Pirates
+2014,66,Rays,Braves
+2014,66,Mariners,Brewers
+2014,66,Yankees,Rangers
+2014,66,Reds,Twins
+2014,66,Giants,Padres
+2014,66,Marlins,Angels
+2014,66,Cardinals,Dodgers
+2014,66,Mets,Orioles
+2014,67,Mariners,Giants
+2014,67,Reds,Cubs
+2014,67,Red Sox,Nationals
+2014,67,Yankees,Rays
+2014,67,Phillies,Rangers
+2014,67,Padres,Dodgers
+2014,67,Brewers,Mets
+2014,67,Tigers,Cardinals
+2014,67,Rockies,Athletics
+2014,67,Marlins,Astros
+2014,67,Orioles,Twins
+2014,67,Pirates,Diamondbacks
+2014,67,Blue Jays,White Sox
+2014,67,Indians,Braves
+2014,67,Royals,Angels
+2014,68,Marlins,Yankees
+2014,68,Reds,Brewers
+2014,68,Red Sox,Padres
+2014,68,Orioles,Phillies
+2014,68,White Sox,Rays
+2014,68,Twins,Braves
+2014,68,Diamondbacks,Indians
+2014,68,Astros,Cubs
+2014,68,Rockies,Mets
+2014,68,Angels,Athletics
+2014,68,Cardinals,Tigers
+2014,68,Mariners,Nationals
+2014,68,Rangers,Pirates
+2014,68,Dodgers,Royals
+2014,68,Blue Jays,Giants
+2014,69,Reds,Mariners
+2014,69,White Sox,Brewers
+2014,69,Marlins,Angels
+2014,69,Padres,Athletics
+2014,69,Rangers,Yankees
+2014,69,Rockies,Cardinals
+2014,69,Phillies,Cubs
+2014,69,Rays,Orioles
+2014,69,Nationals,Indians
+2014,69,Blue Jays,Red Sox
+2014,69,Pirates,Dodgers
+2014,69,Tigers,Giants
+2014,69,Twins,Mets
+2014,69,Diamondbacks,Braves
+2014,69,Royals,Astros
+2014,70,Tigers,Rays
+2014,70,Pirates,Cubs
+2014,70,Rockies,Red Sox
+2014,70,Astros,Mariners
+2014,70,Athletics,Diamondbacks
+2014,70,Angels,Giants
+2014,70,Braves,Phillies
+2014,70,Blue Jays,Mets
+2014,70,Cardinals,Nationals
+2014,70,Indians,Padres
+2014,70,Twins,Marlins
+2014,70,Dodgers,Royals
+2014,70,Brewers,Rangers
+2014,70,White Sox,Yankees
+2014,70,Orioles,Reds
+2014,71,Twins,Cardinals
+2014,71,Royals,Pirates
+2014,71,Rockies,Phillies
+2014,71,Braves,Mets
+2014,71,Nationals,White Sox
+2014,71,Marlins,Red Sox
+2014,71,Rays,Rangers
+2014,71,Brewers,Giants
+2014,71,Astros,Blue Jays
+2014,71,Angels,Reds
+2014,71,Mariners,Padres
+2014,71,Yankees,Diamondbacks
+2014,71,Orioles,Athletics
+2014,71,Cubs,Dodgers
+2014,71,Tigers,Indians
+2014,72,Cubs,Marlins
+2014,72,Phillies,Tigers
+2014,72,Cardinals,Braves
+2014,72,Reds,Brewers
+2014,72,Orioles,Rockies
+2014,72,Mariners,Mets
+2014,72,Rays,Angels
+2014,72,Indians,Giants
+2014,72,Dodgers,Diamondbacks
+2014,72,Athletics,Red Sox
+2014,72,Rangers,Twins
+2014,72,Yankees,White Sox
+2014,72,Pirates,Padres
+2014,72,Astros,Nationals
+2014,72,Royals,Blue Jays
+2014,73,Phillies,Braves
+2014,73,Brewers,Nationals
+2014,73,Cubs,Rangers
+2014,73,Royals,Giants
+2014,73,White Sox,Padres
+2014,73,Twins,Pirates
+2014,73,Rockies,Indians
+2014,73,Mariners,Marlins
+2014,73,Blue Jays,Mets
+2014,73,Astros,Angels
+2014,73,Yankees,Cardinals
+2014,73,Tigers,Athletics
+2014,73,Orioles,Red Sox
+2014,73,Rays,Diamondbacks
+2014,73,Reds,Dodgers
+2014,74,Athletics,Reds
+2014,74,Indians,Angels
+2014,74,Cubs,Rockies
+2014,74,Nationals,Astros
+2014,74,Phillies,Cardinals
+2014,74,Pirates,Brewers
+2014,74,Rangers,Giants
+2014,74,Mets,Diamondbacks
+2014,74,Orioles,Red Sox
+2014,74,Marlins,Yankees
+2014,74,Royals,Blue Jays
+2014,74,Rays,Tigers
+2014,74,Braves,White Sox
+2014,74,Padres,Twins
+2014,74,Mariners,Dodgers
+2014,75,Orioles,Diamondbacks
+2014,75,Cardinals,Rockies
+2014,75,Padres,Giants
+2014,75,Brewers,Phillies
+2014,75,Astros,Mets
+2014,75,Royals,Red Sox
+2014,75,Tigers,Braves
+2014,75,Cubs,Rays
+2014,75,Nationals,Angels
+2014,75,Blue Jays,Indians
+2014,75,Reds,Marlins
+2014,75,Yankees,Pirates
+2014,75,White Sox,Dodgers
+2014,75,Athletics,Twins
+2014,75,Rangers,Mariners
+2014,76,Diamondbacks,Orioles
+2014,76,Cardinals,Twins
+2014,76,Angels,Tigers
+2014,76,Mets,Astros
+2014,76,Rockies,Royals
+2014,76,Marlins,Giants
+2014,76,Brewers,Rangers
+2014,76,Indians,White Sox
+2014,76,Phillies,Rays
+2014,76,Braves,Yankees
+2014,76,Blue Jays,Cubs
+2014,76,Red Sox,Reds
+2014,76,Padres,Dodgers
+2014,76,Nationals,Athletics
+2014,76,Pirates,Mariners
+2014,77,Orioles,Twins
+2014,77,Brewers,Rays
+2014,77,Indians,Braves
+2014,77,Athletics,Dodgers
+2014,77,Mariners,Red Sox
+2014,77,Royals,Pirates
+2014,77,Rangers,Reds
+2014,77,Tigers,Diamondbacks
+2014,77,White Sox,Cardinals
+2014,77,Blue Jays,Marlins
+2014,77,Astros,Nationals
+2014,77,Cubs,Angels
+2014,77,Giants,Phillies
+2014,77,Padres,Yankees
+2014,77,Mets,Rockies
+2014,78,Mets,Royals
+2014,78,Nationals,Rangers
+2014,78,Cardinals,Mariners
+2014,78,Rockies,Cubs
+2014,78,Tigers,White Sox
+2014,78,Dodgers,Indians
+2014,78,Reds,Marlins
+2014,78,Athletics,Rays
+2014,78,Blue Jays,Giants
+2014,78,Braves,Red Sox
+2014,78,Brewers,Angels
+2014,78,Pirates,Twins
+2014,78,Astros,Orioles
+2014,78,Diamondbacks,Yankees
+2014,78,Phillies,Padres
+2014,79,Reds,Indians
+2014,79,Phillies,Athletics
+2014,79,Mariners,Rockies
+2014,79,Angels,Royals
+2014,79,Tigers,Orioles
+2014,79,Braves,Cubs
+2014,79,Dodgers,Mets
+2014,79,Yankees,Twins
+2014,79,White Sox,Astros
+2014,79,Nationals,Giants
+2014,79,Blue Jays,Pirates
+2014,79,Rangers,Red Sox
+2014,79,Cardinals,Marlins
+2014,79,Rays,Diamondbacks
+2014,79,Brewers,Padres
+2014,80,Braves,Twins
+2014,80,Rays,White Sox
+2014,80,Mariners,Mets
+2014,80,Indians,Tigers
+2014,80,Reds,Cubs
+2014,80,Marlins,Red Sox
+2014,80,Athletics,Cardinals
+2014,80,Yankees,Rockies
+2014,80,Angels,Brewers
+2014,80,Royals,Blue Jays
+2014,80,Phillies,Nationals
+2014,80,Diamondbacks,Padres
+2014,80,Rangers,Orioles
+2014,80,Pirates,Astros
+2014,80,Giants,Dodgers
+2014,81,Astros,Giants
+2014,81,Orioles,White Sox
+2014,81,Mariners,Diamondbacks
+2014,81,Twins,Royals
+2014,81,Brewers,Dodgers
+2014,81,Angels,Cubs
+2014,81,Rangers,Mets
+2014,81,Tigers,Reds
+2014,81,Marlins,Blue Jays
+2014,81,Red Sox,Rockies
+2014,81,Cardinals,Athletics
+2014,81,Pirates,Padres
+2014,81,Braves,Rays
+2014,81,Indians,Phillies
+2014,81,Nationals,Yankees
+2014,82,Athletics,Yankees
+2014,82,Rockies,Angels
+2014,82,Orioles,Reds
+2014,82,Indians,Royals
+2014,82,Pirates,Cardinals
+2014,82,Brewers,Mariners
+2014,82,Phillies,Twins
+2014,82,Astros,Tigers
+2014,82,Rangers,Diamondbacks
+2014,82,Dodgers,Padres
+2014,82,Nationals,Giants
+2014,82,Cubs,Mets
+2014,82,White Sox,Red Sox
+2014,82,Blue Jays,Braves
+2014,82,Rays,Marlins
+2014,83,Blue Jays,Marlins
+2014,83,Reds,Royals
+2014,83,Brewers,Rays
+2014,83,Cardinals,Braves
+2014,83,Diamondbacks,Yankees
+2014,83,Angels,Pirates
+2014,83,Astros,Twins
+2014,83,Nationals,Rangers
+2014,83,Red Sox,Athletics
+2014,83,Giants,Tigers
+2014,83,White Sox,Mariners
+2014,83,Rockies,Indians
+2014,83,Mets,Orioles
+2014,83,Phillies,Cubs
+2014,83,Padres,Dodgers
+2014,84,Twins,Yankees
+2014,84,Pirates,Athletics
+2014,84,Mets,Red Sox
+2014,84,Astros,Rockies
+2014,84,Blue Jays,Marlins
+2014,84,Indians,Tigers
+2014,84,Royals,Nationals
+2014,84,Braves,Angels
+2014,84,Mariners,Padres
+2014,84,Brewers,White Sox
+2014,84,Cardinals,Phillies
+2014,84,Rangers,Rays
+2014,84,Cubs,Diamondbacks
+2014,84,Giants,Orioles
+2014,84,Dodgers,Reds
+2014,85,Rays,Cardinals
+2014,85,Rangers,Cubs
+2014,85,Astros,Indians
+2014,85,Phillies,Red Sox
+2014,85,Braves,Rockies
+2014,85,Brewers,Blue Jays
+2014,85,Yankees,Twins
+2014,85,Orioles,Marlins
+2014,85,Mets,Angels
+2014,85,Dodgers,Diamondbacks
+2014,85,Mariners,Tigers
+2014,85,Royals,Nationals
+2014,85,Padres,Reds
+2014,85,Pirates,Giants
+2014,85,White Sox,Athletics
+2014,86,Cardinals,Tigers
+2014,86,Athletics,Padres
+2014,86,Dodgers,Rays
+2014,86,Rockies,Diamondbacks
+2014,86,Astros,Orioles
+2014,86,Mets,Brewers
+2014,86,Blue Jays,Nationals
+2014,86,Angels,Indians
+2014,86,Marlins,Twins
+2014,86,Red Sox,Cubs
+2014,86,Phillies,Reds
+2014,86,White Sox,Pirates
+2014,86,Yankees,Mariners
+2014,86,Giants,Royals
+2014,86,Rangers,Braves
+2014,87,Diamondbacks,Brewers
+2014,87,Phillies,Padres
+2014,87,Astros,Mets
+2014,87,Royals,Red Sox
+2014,87,Dodgers,Cubs
+2014,87,Reds,Cardinals
+2014,87,White Sox,Braves
+2014,87,Orioles,Marlins
+2014,87,Mariners,Twins
+2014,87,Tigers,Giants
+2014,87,Nationals,Athletics
+2014,87,Angels,Yankees
+2014,87,Rays,Rockies
+2014,87,Pirates,Rangers
+2014,87,Indians,Blue Jays
+2014,88,Reds,Twins
+2014,88,Blue Jays,Astros
+2014,88,Marlins,Athletics
+2014,88,Mets,Nationals
+2014,88,Pirates,Padres
+2014,88,Orioles,Brewers
+2014,88,White Sox,Rockies
+2014,88,Red Sox,Mariners
+2014,88,Phillies,Cardinals
+2014,88,Angels,Cubs
+2014,88,Rangers,Royals
+2014,88,Rays,Indians
+2014,88,Yankees,Dodgers
+2014,88,Giants,Diamondbacks
+2014,88,Braves,Tigers
+2014,89,Red Sox,Dodgers
+2014,89,Reds,White Sox
+2014,89,Orioles,Mariners
+2014,89,Yankees,Royals
+2014,89,Rays,Twins
+2014,89,Diamondbacks,Cubs
+2014,89,Braves,Pirates
+2014,89,Marlins,Tigers
+2014,89,Angels,Athletics
+2014,89,Indians,Mets
+2014,89,Phillies,Brewers
+2014,89,Padres,Cardinals
+2014,89,Giants,Blue Jays
+2014,89,Rangers,Rockies
+2014,89,Astros,Nationals
+2014,90,Athletics,Angels
+2014,90,Indians,Diamondbacks
+2014,90,Rays,White Sox
+2014,90,Orioles,Astros
+2014,90,Braves,Royals
+2014,90,Padres,Mets
+2014,90,Twins,Dodgers
+2014,90,Reds,Mariners
+2014,90,Tigers,Phillies
+2014,90,Red Sox,Rangers
+2014,90,Nationals,Brewers
+2014,90,Blue Jays,Cardinals
+2014,90,Giants,Rockies
+2014,90,Pirates,Yankees
+2014,90,Cubs,Marlins
+2014,91,Tigers,Nationals
+2014,91,Blue Jays,Twins
+2014,91,Indians,Phillies
+2014,91,Rangers,Braves
+2014,91,Astros,Pirates
+2014,91,Athletics,Mariners
+2014,91,Reds,Brewers
+2014,91,Yankees,Marlins
+2014,91,Angels,Rays
+2014,91,Red Sox,Padres
+2014,91,Cubs,Mets
+2014,91,Orioles,Diamondbacks
+2014,91,Dodgers,Rockies
+2014,91,Giants,Royals
+2014,91,Cardinals,White Sox
+2014,92,Royals,Twins
+2014,92,Reds,Rockies
+2014,92,Rays,Yankees
+2014,92,Angels,Indians
+2014,92,Padres,Phillies
+2014,92,Tigers,Athletics
+2014,92,Diamondbacks,Red Sox
+2014,92,Nationals,Orioles
+2014,92,Pirates,Rangers
+2014,92,Astros,Giants
+2014,92,Marlins,Brewers
+2014,92,Cubs,Cardinals
+2014,92,Mariners,Blue Jays
+2014,92,White Sox,Dodgers
+2014,92,Braves,Mets
+2014,93,Pirates,Rockies
+2014,93,Cubs,Cardinals
+2014,93,Royals,Rangers
+2014,93,Giants,Angels
+2014,93,Athletics,Yankees
+2014,93,Mets,Red Sox
+2014,93,Indians,Marlins
+2014,93,Diamondbacks,Orioles
+2014,93,Blue Jays,Padres
+2014,93,White Sox,Astros
+2014,93,Reds,Braves
+2014,93,Mariners,Nationals
+2014,93,Dodgers,Tigers
+2014,93,Brewers,Phillies
+2014,93,Twins,Rays
+2014,94,Phillies,Rockies
+2014,94,Red Sox,Twins
+2014,94,Rays,Athletics
+2014,94,Nationals,Marlins
+2014,94,Blue Jays,Angels
+2014,94,Indians,Braves
+2014,94,Diamondbacks,Royals
+2014,94,Reds,Mets
+2014,94,Giants,Tigers
+2014,94,Pirates,Rangers
+2014,94,Yankees,Mariners
+2014,94,Cubs,Padres
+2014,94,White Sox,Brewers
+2014,94,Cardinals,Dodgers
+2014,94,Astros,Orioles
+2014,95,Marlins,Mariners
+2014,95,Blue Jays,Tigers
+2014,95,Indians,Phillies
+2014,95,Cubs,Brewers
+2014,95,Diamondbacks,Cardinals
+2014,95,Reds,Twins
+2014,95,Astros,Red Sox
+2014,95,White Sox,Giants
+2014,95,Dodgers,Athletics
+2014,95,Padres,Rockies
+2014,95,Rays,Angels
+2014,95,Royals,Braves
+2014,95,Mets,Orioles
+2014,95,Pirates,Nationals
+2014,95,Rangers,Yankees
+2014,96,Giants,Marlins
+2014,96,Pirates,Rangers
+2014,96,Athletics,Twins
+2014,96,Blue Jays,Dodgers
+2014,96,Rays,Reds
+2014,96,Orioles,Indians
+2014,96,Astros,Royals
+2014,96,Red Sox,Nationals
+2014,96,Yankees,Phillies
+2014,96,Diamondbacks,Brewers
+2014,96,Mariners,Tigers
+2014,96,White Sox,Angels
+2014,96,Mets,Braves
+2014,96,Cardinals,Padres
+2014,96,Rockies,Cubs
+2014,97,Indians,Blue Jays
+2014,97,White Sox,Marlins
+2014,97,Tigers,Yankees
+2014,97,Diamondbacks,Mariners
+2014,97,Reds,Twins
+2014,97,Padres,Giants
+2014,97,Angels,Rockies
+2014,97,Brewers,Cardinals
+2014,97,Braves,Astros
+2014,97,Athletics,Cubs
+2014,97,Phillies,Dodgers
+2014,97,Red Sox,Royals
+2014,97,Nationals,Orioles
+2014,97,Rays,Mets
+2014,97,Pirates,Rangers
+2014,98,Nationals,Indians
+2014,98,Blue Jays,Cardinals
+2014,98,Rangers,Tigers
+2014,98,Diamondbacks,Marlins
+2014,98,Giants,Astros
+2014,98,Rockies,Royals
+2014,98,Pirates,Dodgers
+2014,98,Mets,Athletics
+2014,98,Rays,White Sox
+2014,98,Red Sox,Orioles
+2014,98,Twins,Angels
+2014,98,Cubs,Padres
+2014,98,Yankees,Brewers
+2014,98,Mariners,Reds
+2014,98,Braves,Phillies
+2014,99,Twins,Cardinals
+2014,99,Dodgers,Mariners
+2014,99,Giants,Blue Jays
+2014,99,White Sox,Braves
+2014,99,Astros,Red Sox
+2014,99,Marlins,Indians
+2014,99,Nationals,Pirates
+2014,99,Rockies,Athletics
+2014,99,Orioles,Cubs
+2014,99,Padres,Royals
+2014,99,Reds,Mets
+2014,99,Brewers,Phillies
+2014,99,Rangers,Yankees
+2014,99,Rays,Angels
+2014,99,Diamondbacks,Tigers
+2014,100,Tigers,Yankees
+2014,100,Dodgers,Pirates
+2014,100,Rangers,Angels
+2014,100,Astros,Red Sox
+2014,100,Rockies,Blue Jays
+2014,100,Diamondbacks,Royals
+2014,100,Twins,Padres
+2014,100,Cubs,Mariners
+2014,100,Giants,Braves
+2014,100,Phillies,Athletics
+2014,100,Rays,Nationals
+2014,100,Indians,Orioles
+2014,100,White Sox,Brewers
+2014,100,Cardinals,Mets
+2014,100,Marlins,Reds
+2014,101,Rangers,Cardinals
+2014,101,Red Sox,Cubs
+2014,101,Blue Jays,Nationals
+2014,101,Tigers,Astros
+2014,101,Indians,Pirates
+2014,101,Yankees,Mariners
+2014,101,Royals,Orioles
+2014,101,Diamondbacks,Twins
+2014,101,Dodgers,White Sox
+2014,101,Marlins,Athletics
+2014,101,Phillies,Brewers
+2014,101,Padres,Angels
+2014,101,Braves,Reds
+2014,101,Rays,Giants
+2014,101,Rockies,Mets
+2014,102,Mariners,Dodgers
+2014,102,Twins,Giants
+2014,102,Rangers,Indians
+2014,102,Diamondbacks,Red Sox
+2014,102,Cubs,Rays
+2014,102,Phillies,Astros
+2014,102,Angels,Royals
+2014,102,Marlins,Mets
+2014,102,White Sox,Padres
+2014,102,Athletics,Nationals
+2014,102,Blue Jays,Braves
+2014,102,Yankees,Orioles
+2014,102,Rockies,Tigers
+2014,102,Brewers,Reds
+2014,102,Pirates,Cardinals
+2014,103,Rockies,Rays
+2014,103,Phillies,White Sox
+2014,103,Twins,Dodgers
+2014,103,Angels,Indians
+2014,103,Astros,Athletics
+2014,103,Giants,Royals
+2014,103,Blue Jays,Yankees
+2014,103,Rangers,Orioles
+2014,103,Mariners,Braves
+2014,103,Padres,Cubs
+2014,103,Marlins,Mets
+2014,103,Diamondbacks,Red Sox
+2014,103,Nationals,Reds
+2014,103,Pirates,Brewers
+2014,103,Tigers,Cardinals
+2014,104,Brewers,Royals
+2014,104,Blue Jays,Twins
+2014,104,Reds,Yankees
+2014,104,Padres,Rangers
+2014,104,Diamondbacks,Astros
+2014,104,Giants,Nationals
+2014,104,Orioles,Mets
+2014,104,Red Sox,Tigers
+2014,104,Cardinals,Angels
+2014,104,Indians,Athletics
+2014,104,Braves,Cubs
+2014,104,Rays,Pirates
+2014,104,Rockies,Phillies
+2014,104,White Sox,Mariners
+2014,104,Dodgers,Marlins
+2014,105,White Sox,Angels
+2014,105,Diamondbacks,Red Sox
+2014,105,Dodgers,Marlins
+2014,105,Orioles,Rangers
+2014,105,Mets,Rockies
+2014,105,Tigers,Mariners
+2014,105,Athletics,Cardinals
+2014,105,Royals,Rays
+2014,105,Brewers,Yankees
+2014,105,Padres,Twins
+2014,105,Astros,Indians
+2014,105,Cubs,Phillies
+2014,105,Giants,Braves
+2014,105,Nationals,Pirates
+2014,105,Reds,Blue Jays
+2014,106,Phillies,Twins
+2014,106,Blue Jays,Pirates
+2014,106,Red Sox,Marlins
+2014,106,Cubs,Brewers
+2014,106,Braves,Mariners
+2014,106,Orioles,Cardinals
+2014,106,Rays,Mets
+2014,106,Padres,Tigers
+2014,106,Diamondbacks,Astros
+2014,106,Nationals,Athletics
+2014,106,Royals,Rockies
+2014,106,Rangers,Yankees
+2014,106,Indians,White Sox
+2014,106,Reds,Angels
+2014,106,Giants,Dodgers
+2014,107,Braves,Royals
+2014,107,Marlins,Orioles
+2014,107,Indians,Cubs
+2014,107,Cardinals,Phillies
+2014,107,Reds,Nationals
+2014,107,Astros,Rockies
+2014,107,Padres,Blue Jays
+2014,107,Mariners,Tigers
+2014,107,Brewers,Giants
+2014,107,Diamondbacks,Yankees
+2014,107,Red Sox,Dodgers
+2014,107,White Sox,Twins
+2014,107,Pirates,Athletics
+2014,107,Mets,Rays
+2014,107,Angels,Rangers
+2014,108,Angels,Astros
+2014,108,Yankees,Mets
+2014,108,Braves,Pirates
+2014,108,Orioles,Marlins
+2014,108,Brewers,Nationals
+2014,108,Phillies,Rays
+2014,108,Rockies,Padres
+2014,108,Red Sox,Rangers
+2014,108,Diamondbacks,Cardinals
+2014,108,Dodgers,Blue Jays
+2014,108,Twins,Athletics
+2014,108,Giants,Reds
+2014,108,Cubs,Royals
+2014,108,Tigers,Mariners
+2014,108,White Sox,Indians
+2014,109,Orioles,Athletics
+2014,109,Brewers,Indians
+2014,109,Padres,Cardinals
+2014,109,Giants,Diamondbacks
+2014,109,Dodgers,Mariners
+2014,109,Nationals,Phillies
+2014,109,Pirates,Yankees
+2014,109,Rays,Cubs
+2014,109,Royals,Rangers
+2014,109,Reds,Rockies
+2014,109,Angels,Twins
+2014,109,Braves,Tigers
+2014,109,White Sox,Astros
+2014,109,Marlins,Mets
+2014,109,Red Sox,Blue Jays
+2014,110,Blue Jays,Indians
+2014,110,Royals,Yankees
+2014,110,Padres,Phillies
+2014,110,Giants,Diamondbacks
+2014,110,Rays,Braves
+2014,110,Mets,Marlins
+2014,110,White Sox,Tigers
+2014,110,Cardinals,Orioles
+2014,110,Reds,Angels
+2014,110,Pirates,Dodgers
+2014,110,Rangers,Twins
+2014,110,Nationals,Mariners
+2014,110,Cubs,Rockies
+2014,110,Brewers,Astros
+2014,110,Athletics,Red Sox
+2014,111,Rangers,Rockies
+2014,111,Padres,Phillies
+2014,111,Cubs,Nationals
+2014,111,Rays,Diamondbacks
+2014,111,Braves,Cardinals
+2014,111,Giants,Astros
+2014,111,Pirates,Royals
+2014,111,Dodgers,Blue Jays
+2014,111,Red Sox,White Sox
+2014,111,Orioles,Twins
+2014,111,Mariners,Marlins
+2014,111,Indians,Tigers
+2014,111,Reds,Angels
+2014,111,Brewers,Mets
+2014,111,Athletics,Yankees
+2014,112,Padres,Rockies
+2014,112,Athletics,Indians
+2014,112,Phillies,Nationals
+2014,112,White Sox,Rangers
+2014,112,Royals,Astros
+2014,112,Braves,Tigers
+2014,112,Rays,Pirates
+2014,112,Diamondbacks,Dodgers
+2014,112,Marlins,Cubs
+2014,112,Blue Jays,Mets
+2014,112,Orioles,Brewers
+2014,112,Twins,Yankees
+2014,112,Mariners,Giants
+2014,112,Red Sox,Angels
+2014,112,Cardinals,Reds
+2014,113,Rangers,Mets
+2014,113,Red Sox,Dodgers
+2014,113,Nationals,Twins
+2014,113,Royals,Astros
+2014,113,Diamondbacks,Brewers
+2014,113,Pirates,Indians
+2014,113,Giants,White Sox
+2014,113,Reds,Braves
+2014,113,Yankees,Padres
+2014,113,Tigers,Rockies
+2014,113,Marlins,Phillies
+2014,113,Rays,Angels
+2014,113,Blue Jays,Cubs
+2014,113,Mariners,Cardinals
+2014,113,Athletics,Orioles
+2014,114,Rockies,Diamondbacks
+2014,114,Red Sox,Twins
+2014,114,Yankees,Indians
+2014,114,Royals,Tigers
+2014,114,Astros,Cardinals
+2014,114,Cubs,Marlins
+2014,114,Pirates,Padres
+2014,114,Dodgers,Brewers
+2014,114,White Sox,Giants
+2014,114,Nationals,Phillies
+2014,114,Athletics,Mariners
+2014,114,Rangers,Rays
+2014,114,Mets,Angels
+2014,114,Blue Jays,Braves
+2014,114,Orioles,Reds
+2014,115,Brewers,Angels
+2014,115,Rangers,Braves
+2014,115,Indians,Cardinals
+2014,115,Rays,Mets
+2014,115,Blue Jays,Orioles
+2014,115,Phillies,Nationals
+2014,115,Padres,Royals
+2014,115,Rockies,Astros
+2014,115,Reds,Cubs
+2014,115,Mariners,Diamondbacks
+2014,115,White Sox,Athletics
+2014,115,Giants,Twins
+2014,115,Dodgers,Pirates
+2014,115,Yankees,Red Sox
+2014,115,Tigers,Marlins
+2014,116,Red Sox,Rockies
+2014,116,Brewers,Mariners
+2014,116,Blue Jays,Pirates
+2014,116,Diamondbacks,Rangers
+2014,116,Indians,Yankees
+2014,116,Reds,Royals
+2014,116,Tigers,Mets
+2014,116,Twins,Nationals
+2014,116,Dodgers,Angels
+2014,116,Marlins,Giants
+2014,116,Braves,Athletics
+2014,116,Cubs,Rays
+2014,116,Orioles,Cardinals
+2014,116,Phillies,Padres
+2014,116,Astros,White Sox
+2014,117,Astros,Cardinals
+2014,117,Angels,Indians
+2014,117,Dodgers,Cubs
+2014,117,Orioles,Tigers
+2014,117,Giants,Braves
+2014,117,Yankees,Rays
+2014,117,Mets,White Sox
+2014,117,Athletics,Rangers
+2014,117,Mariners,Phillies
+2014,117,Nationals,Diamondbacks
+2014,117,Reds,Rockies
+2014,117,Royals,Padres
+2014,117,Red Sox,Brewers
+2014,117,Twins,Marlins
+2014,117,Pirates,Blue Jays
+2014,118,Phillies,Angels
+2014,118,Brewers,Cardinals
+2014,118,Cubs,Twins
+2014,118,Orioles,Giants
+2014,118,Padres,Indians
+2014,118,Blue Jays,Rays
+2014,118,Dodgers,Nationals
+2014,118,Mets,Red Sox
+2014,118,Marlins,Mariners
+2014,118,Rangers,Reds
+2014,118,Rockies,Athletics
+2014,118,Yankees,Pirates
+2014,118,Astros,Braves
+2014,118,Tigers,White Sox
+2014,118,Royals,Diamondbacks
+2014,119,Twins,White Sox
+2014,119,Astros,Rays
+2014,119,Yankees,Rangers
+2014,119,Athletics,Tigers
+2014,119,Padres,Angels
+2014,119,Cardinals,Red Sox
+2014,119,Blue Jays,Marlins
+2014,119,Reds,Brewers
+2014,119,Royals,Mariners
+2014,119,Giants,Diamondbacks
+2014,119,Dodgers,Rockies
+2014,119,Cubs,Orioles
+2014,119,Indians,Braves
+2014,119,Pirates,Phillies
+2014,119,Mets,Nationals
+2014,120,Red Sox,Cardinals
+2014,120,Reds,Marlins
+2014,120,Rockies,Mets
+2014,120,Twins,Mariners
+2014,120,Tigers,Diamondbacks
+2014,120,Pirates,Athletics
+2014,120,Braves,Padres
+2014,120,Dodgers,Angels
+2014,120,Indians,Royals
+2014,120,Rangers,Phillies
+2014,120,Blue Jays,Nationals
+2014,120,Yankees,Cubs
+2014,120,Rays,White Sox
+2014,120,Orioles,Giants
+2014,120,Astros,Brewers
+2014,121,Twins,Nationals
+2014,121,Mets,Braves
+2014,121,Rays,Astros
+2014,121,Pirates,Cardinals
+2014,121,Rangers,Mariners
+2014,121,Athletics,Brewers
+2014,121,Angels,Indians
+2014,121,Tigers,Blue Jays
+2014,121,Reds,Royals
+2014,121,Rockies,Phillies
+2014,121,Dodgers,Marlins
+2014,121,Padres,Giants
+2014,121,Cubs,Orioles
+2014,121,Diamondbacks,White Sox
+2014,121,Yankees,Red Sox
+2014,122,Brewers,Indians
+2014,122,Giants,Mariners
+2014,122,Angels,Braves
+2014,122,Athletics,Orioles
+2014,122,Rays,Blue Jays
+2014,122,Rockies,Nationals
+2014,122,Pirates,Astros
+2014,122,Dodgers,Tigers
+2014,122,Reds,Rangers
+2014,122,White Sox,Twins
+2014,122,Marlins,Cubs
+2014,122,Phillies,Red Sox
+2014,122,Yankees,Mets
+2014,122,Padres,Diamondbacks
+2014,122,Cardinals,Royals
+2014,123,Marlins,Athletics
+2014,123,Diamondbacks,Indians
+2014,123,Red Sox,Mariners
+2014,123,Rockies,Mets
+2014,123,Royals,Padres
+2014,123,Twins,Braves
+2014,123,Angels,Tigers
+2014,123,Pirates,Giants
+2014,123,Orioles,Rangers
+2014,123,Reds,Rays
+2014,123,Yankees,Cardinals
+2014,123,Blue Jays,Phillies
+2014,123,Brewers,Nationals
+2014,123,Cubs,Dodgers
+2014,123,Astros,White Sox
+2014,124,Blue Jays,Nationals
+2014,124,Cardinals,Phillies
+2014,124,Mets,Cubs
+2014,124,Rockies,Athletics
+2014,124,Brewers,Tigers
+2014,124,Angels,Marlins
+2014,124,Dodgers,Rangers
+2014,124,Twins,Red Sox
+2014,124,Orioles,Reds
+2014,124,Astros,White Sox
+2014,124,Braves,Mariners
+2014,124,Rays,Padres
+2014,124,Royals,Diamondbacks
+2014,124,Giants,Pirates
+2014,124,Indians,Yankees
+2014,125,Orioles,Cubs
+2014,125,Diamondbacks,Brewers
+2014,125,Tigers,Mets
+2014,125,Yankees,Nationals
+2014,125,Rays,Blue Jays
+2014,125,Giants,Padres
+2014,125,Angels,Braves
+2014,125,Marlins,Pirates
+2014,125,Mariners,Twins
+2014,125,Reds,Astros
+2014,125,Dodgers,Rockies
+2014,125,Rangers,Cardinals
+2014,125,White Sox,Athletics
+2014,125,Phillies,Royals
+2014,125,Indians,Red Sox
+2014,126,Orioles,Twins
+2014,126,Angels,Mets
+2014,126,Brewers,Rays
+2014,126,Tigers,Cubs
+2014,126,Diamondbacks,Nationals
+2014,126,Phillies,Astros
+2014,126,Rockies,Padres
+2014,126,Marlins,Yankees
+2014,126,Cardinals,Pirates
+2014,126,Mariners,Athletics
+2014,126,Royals,Reds
+2014,126,White Sox,Indians
+2014,126,Dodgers,Braves
+2014,126,Rangers,Giants
+2014,126,Red Sox,Blue Jays
+2014,127,Blue Jays,Athletics
+2014,127,Marlins,Mariners
+2014,127,Giants,Red Sox
+2014,127,Cubs,Nationals
+2014,127,White Sox,Orioles
+2014,127,Twins,Rangers
+2014,127,Rays,Diamondbacks
+2014,127,Angels,Pirates
+2014,127,Yankees,Reds
+2014,127,Rockies,Cardinals
+2014,127,Mets,Tigers
+2014,127,Phillies,Brewers
+2014,127,Padres,Astros
+2014,127,Indians,Royals
+2014,127,Dodgers,Braves
+2014,128,Blue Jays,Angels
+2014,128,Athletics,Royals
+2014,128,Nationals,Padres
+2014,128,Reds,Mets
+2014,128,Pirates,Mariners
+2014,128,Twins,Cubs
+2014,128,Marlins,Giants
+2014,128,Phillies,Braves
+2014,128,Rangers,Orioles
+2014,128,Cardinals,Dodgers
+2014,128,Diamondbacks,Rockies
+2014,128,Astros,Indians
+2014,128,Red Sox,Brewers
+2014,128,Tigers,Yankees
+2014,128,White Sox,Rays
+2014,129,Tigers,Dodgers
+2014,129,Blue Jays,Mets
+2014,129,Twins,Pirates
+2014,129,Rays,Cubs
+2014,129,Reds,Marlins
+2014,129,Astros,Nationals
+2014,129,Orioles,Cardinals
+2014,129,White Sox,Angels
+2014,129,Phillies,Red Sox
+2014,129,Diamondbacks,Giants
+2014,129,Yankees,Brewers
+2014,129,Padres,Indians
+2014,129,Rangers,Rockies
+2014,129,Braves,Athletics
+2014,129,Mariners,Royals
+2014,130,Rays,Cardinals
+2014,130,Braves,Reds
+2014,130,Tigers,Dodgers
+2014,130,Diamondbacks,White Sox
+2014,130,Brewers,Blue Jays
+2014,130,Royals,Athletics
+2014,130,Rangers,Phillies
+2014,130,Twins,Astros
+2014,130,Rockies,Angels
+2014,130,Orioles,Indians
+2014,130,Marlins,Padres
+2014,130,Nationals,Red Sox
+2014,130,Cubs,Pirates
+2014,130,Yankees,Mariners
+2014,130,Mets,Giants
+2014,131,Athletics,Mariners
+2014,131,Indians,Rangers
+2014,131,Pirates,Tigers
+2014,131,Mets,Padres
+2014,131,Dodgers,Rays
+2014,131,Angels,White Sox
+2014,131,Twins,Giants
+2014,131,Phillies,Rockies
+2014,131,Orioles,Blue Jays
+2014,131,Royals,Cubs
+2014,131,Brewers,Nationals
+2014,131,Braves,Red Sox
+2014,131,Diamondbacks,Reds
+2014,131,Cardinals,Marlins
+2014,131,Astros,Yankees
+2014,132,Mariners,Royals
+2014,132,Indians,Rockies
+2014,132,White Sox,Mets
+2014,132,Athletics,Brewers
+2014,132,Twins,Yankees
+2014,132,Tigers,Dodgers
+2014,132,Blue Jays,Rangers
+2014,132,Reds,Padres
+2014,132,Rays,Giants
+2014,132,Astros,Nationals
+2014,132,Braves,Angels
+2014,132,Pirates,Cardinals
+2014,132,Orioles,Phillies
+2014,132,Red Sox,Diamondbacks
+2014,132,Cubs,Marlins
+2014,133,Orioles,Athletics
+2014,133,Padres,Dodgers
+2014,133,Rangers,Yankees
+2014,133,Cardinals,Blue Jays
+2014,133,Mets,Braves
+2014,133,Indians,Twins
+2014,133,Giants,Reds
+2014,133,Cubs,Red Sox
+2014,133,Rockies,Brewers
+2014,133,Marlins,Astros
+2014,133,Nationals,Diamondbacks
+2014,133,Phillies,White Sox
+2014,133,Angels,Pirates
+2014,133,Mariners,Rays
+2014,133,Royals,Tigers
+2014,134,Athletics,White Sox
+2014,134,Padres,Cardinals
+2014,134,Astros,Royals
+2014,134,Phillies,Indians
+2014,134,Cubs,Yankees
+2014,134,Tigers,Nationals
+2014,134,Rays,Angels
+2014,134,Blue Jays,Braves
+2014,134,Giants,Rockies
+2014,134,Rangers,Red Sox
+2014,134,Twins,Reds
+2014,134,Pirates,Diamondbacks
+2014,134,Mariners,Dodgers
+2014,134,Orioles,Brewers
+2014,134,Mets,Marlins
+2014,135,Angels,Dodgers
+2014,135,Braves,Brewers
+2014,135,Giants,Reds
+2014,135,Rockies,Rays
+2014,135,Twins,Indians
+2014,135,Royals,Cardinals
+2014,135,Yankees,Athletics
+2014,135,Astros,Rangers
+2014,135,Padres,Mariners
+2014,135,Mets,White Sox
+2014,135,Blue Jays,Diamondbacks
+2014,135,Phillies,Red Sox
+2014,135,Pirates,Tigers
+2014,135,Marlins,Nationals
+2014,135,Orioles,Cubs
+2014,136,Mariners,Phillies
+2014,136,Braves,Brewers
+2014,136,Pirates,Royals
+2014,136,Angels,Orioles
+2014,136,Nationals,Mets
+2014,136,Yankees,Reds
+2014,136,Tigers,Dodgers
+2014,136,Cubs,Rangers
+2014,136,Rays,Astros
+2014,136,Rockies,Indians
+2014,136,Marlins,Red Sox
+2014,136,White Sox,Giants
+2014,136,Athletics,Padres
+2014,136,Diamondbacks,Twins
+2014,136,Cardinals,Blue Jays
+2014,137,Reds,Royals
+2014,137,Cubs,Blue Jays
+2014,137,Phillies,Mets
+2014,137,Astros,Padres
+2014,137,Giants,Angels
+2014,137,White Sox,Rangers
+2014,137,Twins,Braves
+2014,137,Rockies,Pirates
+2014,137,Yankees,Indians
+2014,137,Athletics,Marlins
+2014,137,Red Sox,Dodgers
+2014,137,Cardinals,Mariners
+2014,137,Orioles,Nationals
+2014,137,Rays,Diamondbacks
+2014,137,Brewers,Tigers
+2014,138,Red Sox,Astros
+2014,138,Indians,Rays
+2014,138,Pirates,Mariners
+2014,138,Reds,Royals
+2014,138,Rangers,Blue Jays
+2014,138,Tigers,Diamondbacks
+2014,138,Dodgers,White Sox
+2014,138,Athletics,Cubs
+2014,138,Nationals,Brewers
+2014,138,Cardinals,Yankees
+2014,138,Braves,Mets
+2014,138,Angels,Orioles
+2014,138,Marlins,Giants
+2014,138,Padres,Phillies
+2014,138,Rockies,Twins
+2014,139,Royals,Red Sox
+2014,139,Giants,Twins
+2014,139,Dodgers,Astros
+2014,139,Rockies,White Sox
+2014,139,Athletics,Pirates
+2014,139,Brewers,Padres
+2014,139,Indians,Braves
+2014,139,Mets,Marlins
+2014,139,Yankees,Nationals
+2014,139,Cardinals,Angels
+2014,139,Cubs,Diamondbacks
+2014,139,Rays,Rangers
+2014,139,Reds,Orioles
+2014,139,Tigers,Mariners
+2014,139,Phillies,Blue Jays
+2014,140,Rays,White Sox
+2014,140,Padres,Mets
+2014,140,Blue Jays,Mariners
+2014,140,Braves,Cubs
+2014,140,Angels,Twins
+2014,140,Dodgers,Indians
+2014,140,Pirates,Nationals
+2014,140,Athletics,Yankees
+2014,140,Rockies,Astros
+2014,140,Rangers,Tigers
+2014,140,Reds,Orioles
+2014,140,Giants,Cardinals
+2014,140,Royals,Red Sox
+2014,140,Brewers,Diamondbacks
+2014,140,Marlins,Phillies
+2014,141,Royals,Pirates
+2014,141,Phillies,Dodgers
+2014,141,Diamondbacks,Tigers
+2014,141,White Sox,Padres
+2014,141,Red Sox,Angels
+2014,141,Cubs,Rockies
+2014,141,Yankees,Braves
+2014,141,Nationals,Giants
+2014,141,Marlins,Mets
+2014,141,Reds,Brewers
+2014,141,Orioles,Blue Jays
+2014,141,Twins,Astros
+2014,141,Rangers,Indians
+2014,141,Mariners,Cardinals
+2014,141,Athletics,Rays
+2014,142,Braves,Mets
+2014,142,Astros,Nationals
+2014,142,Dodgers,Blue Jays
+2014,142,White Sox,Red Sox
+2014,142,Padres,Rays
+2014,142,Reds,Angels
+2014,142,Rangers,Cubs
+2014,142,Diamondbacks,Cardinals
+2014,142,Rockies,Indians
+2014,142,Mariners,Yankees
+2014,142,Pirates,Brewers
+2014,142,Twins,Royals
+2014,142,Orioles,Athletics
+2014,142,Marlins,Phillies
+2014,142,Tigers,Giants
+2014,143,Giants,Angels
+2014,143,Padres,Marlins
+2014,143,Rangers,Mets
+2014,143,Cubs,Rays
+2014,143,Mariners,Diamondbacks
+2014,143,Tigers,Pirates
+2014,143,Reds,Blue Jays
+2014,143,Astros,Twins
+2014,143,Braves,White Sox
+2014,143,Nationals,Phillies
+2014,143,Indians,Brewers
+2014,143,Royals,Orioles
+2014,143,Athletics,Yankees
+2014,143,Dodgers,Red Sox
+2014,143,Rockies,Cardinals
+2014,144,Cubs,Nationals
+2014,144,Padres,Twins
+2014,144,Phillies,Rangers
+2014,144,Athletics,Mets
+2014,144,Astros,Angels
+2014,144,Red Sox,Giants
+2014,144,Pirates,White Sox
+2014,144,Rays,Braves
+2014,144,Royals,Marlins
+2014,144,Cardinals,Tigers
+2014,144,Reds,Mariners
+2014,144,Rockies,Orioles
+2014,144,Brewers,Yankees
+2014,144,Diamondbacks,Indians
+2014,144,Blue Jays,Dodgers
+2014,145,Reds,Braves
+2014,145,Dodgers,Cardinals
+2014,145,Pirates,Padres
+2014,145,Astros,Athletics
+2014,145,Red Sox,Marlins
+2014,145,Diamondbacks,Blue Jays
+2014,145,Rays,Brewers
+2014,145,Giants,Royals
+2014,145,Yankees,Rockies
+2014,145,Indians,Cubs
+2014,145,Tigers,Angels
+2014,145,Phillies,Twins
+2014,145,Mariners,Mets
+2014,145,Orioles,White Sox
+2014,145,Nationals,Rangers
+2014,146,Phillies,Braves
+2014,146,Diamondbacks,Rangers
+2014,146,Rays,Giants
+2014,146,Cardinals,Reds
+2014,146,Indians,Twins
+2014,146,Angels,Athletics
+2014,146,Royals,Red Sox
+2014,146,Blue Jays,Nationals
+2014,146,Tigers,Brewers
+2014,146,Pirates,Marlins
+2014,146,Mariners,Astros
+2014,146,Rockies,Yankees
+2014,146,Cubs,Padres
+2014,146,Mets,Dodgers
+2014,146,Orioles,White Sox
+2014,147,Giants,Cardinals
+2014,147,Braves,Pirates
+2014,147,Brewers,Indians
+2014,147,Cubs,Padres
+2014,147,Rangers,Phillies
+2014,147,Athletics,Royals
+2014,147,Rockies,Dodgers
+2014,147,Yankees,Astros
+2014,147,Mets,Nationals
+2014,147,White Sox,Orioles
+2014,147,Mariners,Blue Jays
+2014,147,Diamondbacks,Red Sox
+2014,147,Angels,Marlins
+2014,147,Rays,Reds
+2014,147,Tigers,Twins
+2014,148,Royals,Red Sox
+2014,148,Cubs,Blue Jays
+2014,148,Rockies,Marlins
+2014,148,Twins,Cardinals
+2014,148,Giants,Rangers
+2014,148,Rays,Phillies
+2014,148,Dodgers,Diamondbacks
+2014,148,Mets,Athletics
+2014,148,Orioles,Reds
+2014,148,Yankees,Astros
+2014,148,Nationals,Padres
+2014,148,Indians,Angels
+2014,148,Tigers,White Sox
+2014,148,Pirates,Braves
+2014,148,Brewers,Mariners
+2014,149,Astros,Angels
+2014,149,Padres,Cubs
+2014,149,Brewers,Rangers
+2014,149,Reds,Orioles
+2014,149,Tigers,Giants
+2014,149,Mets,Indians
+2014,149,Athletics,Pirates
+2014,149,Mariners,Rays
+2014,149,White Sox,Cardinals
+2014,149,Blue Jays,Dodgers
+2014,149,Red Sox,Royals
+2014,149,Diamondbacks,Phillies
+2014,149,Twins,Nationals
+2014,149,Rockies,Braves
+2014,149,Yankees,Marlins
+2014,150,Mariners,Cardinals
+2014,150,Phillies,Rangers
+2014,150,Yankees,Astros
+2014,150,Royals,Dodgers
+2014,150,Rockies,Braves
+2014,150,Cubs,Angels
+2014,150,Padres,Rays
+2014,150,Blue Jays,Orioles
+2014,150,Mets,Red Sox
+2014,150,Marlins,Reds
+2014,150,Brewers,Indians
+2014,150,Diamondbacks,Pirates
+2014,150,Twins,White Sox
+2014,150,Tigers,Athletics
+2014,150,Giants,Nationals
+2014,151,Rangers,Tigers
+2014,151,Rockies,Mariners
+2014,151,Royals,White Sox
+2014,151,Rays,Dodgers
+2014,151,Giants,Cardinals
+2014,151,Red Sox,Pirates
+2014,151,Cubs,Twins
+2014,151,Mets,Braves
+2014,151,Diamondbacks,Yankees
+2014,151,Orioles,Indians
+2014,151,Reds,Athletics
+2014,151,Angels,Brewers
+2014,151,Astros,Nationals
+2014,151,Phillies,Padres
+2014,151,Blue Jays,Marlins
+2014,152,Royals,Cardinals
+2014,152,Rangers,Marlins
+2014,152,Diamondbacks,Rays
+2014,152,Red Sox,Padres
+2014,152,Dodgers,Pirates
+2014,152,Yankees,Twins
+2014,152,Brewers,Reds
+2014,152,Nationals,Braves
+2014,152,Tigers,Rockies
+2014,152,Astros,Blue Jays
+2014,152,Cubs,Phillies
+2014,152,Mets,Giants
+2014,152,Orioles,Athletics
+2014,152,Angels,Mariners
+2014,152,White Sox,Indians
+2014,153,Padres,Marlins
+2014,153,Braves,Indians
+2014,153,Twins,Dodgers
+2014,153,Orioles,Brewers
+2014,153,Phillies,Blue Jays
+2014,153,White Sox,Tigers
+2014,153,Giants,Angels
+2014,153,Royals,Yankees
+2014,153,Nationals,Cardinals
+2014,153,Mets,Red Sox
+2014,153,Astros,Reds
+2014,153,Mariners,Pirates
+2014,153,Rays,Cubs
+2014,153,Rangers,Diamondbacks
+2014,153,Rockies,Athletics
+2014,154,Brewers,Padres
+2014,154,Cubs,Blue Jays
+2014,154,Red Sox,Mets
+2014,154,Astros,Rays
+2014,154,Cardinals,Rangers
+2014,154,Royals,Tigers
+2014,154,Yankees,Marlins
+2014,154,Twins,Giants
+2014,154,Mariners,Dodgers
+2014,154,Indians,Pirates
+2014,154,Rockies,Orioles
+2014,154,Diamondbacks,Phillies
+2014,154,Reds,Angels
+2014,154,Braves,White Sox
+2014,154,Athletics,Nationals
+2014,155,Mets,Tigers
+2014,155,Indians,Red Sox
+2014,155,Giants,Yankees
+2014,155,Twins,Reds
+2014,155,Orioles,Marlins
+2014,155,Angels,Rockies
+2014,155,Mariners,Athletics
+2014,155,Brewers,Pirates
+2014,155,Rays,Phillies
+2014,155,Dodgers,Cardinals
+2014,155,Diamondbacks,Blue Jays
+2014,155,Rangers,White Sox
+2014,155,Padres,Royals
+2014,155,Astros,Braves
+2014,155,Nationals,Cubs
+2014,156,Cardinals,Rockies
+2014,156,Royals,Phillies
+2014,156,Red Sox,Giants
+2014,156,Dodgers,Diamondbacks
+2014,156,Mariners,Marlins
+2014,156,White Sox,Indians
+2014,156,Angels,Rangers
+2014,156,Rays,Nationals
+2014,156,Twins,Tigers
+2014,156,Yankees,Padres
+2014,156,Reds,Blue Jays
+2014,156,Cubs,Athletics
+2014,156,Brewers,Astros
+2014,156,Braves,Mets
+2014,156,Pirates,Orioles
+2014,157,Pirates,Phillies
+2014,157,Diamondbacks,Marlins
+2014,157,Reds,Orioles
+2014,157,Mariners,Yankees
+2014,157,Cardinals,Twins
+2014,157,Astros,Cubs
+2014,157,Dodgers,Padres
+2014,157,Nationals,Indians
+2014,157,Angels,Rockies
+2014,157,Braves,Rangers
+2014,157,Blue Jays,Giants
+2014,157,Brewers,Mets
+2014,157,Royals,Rays
+2014,157,Athletics,White Sox
+2014,157,Red Sox,Tigers
+2014,158,Rays,Padres
+2014,158,Giants,Cardinals
+2014,158,Rangers,Diamondbacks
+2014,158,Nationals,Angels
+2014,158,Braves,Red Sox
+2014,158,Yankees,Reds
+2014,158,Orioles,Blue Jays
+2014,158,Twins,Mets
+2014,158,Tigers,Astros
+2014,158,Indians,Rockies
+2014,158,Marlins,Athletics
+2014,158,Brewers,White Sox
+2014,158,Phillies,Cubs
+2014,158,Pirates,Mariners
+2014,158,Dodgers,Royals
+2014,159,Mariners,Nationals
+2014,159,Rockies,Orioles
+2014,159,Brewers,Pirates
+2014,159,Royals,Rangers
+2014,159,Cardinals,Marlins
+2014,159,Angels,Giants
+2014,159,White Sox,Indians
+2014,159,Padres,Phillies
+2014,159,Tigers,Dodgers
+2014,159,Red Sox,Braves
+2014,159,Mets,Rays
+2014,159,Yankees,Reds
+2014,159,Athletics,Cubs
+2014,159,Blue Jays,Twins
+2014,159,Astros,Diamondbacks
+2014,160,Orioles,Mets
+2014,160,Twins,Mariners
+2014,160,Rockies,White Sox
+2014,160,Astros,Cardinals
+2014,160,Tigers,Padres
+2014,160,Phillies,Nationals
+2014,160,Reds,Dodgers
+2014,160,Diamondbacks,Yankees
+2014,160,Red Sox,Athletics
+2014,160,Cubs,Rays
+2014,160,Indians,Braves
+2014,160,Pirates,Angels
+2014,160,Giants,Brewers
+2014,160,Blue Jays,Rangers
+2014,160,Marlins,Royals
+2014,161,White Sox,Giants
+2014,161,Blue Jays,Mets
+2014,161,Tigers,Braves
+2014,161,Twins,Brewers
+2014,161,Marlins,Dodgers
+2014,161,Diamondbacks,Phillies
+2014,161,Rays,Yankees
+2014,161,Pirates,Cardinals
+2014,161,Astros,Red Sox
+2014,161,Angels,Padres
+2014,161,Reds,Athletics
+2014,161,Indians,Rangers
+2014,161,Royals,Mariners
+2014,161,Rockies,Nationals
+2014,161,Orioles,Cubs
+2014,162,Blue Jays,Reds
+2014,162,Red Sox,Mariners
+2014,162,White Sox,Indians
+2014,162,Twins,Athletics
+2014,162,Giants,Rangers
+2014,162,Braves,Pirates
+2014,162,Nationals,Dodgers
+2014,162,Marlins,Cardinals
+2014,162,Brewers,Phillies
+2014,162,Mets,Tigers
+2014,162,Angels,Rockies
+2014,162,Rays,Cubs
+2014,162,Yankees,Diamondbacks
+2014,162,Orioles,Royals
+2014,162,Padres,Astros

@@ -1,0 +1,2431 @@
+Year,day,home_team_name,away_team_name
+2018,1,Twins,Giants
+2018,1,Marlins,Tigers
+2018,1,Reds,Cardinals
+2018,1,Yankees,Rays
+2018,1,Astros,Diamondbacks
+2018,1,Pirates,Padres
+2018,1,Rockies,Cubs
+2018,1,White Sox,Nationals
+2018,1,Rangers,Dodgers
+2018,1,Mets,Brewers
+2018,1,Braves,Phillies
+2018,1,Athletics,Orioles
+2018,1,Indians,Blue Jays
+2018,1,Red Sox,Mariners
+2018,1,Angels,Royals
+2018,2,Mariners,Phillies
+2018,2,Rangers,Orioles
+2018,2,White Sox,Astros
+2018,2,Indians,Royals
+2018,2,Angels,Marlins
+2018,2,Tigers,Mets
+2018,2,Reds,Yankees
+2018,2,Athletics,Diamondbacks
+2018,2,Nationals,Rays
+2018,2,Red Sox,Pirates
+2018,2,Braves,Brewers
+2018,2,Giants,Blue Jays
+2018,2,Dodgers,Padres
+2018,2,Twins,Cubs
+2018,2,Cardinals,Rockies
+2018,3,Indians,Orioles
+2018,3,Angels,Cardinals
+2018,3,Nationals,Cubs
+2018,3,Blue Jays,Rangers
+2018,3,Diamondbacks,Reds
+2018,3,White Sox,Royals
+2018,3,Pirates,Brewers
+2018,3,Mariners,Rays
+2018,3,Athletics,Dodgers
+2018,3,Astros,Red Sox
+2018,3,Mets,Giants
+2018,3,Marlins,Twins
+2018,3,Tigers,Phillies
+2018,3,Braves,Rockies
+2018,3,Yankees,Padres
+2018,4,Astros,Phillies
+2018,4,Padres,Braves
+2018,4,Brewers,Mariners
+2018,4,Yankees,White Sox
+2018,4,Mets,Indians
+2018,4,Athletics,Nationals
+2018,4,Rockies,Red Sox
+2018,4,Orioles,Angels
+2018,4,Diamondbacks,Pirates
+2018,4,Royals,Tigers
+2018,4,Marlins,Rangers
+2018,4,Reds,Dodgers
+2018,4,Cubs,Twins
+2018,4,Blue Jays,Cardinals
+2018,4,Giants,Rays
+2018,5,Royals,Braves
+2018,5,Diamondbacks,Dodgers
+2018,5,Angels,White Sox
+2018,5,Nationals,Yankees
+2018,5,Twins,Athletics
+2018,5,Mets,Mariners
+2018,5,Indians,Cardinals
+2018,5,Marlins,Cubs
+2018,5,Red Sox,Phillies
+2018,5,Reds,Pirates
+2018,5,Rockies,Rangers
+2018,5,Blue Jays,Astros
+2018,5,Tigers,Rays
+2018,5,Brewers,Orioles
+2018,5,Giants,Padres
+2018,6,Giants,Rockies
+2018,6,Brewers,Cardinals
+2018,6,Marlins,Yankees
+2018,6,Athletics,Astros
+2018,6,Phillies,Reds
+2018,6,Diamondbacks,Mets
+2018,6,Orioles,Indians
+2018,6,Pirates,Padres
+2018,6,White Sox,Rays
+2018,6,Dodgers,Braves
+2018,6,Twins,Rangers
+2018,6,Cubs,Tigers
+2018,6,Red Sox,Nationals
+2018,6,Angels,Royals
+2018,6,Blue Jays,Mariners
+2018,7,Reds,Cubs
+2018,7,Marlins,Rockies
+2018,7,Athletics,Blue Jays
+2018,7,Yankees,Brewers
+2018,7,Phillies,Rangers
+2018,7,Pirates,Indians
+2018,7,Padres,Orioles
+2018,7,Braves,White Sox
+2018,7,Astros,Mets
+2018,7,Royals,Mariners
+2018,7,Tigers,Giants
+2018,7,Diamondbacks,Cardinals
+2018,7,Red Sox,Angels
+2018,7,Rays,Dodgers
+2018,7,Nationals,Twins
+2018,8,Phillies,Athletics
+2018,8,Rangers,Marlins
+2018,8,Angels,Dodgers
+2018,8,Red Sox,Reds
+2018,8,Yankees,Astros
+2018,8,Cubs,Rays
+2018,8,Giants,Twins
+2018,8,Nationals,Brewers
+2018,8,Braves,Padres
+2018,8,Royals,Tigers
+2018,8,Mets,Cardinals
+2018,8,Mariners,Orioles
+2018,8,Pirates,Rockies
+2018,8,Indians,Blue Jays
+2018,8,Diamondbacks,White Sox
+2018,9,Red Sox,Angels
+2018,9,Rangers,Diamondbacks
+2018,9,Tigers,Braves
+2018,9,Nationals,Orioles
+2018,9,Pirates,Indians
+2018,9,White Sox,Padres
+2018,9,Athletics,Astros
+2018,9,Cardinals,Blue Jays
+2018,9,Dodgers,Yankees
+2018,9,Marlins,Cubs
+2018,9,Phillies,Brewers
+2018,9,Mariners,Rockies
+2018,9,Twins,Rays
+2018,9,Mets,Reds
+2018,9,Royals,Giants
+2018,10,Rangers,Braves
+2018,10,Reds,Tigers
+2018,10,Phillies,Astros
+2018,10,Marlins,Rays
+2018,10,Red Sox,Brewers
+2018,10,Dodgers,Angels
+2018,10,Cardinals,Rockies
+2018,10,White Sox,Yankees
+2018,10,Indians,Athletics
+2018,10,Giants,Pirates
+2018,10,Mets,Orioles
+2018,10,Blue Jays,Mariners
+2018,10,Padres,Cubs
+2018,10,Diamondbacks,Twins
+2018,10,Royals,Nationals
+2018,11,White Sox,Nationals
+2018,11,Athletics,Orioles
+2018,11,Royals,Rays
+2018,11,Twins,Yankees
+2018,11,Cubs,Braves
+2018,11,Astros,Mets
+2018,11,Red Sox,Tigers
+2018,11,Phillies,Marlins
+2018,11,Blue Jays,Rangers
+2018,11,Rockies,Dodgers
+2018,11,Giants,Angels
+2018,11,Mariners,Pirates
+2018,11,Diamondbacks,Indians
+2018,11,Padres,Brewers
+2018,11,Reds,Cardinals
+2018,12,Royals,Rockies
+2018,12,Angels,Marlins
+2018,12,Indians,Tigers
+2018,12,Orioles,Giants
+2018,12,Dodgers,Cubs
+2018,12,Padres,Cardinals
+2018,12,Athletics,Mariners
+2018,12,Braves,Reds
+2018,12,Blue Jays,Pirates
+2018,12,Brewers,Twins
+2018,12,Rays,Astros
+2018,12,Rangers,Diamondbacks
+2018,12,Yankees,Mets
+2018,12,Red Sox,White Sox
+2018,12,Phillies,Nationals
+2018,13,Orioles,Cardinals
+2018,13,Royals,Yankees
+2018,13,Padres,Phillies
+2018,13,Rockies,Marlins
+2018,13,Athletics,Brewers
+2018,13,Astros,Mariners
+2018,13,Reds,Diamondbacks
+2018,13,Pirates,Rays
+2018,13,Angels,Nationals
+2018,13,Rangers,Indians
+2018,13,Mets,White Sox
+2018,13,Cubs,Twins
+2018,13,Red Sox,Giants
+2018,13,Braves,Dodgers
+2018,13,Blue Jays,Tigers
+2018,14,Angels,Twins
+2018,14,Rockies,Diamondbacks
+2018,14,Astros,Yankees
+2018,14,Blue Jays,Mets
+2018,14,Marlins,Tigers
+2018,14,Pirates,Cubs
+2018,14,Orioles,Nationals
+2018,14,Dodgers,Red Sox
+2018,14,Royals,Phillies
+2018,14,Reds,Braves
+2018,14,Mariners,Giants
+2018,14,White Sox,Rangers
+2018,14,Cardinals,Athletics
+2018,14,Rays,Indians
+2018,14,Padres,Brewers
+2018,15,Phillies,Mets
+2018,15,Rays,Braves
+2018,15,Indians,Nationals
+2018,15,Cardinals,Twins
+2018,15,Dodgers,Orioles
+2018,15,Diamondbacks,White Sox
+2018,15,Red Sox,Rangers
+2018,15,Marlins,Royals
+2018,15,Mariners,Angels
+2018,15,Pirates,Blue Jays
+2018,15,Cubs,Reds
+2018,15,Rockies,Padres
+2018,15,Athletics,Yankees
+2018,15,Brewers,Astros
+2018,15,Giants,Tigers
+2018,16,Tigers,Astros
+2018,16,Phillies,Indians
+2018,16,Reds,Rockies
+2018,16,Dodgers,Brewers
+2018,16,Rangers,Pirates
+2018,16,Twins,Mets
+2018,16,Nationals,Cubs
+2018,16,Cardinals,White Sox
+2018,16,Yankees,Diamondbacks
+2018,16,Marlins,Athletics
+2018,16,Royals,Padres
+2018,16,Braves,Red Sox
+2018,16,Blue Jays,Rays
+2018,16,Angels,Giants
+2018,16,Orioles,Mariners
+2018,17,Rockies,Astros
+2018,17,Indians,Mariners
+2018,17,Reds,Blue Jays
+2018,17,Yankees,Giants
+2018,17,Cardinals,Cubs
+2018,17,Twins,Angels
+2018,17,White Sox,Padres
+2018,17,Marlins,Rays
+2018,17,Tigers,Pirates
+2018,17,Orioles,Phillies
+2018,17,Diamondbacks,Dodgers
+2018,17,Nationals,Royals
+2018,17,Red Sox,Athletics
+2018,17,Brewers,Rangers
+2018,17,Mets,Braves
+2018,18,Phillies,Pirates
+2018,18,Brewers,Mets
+2018,18,Giants,Red Sox
+2018,18,Athletics,Nationals
+2018,18,Astros,Cardinals
+2018,18,Twins,Diamondbacks
+2018,18,Indians,Reds
+2018,18,Rays,Marlins
+2018,18,White Sox,Rangers
+2018,18,Blue Jays,Dodgers
+2018,18,Padres,Orioles
+2018,18,Yankees,Braves
+2018,18,Mariners,Cubs
+2018,18,Angels,Tigers
+2018,18,Rockies,Royals
+2018,19,Tigers,Cardinals
+2018,19,White Sox,Blue Jays
+2018,19,Angels,Red Sox
+2018,19,Cubs,Astros
+2018,19,Athletics,Rays
+2018,19,Pirates,Brewers
+2018,19,Indians,Marlins
+2018,19,Nationals,Padres
+2018,19,Royals,Rockies
+2018,19,Mariners,Diamondbacks
+2018,19,Twins,Giants
+2018,19,Mets,Orioles
+2018,19,Yankees,Reds
+2018,19,Braves,Dodgers
+2018,19,Rangers,Phillies
+2018,20,Rockies,Indians
+2018,20,Giants,Pirates
+2018,20,Mets,Marlins
+2018,20,Rangers,Rays
+2018,20,Yankees,Diamondbacks
+2018,20,Twins,Nationals
+2018,20,Phillies,Padres
+2018,20,Athletics,Cubs
+2018,20,Angels,White Sox
+2018,20,Orioles,Brewers
+2018,20,Mariners,Cardinals
+2018,20,Astros,Reds
+2018,20,Tigers,Dodgers
+2018,20,Braves,Blue Jays
+2018,20,Red Sox,Royals
+2018,21,Angels,Dodgers
+2018,21,Cubs,Brewers
+2018,21,Rockies,White Sox
+2018,21,Rays,Yankees
+2018,21,Blue Jays,Padres
+2018,21,Tigers,Mariners
+2018,21,Cardinals,Twins
+2018,21,Phillies,Mets
+2018,21,Marlins,Pirates
+2018,21,Giants,Braves
+2018,21,Athletics,Royals
+2018,21,Nationals,Diamondbacks
+2018,21,Rangers,Orioles
+2018,21,Red Sox,Reds
+2018,21,Indians,Astros
+2018,22,Astros,Royals
+2018,22,Mets,Athletics
+2018,22,Red Sox,Indians
+2018,22,Rockies,Orioles
+2018,22,Reds,Blue Jays
+2018,22,Angels,Phillies
+2018,22,Tigers,Cubs
+2018,22,Dodgers,Diamondbacks
+2018,22,Braves,Marlins
+2018,22,Padres,Giants
+2018,22,Mariners,Rays
+2018,22,Twins,Rangers
+2018,22,Pirates,White Sox
+2018,22,Yankees,Nationals
+2018,22,Cardinals,Brewers
+2018,23,Orioles,Royals
+2018,23,Angels,Reds
+2018,23,Diamondbacks,Nationals
+2018,23,Cardinals,Mets
+2018,23,Brewers,Rockies
+2018,23,Twins,Rays
+2018,23,Athletics,Red Sox
+2018,23,Astros,Giants
+2018,23,Braves,White Sox
+2018,23,Blue Jays,Rangers
+2018,23,Cubs,Dodgers
+2018,23,Padres,Marlins
+2018,23,Phillies,Yankees
+2018,23,Indians,Tigers
+2018,23,Mariners,Pirates
+2018,24,Marlins,Royals
+2018,24,Nationals,Rays
+2018,24,Cardinals,Cubs
+2018,24,Pirates,Astros
+2018,24,Diamondbacks,Brewers
+2018,24,Athletics,Twins
+2018,24,Mariners,Blue Jays
+2018,24,Dodgers,Mets
+2018,24,Orioles,Padres
+2018,24,Rangers,Rockies
+2018,24,Phillies,Tigers
+2018,24,Yankees,Giants
+2018,24,Red Sox,Braves
+2018,24,White Sox,Indians
+2018,24,Reds,Angels
+2018,25,Padres,Blue Jays
+2018,25,Brewers,Marlins
+2018,25,Cubs,Athletics
+2018,25,Nationals,Rangers
+2018,25,Twins,Giants
+2018,25,Orioles,Pirates
+2018,25,Phillies,Dodgers
+2018,25,Rockies,Angels
+2018,25,Yankees,Braves
+2018,25,Diamondbacks,Royals
+2018,25,Mariners,Rays
+2018,25,Cardinals,Astros
+2018,25,Mets,White Sox
+2018,25,Indians,Red Sox
+2018,25,Reds,Tigers
+2018,26,Dodgers,Marlins
+2018,26,Yankees,Diamondbacks
+2018,26,Mariners,Blue Jays
+2018,26,Orioles,Reds
+2018,26,Rangers,Pirates
+2018,26,Cardinals,Royals
+2018,26,White Sox,Giants
+2018,26,Nationals,Astros
+2018,26,Padres,Angels
+2018,26,Twins,Indians
+2018,26,Mets,Tigers
+2018,26,Phillies,Cubs
+2018,26,Brewers,Rays
+2018,26,Athletics,Rockies
+2018,26,Red Sox,Braves
+2018,27,Nationals,Royals
+2018,27,Athletics,Mariners
+2018,27,Rays,Red Sox
+2018,27,Giants,Braves
+2018,27,Brewers,Mets
+2018,27,Orioles,Cardinals
+2018,27,Pirates,Reds
+2018,27,Astros,Diamondbacks
+2018,27,Angels,Twins
+2018,27,Phillies,Yankees
+2018,27,White Sox,Cubs
+2018,27,Blue Jays,Padres
+2018,27,Tigers,Rockies
+2018,27,Marlins,Dodgers
+2018,27,Indians,Rangers
+2018,28,Yankees,Nationals
+2018,28,Twins,Giants
+2018,28,Indians,Diamondbacks
+2018,28,Mariners,Royals
+2018,28,White Sox,Pirates
+2018,28,Mets,Braves
+2018,28,Dodgers,Cubs
+2018,28,Angels,Athletics
+2018,28,Cardinals,Red Sox
+2018,28,Phillies,Tigers
+2018,28,Padres,Blue Jays
+2018,28,Reds,Brewers
+2018,28,Marlins,Rangers
+2018,28,Astros,Orioles
+2018,28,Rockies,Rays
+2018,29,Brewers,Royals
+2018,29,Braves,Giants
+2018,29,Dodgers,Mets
+2018,29,Athletics,Tigers
+2018,29,White Sox,Phillies
+2018,29,Angels,Pirates
+2018,29,Rockies,Nationals
+2018,29,Yankees,Red Sox
+2018,29,Twins,Blue Jays
+2018,29,Cardinals,Padres
+2018,29,Orioles,Indians
+2018,29,Marlins,Mariners
+2018,29,Reds,Cubs
+2018,29,Rays,Astros
+2018,29,Diamondbacks,Rangers
+2018,30,Mariners,White Sox
+2018,30,Marlins,Cardinals
+2018,30,Giants,Red Sox
+2018,30,Orioles,Brewers
+2018,30,Mets,Nationals
+2018,30,Astros,Braves
+2018,30,Rangers,Yankees
+2018,30,Blue Jays,Dodgers
+2018,30,Twins,Reds
+2018,30,Padres,Athletics
+2018,30,Cubs,Rays
+2018,30,Phillies,Angels
+2018,30,Royals,Indians
+2018,30,Diamondbacks,Tigers
+2018,30,Pirates,Rockies
+2018,31,Indians,Rockies
+2018,31,Blue Jays,Royals
+2018,31,Reds,Angels
+2018,31,Braves,Mariners
+2018,31,Astros,Dodgers
+2018,31,Yankees,Tigers
+2018,31,Giants,Rays
+2018,31,Orioles,Cardinals
+2018,31,Red Sox,Cubs
+2018,31,Rangers,Mets
+2018,31,Twins,Athletics
+2018,31,Phillies,Marlins
+2018,31,Padres,Brewers
+2018,31,White Sox,Diamondbacks
+2018,31,Nationals,Pirates
+2018,32,Rays,Rockies
+2018,32,Giants,Phillies
+2018,32,Mariners,Padres
+2018,32,Dodgers,Nationals
+2018,32,Braves,Astros
+2018,32,Twins,Reds
+2018,32,Pirates,Royals
+2018,32,Yankees,Mets
+2018,32,Athletics,White Sox
+2018,32,Cardinals,Blue Jays
+2018,32,Indians,Cubs
+2018,32,Diamondbacks,Angels
+2018,32,Tigers,Marlins
+2018,32,Red Sox,Rangers
+2018,32,Brewers,Orioles
+2018,33,Padres,Mariners
+2018,33,Orioles,Reds
+2018,33,Red Sox,White Sox
+2018,33,Rangers,Nationals
+2018,33,Blue Jays,Brewers
+2018,33,Mets,Cardinals
+2018,33,Braves,Tigers
+2018,33,Yankees,Giants
+2018,33,Rockies,Indians
+2018,33,Rays,Dodgers
+2018,33,Twins,Royals
+2018,33,Astros,Cubs
+2018,33,Angels,Athletics
+2018,33,Diamondbacks,Phillies
+2018,33,Marlins,Pirates
+2018,34,White Sox,Red Sox
+2018,34,Braves,Cubs
+2018,34,Astros,Rays
+2018,34,Pirates,Twins
+2018,34,Rangers,Diamondbacks
+2018,34,Cardinals,Blue Jays
+2018,34,Angels,Brewers
+2018,34,Giants,Reds
+2018,34,Rockies,Indians
+2018,34,Orioles,Nationals
+2018,34,Phillies,Tigers
+2018,34,Padres,Mariners
+2018,34,Marlins,Yankees
+2018,34,Dodgers,Royals
+2018,34,Athletics,Mets
+2018,35,Pirates,Braves
+2018,35,Dodgers,Cubs
+2018,35,Nationals,Indians
+2018,35,Marlins,Orioles
+2018,35,Royals,Cardinals
+2018,35,Rockies,Angels
+2018,35,Brewers,Yankees
+2018,35,White Sox,Giants
+2018,35,Mets,Mariners
+2018,35,Blue Jays,Padres
+2018,35,Rays,Phillies
+2018,35,Red Sox,Reds
+2018,35,Rangers,Diamondbacks
+2018,35,Astros,Athletics
+2018,35,Twins,Tigers
+2018,36,Rockies,Twins
+2018,36,Royals,Yankees
+2018,36,Giants,Pirates
+2018,36,Tigers,Braves
+2018,36,Cardinals,Rangers
+2018,36,Astros,White Sox
+2018,36,Red Sox,Reds
+2018,36,Athletics,Diamondbacks
+2018,36,Orioles,Indians
+2018,36,Padres,Marlins
+2018,36,Nationals,Angels
+2018,36,Brewers,Cubs
+2018,36,Dodgers,Mets
+2018,36,Phillies,Rays
+2018,36,Mariners,Blue Jays
+2018,37,Padres,Tigers
+2018,37,Reds,Yankees
+2018,37,Athletics,Mets
+2018,37,Cardinals,Blue Jays
+2018,37,Pirates,Braves
+2018,37,Rays,Phillies
+2018,37,Indians,Cubs
+2018,37,Diamondbacks,Orioles
+2018,37,Rangers,Astros
+2018,37,Angels,Brewers
+2018,37,Mariners,Dodgers
+2018,37,Twins,Royals
+2018,37,Rockies,Marlins
+2018,37,White Sox,Nationals
+2018,37,Giants,Red Sox
+2018,38,Yankees,Rays
+2018,38,Athletics,Cardinals
+2018,38,Rockies,Orioles
+2018,38,White Sox,Dodgers
+2018,38,Mariners,Royals
+2018,38,Astros,Red Sox
+2018,38,Twins,Cubs
+2018,38,Diamondbacks,Blue Jays
+2018,38,Reds,Marlins
+2018,38,Tigers,Padres
+2018,38,Pirates,Rangers
+2018,38,Giants,Brewers
+2018,38,Mets,Phillies
+2018,38,Nationals,Indians
+2018,38,Braves,Angels
+2018,39,Twins,Rockies
+2018,39,Indians,Brewers
+2018,39,Yankees,Astros
+2018,39,Dodgers,Cubs
+2018,39,Braves,Marlins
+2018,39,Rays,Blue Jays
+2018,39,Royals,Giants
+2018,39,Tigers,Pirates
+2018,39,Reds,Diamondbacks
+2018,39,Red Sox,Angels
+2018,39,Orioles,Cardinals
+2018,39,Mariners,Rangers
+2018,39,White Sox,Nationals
+2018,39,Padres,Athletics
+2018,39,Mets,Phillies
+2018,40,Mets,Tigers
+2018,40,Red Sox,Indians
+2018,40,Rays,Angels
+2018,40,Twins,Yankees
+2018,40,Giants,Athletics
+2018,40,Rangers,Dodgers
+2018,40,Pirates,Nationals
+2018,40,Diamondbacks,Royals
+2018,40,Phillies,Braves
+2018,40,Astros,Reds
+2018,40,Cubs,Cardinals
+2018,40,White Sox,Blue Jays
+2018,40,Marlins,Brewers
+2018,40,Mariners,Orioles
+2018,40,Padres,Rockies
+2018,41,Cardinals,Brewers
+2018,41,Dodgers,Royals
+2018,41,Rangers,White Sox
+2018,41,Padres,Yankees
+2018,41,Nationals,Mariners
+2018,41,Angels,Pirates
+2018,41,Diamondbacks,Reds
+2018,41,Twins,Giants
+2018,41,Braves,Athletics
+2018,41,Cubs,Phillies
+2018,41,Marlins,Tigers
+2018,41,Astros,Red Sox
+2018,41,Mets,Blue Jays
+2018,41,Indians,Rays
+2018,41,Orioles,Rockies
+2018,42,Brewers,Cardinals
+2018,42,Angels,Orioles
+2018,42,Cubs,Diamondbacks
+2018,42,Tigers,Royals
+2018,42,Pirates,Rangers
+2018,42,Reds,Giants
+2018,42,Marlins,Rays
+2018,42,Padres,Rockies
+2018,42,Mariners,White Sox
+2018,42,Athletics,Astros
+2018,42,Blue Jays,Yankees
+2018,42,Nationals,Dodgers
+2018,42,Indians,Mets
+2018,42,Braves,Red Sox
+2018,42,Phillies,Twins
+2018,43,Cardinals,Mariners
+2018,43,Indians,Diamondbacks
+2018,43,Giants,Angels
+2018,43,Astros,Padres
+2018,43,White Sox,Nationals
+2018,43,Braves,Brewers
+2018,43,Marlins,Tigers
+2018,43,Rangers,Rays
+2018,43,Red Sox,Reds
+2018,43,Phillies,Athletics
+2018,43,Dodgers,Blue Jays
+2018,43,Mets,Pirates
+2018,43,Royals,Yankees
+2018,43,Cubs,Orioles
+2018,43,Twins,Rockies
+2018,44,Red Sox,Padres
+2018,44,Dodgers,Astros
+2018,44,White Sox,Rays
+2018,44,Reds,Phillies
+2018,44,Rockies,Tigers
+2018,44,Twins,Mariners
+2018,44,Diamondbacks,Rangers
+2018,44,Braves,Brewers
+2018,44,Nationals,Giants
+2018,44,Blue Jays,Mets
+2018,44,Orioles,Pirates
+2018,44,Cubs,Indians
+2018,44,Cardinals,Athletics
+2018,44,Angels,Royals
+2018,44,Yankees,Marlins
+2018,45,Phillies,Cubs
+2018,45,Nationals,Angels
+2018,45,Brewers,Mets
+2018,45,Red Sox,Twins
+2018,45,Dodgers,Diamondbacks
+2018,45,Reds,Marlins
+2018,45,Pirates,Athletics
+2018,45,Tigers,Cardinals
+2018,45,Rays,Braves
+2018,45,Orioles,Rangers
+2018,45,Giants,Mariners
+2018,45,Rockies,White Sox
+2018,45,Indians,Royals
+2018,45,Blue Jays,Astros
+2018,45,Yankees,Padres
+2018,46,Mariners,Mets
+2018,46,Diamondbacks,Pirates
+2018,46,White Sox,Giants
+2018,46,Angels,Athletics
+2018,46,Twins,Tigers
+2018,46,Cubs,Cardinals
+2018,46,Marlins,Blue Jays
+2018,46,Astros,Rockies
+2018,46,Rays,Indians
+2018,46,Brewers,Reds
+2018,46,Red Sox,Nationals
+2018,46,Padres,Phillies
+2018,46,Royals,Dodgers
+2018,46,Rangers,Yankees
+2018,46,Braves,Orioles
+2018,47,Orioles,Mets
+2018,47,Mariners,Dodgers
+2018,47,White Sox,Reds
+2018,47,Angels,Royals
+2018,47,Padres,Red Sox
+2018,47,Giants,Braves
+2018,47,Indians,Athletics
+2018,47,Brewers,Rangers
+2018,47,Twins,Yankees
+2018,47,Rays,Astros
+2018,47,Cardinals,Marlins
+2018,47,Phillies,Tigers
+2018,47,Cubs,Pirates
+2018,47,Blue Jays,Diamondbacks
+2018,47,Nationals,Rockies
+2018,48,Orioles,Mets
+2018,48,Rangers,Braves
+2018,48,Rockies,Blue Jays
+2018,48,Marlins,Dodgers
+2018,48,Twins,Cardinals
+2018,48,Cubs,Brewers
+2018,48,Pirates,Yankees
+2018,48,Indians,Diamondbacks
+2018,48,Athletics,Padres
+2018,48,Red Sox,Tigers
+2018,48,Reds,Nationals
+2018,48,Royals,Giants
+2018,48,White Sox,Mariners
+2018,48,Rays,Phillies
+2018,48,Astros,Angels
+2018,49,White Sox,Athletics
+2018,49,Red Sox,Royals
+2018,49,Diamondbacks,Rockies
+2018,49,Cubs,Giants
+2018,49,Tigers,Mariners
+2018,49,Marlins,Pirates
+2018,49,Nationals,Astros
+2018,49,Rays,Angels
+2018,49,Dodgers,Rangers
+2018,49,Reds,Twins
+2018,49,Orioles,Yankees
+2018,49,Brewers,Blue Jays
+2018,49,Mets,Padres
+2018,49,Braves,Cardinals
+2018,49,Phillies,Indians
+2018,50,Dodgers,Tigers
+2018,50,Rockies,Angels
+2018,50,Reds,Cubs
+2018,50,Nationals,Orioles
+2018,50,Braves,Astros
+2018,50,Giants,Rangers
+2018,50,Royals,Athletics
+2018,50,Marlins,Red Sox
+2018,50,Blue Jays,Pirates
+2018,50,Phillies,Cardinals
+2018,50,Rays,Diamondbacks
+2018,50,Mariners,White Sox
+2018,50,Brewers,Twins
+2018,50,Yankees,Padres
+2018,50,Indians,Mets
+2018,51,Dodgers,Tigers
+2018,51,Royals,Nationals
+2018,51,Yankees,Cardinals
+2018,51,Giants,Red Sox
+2018,51,Phillies,Rangers
+2018,51,Orioles,Cubs
+2018,51,White Sox,Indians
+2018,51,Reds,Blue Jays
+2018,51,Brewers,Diamondbacks
+2018,51,Twins,Mets
+2018,51,Angels,Athletics
+2018,51,Mariners,Rockies
+2018,51,Braves,Padres
+2018,51,Rays,Pirates
+2018,51,Astros,Marlins
+2018,52,Athletics,Twins
+2018,52,Nationals,Mariners
+2018,52,White Sox,Padres
+2018,52,Cubs,Brewers
+2018,52,Diamondbacks,Mets
+2018,52,Rockies,Marlins
+2018,52,Astros,Pirates
+2018,52,Giants,Indians
+2018,52,Royals,Yankees
+2018,52,Angels,Tigers
+2018,52,Rays,Reds
+2018,52,Braves,Orioles
+2018,52,Rangers,Phillies
+2018,52,Red Sox,Cardinals
+2018,52,Dodgers,Blue Jays
+2018,53,Orioles,Reds
+2018,53,Phillies,Dodgers
+2018,53,Astros,Cubs
+2018,53,Yankees,Red Sox
+2018,53,Angels,Marlins
+2018,53,Nationals,Indians
+2018,53,Blue Jays,White Sox
+2018,53,Brewers,Mets
+2018,53,Cardinals,Royals
+2018,53,Braves,Rockies
+2018,53,Giants,Mariners
+2018,53,Athletics,Twins
+2018,53,Tigers,Diamondbacks
+2018,53,Padres,Rangers
+2018,53,Rays,Pirates
+2018,54,Reds,Indians
+2018,54,Braves,Dodgers
+2018,54,Marlins,Angels
+2018,54,Pirates,Cubs
+2018,54,Brewers,Nationals
+2018,54,Athletics,Royals
+2018,54,Rockies,Astros
+2018,54,Giants,Yankees
+2018,54,Padres,Blue Jays
+2018,54,Mariners,Phillies
+2018,54,Cardinals,Diamondbacks
+2018,54,Red Sox,White Sox
+2018,54,Tigers,Rays
+2018,54,Mets,Orioles
+2018,54,Rangers,Twins
+2018,55,White Sox,Angels
+2018,55,Rockies,Reds
+2018,55,Red Sox,Orioles
+2018,55,Twins,Padres
+2018,55,Tigers,Mets
+2018,55,Royals,Rays
+2018,55,Diamondbacks,Nationals
+2018,55,Phillies,Cubs
+2018,55,Yankees,Indians
+2018,55,Athletics,Blue Jays
+2018,55,Mariners,Astros
+2018,55,Cardinals,Braves
+2018,55,Dodgers,Brewers
+2018,55,Rangers,Giants
+2018,55,Pirates,Marlins
+2018,56,Giants,Mets
+2018,56,Rays,Cubs
+2018,56,Diamondbacks,Cardinals
+2018,56,Padres,Rockies
+2018,56,Orioles,Blue Jays
+2018,56,Yankees,Rangers
+2018,56,Athletics,Angels
+2018,56,Brewers,Astros
+2018,56,Indians,Marlins
+2018,56,Nationals,Red Sox
+2018,56,Twins,Braves
+2018,56,White Sox,Pirates
+2018,56,Phillies,Royals
+2018,56,Reds,Dodgers
+2018,56,Tigers,Mariners
+2018,57,Orioles,Braves
+2018,57,Royals,Red Sox
+2018,57,Giants,Pirates
+2018,57,Dodgers,Yankees
+2018,57,Blue Jays,Phillies
+2018,57,Padres,Nationals
+2018,57,Marlins,Indians
+2018,57,Tigers,Mets
+2018,57,Angels,Athletics
+2018,57,Rangers,Diamondbacks
+2018,57,Astros,White Sox
+2018,57,Rays,Mariners
+2018,57,Rockies,Twins
+2018,57,Cubs,Brewers
+2018,57,Reds,Cardinals
+2018,58,Cardinals,Tigers
+2018,58,Diamondbacks,Cubs
+2018,58,Indians,White Sox
+2018,58,Nationals,Reds
+2018,58,Astros,Marlins
+2018,58,Braves,Angels
+2018,58,Twins,Brewers
+2018,58,Pirates,Athletics
+2018,58,Orioles,Blue Jays
+2018,58,Mariners,Dodgers
+2018,58,Rays,Rockies
+2018,58,Rangers,Giants
+2018,58,Phillies,Padres
+2018,58,Red Sox,Mets
+2018,58,Yankees,Royals
+2018,59,Reds,Royals
+2018,59,Athletics,Yankees
+2018,59,Mets,Mariners
+2018,59,Brewers,Twins
+2018,59,Red Sox,Nationals
+2018,59,Cubs,Dodgers
+2018,59,Pirates,Orioles
+2018,59,Indians,Tigers
+2018,59,Giants,Phillies
+2018,59,Diamondbacks,Angels
+2018,59,Cardinals,Braves
+2018,59,Rockies,Marlins
+2018,59,Blue Jays,Rangers
+2018,59,Astros,Rays
+2018,59,White Sox,Padres
+2018,60,Athletics,Padres
+2018,60,Marlins,Reds
+2018,60,White Sox,Twins
+2018,60,Phillies,Rockies
+2018,60,Brewers,Blue Jays
+2018,60,Mets,Rays
+2018,60,Tigers,Pirates
+2018,60,Orioles,Yankees
+2018,60,Royals,Braves
+2018,60,Diamondbacks,Nationals
+2018,60,Cardinals,Rangers
+2018,60,Angels,Cubs
+2018,60,Dodgers,Indians
+2018,60,Mariners,Astros
+2018,60,Giants,Red Sox
+2018,61,Brewers,Pirates
+2018,61,Nationals,Cubs
+2018,61,Tigers,Marlins
+2018,61,Indians,Rockies
+2018,61,Cardinals,Angels
+2018,61,Athletics,Reds
+2018,61,Astros,Rays
+2018,61,Giants,Mets
+2018,61,Mariners,Royals
+2018,61,Diamondbacks,Orioles
+2018,61,Rangers,Padres
+2018,61,Twins,Yankees
+2018,61,Red Sox,White Sox
+2018,61,Braves,Dodgers
+2018,61,Phillies,Blue Jays
+2018,62,Pirates,Braves
+2018,62,Giants,Mariners
+2018,62,Angels,Cardinals
+2018,62,Athletics,Royals
+2018,62,Twins,Rangers
+2018,62,Brewers,Blue Jays
+2018,62,White Sox,Cubs
+2018,62,Red Sox,Indians
+2018,62,Diamondbacks,Mets
+2018,62,Rays,Yankees
+2018,62,Orioles,Reds
+2018,62,Dodgers,Marlins
+2018,62,Padres,Phillies
+2018,62,Astros,Nationals
+2018,62,Tigers,Rockies
+2018,63,Nationals,White Sox
+2018,63,Diamondbacks,Blue Jays
+2018,63,Marlins,Cubs
+2018,63,Rays,Angels
+2018,63,Dodgers,Rangers
+2018,63,Indians,Twins
+2018,63,Padres,Mets
+2018,63,Pirates,Orioles
+2018,63,Giants,Reds
+2018,63,Tigers,Phillies
+2018,63,Cardinals,Astros
+2018,63,Braves,Brewers
+2018,63,Athletics,Mariners
+2018,63,Yankees,Rockies
+2018,63,Red Sox,Royals
+2018,64,Phillies,Mariners
+2018,64,Yankees,Marlins
+2018,64,Brewers,Blue Jays
+2018,64,White Sox,Pirates
+2018,64,Indians,Rangers
+2018,64,Rays,Giants
+2018,64,Mets,Reds
+2018,64,Red Sox,Angels
+2018,64,Astros,Dodgers
+2018,64,Rockies,Tigers
+2018,64,Royals,Cardinals
+2018,64,Cubs,Athletics
+2018,64,Orioles,Padres
+2018,64,Twins,Diamondbacks
+2018,64,Nationals,Braves
+2018,65,Red Sox,Athletics
+2018,65,Giants,Padres
+2018,65,Blue Jays,Rockies
+2018,65,Mets,Twins
+2018,65,Cubs,Tigers
+2018,65,Yankees,Marlins
+2018,65,Mariners,Phillies
+2018,65,Diamondbacks,Dodgers
+2018,65,Brewers,Pirates
+2018,65,Angels,Reds
+2018,65,Cardinals,Rays
+2018,65,Nationals,Royals
+2018,65,Indians,Astros
+2018,65,Braves,White Sox
+2018,65,Rangers,Orioles
+2018,66,Brewers,Twins
+2018,66,Cubs,Tigers
+2018,66,White Sox,Cardinals
+2018,66,Red Sox,Mets
+2018,66,Indians,Dodgers
+2018,66,Padres,Yankees
+2018,66,Pirates,Phillies
+2018,66,Braves,Royals
+2018,66,Orioles,Reds
+2018,66,Angels,Nationals
+2018,66,Mariners,Diamondbacks
+2018,66,Blue Jays,Marlins
+2018,66,Rays,Giants
+2018,66,Rockies,Athletics
+2018,66,Astros,Rangers
+2018,67,Rangers,Tigers
+2018,67,Diamondbacks,Indians
+2018,67,Dodgers,Rays
+2018,67,Cubs,Pirates
+2018,67,Brewers,Marlins
+2018,67,Yankees,Athletics
+2018,67,Mets,Cardinals
+2018,67,Phillies,Padres
+2018,67,White Sox,Reds
+2018,67,Angels,Red Sox
+2018,67,Braves,Rockies
+2018,67,Astros,Nationals
+2018,67,Orioles,Blue Jays
+2018,67,Giants,Twins
+2018,67,Royals,Mariners
+2018,68,Mariners,Indians
+2018,68,Brewers,Cubs
+2018,68,Rockies,Giants
+2018,68,Pirates,Dodgers
+2018,68,Rangers,Diamondbacks
+2018,68,Royals,Marlins
+2018,68,Braves,Orioles
+2018,68,Blue Jays,White Sox
+2018,68,Rays,Phillies
+2018,68,Yankees,Tigers
+2018,68,Astros,Red Sox
+2018,68,Angels,Mets
+2018,68,Twins,Athletics
+2018,68,Cardinals,Nationals
+2018,68,Reds,Padres
+2018,69,White Sox,Rangers
+2018,69,Athletics,Orioles
+2018,69,Reds,Brewers
+2018,69,Cardinals,Cubs
+2018,69,Mets,Royals
+2018,69,Rays,Red Sox
+2018,69,Indians,Mariners
+2018,69,Pirates,Dodgers
+2018,69,Blue Jays,Padres
+2018,69,Marlins,Phillies
+2018,69,Diamondbacks,Tigers
+2018,69,Nationals,Braves
+2018,69,Twins,Yankees
+2018,69,Angels,Astros
+2018,69,Giants,Rockies
+2018,70,Red Sox,Cubs
+2018,70,Pirates,Rangers
+2018,70,Dodgers,Braves
+2018,70,Giants,Royals
+2018,70,Brewers,Rockies
+2018,70,Nationals,Twins
+2018,70,Reds,Yankees
+2018,70,Athletics,White Sox
+2018,70,Angels,Astros
+2018,70,Indians,Cardinals
+2018,70,Mariners,Padres
+2018,70,Blue Jays,Rays
+2018,70,Orioles,Tigers
+2018,70,Marlins,Mets
+2018,70,Phillies,Diamondbacks
+2018,71,Tigers,Braves
+2018,71,Blue Jays,Cubs
+2018,71,Giants,Diamondbacks
+2018,71,Rangers,Indians
+2018,71,Yankees,Mariners
+2018,71,Padres,Rockies
+2018,71,Orioles,Dodgers
+2018,71,Pirates,Rays
+2018,71,Marlins,Phillies
+2018,71,Red Sox,Astros
+2018,71,Athletics,Reds
+2018,71,Angels,Nationals
+2018,71,White Sox,Cardinals
+2018,71,Mets,Brewers
+2018,71,Royals,Twins
+2018,72,Angels,Orioles
+2018,72,Indians,Dodgers
+2018,72,Padres,Red Sox
+2018,72,Diamondbacks,Phillies
+2018,72,Cubs,Marlins
+2018,72,Cardinals,White Sox
+2018,72,Blue Jays,Mets
+2018,72,Giants,Rangers
+2018,72,Brewers,Pirates
+2018,72,Rays,Royals
+2018,72,Twins,Astros
+2018,72,Rockies,Yankees
+2018,72,Braves,Tigers
+2018,72,Mariners,Nationals
+2018,72,Reds,Athletics
+2018,73,Rockies,Padres
+2018,73,Reds,Royals
+2018,73,Rangers,Twins
+2018,73,Angels,Giants
+2018,73,Marlins,Diamondbacks
+2018,73,Tigers,Cubs
+2018,73,Rays,Brewers
+2018,73,Blue Jays,Indians
+2018,73,Mariners,Braves
+2018,73,Astros,Yankees
+2018,73,Dodgers,White Sox
+2018,73,Orioles,Red Sox
+2018,73,Athletics,Mets
+2018,73,Pirates,Nationals
+2018,73,Phillies,Cardinals
+2018,74,Angels,Athletics
+2018,74,Rockies,Orioles
+2018,74,Blue Jays,Yankees
+2018,74,Mariners,Twins
+2018,74,Pirates,Phillies
+2018,74,Rangers,Dodgers
+2018,74,Reds,Astros
+2018,74,Brewers,Padres
+2018,74,Diamondbacks,Cubs
+2018,74,Marlins,Royals
+2018,74,Tigers,Red Sox
+2018,74,Nationals,Rays
+2018,74,Braves,Indians
+2018,74,Cardinals,Mets
+2018,74,White Sox,Giants
+2018,75,Red Sox,Reds
+2018,75,Athletics,Mets
+2018,75,White Sox,Rockies
+2018,75,Rays,Orioles
+2018,75,Astros,Dodgers
+2018,75,Blue Jays,Indians
+2018,75,Yankees,Brewers
+2018,75,Braves,Mariners
+2018,75,Padres,Cardinals
+2018,75,Twins,Pirates
+2018,75,Cubs,Tigers
+2018,75,Royals,Marlins
+2018,75,Angels,Nationals
+2018,75,Diamondbacks,Giants
+2018,75,Phillies,Rangers
+2018,76,White Sox,Astros
+2018,76,Brewers,Pirates
+2018,76,Royals,Angels
+2018,76,Rays,Twins
+2018,76,Orioles,Marlins
+2018,76,Nationals,Phillies
+2018,76,Dodgers,Reds
+2018,76,Cubs,Mets
+2018,76,Blue Jays,Indians
+2018,76,Diamondbacks,Yankees
+2018,76,Rangers,Mariners
+2018,76,Braves,Padres
+2018,76,Tigers,Rockies
+2018,76,Red Sox,Giants
+2018,76,Athletics,Cardinals
+2018,77,Nationals,Marlins
+2018,77,Diamondbacks,Twins
+2018,77,Reds,Red Sox
+2018,77,Angels,Giants
+2018,77,Pirates,Astros
+2018,77,Braves,Indians
+2018,77,Padres,Mariners
+2018,77,Tigers,Orioles
+2018,77,Blue Jays,Cubs
+2018,77,Mets,White Sox
+2018,77,Phillies,Cardinals
+2018,77,Rangers,Athletics
+2018,77,Rockies,Yankees
+2018,77,Rays,Brewers
+2018,77,Dodgers,Royals
+2018,78,Phillies,Pirates
+2018,78,Braves,Blue Jays
+2018,78,Dodgers,Astros
+2018,78,Red Sox,Nationals
+2018,78,Orioles,Athletics
+2018,78,Cardinals,White Sox
+2018,78,Mariners,Giants
+2018,78,Rangers,Brewers
+2018,78,Rockies,Angels
+2018,78,Royals,Yankees
+2018,78,Tigers,Reds
+2018,78,Twins,Mets
+2018,78,Padres,Indians
+2018,78,Diamondbacks,Cubs
+2018,78,Rays,Marlins
+2018,79,Phillies,Orioles
+2018,79,Cubs,Braves
+2018,79,Nationals,Yankees
+2018,79,Royals,Rockies
+2018,79,Diamondbacks,Astros
+2018,79,Twins,Marlins
+2018,79,Mariners,Giants
+2018,79,Blue Jays,Dodgers
+2018,79,Red Sox,Tigers
+2018,79,Mets,Reds
+2018,79,Pirates,Brewers
+2018,79,Cardinals,White Sox
+2018,79,Athletics,Rangers
+2018,79,Indians,Rays
+2018,79,Angels,Padres
+2018,80,Marlins,Athletics
+2018,80,White Sox,Rays
+2018,80,Pirates,Twins
+2018,80,Dodgers,Giants
+2018,80,Rangers,Reds
+2018,80,Diamondbacks,Tigers
+2018,80,Brewers,Angels
+2018,80,Astros,Blue Jays
+2018,80,Red Sox,Phillies
+2018,80,Indians,Padres
+2018,80,Cardinals,Royals
+2018,80,Braves,Cubs
+2018,80,Rockies,Orioles
+2018,80,Nationals,Yankees
+2018,80,Mets,Mariners
+2018,81,Dodgers,Angels
+2018,81,Yankees,Tigers
+2018,81,Diamondbacks,Royals
+2018,81,Cardinals,White Sox
+2018,81,Reds,Braves
+2018,81,Cubs,Phillies
+2018,81,Astros,Padres
+2018,81,Orioles,Brewers
+2018,81,Marlins,Athletics
+2018,81,Twins,Rockies
+2018,81,Mets,Blue Jays
+2018,81,Pirates,Giants
+2018,81,Red Sox,Rays
+2018,81,Nationals,Mariners
+2018,81,Indians,Rangers
+2018,82,Brewers,Indians
+2018,82,Angels,Orioles
+2018,82,Yankees,White Sox
+2018,82,Rockies,Twins
+2018,82,Pirates,Padres
+2018,82,Astros,Rays
+2018,82,Mets,Phillies
+2018,82,Rangers,Red Sox
+2018,82,Cubs,Dodgers
+2018,82,Blue Jays,Braves
+2018,82,Reds,Tigers
+2018,82,Athletics,Giants
+2018,82,Nationals,Mariners
+2018,82,Diamondbacks,Marlins
+2018,82,Royals,Cardinals
+2018,83,Nationals,Dodgers
+2018,83,Rockies,Mariners
+2018,83,Red Sox,Cubs
+2018,83,Rays,Giants
+2018,83,White Sox,Yankees
+2018,83,Angels,Athletics
+2018,83,Padres,Braves
+2018,83,Pirates,Tigers
+2018,83,Marlins,Twins
+2018,83,Royals,Rangers
+2018,83,Reds,Mets
+2018,83,Brewers,Indians
+2018,83,Blue Jays,Cardinals
+2018,83,Orioles,Phillies
+2018,83,Diamondbacks,Astros
+2018,84,Marlins,Diamondbacks
+2018,84,Indians,Mets
+2018,84,Astros,Yankees
+2018,84,Dodgers,Giants
+2018,84,Pirates,Braves
+2018,84,Red Sox,Cubs
+2018,84,Cardinals,Rockies
+2018,84,Blue Jays,White Sox
+2018,84,Nationals,Tigers
+2018,84,Athletics,Rangers
+2018,84,Mariners,Orioles
+2018,84,Royals,Brewers
+2018,84,Angels,Rays
+2018,84,Padres,Phillies
+2018,84,Twins,Reds
+2018,85,White Sox,Blue Jays
+2018,85,Cardinals,Dodgers
+2018,85,Mets,Astros
+2018,85,Rockies,Phillies
+2018,85,Padres,Mariners
+2018,85,Giants,Rays
+2018,85,Twins,Angels
+2018,85,Marlins,Nationals
+2018,85,Rangers,Braves
+2018,85,Reds,Brewers
+2018,85,Tigers,Pirates
+2018,85,Royals,Indians
+2018,85,Cubs,Red Sox
+2018,85,Athletics,Yankees
+2018,85,Diamondbacks,Orioles
+2018,86,Brewers,Padres
+2018,86,Rockies,Diamondbacks
+2018,86,Royals,Angels
+2018,86,Cardinals,Giants
+2018,86,Yankees,Orioles
+2018,86,Braves,Nationals
+2018,86,Marlins,Cubs
+2018,86,Mariners,Phillies
+2018,86,Dodgers,Reds
+2018,86,Twins,Red Sox
+2018,86,Rangers,Pirates
+2018,86,Astros,Mets
+2018,86,White Sox,Indians
+2018,86,Blue Jays,Tigers
+2018,86,Athletics,Rays
+2018,87,Angels,Cubs
+2018,87,Yankees,Cardinals
+2018,87,Braves,Padres
+2018,87,Rockies,Orioles
+2018,87,Rangers,Astros
+2018,87,Dodgers,Pirates
+2018,87,Giants,Royals
+2018,87,White Sox,Tigers
+2018,87,Phillies,Reds
+2018,87,Twins,Blue Jays
+2018,87,Rays,Nationals
+2018,87,Marlins,Mariners
+2018,87,Diamondbacks,Red Sox
+2018,87,Brewers,Indians
+2018,87,Athletics,Mets
+2018,88,Pirates,Rockies
+2018,88,Twins,Marlins
+2018,88,Astros,Royals
+2018,88,Brewers,Padres
+2018,88,Rangers,Yankees
+2018,88,Cardinals,Giants
+2018,88,Cubs,Nationals
+2018,88,Reds,Indians
+2018,88,Mariners,Braves
+2018,88,Orioles,Dodgers
+2018,88,Athletics,Tigers
+2018,88,Rays,Angels
+2018,88,Blue Jays,Mets
+2018,88,White Sox,Phillies
+2018,88,Diamondbacks,Red Sox
+2018,89,Angels,Orioles
+2018,89,Reds,Mets
+2018,89,Cubs,Rangers
+2018,89,Dodgers,Pirates
+2018,89,Royals,Braves
+2018,89,Twins,Nationals
+2018,89,Rockies,Giants
+2018,89,Red Sox,White Sox
+2018,89,Blue Jays,Diamondbacks
+2018,89,Rays,Tigers
+2018,89,Athletics,Brewers
+2018,89,Mariners,Indians
+2018,89,Yankees,Astros
+2018,89,Cardinals,Padres
+2018,89,Phillies,Marlins
+2018,90,Mets,Padres
+2018,90,Cardinals,Rangers
+2018,90,Blue Jays,Cubs
+2018,90,Yankees,Reds
+2018,90,Rays,White Sox
+2018,90,Mariners,Astros
+2018,90,Marlins,Athletics
+2018,90,Pirates,Twins
+2018,90,Brewers,Dodgers
+2018,90,Indians,Royals
+2018,90,Tigers,Angels
+2018,90,Giants,Rockies
+2018,90,Phillies,Braves
+2018,90,Nationals,Red Sox
+2018,90,Diamondbacks,Orioles
+2018,91,Athletics,Pirates
+2018,91,Dodgers,Rays
+2018,91,Phillies,Cardinals
+2018,91,Rangers,Mets
+2018,91,Royals,Blue Jays
+2018,91,Diamondbacks,Rockies
+2018,91,Padres,Nationals
+2018,91,Giants,Yankees
+2018,91,Mariners,Braves
+2018,91,Angels,Orioles
+2018,91,Twins,Red Sox
+2018,91,Indians,Tigers
+2018,91,Marlins,Astros
+2018,91,Cubs,Reds
+2018,91,Brewers,White Sox
+2018,92,Rays,Mariners
+2018,92,Diamondbacks,Brewers
+2018,92,Yankees,Twins
+2018,92,Royals,Pirates
+2018,92,Orioles,Indians
+2018,92,Giants,Nationals
+2018,92,Tigers,Marlins
+2018,92,Phillies,Athletics
+2018,92,Blue Jays,Astros
+2018,92,Angels,Rangers
+2018,92,Red Sox,Padres
+2018,92,Dodgers,Rockies
+2018,92,Mets,Cubs
+2018,92,Cardinals,White Sox
+2018,92,Braves,Reds
+2018,93,Pirates,Angels
+2018,93,Nationals,Braves
+2018,93,Rangers,Orioles
+2018,93,Rockies,Padres
+2018,93,Reds,Brewers
+2018,93,Dodgers,Cardinals
+2018,93,Blue Jays,Phillies
+2018,93,Astros,Tigers
+2018,93,White Sox,Mets
+2018,93,Red Sox,Giants
+2018,93,Marlins,Athletics
+2018,93,Cubs,Yankees
+2018,93,Mariners,Royals
+2018,93,Indians,Rays
+2018,93,Diamondbacks,Twins
+2018,94,Angels,Mets
+2018,94,Twins,Rangers
+2018,94,Padres,Athletics
+2018,94,Diamondbacks,Giants
+2018,94,Mariners,Rays
+2018,94,Yankees,Red Sox
+2018,94,Tigers,Phillies
+2018,94,Braves,Pirates
+2018,94,White Sox,Cardinals
+2018,94,Royals,Cubs
+2018,94,Blue Jays,Orioles
+2018,94,Indians,Astros
+2018,94,Dodgers,Nationals
+2018,94,Reds,Brewers
+2018,94,Rockies,Marlins
+2018,95,Indians,Rays
+2018,95,Braves,Angels
+2018,95,Orioles,Mets
+2018,95,Cardinals,Athletics
+2018,95,Red Sox,Nationals
+2018,95,Giants,Yankees
+2018,95,Padres,Reds
+2018,95,Brewers,Dodgers
+2018,95,Cubs,Blue Jays
+2018,95,Pirates,Phillies
+2018,95,Diamondbacks,Mariners
+2018,95,Royals,White Sox
+2018,95,Twins,Astros
+2018,95,Rangers,Rockies
+2018,95,Tigers,Marlins
+2018,96,Pirates,Athletics
+2018,96,Padres,Indians
+2018,96,Rangers,Orioles
+2018,96,Brewers,Mets
+2018,96,Braves,Royals
+2018,96,White Sox,Phillies
+2018,96,Marlins,Dodgers
+2018,96,Nationals,Rays
+2018,96,Cubs,Mariners
+2018,96,Reds,Yankees
+2018,96,Rockies,Giants
+2018,96,Cardinals,Twins
+2018,96,Tigers,Astros
+2018,96,Angels,Diamondbacks
+2018,96,Red Sox,Blue Jays
+2018,97,Twins,Rays
+2018,97,Dodgers,Orioles
+2018,97,White Sox,Phillies
+2018,97,Cubs,Padres
+2018,97,Tigers,Astros
+2018,97,Pirates,Mets
+2018,97,Giants,Rangers
+2018,97,Angels,Blue Jays
+2018,97,Red Sox,Mariners
+2018,97,Braves,Nationals
+2018,97,Cardinals,Athletics
+2018,97,Diamondbacks,Marlins
+2018,97,Rockies,Brewers
+2018,97,Royals,Indians
+2018,97,Yankees,Reds
+2018,98,Rangers,Marlins
+2018,98,Blue Jays,Rockies
+2018,98,Orioles,Athletics
+2018,98,Cubs,Pirates
+2018,98,Diamondbacks,Brewers
+2018,98,Red Sox,White Sox
+2018,98,Astros,Royals
+2018,98,Tigers,Yankees
+2018,98,Mariners,Phillies
+2018,98,Nationals,Padres
+2018,98,Giants,Indians
+2018,98,Rays,Reds
+2018,98,Braves,Angels
+2018,98,Cardinals,Mets
+2018,98,Dodgers,Twins
+2018,99,Blue Jays,Athletics
+2018,99,Rockies,Dodgers
+2018,99,Astros,Indians
+2018,99,Red Sox,Twins
+2018,99,Diamondbacks,Yankees
+2018,99,Cubs,Brewers
+2018,99,Tigers,Orioles
+2018,99,Nationals,Reds
+2018,99,Braves,Marlins
+2018,99,Angels,Pirates
+2018,99,White Sox,Giants
+2018,99,Mets,Phillies
+2018,99,Royals,Rays
+2018,99,Padres,Rangers
+2018,99,Mariners,Cardinals
+2018,100,Marlins,Yankees
+2018,100,Astros,Braves
+2018,100,Athletics,Angels
+2018,100,Indians,Blue Jays
+2018,100,Orioles,Cardinals
+2018,100,Mariners,Giants
+2018,100,Dodgers,Padres
+2018,100,Diamondbacks,Rockies
+2018,100,Nationals,Red Sox
+2018,100,Mets,Twins
+2018,100,Rangers,Cubs
+2018,100,Royals,Pirates
+2018,100,Tigers,Brewers
+2018,100,White Sox,Phillies
+2018,100,Reds,Rays
+2018,101,Tigers,Mets
+2018,101,Marlins,Reds
+2018,101,Phillies,Orioles
+2018,101,Brewers,Rockies
+2018,101,Pirates,Nationals
+2018,101,White Sox,Royals
+2018,101,Dodgers,Cubs
+2018,101,Padres,Angels
+2018,101,Mariners,Rays
+2018,101,Indians,Red Sox
+2018,101,Athletics,Blue Jays
+2018,101,Twins,Yankees
+2018,101,Giants,Cardinals
+2018,101,Astros,Diamondbacks
+2018,101,Rangers,Braves
+2018,102,Cubs,Mariners
+2018,102,Phillies,Dodgers
+2018,102,Diamondbacks,Giants
+2018,102,Cardinals,Red Sox
+2018,102,Reds,Angels
+2018,102,Orioles,Royals
+2018,102,Braves,Marlins
+2018,102,Rockies,Twins
+2018,102,Pirates,Rays
+2018,102,Yankees,Mets
+2018,102,Athletics,Rangers
+2018,102,Astros,Blue Jays
+2018,102,Nationals,Padres
+2018,102,Indians,White Sox
+2018,102,Brewers,Tigers
+2018,103,Rockies,White Sox
+2018,103,Pirates,Padres
+2018,103,Indians,Mariners
+2018,103,Rays,Cubs
+2018,103,Red Sox,Athletics
+2018,103,Phillies,Mets
+2018,103,Rangers,Royals
+2018,103,Angels,Nationals
+2018,103,Dodgers,Twins
+2018,103,Giants,Blue Jays
+2018,103,Cardinals,Astros
+2018,103,Reds,Brewers
+2018,103,Diamondbacks,Orioles
+2018,103,Braves,Marlins
+2018,103,Tigers,Yankees
+2018,104,Angels,Diamondbacks
+2018,104,Rockies,Athletics
+2018,104,White Sox,Indians
+2018,104,Braves,Marlins
+2018,104,Padres,Cubs
+2018,104,Cardinals,Blue Jays
+2018,104,Tigers,Dodgers
+2018,104,Twins,Mets
+2018,104,Royals,Giants
+2018,104,Nationals,Orioles
+2018,104,Mariners,Pirates
+2018,104,Brewers,Phillies
+2018,104,Rays,Yankees
+2018,104,Astros,Rangers
+2018,104,Red Sox,Reds
+2018,105,Nationals,Rockies
+2018,105,Tigers,Astros
+2018,105,Mets,Twins
+2018,105,Orioles,Braves
+2018,105,Blue Jays,Dodgers
+2018,105,Marlins,Pirates
+2018,105,Angels,Reds
+2018,105,Red Sox,Giants
+2018,105,Mariners,Yankees
+2018,105,Rays,White Sox
+2018,105,Cubs,Athletics
+2018,105,Brewers,Padres
+2018,105,Phillies,Indians
+2018,105,Diamondbacks,Cardinals
+2018,105,Rangers,Royals
+2018,106,Twins,Padres
+2018,106,Cubs,Rangers
+2018,106,Giants,Mariners
+2018,106,Brewers,Red Sox
+2018,106,Rockies,Yankees
+2018,106,Indians,Nationals
+2018,106,Phillies,White Sox
+2018,106,Cardinals,Astros
+2018,106,Mets,Royals
+2018,106,Athletics,Braves
+2018,106,Blue Jays,Reds
+2018,106,Tigers,Pirates
+2018,106,Orioles,Dodgers
+2018,106,Diamondbacks,Angels
+2018,106,Marlins,Rays
+2018,107,Rockies,Cubs
+2018,107,Blue Jays,Brewers
+2018,107,Rays,White Sox
+2018,107,Rangers,Tigers
+2018,107,Giants,Yankees
+2018,107,Athletics,Dodgers
+2018,107,Mets,Indians
+2018,107,Pirates,Red Sox
+2018,107,Astros,Phillies
+2018,107,Marlins,Orioles
+2018,107,Twins,Nationals
+2018,107,Reds,Padres
+2018,107,Braves,Diamondbacks
+2018,107,Cardinals,Royals
+2018,107,Angels,Mariners
+2018,108,Mets,Blue Jays
+2018,108,Padres,Cardinals
+2018,108,Brewers,Diamondbacks
+2018,108,Yankees,Reds
+2018,108,Rockies,Tigers
+2018,108,Cubs,Rays
+2018,108,Pirates,Twins
+2018,108,Rangers,Braves
+2018,108,Red Sox,Mariners
+2018,108,White Sox,Royals
+2018,108,Marlins,Nationals
+2018,108,Astros,Angels
+2018,108,Phillies,Dodgers
+2018,108,Athletics,Indians
+2018,108,Orioles,Giants
+2018,109,Phillies,Giants
+2018,109,Padres,Red Sox
+2018,109,Braves,Tigers
+2018,109,Rangers,Royals
+2018,109,Diamondbacks,Angels
+2018,109,Cardinals,Orioles
+2018,109,Astros,Rockies
+2018,109,Cubs,Nationals
+2018,109,Twins,Brewers
+2018,109,Athletics,Indians
+2018,109,Reds,Dodgers
+2018,109,Mets,White Sox
+2018,109,Rays,Pirates
+2018,109,Marlins,Yankees
+2018,109,Mariners,Blue Jays
+2018,110,Rangers,Pirates
+2018,110,Dodgers,Angels
+2018,110,Tigers,Blue Jays
+2018,110,Mariners,Diamondbacks
+2018,110,Reds,Orioles
+2018,110,White Sox,Rays
+2018,110,Mets,Giants
+2018,110,Brewers,Cardinals
+2018,110,Athletics,Marlins
+2018,110,Twins,Red Sox
+2018,110,Braves,Padres
+2018,110,Yankees,Cubs
+2018,110,Phillies,Rockies
+2018,110,Indians,Nationals
+2018,110,Astros,Royals
+2018,111,Giants,Rays
+2018,111,Nationals,Yankees
+2018,111,Cardinals,White Sox
+2018,111,Athletics,Brewers
+2018,111,Cubs,Braves
+2018,111,Phillies,Tigers
+2018,111,Mariners,Astros
+2018,111,Twins,Indians
+2018,111,Mets,Rockies
+2018,111,Orioles,Marlins
+2018,111,Blue Jays,Pirates
+2018,111,Padres,Rangers
+2018,111,Reds,Royals
+2018,111,Angels,Red Sox
+2018,111,Diamondbacks,Dodgers
+2018,112,Giants,Reds
+2018,112,Marlins,Diamondbacks
+2018,112,Rockies,Phillies
+2018,112,Rays,Braves
+2018,112,Twins,Royals
+2018,112,Nationals,Blue Jays
+2018,112,Orioles,Pirates
+2018,112,Indians,Cubs
+2018,112,Athletics,Angels
+2018,112,Rangers,Brewers
+2018,112,Yankees,Padres
+2018,112,Mets,Tigers
+2018,112,White Sox,Astros
+2018,112,Red Sox,Dodgers
+2018,112,Mariners,Cardinals
+2018,113,Braves,Cardinals
+2018,113,Royals,Giants
+2018,113,Phillies,Angels
+2018,113,Tigers,Yankees
+2018,113,Cubs,Mets
+2018,113,Brewers,Indians
+2018,113,Rays,Marlins
+2018,113,Reds,Rockies
+2018,113,Nationals,Twins
+2018,113,Padres,Dodgers
+2018,113,Mariners,Orioles
+2018,113,Diamondbacks,Rangers
+2018,113,Athletics,Blue Jays
+2018,113,White Sox,Astros
+2018,113,Pirates,Red Sox
+2018,114,Reds,Nationals
+2018,114,Mariners,Astros
+2018,114,Tigers,Pirates
+2018,114,Royals,Rangers
+2018,114,Giants,Marlins
+2018,114,Rockies,Angels
+2018,114,Mets,Cardinals
+2018,114,White Sox,Braves
+2018,114,Padres,Blue Jays
+2018,114,Dodgers,Rays
+2018,114,Brewers,Orioles
+2018,114,Yankees,Athletics
+2018,114,Phillies,Indians
+2018,114,Cubs,Twins
+2018,114,Red Sox,Diamondbacks
+2018,115,Braves,Dodgers
+2018,115,Twins,Reds
+2018,115,Rangers,Cardinals
+2018,115,Giants,Mets
+2018,115,Rays,Angels
+2018,115,Tigers,Rockies
+2018,115,Orioles,White Sox
+2018,115,Royals,Cubs
+2018,115,Astros,Mariners
+2018,115,Athletics,Indians
+2018,115,Brewers,Red Sox
+2018,115,Marlins,Phillies
+2018,115,Pirates,Yankees
+2018,115,Diamondbacks,Nationals
+2018,115,Padres,Blue Jays
+2018,116,Pirates,Rangers
+2018,116,Dodgers,Cubs
+2018,116,Nationals,Tigers
+2018,116,Rockies,Cardinals
+2018,116,Yankees,Astros
+2018,116,Braves,Padres
+2018,116,Brewers,Orioles
+2018,116,Royals,Phillies
+2018,116,Marlins,Angels
+2018,116,Mariners,Athletics
+2018,116,Blue Jays,Rays
+2018,116,Giants,Indians
+2018,116,Red Sox,Twins
+2018,116,Reds,Diamondbacks
+2018,116,Mets,White Sox
+2018,117,Reds,Cardinals
+2018,117,Diamondbacks,Dodgers
+2018,117,Mariners,Padres
+2018,117,Angels,Nationals
+2018,117,Red Sox,Tigers
+2018,117,White Sox,Athletics
+2018,117,Orioles,Giants
+2018,117,Mets,Rays
+2018,117,Braves,Indians
+2018,117,Brewers,Rangers
+2018,117,Royals,Blue Jays
+2018,117,Twins,Cubs
+2018,117,Marlins,Pirates
+2018,117,Phillies,Astros
+2018,117,Yankees,Rockies
+2018,118,Rays,Blue Jays
+2018,118,Mariners,Rockies
+2018,118,Marlins,Rangers
+2018,118,White Sox,Cardinals
+2018,118,Braves,Indians
+2018,118,Astros,Twins
+2018,118,Red Sox,Angels
+2018,118,Reds,Giants
+2018,118,Orioles,Brewers
+2018,118,Dodgers,Athletics
+2018,118,Yankees,Phillies
+2018,118,Padres,Diamondbacks
+2018,118,Royals,Pirates
+2018,118,Mets,Nationals
+2018,118,Tigers,Cubs
+2018,119,Nationals,Orioles
+2018,119,Phillies,Mets
+2018,119,Yankees,Blue Jays
+2018,119,Astros,Rangers
+2018,119,Indians,Athletics
+2018,119,Red Sox,Tigers
+2018,119,Reds,Giants
+2018,119,Angels,Twins
+2018,119,Diamondbacks,Rockies
+2018,119,Royals,Braves
+2018,119,Marlins,White Sox
+2018,119,Mariners,Padres
+2018,119,Cubs,Cardinals
+2018,119,Pirates,Brewers
+2018,119,Rays,Dodgers
+2018,120,Reds,Indians
+2018,120,Cubs,Rays
+2018,120,Padres,Mariners
+2018,120,Blue Jays,Rangers
+2018,120,Marlins,Brewers
+2018,120,Diamondbacks,Red Sox
+2018,120,Astros,Phillies
+2018,120,Cardinals,Tigers
+2018,120,Twins,Pirates
+2018,120,Mets,Athletics
+2018,120,White Sox,Nationals
+2018,120,Royals,Yankees
+2018,120,Dodgers,Giants
+2018,120,Braves,Angels
+2018,120,Orioles,Rockies
+2018,121,Orioles,Pirates
+2018,121,Reds,Yankees
+2018,121,Braves,Rays
+2018,121,Twins,Tigers
+2018,121,Astros,Dodgers
+2018,121,Marlins,Blue Jays
+2018,121,Mets,Athletics
+2018,121,Giants,Mariners
+2018,121,Nationals,Diamondbacks
+2018,121,Rangers,Rockies
+2018,121,Phillies,Red Sox
+2018,121,Royals,Brewers
+2018,121,Cardinals,Angels
+2018,121,Indians,Padres
+2018,121,White Sox,Cubs
+2018,122,Cardinals,Diamondbacks
+2018,122,Mariners,Yankees
+2018,122,Nationals,Giants
+2018,122,Indians,Mets
+2018,122,Brewers,Twins
+2018,122,Braves,Royals
+2018,122,Blue Jays,Athletics
+2018,122,Marlins,Dodgers
+2018,122,Astros,Pirates
+2018,122,White Sox,Reds
+2018,122,Phillies,Tigers
+2018,122,Rangers,Red Sox
+2018,122,Angels,Padres
+2018,122,Rays,Cubs
+2018,122,Rockies,Orioles
+2018,123,Yankees,Rays
+2018,123,Mets,Dodgers
+2018,123,Mariners,Giants
+2018,123,Athletics,Blue Jays
+2018,123,Astros,Red Sox
+2018,123,Cubs,Padres
+2018,123,Rangers,Indians
+2018,123,Royals,Brewers
+2018,123,Reds,Phillies
+2018,123,Rockies,White Sox
+2018,123,Twins,Tigers
+2018,123,Pirates,Diamondbacks
+2018,123,Angels,Nationals
+2018,123,Cardinals,Braves
+2018,123,Orioles,Marlins
+2018,124,Tigers,Royals
+2018,124,White Sox,Phillies
+2018,124,Padres,Indians
+2018,124,Nationals,Cubs
+2018,124,Giants,Athletics
+2018,124,Marlins,Diamondbacks
+2018,124,Yankees,Brewers
+2018,124,Angels,Mets
+2018,124,Red Sox,Braves
+2018,124,Mariners,Astros
+2018,124,Orioles,Rays
+2018,124,Rockies,Reds
+2018,124,Blue Jays,Twins
+2018,124,Rangers,Dodgers
+2018,124,Pirates,Cardinals
+2018,125,Reds,Blue Jays
+2018,125,Rockies,Orioles
+2018,125,Marlins,Royals
+2018,125,Mariners,Yankees
+2018,125,Giants,Nationals
+2018,125,Diamondbacks,Red Sox
+2018,125,Astros,Twins
+2018,125,Phillies,Pirates
+2018,125,Brewers,Rays
+2018,125,Angels,White Sox
+2018,125,Rangers,Braves
+2018,125,Padres,Athletics
+2018,125,Cardinals,Mets
+2018,125,Cubs,Tigers
+2018,125,Dodgers,Indians
+2018,126,Pirates,Mariners
+2018,126,Orioles,Royals
+2018,126,Nationals,Astros
+2018,126,Red Sox,Rays
+2018,126,Phillies,Brewers
+2018,126,Marlins,Reds
+2018,126,Cubs,Yankees
+2018,126,Diamondbacks,Tigers
+2018,126,Angels,Braves
+2018,126,White Sox,Indians
+2018,126,Rockies,Blue Jays
+2018,126,Athletics,Mets
+2018,126,Twins,Dodgers
+2018,126,Rangers,Cardinals
+2018,126,Giants,Padres
+2018,127,Nationals,Pirates
+2018,127,Red Sox,Tigers
+2018,127,Brewers,Diamondbacks
+2018,127,Giants,Orioles
+2018,127,Cubs,Padres
+2018,127,Indians,Reds
+2018,127,Yankees,White Sox
+2018,127,Marlins,Blue Jays
+2018,127,Phillies,Angels
+2018,127,Mets,Twins
+2018,127,Royals,Cardinals
+2018,127,Mariners,Rays
+2018,127,Dodgers,Rangers
+2018,127,Athletics,Astros
+2018,127,Braves,Rockies
+2018,128,White Sox,Astros
+2018,128,Giants,Diamondbacks
+2018,128,Padres,Orioles
+2018,128,Marlins,Cardinals
+2018,128,Rockies,Athletics
+2018,128,Nationals,Rays
+2018,128,Blue Jays,Braves
+2018,128,Red Sox,Mariners
+2018,128,Dodgers,Brewers
+2018,128,Royals,Tigers
+2018,128,Pirates,Cubs
+2018,128,Twins,Reds
+2018,128,Mets,Angels
+2018,128,Yankees,Phillies
+2018,128,Indians,Rangers
+2018,129,Athletics,Diamondbacks
+2018,129,Yankees,Indians
+2018,129,Dodgers,Marlins
+2018,129,Astros,Rangers
+2018,129,Cubs,Mets
+2018,129,Blue Jays,Cardinals
+2018,129,Angels,Giants
+2018,129,Red Sox,Pirates
+2018,129,Phillies,Twins
+2018,129,Braves,Brewers
+2018,129,Tigers,Mariners
+2018,129,Rockies,Royals
+2018,129,White Sox,Nationals
+2018,129,Orioles,Rays
+2018,129,Padres,Reds
+2018,130,Rockies,Astros
+2018,130,Twins,Brewers
+2018,130,White Sox,Angels
+2018,130,Blue Jays,Pirates
+2018,130,Red Sox,Cardinals
+2018,130,Tigers,Reds
+2018,130,Braves,Phillies
+2018,130,Yankees,Orioles
+2018,130,Dodgers,Rangers
+2018,130,Athletics,Diamondbacks
+2018,130,Rays,Mets
+2018,130,Padres,Royals
+2018,130,Nationals,Giants
+2018,130,Marlins,Indians
+2018,130,Cubs,Mariners
+2018,131,Athletics,Nationals
+2018,131,Royals,White Sox
+2018,131,Angels,Cubs
+2018,131,Reds,Marlins
+2018,131,Tigers,Rays
+2018,131,Blue Jays,Braves
+2018,131,Twins,Brewers
+2018,131,Dodgers,Rockies
+2018,131,Indians,Mets
+2018,131,Yankees,Giants
+2018,131,Phillies,Orioles
+2018,131,Astros,Diamondbacks
+2018,131,Pirates,Cardinals
+2018,131,Padres,Rangers
+2018,131,Mariners,Red Sox
+2018,132,Angels,Orioles
+2018,132,Athletics,Diamondbacks
+2018,132,Cardinals,Blue Jays
+2018,132,Twins,Rockies
+2018,132,Brewers,Astros
+2018,132,Rangers,Indians
+2018,132,White Sox,Giants
+2018,132,Nationals,Reds
+2018,132,Cubs,Royals
+2018,132,Rays,Dodgers
+2018,132,Mets,Mariners
+2018,132,Marlins,Braves
+2018,132,Padres,Tigers
+2018,132,Yankees,Red Sox
+2018,132,Phillies,Pirates
+2018,133,Braves,Marlins
+2018,133,Astros,Tigers
+2018,133,White Sox,Athletics
+2018,133,Twins,Rangers
+2018,133,Blue Jays,Diamondbacks
+2018,133,Cardinals,Mets
+2018,133,Rays,Red Sox
+2018,133,Dodgers,Mariners
+2018,133,Pirates,Phillies
+2018,133,Royals,Reds
+2018,133,Rockies,Yankees
+2018,133,Angels,Padres
+2018,133,Orioles,Nationals
+2018,133,Indians,Brewers
+2018,133,Giants,Cubs
+2018,134,Pirates,Reds
+2018,134,Cardinals,Astros
+2018,134,Rockies,Blue Jays
+2018,134,Athletics,Mariners
+2018,134,Royals,Mets
+2018,134,Twins,White Sox
+2018,134,Cubs,Rays
+2018,134,Diamondbacks,Orioles
+2018,134,Nationals,Dodgers
+2018,134,Yankees,Angels
+2018,134,Rangers,Phillies
+2018,134,Red Sox,Giants
+2018,134,Brewers,Marlins
+2018,134,Tigers,Padres
+2018,134,Indians,Braves
+2018,135,Astros,Brewers
+2018,135,Red Sox,Royals
+2018,135,Diamondbacks,Phillies
+2018,135,White Sox,Cubs
+2018,135,Blue Jays,Mariners
+2018,135,Tigers,Cardinals
+2018,135,Pirates,Rangers
+2018,135,Twins,Giants
+2018,135,Yankees,Marlins
+2018,135,Padres,Rockies
+2018,135,Orioles,Angels
+2018,135,Indians,Nationals
+2018,135,Mets,Rays
+2018,135,Reds,Braves
+2018,135,Athletics,Dodgers
+2018,136,Nationals,Angels
+2018,136,Mariners,Cardinals
+2018,136,Mets,Red Sox
+2018,136,Reds,Braves
+2018,136,Royals,Giants
+2018,136,Cubs,White Sox
+2018,136,Dodgers,Indians
+2018,136,Phillies,Pirates
+2018,136,Padres,Brewers
+2018,136,Blue Jays,Rangers
+2018,136,Twins,Astros
+2018,136,Marlins,Yankees
+2018,136,Rockies,Rays
+2018,136,Diamondbacks,Orioles
+2018,136,Tigers,Athletics
+2018,137,Mariners,Blue Jays
+2018,137,White Sox,Mets
+2018,137,Rays,Astros
+2018,137,Giants,Padres
+2018,137,Rockies,Athletics
+2018,137,Braves,Yankees
+2018,137,Reds,Red Sox
+2018,137,Angels,Royals
+2018,137,Dodgers,Phillies
+2018,137,Pirates,Brewers
+2018,137,Rangers,Cardinals
+2018,137,Marlins,Twins
+2018,137,Cubs,Nationals
+2018,137,Diamondbacks,Indians
+2018,137,Orioles,Tigers
+2018,138,Athletics,Mets
+2018,138,Rangers,Angels
+2018,138,Braves,Cardinals
+2018,138,Mariners,Pirates
+2018,138,Reds,Royals
+2018,138,Marlins,Twins
+2018,138,Rays,Orioles
+2018,138,Tigers,Dodgers
+2018,138,White Sox,Giants
+2018,138,Cubs,Yankees
+2018,138,Nationals,Phillies
+2018,138,Brewers,Indians
+2018,138,Blue Jays,Rockies
+2018,138,Diamondbacks,Red Sox
+2018,138,Astros,Padres
+2018,139,Reds,Twins
+2018,139,Athletics,Mets
+2018,139,Tigers,Rangers
+2018,139,Rays,Yankees
+2018,139,Indians,Astros
+2018,139,Rockies,Giants
+2018,139,Mariners,Blue Jays
+2018,139,Brewers,Marlins
+2018,139,Braves,Cardinals
+2018,139,Orioles,Royals
+2018,139,White Sox,Angels
+2018,139,Padres,Cubs
+2018,139,Pirates,Red Sox
+2018,139,Phillies,Nationals
+2018,139,Dodgers,Diamondbacks
+2018,140,Athletics,Mariners
+2018,140,Braves,Padres
+2018,140,Giants,Marlins
+2018,140,Blue Jays,Dodgers
+2018,140,Mets,Red Sox
+2018,140,Angels,Indians
+2018,140,Rockies,Cubs
+2018,140,Nationals,Reds
+2018,140,Diamondbacks,Rays
+2018,140,Cardinals,Phillies
+2018,140,Yankees,Tigers
+2018,140,Astros,Pirates
+2018,140,Rangers,Royals
+2018,140,Brewers,White Sox
+2018,140,Orioles,Twins
+2018,141,Royals,Marlins
+2018,141,Dodgers,Mariners
+2018,141,Phillies,Cubs
+2018,141,Mets,Braves
+2018,141,Astros,Angels
+2018,141,Athletics,Diamondbacks
+2018,141,Rangers,Red Sox
+2018,141,Twins,Tigers
+2018,141,Reds,Cardinals
+2018,141,Nationals,Indians
+2018,141,Rockies,Brewers
+2018,141,Giants,Rays
+2018,141,Orioles,Yankees
+2018,141,White Sox,Pirates
+2018,141,Blue Jays,Padres
+2018,142,Marlins,Mets
+2018,142,Reds,Indians
+2018,142,Royals,Mariners
+2018,142,Pirates,Angels
+2018,142,Braves,Rays
+2018,142,Blue Jays,Phillies
+2018,142,Twins,Rangers
+2018,142,Diamondbacks,Astros
+2018,142,Cardinals,Tigers
+2018,142,Dodgers,White Sox
+2018,142,Red Sox,Rockies
+2018,142,Padres,Cubs
+2018,142,Athletics,Yankees
+2018,142,Nationals,Brewers
+2018,142,Giants,Orioles
+2018,143,Yankees,Giants
+2018,143,Reds,Orioles
+2018,143,Rays,Cubs
+2018,143,Nationals,Dodgers
+2018,143,Rangers,Brewers
+2018,143,Angels,Rockies
+2018,143,Padres,Indians
+2018,143,Astros,Mets
+2018,143,Blue Jays,Athletics
+2018,143,Tigers,Cardinals
+2018,143,Phillies,Braves
+2018,143,White Sox,Red Sox
+2018,143,Twins,Marlins
+2018,143,Royals,Mariners
+2018,143,Pirates,Diamondbacks
+2018,144,Dodgers,Phillies
+2018,144,Rays,Blue Jays
+2018,144,Astros,Diamondbacks
+2018,144,Braves,Tigers
+2018,144,Padres,Royals
+2018,144,Mets,Cubs
+2018,144,Cardinals,Athletics
+2018,144,Brewers,Indians
+2018,144,Twins,Giants
+2018,144,Reds,Nationals
+2018,144,Yankees,Rangers
+2018,144,Angels,Pirates
+2018,144,Marlins,White Sox
+2018,144,Orioles,Rockies
+2018,144,Red Sox,Mariners
+2018,145,Rangers,Royals
+2018,145,Padres,Cubs
+2018,145,Blue Jays,Giants
+2018,145,Rays,Mariners
+2018,145,Angels,Brewers
+2018,145,Indians,Reds
+2018,145,Rockies,Pirates
+2018,145,Yankees,Diamondbacks
+2018,145,Braves,Tigers
+2018,145,Athletics,White Sox
+2018,145,Cardinals,Mets
+2018,145,Dodgers,Astros
+2018,145,Nationals,Phillies
+2018,145,Twins,Red Sox
+2018,145,Marlins,Orioles
+2018,146,Royals,Angels
+2018,146,Marlins,Astros
+2018,146,Indians,Nationals
+2018,146,Yankees,Mariners
+2018,146,Rays,Rockies
+2018,146,Padres,White Sox
+2018,146,Pirates,Phillies
+2018,146,Mets,Cardinals
+2018,146,Brewers,Diamondbacks
+2018,146,Cubs,Athletics
+2018,146,Twins,Rangers
+2018,146,Reds,Giants
+2018,146,Dodgers,Braves
+2018,146,Blue Jays,Orioles
+2018,146,Tigers,Red Sox
+2018,147,Yankees,Phillies
+2018,147,Rays,Padres
+2018,147,Royals,Indians
+2018,147,Cardinals,White Sox
+2018,147,Blue Jays,Twins
+2018,147,Braves,Mets
+2018,147,Dodgers,Brewers
+2018,147,Red Sox,Astros
+2018,147,Mariners,Rockies
+2018,147,Tigers,Reds
+2018,147,Cubs,Marlins
+2018,147,Pirates,Rangers
+2018,147,Nationals,Angels
+2018,147,Orioles,Athletics
+2018,147,Diamondbacks,Giants
+2018,148,Rangers,Red Sox
+2018,148,Angels,Braves
+2018,148,Cubs,Blue Jays
+2018,148,Phillies,Tigers
+2018,148,Mets,Dodgers
+2018,148,Athletics,Rockies
+2018,148,Rays,Marlins
+2018,148,Indians,Brewers
+2018,148,Royals,Astros
+2018,148,Diamondbacks,Reds
+2018,148,Pirates,Giants
+2018,148,Twins,Orioles
+2018,148,Nationals,White Sox
+2018,148,Mariners,Yankees
+2018,148,Cardinals,Padres
+2018,149,Yankees,Dodgers
+2018,149,Red Sox,White Sox
+2018,149,Cardinals,Athletics
+2018,149,Diamondbacks,Indians
+2018,149,Royals,Twins
+2018,149,Phillies,Cubs
+2018,149,Tigers,Angels
+2018,149,Braves,Padres
+2018,149,Mariners,Nationals
+2018,149,Marlins,Orioles
+2018,149,Giants,Reds
+2018,149,Blue Jays,Pirates
+2018,149,Rangers,Astros
+2018,149,Rockies,Brewers
+2018,149,Rays,Mets
+2018,150,Dodgers,Rockies
+2018,150,Yankees,Angels
+2018,150,Cardinals,Pirates
+2018,150,Phillies,Cubs
+2018,150,Twins,Athletics
+2018,150,Brewers,Giants
+2018,150,Reds,Mets
+2018,150,Braves,Rangers
+2018,150,Mariners,Blue Jays
+2018,150,Tigers,Nationals
+2018,150,Rays,Diamondbacks
+2018,150,Orioles,Marlins
+2018,150,White Sox,Red Sox
+2018,150,Astros,Indians
+2018,150,Padres,Royals
+2018,151,Rockies,Diamondbacks
+2018,151,Rangers,Rays
+2018,151,Mariners,Pirates
+2018,151,Astros,Brewers
+2018,151,Indians,Twins
+2018,151,Yankees,Nationals
+2018,151,Padres,Marlins
+2018,151,Royals,Angels
+2018,151,Dodgers,White Sox
+2018,151,Red Sox,Athletics
+2018,151,Tigers,Mets
+2018,151,Phillies,Reds
+2018,151,Cardinals,Orioles
+2018,151,Braves,Blue Jays
+2018,151,Giants,Cubs
+2018,152,Blue Jays,Yankees
+2018,152,Padres,Angels
+2018,152,Cardinals,Royals
+2018,152,Giants,Diamondbacks
+2018,152,Astros,Pirates
+2018,152,Twins,Orioles
+2018,152,Marlins,Reds
+2018,152,Cubs,Nationals
+2018,152,Rockies,Braves
+2018,152,Mariners,Brewers
+2018,152,White Sox,Rays
+2018,152,Tigers,Rangers
+2018,152,Athletics,Indians
+2018,152,Dodgers,Red Sox
+2018,152,Mets,Phillies
+2018,153,Orioles,Cubs
+2018,153,Brewers,Braves
+2018,153,Rays,Padres
+2018,153,Rangers,Giants
+2018,153,Reds,Blue Jays
+2018,153,Mets,Indians
+2018,153,Twins,Yankees
+2018,153,Dodgers,Marlins
+2018,153,Nationals,Angels
+2018,153,Rockies,Diamondbacks
+2018,153,White Sox,Pirates
+2018,153,Phillies,Cardinals
+2018,153,Astros,Royals
+2018,153,Red Sox,Athletics
+2018,153,Tigers,Mariners
+2018,154,Phillies,Rays
+2018,154,Padres,Angels
+2018,154,Orioles,Brewers
+2018,154,Royals,Nationals
+2018,154,Marlins,Twins
+2018,154,Yankees,Indians
+2018,154,Cardinals,Rangers
+2018,154,Diamondbacks,Red Sox
+2018,154,Athletics,Giants
+2018,154,Dodgers,Braves
+2018,154,Mets,Astros
+2018,154,Reds,White Sox
+2018,154,Pirates,Mariners
+2018,154,Blue Jays,Tigers
+2018,154,Rockies,Cubs
+2018,155,Brewers,Athletics
+2018,155,Phillies,Indians
+2018,155,Reds,Tigers
+2018,155,Pirates,Blue Jays
+2018,155,Rays,Braves
+2018,155,Nationals,Yankees
+2018,155,Dodgers,Twins
+2018,155,Royals,Mets
+2018,155,Diamondbacks,Rockies
+2018,155,Marlins,Astros
+2018,155,Cubs,Padres
+2018,155,Rangers,White Sox
+2018,155,Orioles,Red Sox
+2018,155,Giants,Angels
+2018,155,Mariners,Cardinals
+2018,156,Royals,Angels
+2018,156,Astros,Blue Jays
+2018,156,Orioles,Yankees
+2018,156,Rays,Rangers
+2018,156,Red Sox,Tigers
+2018,156,Braves,Mets
+2018,156,Padres,Twins
+2018,156,Rockies,Pirates
+2018,156,Phillies,Marlins
+2018,156,Athletics,Brewers
+2018,156,Giants,Cubs
+2018,156,Indians,Diamondbacks
+2018,156,Nationals,Reds
+2018,156,Mariners,Cardinals
+2018,156,Dodgers,White Sox
+2018,157,White Sox,Tigers
+2018,157,Diamondbacks,Rockies
+2018,157,Brewers,Indians
+2018,157,Braves,Athletics
+2018,157,Pirates,Dodgers
+2018,157,Mets,Astros
+2018,157,Phillies,Padres
+2018,157,Angels,Reds
+2018,157,Mariners,Rangers
+2018,157,Orioles,Blue Jays
+2018,157,Cardinals,Twins
+2018,157,Nationals,Yankees
+2018,157,Cubs,Red Sox
+2018,157,Rays,Royals
+2018,157,Marlins,Giants
+2018,158,Marlins,Rangers
+2018,158,Indians,Nationals
+2018,158,Athletics,Tigers
+2018,158,Dodgers,Twins
+2018,158,Royals,Mariners
+2018,158,White Sox,Brewers
+2018,158,Rays,Giants
+2018,158,Reds,Astros
+2018,158,Red Sox,Pirates
+2018,158,Yankees,Blue Jays
+2018,158,Diamondbacks,Cubs
+2018,158,Mets,Phillies
+2018,158,Rockies,Cardinals
+2018,158,Angels,Braves
+2018,158,Orioles,Padres
+2018,159,Mariners,Diamondbacks
+2018,159,Phillies,Dodgers
+2018,159,Rays,Blue Jays
+2018,159,White Sox,Rangers
+2018,159,Astros,Marlins
+2018,159,Red Sox,Cubs
+2018,159,Braves,Padres
+2018,159,Cardinals,Royals
+2018,159,Nationals,Rockies
+2018,159,Yankees,Twins
+2018,159,Indians,Pirates
+2018,159,Brewers,Athletics
+2018,159,Giants,Angels
+2018,159,Orioles,Mets
+2018,159,Tigers,Reds
+2018,160,Orioles,Mets
+2018,160,Padres,Rangers
+2018,160,Nationals,Braves
+2018,160,Pirates,Angels
+2018,160,Rockies,Diamondbacks
+2018,160,Yankees,Royals
+2018,160,Red Sox,Reds
+2018,160,Astros,White Sox
+2018,160,Indians,Mariners
+2018,160,Athletics,Tigers
+2018,160,Dodgers,Rays
+2018,160,Phillies,Cubs
+2018,160,Twins,Marlins
+2018,160,Cardinals,Giants
+2018,160,Brewers,Blue Jays
+2018,161,Cardinals,Dodgers
+2018,161,Rays,Yankees
+2018,161,Giants,Royals
+2018,161,Rockies,Indians
+2018,161,Tigers,Pirates
+2018,161,Cubs,Rangers
+2018,161,Twins,Phillies
+2018,161,Diamondbacks,Reds
+2018,161,Astros,Blue Jays
+2018,161,White Sox,Athletics
+2018,161,Padres,Orioles
+2018,161,Nationals,Red Sox
+2018,161,Mariners,Mets
+2018,161,Braves,Marlins
+2018,161,Brewers,Angels
+2018,162,Braves,Reds
+2018,162,Dodgers,Cardinals
+2018,162,Royals,Padres
+2018,162,Rays,White Sox
+2018,162,Red Sox,Athletics
+2018,162,Phillies,Nationals
+2018,162,Pirates,Mets
+2018,162,Yankees,Tigers
+2018,162,Giants,Mariners
+2018,162,Angels,Orioles
+2018,162,Diamondbacks,Twins
+2018,162,Blue Jays,Cubs
+2018,162,Astros,Indians
+2018,162,Rockies,Rangers
+2018,162,Marlins,Brewers
